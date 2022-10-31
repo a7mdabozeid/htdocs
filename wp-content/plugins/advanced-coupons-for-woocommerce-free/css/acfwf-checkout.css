@@ -1,0 +1,42 @@
+.webui-popover {
+  border-radius: 3px;
+  border: 0;
+  -webkit-box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+}
+.webui-popover.left > .arrow {
+  border-left-color: #e3e3e3;
+  border-left-color: rgb(0 0 0 / 14%);
+}
+.webui-popover.top > .arrow,
+.webui-popover.top-left > .arrow,
+.webui-popover.top-right > .arrow {
+  border-top-color: #e3e3e3;
+  border-top-color: rgb(0 0 0 / 14%);
+}
+#acfw-store-credits-redeem-form.checkout {
+  display: none;
+  padding: 8px 12px 12px;
+}
+#acfw-store-credits-redeem-form.checkout p {
+  font-size: 0.8em;
+  margin-bottom: 1em;
+}
+#acfw-store-credits-redeem-form.checkout p.invalid-message {
+  margin: 5px 0 0 0;
+  padding: 0.1em 0.7em;
+  background: #e2401c;
+  color: #fff;
+}
+#acfw-store-credits-redeem-form.checkout input {
+  width: calc(100% - 75px);
+  font-size: 16px;
+  padding: 5.5px 10px;
+}
+#acfw-store-credits-redeem-form.checkout button {
+  font-size: 0.8em;
+  margin-left: 4px;
+}
+#acfw-apply-store-credits-discount {
+  margin-left: 5px;
+}

@@ -1,0 +1,224 @@
+.site-footer{
+    --rz-text-color-gray: #cdcdcd;
+    --rz-text-color-hover: #fff;
+    background-size: cover;
+    background-color: var(--rz-color-darker);
+    color: var(--rz-text-color-gray);
+    position: relative;
+    clear: both;
+
+    .newsletter-title,
+    .widget-title,
+    .logo-text,
+    .wp-block-group .wp-block-group__inner-container > h2 {
+        color: var(--rz-color-lighter);
+    }
+
+    .custom-text,
+    input[type="email"],
+    .copyright,
+    .socials-menu li a,
+    .menu li a,
+    a {
+        color: var(--rz-text-color-gray);
+    }
+
+    .socials-menu li a,
+    .menu li a,
+    a {
+        &:hover {
+            color: var(--rz-text-color-hover);
+        }
+    }
+
+    .menu li a {
+        position: relative;
+        &:after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            right: 0;
+            width: 0;
+            height: 1px;
+            background-color: var(--rz-text-color-hover);
+            transition: .5s;
+            opacity: 0;
+        }
+
+        &:hover {
+            &:after {
+                opacity: 1;
+                width: 100%;
+            }
+        }
+    }
+
+    .socials-menu{
+        .menu{
+            margin-left: -7.5px;
+            margin-right: -7.5px;
+        }
+
+        li {
+            padding: 0 7.5px;
+
+            a{
+                font-size: 20px;
+
+                &::after {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .logo {
+        .logo-text {
+            font-weight: 600;
+            font-size: 28px;
+            line-height: 1;
+        }
+    }
+
+    &.has-divider {
+        border-top: 1px solid #2b2b2b;
+    }
+}
+
+.site-footer-light {
+    --rz-color-darker: #fff;
+    --rz-text-color-gray: #444;
+    --rz-color-lighter: #111;
+    --rz-text-color-hover: #111;
+
+    .footer-main{
+        padding: 0;
+        --rz-footer-main-border-color: rgba( 0, 0, 0, .15 );
+    }
+
+    .footer-newsletter {
+        --rz-button-bg-color: #fff;
+        --rz-button-color: #111;
+        --rz-textbox-color: #A0A0A0;
+        --rz-textbox-bg-color: #fff;
+        --rz-textbox-border-color: #cdcdcd;
+        --rz-footer-newsletter-border-color: rgba( 0, 0, 0, .15 );
+
+        .mc4wp-form-fields input[type="email"] {
+            &:focus {
+                --rz-textbox-border-color: #111;
+            }
+        }
+
+        &:not(.layout-v2) {
+            .mc4wp-form-fields input[type="submit"] {
+                border: 1px solid var(--rz-textbox-border-color);
+
+                &:hover {
+                    --rz-textbox-border-color: #111;
+                }
+            }
+        }
+
+
+        &.layout-v2 {
+            --rz-textbox-bg-color: #111;
+        }
+    }
+
+    .footer-widgets {
+        --rz-footer-widget-border-color: rgba( 0, 0, 0, .15 );
+
+        .widget.dropdown {
+            border-color: #cdcdcd;
+        }
+    }
+
+    .razzi-widget__social-links {
+        .social-links {
+            justify-content: space-between;
+        }
+    }
+
+    .footer-extra {
+        --rz-footer-extra-border-color: rgba( 0, 0, 0, .15 );
+    }
+}
+
+.site-footer-gray {
+    --rz-color-darker: #F5F5F5;
+    --rz-text-color-gray: #525252;
+    --rz-color-lighter: #111;
+    --rz-text-color-hover: #111;
+
+    .footer-main{
+        padding: 0;
+        --rz-footer-main-border-color: rgba( 0, 0, 0, .06 );
+    }
+
+    .footer-newsletter {
+        --rz-button-bg-color: #F5F5F5;
+        --rz-button-color: #111;
+        --rz-textbox-color: #A0A0A0;
+        --rz-textbox-bg-color: #F5F5F5;
+        --rz-textbox-border-color: #cdcdcd;
+        --rz-footer-newsletter-border-color: rgba( 0, 0, 0, .06 );
+
+        .mc4wp-form-fields input[type="email"] {
+            &:focus {
+                --rz-textbox-border-color: #111;
+            }
+        }
+
+        &:not(.layout-v2) {
+            .mc4wp-form-fields input[type="submit"] {
+                border: 1px solid var(--rz-textbox-border-color);
+
+                &:hover {
+                    --rz-textbox-border-color: #111;
+                }
+            }
+        }
+
+
+        &.layout-v2 {
+            --rz-textbox-bg-color: #111;
+        }
+    }
+
+    .footer-widgets {
+        --rz-footer-widget-border-color: rgba( 0, 0, 0, .06 );
+
+        .widget.dropdown {
+            border-color: #cdcdcd;
+        }
+    }
+
+    .razzi-widget__social-links {
+        .social-links {
+            justify-content: space-between;
+        }
+    }
+
+    .footer-extra {
+        --rz-footer-extra-border-color: rgba( 0, 0, 0, .06 );
+    }
+}
+
+
+.site-footer-dark,
+.site-footer-custom {
+    .has-divider {
+        position: relative;
+    }
+}
+
+.site-footer-light,
+.site-footer-gray {
+    .has-divider {
+        .footer-container {
+            position: relative;
+        }
+    }
+}

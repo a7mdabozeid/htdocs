@@ -1,0 +1,27 @@
+.catalog-header-banners {
+	margin-bottom: 40px;
+
+	.list-images {
+		padding: 0;
+		margin: 0;
+
+		> li {
+			list-style: none;
+
+			img {
+				display: block;
+			}
+		}
+	}
+
+	.swiper-pagination {
+		position: absolute;
+		bottom: 20px;
+		left: 0;
+		margin: 0;
+		width: 100%;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+	}
+}

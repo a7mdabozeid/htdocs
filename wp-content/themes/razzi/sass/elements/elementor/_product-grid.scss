@@ -1,0 +1,50 @@
+.razzi-products-grid {
+    .razzi-grid-button {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .ajax-load-products {
+        text-align: center;
+        margin-top: 30px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        display: inline-block;
+        min-width: 165px;
+        height: 54px;
+
+        &.loading,
+        &.ajax-infinite {
+            .razzi-gooey{
+                display: flex;
+            }
+
+            .button-text {
+                display: none;
+            }
+        }
+
+        &.button-outline {
+            .razzi-gooey{
+                span {
+                    background-color: var( --rz-background-color-dark );
+                }
+            }
+        }
+
+        .razzi-gooey{
+            background-color: transparent;
+            display: none;
+
+            span {
+                background-color: #fff;
+            }
+        }
+    }
+
+    .woocommerce-pagination {
+        text-align: center;
+        margin-top: 30px;
+    }
+}

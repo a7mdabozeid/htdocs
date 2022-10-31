@@ -1,0 +1,24 @@
+.elementor-motion-parallax {
+	position: relative;
+
+	.elementor-motion-effects-container {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		overflow: hidden;
+	}
+
+	.elementor-motion-effects-layer {
+		position: absolute;
+		width: 100%;
+		height: 150%;
+		top: -25%;
+		left: 0;
+		background-size: cover;
+		background-attachment: scroll;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+	}
+}

@@ -1,0 +1,32 @@
+.help-page {
+
+    .utility-block {
+
+        > .ant-row {
+            row-gap: 1em !important;
+        }
+
+        .utility-card {
+            min-height: 184.5px;
+    
+            .ant-card { 
+                height: 100%;
+            }
+
+            .ant-btn {
+                height: 40px;
+                margin-right: 5px;
+
+                &.ant-btn-ghost {
+                    background: #fff;
+                    border: 1px solid #035e6b;
+                    color: #035e6b;
+
+                    &:hover {
+                        background: #edf5f7;
+                    }
+                }
+            }
+        }
+    }
+}

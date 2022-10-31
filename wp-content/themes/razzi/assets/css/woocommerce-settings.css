@@ -1,0 +1,6 @@
+.custom_badges_bg_field .wp-picker-input-wrap label,
+.custom_badges_color_field .wp-picker-input-wrap label{
+	float: none;
+	margin: 0;
+	width: unset;
+}

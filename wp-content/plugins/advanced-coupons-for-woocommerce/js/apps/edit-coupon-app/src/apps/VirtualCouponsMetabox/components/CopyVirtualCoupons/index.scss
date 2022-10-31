@@ -1,0 +1,38 @@
+.copy-virtual-coupons {
+  position: relative;
+  margin-top: 1em;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  overflow: hidden;
+
+  .ant-skeleton {
+    padding: 1em;
+    box-sizing: border-box;
+  }
+
+  .ant-input {
+    position: relative;
+    border: 0 !important;
+  }
+
+  .copy-actions {
+    position: absolute;
+    z-index: 2;
+    top: 1em;
+    right: 2em;
+    width: 300px;
+    text-align: right;
+
+    > * {
+      display: inline-block;
+      margin-left: 0.5em;
+    }
+  }
+}
+
+.copy-coupon-filter-tags {
+  padding: 0.3em 0.7em;
+  height: 100%;
+  box-sizing: border-box;
+  border-left: 1px solid #eaeaea;
+}

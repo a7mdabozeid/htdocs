@@ -1,0 +1,115 @@
+#acfw_scheduler {
+    position: relative;
+    padding-bottom: 10px;
+    
+    .scheduler-info {
+        padding: 10px 15px;
+
+        h3 {
+            margin: 0;
+        }
+
+        p {
+            padding: 0;
+            line-height: 1.6em;
+            margin: 15px 0 0;
+        }
+    }
+
+    .date-time-field {
+        float: left;
+        display: flex;
+        width: 50%;
+        align-items: top;
+        height: 30px;
+
+        input[type=text].date-field {
+            width: 100%;
+            margin: 0;
+        }
+
+        &.error {
+
+            input:not(:disabled) {
+                border-color: #dc3232;
+            }
+        }
+
+        span {
+            margin-right: 5px;
+        }
+    }
+
+    .clear-scheduler-fields {
+        position: relative;
+        top: 2px;
+        display: inline-block;
+        color: #dc3232;
+        text-decoration: none;
+        box-shadow: none !important;
+    }
+    
+    .acfw-scheduler-section {
+        margin-top: 10px;
+        padding-top: 10px;
+        border-top: 1px solid #eee;
+
+        label.acfw-section-toggle {
+            float: none;
+            margin: 10px;
+            font-size: 1.15em;
+            font-weight: 600;
+        }
+
+        .options_group {
+            position: relative;
+
+            &.disabled {
+
+                &:after {
+                    content: '';
+                    display: block;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 10;
+                    width: 100%;
+                    height: 100%;
+                    background: #fff;
+                    opacity: 0.2;
+                }
+            }
+        }
+
+        .days-time-fields {
+            float:left;
+
+            .days-time-field {
+                display: flex;
+                margin-bottom: 0.5em;
+                align-items: center;
+                width: 470px;
+
+                label {
+                    float: none;
+                    display: inline-block;
+                    margin: 0;
+                    width: 100px;
+                }
+
+                .to-separator {
+                    margin: 0 5px;
+                }
+
+                .time-field {
+                    width: 40%;
+
+                    &.error:not(:disabled) {
+                        border-color: #dc3232;
+                    }
+                }
+            }
+        }
+    }
+    
+}

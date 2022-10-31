@@ -1,0 +1,53 @@
+@media (max-width: 480px) {
+    .razzi-products-tabs,
+    .razzi-products-carousel ,
+    .razzi-products-deal {
+        .swiper-scrollbar {
+            max-width: 250px;
+        }
+    }
+
+
+    .razzi-icons-box-carousel {
+        .rz-swiper-button {
+            width: auto;
+            height: auto;
+        }
+    }
+
+    .razzi-lookbook-slider-elementor .product-item{
+        width: 165px;
+    }
+
+    .razzi-pricing-table__content{
+        padding: 27px 20px 40px;
+
+        .pricing-desc{
+            margin-bottom: 30px;
+        }
+    }
+
+    .razzi-testimonials-grid{
+        .testimonial-item{
+            width: 100%;
+        }
+    }
+
+    .razzi-countdown{
+        .timer{
+            padding: 0 15px;
+
+            .divider{
+                right: -6px;
+                font-size: 25px;
+            }
+        }
+    }
+
+    .razzi-banner-clt__content {
+        position: relative;
+        bottom: 0;
+        transform: translateY(0);
+    }
+
+}

@@ -1,0 +1,84 @@
+.smsf-on-boarding-wrapper-control{overflow:hidden;}
+.smsf-on-boarding-wrapper{background-color:white;padding:25px 15px;}
+.smsf-on-boarding-wrapper .btn{background-color:#4CAF50;color:white;padding:16px 20px;border:none;cursor:pointer;width:100%;margin-bottom:10px;opacity:0.8;}
+.on-boarding-label{color:red;font-size:12px;}
+.smsf-keep-hidden{display:none;}
+.smsf-onboarding-section{background-color:rgba(0,0,0,0.6);bottom:0;display:none;height:100%;left:0;overflow-y:scroll;position:fixed;right:0;top:0;z-index:1;}
+.smsf-on-boarding-wrapper-background{content:"";left:0;margin:0 auto;max-width:800px;padding:25px;right:0;transform:translateY(-100%);transition:0.5s linear all;width:100%;z-index:999;}
+.smsf-on-boarding-wrapper-background.onboard-popup-show{transform:translateY(15%);transition:0.5s linear all;}
+.smsf-on-boarding-heading{font-size:30px;line-height:1.5;margin:0;text-align:center;}
+.smsf-on-boarding-desc{color:#808080;font-size:16px;margin:0 auto;max-width:450px;padding:10px 0;text-align:center;width:100%;}
+.smsf-on-boarding-close-btn{border-radius:50%;border:2px solid #0073aa;content:"";display:inline-block;height:30px;position:absolute;right:35px;text-align:center;top:37px;width:30px;}
+.smsf-on-boarding-close-btn a{display:block;font-size:20px;line-height:22px;text-decoration:none;}
+.smsf-customer-data-form-single-field{background:#ffffff;border-radius:5px;margin:10px;padding:5px 5px;}
+.on-boarding-label{color:rgba(0,0,0,0.7);display:block;font-size:15px;font-weight:500;margin:0 0 15px 0;}
+.on-boarding-field-label{color:rgba(0,0,0,0.6);}
+.on-boarding-email-field{padding:5px !important;width:100%;max-height:44px !important;}
+.on-boarding-text-field{padding:5px !important;width:100%;}
+.smsf-on-boarding-checkbox-wrapper{margin:0 0 10px 0;}
+.on-boarding-checkbox-field{margin:0 15px 0 0;}
+.on-boarding-radio-field{margin:0 10px 0 0 !important;}
+.on-boarding-radio-field:checked::before{filter:drop-shadow( 5px 5px 5px #222 );}
+.smsf-on-boarding-radio-wrapper{display:inline-block;max-width:24%;width:100%;}
+.on-boarding-select-field{min-height:43px !important;width:100%;max-width:inherit !important;}
+.on-boarding-label:last-child{color:#3389bf !important;font-weight:600;}
+.smsf-deactivation-no_thanks{font-weight:600;text-transform:uppercase;text-decoration:none;}
+.smsf-on-boarding-form-submit{display:inline-block;margin:0 auto;max-width:200px !important;width:100%;}
+.smsf-on-boarding-wrapper-background.onboard-popup-show{display:block;}
+.smsf-customer-data-form-single-field:nth-child(3){box-sizing:border-box;display:inline-block;width:97%;}
+.smsf-customer-data-form-single-field:nth-child(4){box-sizing:border-box;display:inline-block;width:97%;}
+.smsf-on-boarding-form-no_thanks{display:inline-block;float:right;margin:6px 20px 0 0px;}
+.smsf-deactivating-radio-wrapper{margin:0 0 15px 0;}
+@media only screen and (max-width:1090px){.smsf-on-boarding-wrapper-background.onboard-popup-show{margin-left:15%;}
+}
+@media only screen and (max-width:960px){.smsf-on-boarding-wrapper-background.onboard-popup-show{margin:0 auto;}
+}
+@media only screen and (max-width:992px){.smsf-customer-data-form-single-field:first-child{width:96%;}
+ .smsf-customer-data-form-single-field:nth-child(2){width:96%;}
+ input#s2id_autogen1{width:100% !important;}
+ input#s2id_autogen1{width:100% !important;}
+ .on-boarding-email-field{width:99% !important;}
+ input#s2id_autogen1{width:100%;}
+ .on-boarding-text-field{width:98%;}
+}
+ @media only screen and (max-width:796px){.smsf-customer-data-form-single-field:nth-child(3){display:block;max-width:97%;width:100%;}
+ .smsf-customer-data-form-single-field:nth-child(4){display:block;max-width:97%;width:100%;}
+ .on-boarding-text-field{width:99%;}
+}
+@media only screen and (max-width:700px){.smsf-on-boarding-form-verify{margin:0 20px 0 10px !important;}
+.smsf-deactivating-radio-wrapper{margin:0 0 15px 0;}
+}
+ @media only screen and (max-width:622px){.smsf-deactivating-radio-wrapper{margin:0 0 20px 0;}
+.smsf-on-boarding-form-no_thanks{float:none !important;}
+}
+@media only screen and (max-width:600px){.smsf-on-boarding-radio-wrapper{margin-bottom:15px;max-width:100%;width:100%;}
+ .on-boarding-email-field{width:99% !important;}
+}
+@media only screen and (max-width:474px){.smsf-on-boarding-form-verify{margin:0;}
+}
+@media only screen and (max-width:453px){.smsf-on-boarding-form-verify{display:block !important;text-align:center !important;margin:0 20px 0 97px !important;}
+ .smsf-on-boarding-form-no_thanks{float:none !important;}
+ .smsf-on-boarding-form-verify{margin:0 20px 0 19px !important;}
+}
+@media only screen and (max-width:420px){h3.smsf-on-boarding-heading{font-size:25px !important;padding-top:20px;}
+.smsf-on-boarding-desc{padding:10px 0 0 0;}
+.smsf-onboarding-section input[type="radio"]{width:20px !important;height:20px !important;margin:5px 10px 0 0 !important;}
+input[type=radio]:checked:before{margin:7px !important;}
+ .smsf-customer-data-form-single-field textarea{padding:2px 17px;}
+.smsf-deactivating-radio-wrapper input[type="radio"]:checked::before{margin:4px !important;width:10px;height:10px;}
+.smsf-customer-data-form-single-field #deactivation-reason-text{width:85% !important;}
+.smsf-on-boarding-form-verify{margin:0 0 19px !important;}
+ .smsf-on-boarding-wrapper-background{width:80%;}
+.smsf-on-boarding-wrapper input[type=radio]:checked:before{margin:5px !important;}
+.smsf-on-boarding-wrapper-background.onboard-popup-show{transform:translateY(175px);}
+ .smsf-on-boarding-form-verify::after{right:24px;}
+.smsf-on-boarding-wrapper input[type="radio"]:checked::before{margin:4px !important;}
+}
+@media only screen and (max-width:405px){.smsf-on-boarding-form-submit{max-width:100% !important;padding:15px 10px;width:100%;margin:0 20px 0 0 !important;}
+ .on-boarding-email-field{width:96% !important;}
+ .smsf-customer-data-form-single-field:nth-child(2){width:93%;}
+ .smsf-customer-data-form-single-field:nth-child(3){display:block;max-width:97%;width:100%;}
+ .smsf-customer-data-form-single-field:nth-child(4){display:block;max-width:94%;width:100%;}
+ .smsf-on-boarding-form-verify{display:block !important;text-align:center !important;margin:0 20px 0 0px !important;}
+.smsf-on-boarding-wrapper input[type="radio"]:checked::before{margin:4px!important;}
+}

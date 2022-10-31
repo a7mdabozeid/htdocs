@@ -1,0 +1,37 @@
+@import "shop/products-filter/products-filter-items";
+@import "shop/products-filter/products-filter-sidebar";
+
+.products-filter__filter-name {
+	margin-bottom: 30px;
+}
+
+.catalog-sidebar .products-filter__filter-control {
+	margin-bottom: 30px;
+}
+
+.products-filter__activated {
+	display: none;
+	margin-bottom: 20px;
+
+	.remove-filtered {
+		font-size: 14px;
+		padding: 6px 10px;
+		.razzi-svg-icon {
+			font-size: 13px;
+		}
+	}
+}
+
+.razzi-catalog-page .products-filter-widget .products-filter__activated {
+	display: block;
+}
+
+.single-product .site-breadcrumb {
+	padding: 15px 0;
+	margin: 0;
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+	overflow: auto;
+	white-space: nowrap;
+}

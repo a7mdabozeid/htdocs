@@ -1,0 +1,50 @@
+.razzi-newsletter{
+
+    .mc4wp-form-fields{
+        max-width: 570px;
+        display: flex;
+
+        input[type="email"]{
+            width: 100%;
+            margin-right: 5px;
+            padding: 15px 30px;
+
+            &::placeholder{
+                color: inherit;
+            }
+        }
+    }
+}
+
+.razzi-newsletter-2{
+    .newsletter-title{
+        margin: 0 0 17px;
+    }
+
+    .newsletter-desc{
+        font-size: 18px;
+    }
+
+    .mc4wp-form-fields{
+        display: flex;
+        border-style: solid;
+        border-color: #111111;
+        border-width: 0 0 1px;
+
+        input[type="email"]{
+            font-size: 15px;
+            border: none;
+            width: 100%;
+            padding: 0 30px;
+        }
+
+        input[type="submit"]{
+            background-color: transparent;
+            color: var(--rz-color-dark);
+        }
+    }
+}
+
+.razzi-newsletter-2__heading{
+    margin-bottom: 33px;
+}

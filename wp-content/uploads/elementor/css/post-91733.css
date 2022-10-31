@@ -1,0 +1,17 @@
+body.elementor-page-91733 .header-v4 .header-bottom{margin-bottom:20px;}/* Start custom CSS for section, class: .elementor-element-6bd234c */#topbar-mobile, #rz-navigation-bar, #site-header, #page-header, #site-footer {
+    display: none
+}
+
+#page {
+    background-image: url("https://alshiaka.com/wp-content/uploads/2022/10/under-dev.jpg");
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 100vh;
+    width: 100vw;
+}
+
+@media(max-width: 991px) {
+    #page { 
+        background-image: url("https://alshiaka.com/wp-content/uploads/2022/10/ويب-سايت-2.jpg");
+    }
+}/* End custom CSS */

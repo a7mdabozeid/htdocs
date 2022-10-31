@@ -1,0 +1,90 @@
+#license-placeholder {
+    max-width: 860px;
+
+    * {
+        font-family: "Lato", 'Lato', Helvetica, Arial, Sans-serif;
+    }
+
+    .action-button {
+        display: inline-block;
+        background: #ccc;
+        padding: 12px 30px;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        color: inherit;
+
+        &:hover,
+        &:focus {
+            opacity: 0.8;
+        }
+    }
+
+    .overview {
+        margin-bottom: 20px;
+
+        h1 {
+            padding: 0;
+            margin-bottom: 25px;
+            font-size: 22px;
+            line-height: 40px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        .feature-comparison {
+            background: #035E6B;
+            color: #ffffff;
+        }
+    }
+
+    .license-info {
+        border: 1px solid #D5D5D5;
+
+        .heading {
+            padding: 10px 10px 10px 30px;
+            background: #f5f5f5;
+            border-bottom: 1px solid #D5D5D5;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            &:after {
+                content: '';
+                display: table;
+                clear: both;
+            }
+
+            .left {
+                width: calc(100% - 221px);
+            }
+
+            .upgrade-premium {
+                background: #C6CD2E;
+                color: #000000;
+            }
+        }
+    }
+
+    .content {
+        background: #ffffff;
+        padding: 35px 30px;
+        
+
+        h2 {
+            margin: 0 0 10px;
+        }
+
+        table {
+            margin-top: 25px;
+            max-width: 230px;
+
+            * {
+                padding: 0 15px 0 0;
+            }
+        }
+    }
+
+}

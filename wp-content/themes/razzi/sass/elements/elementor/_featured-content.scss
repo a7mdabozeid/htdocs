@@ -1,0 +1,50 @@
+.razzi-featured-content{
+    overflow: hidden;
+    
+    .box-thumbnail img{
+        display: inline-block;
+    }
+
+    .featured-title{
+        margin: 0 0 16px;
+    }
+
+    .featured-box{
+        position: relative;
+    }
+
+    .featured-control{
+        position: absolute;
+        top: 15px;
+        display: block;
+        width: 100px;
+        height: 1px;
+        background-color: var(--rz-background-color-primary);
+
+        &:after{
+            content: '';
+            display: inline-block;
+            transform: translateY(-11px);
+            height: 11px;
+            width: 11px;
+            background-color: var(--rz-background-color-primary);
+            border-radius: 50%;
+        }
+    }
+
+    .featured-wrapper__left{
+        .featured-control{
+            left: calc(100% + 30px);
+        }
+    }
+
+    .featured-wrapper__right{
+        .featured-control{
+            right: calc(100% + 30px);
+        }
+    }
+
+    .featured-img-wrapper {
+        width: 100%;
+    }
+}

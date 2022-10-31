@@ -1,0 +1,2 @@
+[2022-08-04 12:04:09] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/shiaka-dev.com","localhost":"no"} {"source":"wpdesk-sender"} []
+[2022-08-04 12:04:11] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []

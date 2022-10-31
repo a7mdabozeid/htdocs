@@ -1,0 +1,36 @@
+.topbar{
+    height: 45px;
+    background-color: var( --rz-background-color-gray );
+    color: var( --rz-color-dark );
+    
+    .razzi-container-fluid {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+}
+
+.topbar-items{
+    display: flex;
+    align-items: center;
+    height: inherit;
+}
+
+.mobile-topbar-items {
+    white-space: nowrap;
+    
+    > * {
+        margin-right: 0;
+        padding: 0 20px;
+    }
+
+    .topbar-menu {
+        .menu-item-has-children {
+            padding-right: 0;
+        }
+
+        .sub-menu {
+            display: none;
+        }
+    }
+}

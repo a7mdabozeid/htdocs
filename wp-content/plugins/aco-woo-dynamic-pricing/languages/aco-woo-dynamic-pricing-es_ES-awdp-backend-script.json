@@ -1,0 +1,789 @@
+{
+    "translation-revision-date": "2020-01-17T09:26:15+00:00",
+    "generator": "WP-CLI\/2.3.0",
+    "source": "backend.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "es",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Pricing Rules": [
+                "Reglas de precios"
+            ],
+            "Add New Rule": [
+                "Añadir nueva regla"
+            ],
+            "Back": [
+                "Atrás"
+            ],
+            "Product Lists": [
+                "Listas de productos"
+            ],
+            "Add New List": [
+                "Añadir nueva lista"
+            ],
+            "Equal to": [
+                "Igual a"
+            ],
+            "Less than": [
+                "Menor que"
+            ],
+            "Less than or Equal": [
+                "Menor o igual a"
+            ],
+            "Greater than": [
+                "Mayor que"
+            ],
+            "Greater than or Equal": [
+                "Mayor o igual a"
+            ],
+            "Select Item": [
+                "Seleccionar elemento"
+            ],
+            "Product": [
+                "Producto"
+            ],
+            "Product price": [
+                "Precio del producto"
+            ],
+            "Product in cart": [
+                "Producto en el carrito"
+            ],
+            "Equals": [
+                "Igual a"
+            ],
+            "Not equals": [
+                "No igual a"
+            ],
+            "User": [
+                "Usuario"
+            ],
+            "User selection": [
+                "Selección de usuario"
+            ],
+            "User role": [
+                "Rol del usuario"
+            ],
+            "Number of orders": [
+                "Número de pedidos"
+            ],
+            "Amount spent": [
+                "Cantidad gastada"
+            ],
+            "Last order amount": [
+                "Importe del último pedido"
+            ],
+            "Previous order (Completed \/ Processing Orders)": [
+                "Pedido anterior (Completado \ / Procesando)"
+            ],
+            "Cart items": [
+                "Artículos del carrito"
+            ],
+            "Cart total amount": [
+                "Importe del artículo en el carrito"
+            ],
+            "Cart total quantity": [
+                "Cantidad del artículo en el carrito"
+            ],
+            "Cart items count": [
+                "Número de artículos en el carrito"
+            ],
+            "Select Discount Mode": [
+                "Selecciona el modo de descuento"
+            ],
+            "Select User Role": [
+                "Selecciona el Rol del usuario"
+            ],
+            "Select User": [
+                "Selecciona el usuario"
+            ],
+            "Select Product": [
+                "Selecciona el producto"
+            ],
+            "AND": [
+                "Y"
+            ],
+            "OR": [
+                "O"
+            ],
+            "Remove": [
+                "Eliminar"
+            ],
+            "Add": [
+                "Añadir"
+            ],
+            "Group Remove": [
+                "Eliminar grupo"
+            ],
+            "Add Group": [
+                "Añadir grupo"
+            ],
+            "All": [
+                "Todos"
+            ],
+            "From Date": [
+                "A partir de la fecha"
+            ],
+            "To Date": [
+                "Hasta la fecha"
+            ],
+            "End date should be greater than start date.": [
+                "La fecha final debe ser posterior a la fecha inicial."
+            ],
+            "Product List": [
+                "Lista de productos"
+            ],
+            "Discount": [
+                "Descuento"
+            ],
+            "Edit rule": [
+                "Editar regla"
+            ],
+            "Add New": [
+                "Añadir nueva"
+            ],
+            "Saving Changes...": [
+                "Guardando cambios..."
+            ],
+            "Allo Good day !!": [
+                "¡Hola, Buenos días!"
+            ],
+            "Setting the discount rate is easy. Just play with the below settings and watch the changes": [
+                "Establecer un descuento es fácil. Simplemente juega con la configuración a continuación y observa los cambios"
+            ],
+            "Discount Settings": [
+                "Configuración del descuento"
+            ],
+            "Schedule": [
+                "Calendario"
+            ],
+            "Rules and Restrictions": [
+                "Reglas y restricciones"
+            ],
+            "Usage Limits": [
+                "Límites de uso"
+            ],
+            "Additional Setings": [
+                "Configuración adicional"
+            ],
+            "Rule Name": [
+                "Nombre de la regla"
+            ],
+            "Enter rule name": [
+                "Introduce el nombre de la regla"
+            ],
+            "Priority": [
+                "Prioridad"
+            ],
+            "Enter discount priority": [
+                "Introduce la prioridad del descuento"
+            ],
+            "Active": [
+                "Activo"
+            ],
+            "*Cart based rules will have the least priority and will be applied once the product is added to the cart.": [
+                "*Las reglas basadas en el carrito tendrán la prioridad más baja y se aplicarán una vez que el producto se agregue a este."
+            ],
+            "Apply discount only for registered customers.": [
+                "Aplicar descuento solo a clientes registrados."
+            ],
+            "Discount Type": [
+                "Tipo de descuento"
+            ],
+            "Product Rules": [
+                "Reglas de producto"
+            ],
+            "Fixed price of product price": [
+                "Importe fijo a restar del precio del producto"
+            ],
+            "Percentage of product price": [
+                "Porcentaje del precio del producto"
+            ],
+            "Cart Rules": [
+                "Reglas del carrito"
+            ],
+            "Fixed price of cart total amount": [
+                ""
+            ],
+            "Percentage of cart total amount": [
+                "Porcentaje del importe total del carrito"
+            ],
+            "Quantity Rules": [
+                "Reglas por cantidad"
+            ],
+            "Quantity based discount": [
+                "Descuento basado en cantidades"
+            ],
+            "Bogo Rules": [
+                "Reglas de Compra uno y llévate otro"
+            ],
+            "Buy X Get X": [
+                ""
+            ],
+            "Gift Product": [
+                "Compra X Llévate X"
+            ],
+            "Select Product List": [
+                "Seleccionar Lista de Productos"
+            ],
+            "*Discounts will be applied as Coupon with Discount Label ( Settings -> Discount Label )": [
+                "*Los descuentos se aplicarán como un cupón con la etiqueta del descuento (Configuración -> Etiqueta del descuento)"
+            ],
+            "Payment Method": [
+                "Forma de pago"
+            ],
+            "Select Shipment Method": [
+                "Seleccionar forma de envío"
+            ],
+            "Quantity Based Discount": [
+                "Descuento basado en cantidades"
+            ],
+            "You can set quantity based discounts on cart items \/ products": [
+                "Puedes establecer descuentos basados en cantidades de artículos \/ productos en el carrito"
+            ],
+            "Type": [
+                "Tipo"
+            ],
+            "Discount on individual product quantity": [
+                "Descuento por cantidad en un producto individual"
+            ],
+            "Discount on cart items count (different products count)": [
+                "Descuento por número de líneas en el carrito (se tienen en cuenta diferentes productos)"
+            ],
+            "Discount on cart quantity": [
+                "Descuento por cantidad de artículos en el carrito"
+            ],
+            "Select one": [
+                "Selecciona uno"
+            ],
+            "Show pricing table": [
+                "Mostrar la tabla de precios"
+            ],
+            "Table layout": [
+                "Disposición de la tabla"
+            ],
+            "Vertical": [
+                "Vertical"
+            ],
+            "Horizontal": [
+                "Horizontal"
+            ],
+            "*Discount value display settings can be managed from Settings -> Pricing Table -> Pricing Table Value Display": [
+                "*La configuración de la visualización del valor de descuento se puede ajustar desde Configuración -> Tabla de Precios -> Visualización del valor de la tabla de precios"
+            ],
+            "BOGO Options": [
+                "Opciones de Compra uno y llévate otro"
+            ],
+            "Bogo Type": [
+                "Tipo de Compra uno y llévate otro"
+            ],
+            "Buy X get Y": [
+                "Compra X y llévate Y"
+            ],
+            "Buy X get X (Same Product)": [
+                "Compra X y llévate X (Mismo Producto)"
+            ],
+            "Buy X get discount on nth item": [
+                "Compra X y consigue un descuento en el enésimo artículo"
+            ],
+            "Buy X get discount for n items": [
+                "Compra X y consigue un descuento por n artículos"
+            ],
+            "Product \/ Product List": [
+                "Producto \/ Lista de productos"
+            ],
+            "Discount Value": [
+                "Valor del descuento"
+            ],
+            "Allow discount to be applied on all items from the list": [
+                "Permite que el descuento sea aplicado a todos los elementos de la lista"
+            ],
+            "Offer Count (n)": [
+                "Descuento a partir de (n)"
+            ],
+            "*Discount will be applied on the nth quantity of the selected product. For example, if you set the Offer Count as 5, discount will be applied when cart contains 5 or 5+ quantity of the same product. ": [
+                "*El descuento se aplicará en la cantidad n del producto seleccionado. Por ejemplo, si se establece el Descuento a partir de 5, el descuento se aplicará cuando el carrito contenga la cantidad de 5 o más unidades del mismo producto. "
+            ],
+            "Possible rules: Buy 3 get 50% off on the 4th (nth) product.": [
+                "Reglas posibles: Compra 3 y obtén un descuento del 50% en el cuarto producto."
+            ],
+            "Repeat for every nth purchase": [
+                "Repetir cara cada n compras"
+            ],
+            "*Discount will be applied to n (offer count) quantity of the selected product. ": [
+                "*El descuento se aplicará a la cantidad n (Descuento a partir de) del producto seleccionado."
+            ],
+            "Possible rules: Buy 5 get discount on 4 items.": [
+                "Reglas posibles: Compra 5 y obtén un descuento en 4 artículos."
+            ],
+            "Buy": [
+                "Compra"
+            ],
+            "Get": [
+                "Consigue"
+            ],
+            "Product Combinations": [
+                "Combinaciones de productos"
+            ],
+            "*Each combination will be considered as separate rule, buy X get X will be applied for each combination.": [
+                "*Cada combinación se considerará como una regla separada, compra X consigue X se aplicará para cada combinación."
+            ],
+            "Apply discount on the cheapest product in cart": [
+                "Aplicar el descuento en el producto más barato del carrito"
+            ],
+            "GIFT Options": [
+                "Opciones de regalo"
+            ],
+            "Number of items in Cart (excluding free products)": [
+                "Número de artículos en el Carrito (excluyendo los productos gratuitos)"
+            ],
+            "Cart Total": [
+                "Total del Carrito"
+            ],
+            "Product Price": [
+                "Precio del producto"
+            ],
+            "Spent $$$ and get free gifts": [
+                "Gasta €€€ y obtén regalos gratis"
+            ],
+            "Buy from a Category and get free gift": [
+                "Compra de una categoría y obtén un regalo gratis"
+            ],
+            "Free gift for First Order": [
+                "Regalo gratis en el primer pedido"
+            ],
+            "Gift for any products added in the Cart": [
+                "Regalo para cualquier producto añadido al carrito"
+            ],
+            "Gift Combinations": [
+                "Combinaciones de regalos"
+            ],
+            "Discount based on the amount spent by user (completed orders)": [
+                "Descuento basado en el gasto realizado por el cliente (pedidos realizados)"
+            ],
+            "Free Product": [
+                "Producto gratuito"
+            ],
+            "Select products": [
+                "Seleccionar productos"
+            ],
+            "Number of gifts items allowed in a single order": [
+                "Número de artículos de regalo permitidos en un solo pedido"
+            ],
+            "Number of gifts allowed": [
+                "Cantidad de regalos permitidos"
+            ],
+            "*Each count will be considered as separate product or item (by default only one quantity \/ product will be considered as gift)": [
+                "*Cada recuento se considerará como un producto o artículo separado (por defecto, solo una cantidad \/ producto se considerará como regalo)"
+            ],
+            "Automatically add gifts to the Cart": [
+                "Añadir regalos automáticamente al carrito"
+            ],
+            "Apply sequentially (When applying multiple discounts, apply the first discount to the full price and the second discount to the discounted price and so on.)": [
+                "Aplicar secuencialmente (cuando se aplican múltiples descuentos, aplicar el primer descuento al precio total, el segundo descuento al precio con descuento y así sucesivamente.)"
+            ],
+            "Disable discount if product is on sale": [
+                "Desctivar el descuento si el producto está en oferta"
+            ],
+            "Schedule Discount Sale": [
+                "Programar descuento"
+            ],
+            "You can set schedule discount sales using the provided options": [
+                "Puedes programar los descuentos usando las opciones proporcionadas"
+            ],
+            "Schedule Discount on Weekdays": [
+                "Programar descuento en días de la semana"
+            ],
+            "Set discounts on weekdays": [
+                "Establecer descuentos en días de la semana"
+            ],
+            "Days": [
+                "Días"
+            ],
+            "All Days": [
+                "Todos los días"
+            ],
+            "Sunday": [
+                "Domingo"
+            ],
+            "Monday": [
+                "Lunes"
+            ],
+            "Tuesday": [
+                "Martes"
+            ],
+            "Wednesday": [
+                "Miércoles"
+            ],
+            "Thursday": [
+                "Jueves"
+            ],
+            "Friday": [
+                "Viernes"
+            ],
+            "Saturday": [
+                "Sábado"
+            ],
+            "Start Time": [
+                "Hora de inicio"
+            ],
+            "End Time": [
+                "Hora de finalización"
+            ],
+            "Apply Rules": [
+                "Aplicar reglas"
+            ],
+            "You can set discount rule using the provided options": [
+                "Puedes establecer una regla de descuento usando las opciones proporcionadas"
+            ],
+            "Discount Usage Limit": [
+                "Límite de uso del descuento"
+            ],
+            "Set Discount Limit": [
+                "Establecer límite de descuento"
+            ],
+            "Usage Limit Per Discount": [
+                "Límite de uso por descuento"
+            ],
+            "Set Usage Limit": [
+                "Establecer límite de uso"
+            ],
+            "Usage Limit Per User": [
+                "Límite de uso por usuario"
+            ],
+            "Set User Usage Limit": [
+                "Establecer límite de uso por usuario"
+            ],
+            "Set Discount Limit for User Roles": [
+                "Establecer límite de descuento para roles de usuario"
+            ],
+            "Additional Settings": [
+                "Ajustes adicionales"
+            ],
+            "Shortcode Settings": [
+                "Ajustes de Shortcode"
+            ],
+            "# Use shortcode ": [
+                "# Usar shortcode"
+            ],
+            " for discount listing.": [
+                " "
+            ],
+            "Title": [
+                " para listado de descuentos."
+            ],
+            "Description": [
+                "Descripción"
+            ],
+            "Message": [
+                "Mensaje"
+            ],
+            "Delete": [
+                "Borrar"
+            ],
+            "Publish": [
+                "Publicar"
+            ],
+            "Update": [
+                "Actualizar"
+            ],
+            "All discount related datas will be removed.": [
+                "Todos los datos relacionados con el descuento serán eliminados."
+            ],
+            "Are you sure to proceed?": [
+                "¿Estás seguro/a de querer continuar?"
+            ],
+            "No": [
+                "No"
+            ],
+            "Yes": [
+                "Sí"
+            ],
+            "Deleting.. Please Wait..": [
+                "Eliminando.. Por favor espera.."
+            ],
+            "No product rules found.": [
+                "No se han encontrado reglas de producto."
+            ],
+            "Value": [
+                "Valor"
+            ],
+            "Status": [
+                "Estado"
+            ],
+            "Actions": [
+                "Acciones"
+            ],
+            "will be removed.": [
+                "será eliminado."
+            ],
+            "Are you sure to proceed.": [
+                "Estás seguro/a de querer continuar."
+            ],
+            "Edit": [
+                "Editar"
+            ],
+            "Pricing Rule": [
+                "Regla de precio"
+            ],
+            "List Name": [
+                "Nombre de la lista"
+            ],
+            "Taxonomy Relation": [
+                "Relación de taxonomía"
+            ],
+            "Taxonomies": [
+                "Taxonomías"
+            ],
+            "Exclude Products": [
+                "Excluir productos"
+            ],
+            "*Start typing to select the product from the list.": [
+                "*Comienza tecleando para seleccionar el producto de la lista."
+            ],
+            "Products": [
+                "Productos"
+            ],
+            "All related datas will be removed.": [
+                "Todos los datos relacionados serán eliminados."
+            ],
+            "No product lists found.": [
+                "No se han encontrado listas de productos."
+            ],
+            "Created On": [
+                "Creado el"
+            ],
+            "General Settings": [
+                "Ajustes generales"
+            ],
+            "Pricing Table": [
+                "Tabla de precios"
+            ],
+            "Gift \/ Bogo Settings": [
+                "Regalo \/ Ajustes de compra uno llévate otro"
+            ],
+            "Badge Settings": [
+                "Ajustes de insignia"
+            ],
+            "Timer Settings": [
+                "Ajustes del reloj"
+            ],
+            "Shortcode": [
+                "Shortcode"
+            ],
+            "License Key": [
+                "Clave de licencia"
+            ],
+            "Discount Label": [
+                "Etiqueta del descuento"
+            ],
+            "Default Text:": [
+                "Texto por defecto"
+            ],
+            "Show discount applied message on cart page": [
+                "Mostrar mensaje con el descuento aplicado en la página del carrito"
+            ],
+            "Discount has been applied!": [
+                "¡El descuento ha sido aplicado!"
+            ],
+            "Discount \"\" has been applied!": [
+                "¡El descuento \"\" ha sido aplicado!"
+            ],
+            "Use": [
+                "Uso"
+            ],
+            "for label name": [
+                "para nombre de etiqueta"
+            ],
+            "Message:": [
+                "Mensaje"
+            ],
+            "Save Changes": [
+                "Guardar cambios"
+            ],
+            "Pricing Table Position": [
+                "Posición de la tabla de precios"
+            ],
+            "In product summary": [
+                "En el resumen del producto"
+            ],
+            "Before add to cart form": [
+                "Antes del formulario de añadir al carrito"
+            ],
+            "Before variations from": [
+                "Antes del formulario de variaciones"
+            ],
+            "Before add to cart button": [
+                "Antes del botón de añadir al carrito"
+            ],
+            "After add to cart button": [
+                "Después del botón de añadir al carrito"
+            ],
+            "After variations from": [
+                "Después del formulario de variaciones"
+            ],
+            "After add to cart form": [
+                "Después del formulario de añadir al carrito"
+            ],
+            "Product meta start": [
+                "Meta inicio del producto"
+            ],
+            "Product meta end": [
+                "Meta final del producto"
+            ],
+            "After product summary": [
+                "Después del resumen de producto"
+            ],
+            "Default:": [
+                "Por defecto:"
+            ],
+            "*Pricing table will be shown only on products page with variations.": [
+                "*La tabla de precios será mostrada solamente en las páginas de productos con variaciones."
+            ],
+            "Pricing Table Value Display": [
+                "Visualización del valor de la tabla de precios"
+            ],
+            "Discounted Price": [
+                "Precio con descuento"
+            ],
+            "Pricing Table Title": [
+                "Título de la tabla de precios"
+            ],
+            "Quantity Discounts": [
+                "Descuentos por cantidad"
+            ],
+            "Price Label": [
+                "Etiqueta de precio"
+            ],
+            "Price": [
+                "Precio"
+            ],
+            "Quantity Label": [
+                "Etiqueta de cantidad"
+            ],
+            "Quantity": [
+                "Cantidad"
+            ],
+            "Border Color": [
+                "Color del borde"
+            ],
+            "Cart Quantity Discount Description (shown below quantity table)": [
+                "Descripción del descuento por cantidad del carrito (mostrado a continuación de la tabla de cantidades)"
+            ],
+            " refers to discounted items (products with discount) count on cart.": [
+                " referido a la cantidad de elementos con descuento (productos con descuento) en el carrito."
+            ],
+            "Show offer products on product single page": [
+                "Mostrar productos ofertados en la página de producto"
+            ],
+            "Show offer products on cart page": [
+                "Mostrar productos ofertados en la página del carrito"
+            ],
+            "Eligible Free Gifts": [
+                "Regalos gratuitos elegibles"
+            ],
+            "Description (Optional)": [
+                "Descripción (Opcional)"
+            ],
+            "Offer on following products": [
+                "Ofertar en los siguientes productos"
+            ],
+            "Show Sale Badge on Products": [
+                "Mostrar insignia de oferta en los productos"
+            ],
+            "Note: ": [
+                "Nota: "
+            ],
+            "Sale badges will be shown only on products with product based discount rules.": [
+                "Las insignias de oferta se mostrarán solamente en los productos con reglas de descuento por producto."
+            ],
+            "Hide Default Sale Tag (Woocommerce Sale Tag)": [
+                "Ocultar etiqueta de oferta por defecto (Etiqueta de oferta de Woocommerce)"
+            ],
+            "Badge Label": [
+                "Etiqueta de la insignia"
+            ],
+            "Sale": [
+                "Oferta"
+            ],
+            "Badge Style": [
+                "Estilo de la insignia"
+            ],
+            "Badge Position": [
+                "Posición de la insignia"
+            ],
+            "Left": [
+                "Izquierda"
+            ],
+            "Right": [
+                "Derecha"
+            ],
+            "Badge Color": [
+                "Color de la insignia"
+            ],
+            "Label Color": [
+                "Color de la etiqueta"
+            ],
+            "Show Timer on Product Detail Page": [
+                "Mostrar reloj en la página de detalle del producto"
+            ],
+            "Only active pricing rules will be shown": [
+                "Sólo se mostrarán las reglas de precio activas"
+            ],
+            "Timer Position": [
+                "Posición del reloj"
+            ],
+            "Timer Labels": [
+                "Etiquetas del reloj"
+            ],
+            "Hrs": [
+                "Hrs"
+            ],
+            "Mins": [
+                "Mins"
+            ],
+            "Secs": [
+                "Segs"
+            ],
+            "Start Date": [
+                "Fecha de inicio"
+            ],
+            "End Date": [
+                "Fecha final"
+            ],
+            "Timer will be displayed only after the start date.": [
+                "El reloj se mostrará solamente después de la fecha de inicio."
+            ],
+            "Timer Style": [
+                "Estilo del reloj"
+            ],
+            "Border \/ Background Color": [
+                "Color del borde \/ fondo"
+            ],
+            "Timer Display": [
+                "Visualización del reloj"
+            ],
+            "Use {timer} for displaying timer clock.": [
+                "Usa {timer} para mostrar el reloj."
+            ],
+            "# Use shortcode": [
+                "# usa shortcode"
+            ],
+            "# You can use discount rule id for displaying discounts related to specific rule. Eg:": [
+                "# Puedes usar el id de la regla de descuento para mostrar descuentos relativos a una regla específica. P ej."
+            ],
+            "# Multiple ids can also be used. Eg:": [
+                "# También se pueden usar varias id. P ej:"
+            ],
+            "Status:": [
+                "Estado:"
+            ],
+            "Inactive": [
+                "Inactivo"
+            ]
+        }
+    }
+}

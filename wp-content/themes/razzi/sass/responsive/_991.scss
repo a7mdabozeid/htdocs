@@ -1,0 +1,141 @@
+@media (max-width: 991px){
+    .header-v6 {
+        #page {
+            padding-left: 0;
+        }
+    }
+
+    .sidebar-content .primary-sidebar{
+        margin-top: 60px;
+    }
+
+    .footer-widgets .footer-widgets-area:not(.footer-widgets-area-diff) {
+        margin-bottom: 20px;
+    }
+
+    .footer-main .footer-container {
+        display: block;
+        justify-content: center;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    .footer-main .footer-items{
+        display: block;
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .footer-main .footer-items>* {
+        margin: 0 0 30px;
+
+        &:first-child{
+            margin-bottom: 0;
+        }
+    }
+
+    .footer-widgets-area-diff .diff-row > *{
+        width: 50%;
+        margin-bottom: 30px;
+
+        &:last-child{
+            margin-bottom: 0;
+        }
+    }
+
+    .single-post .entry-header {
+        margin-bottom: 30px;
+    }
+
+    .post-wrapper .post-thumbnail {
+        margin-top: 30px;
+    }
+
+    .razzi-map__has-tab {
+        flex-wrap: wrap;
+        margin-top: 0;
+
+        .razzi-map__table{
+            max-width: 100%;
+            flex-basis: 100%;
+            overflow-x: auto;
+            margin-right: 0;
+        }
+
+        .mapboxgl-ctrl-top-right{
+            transform: none;
+        }
+    }
+
+    .razzi-map {
+        .mapboxgl-ctrl-top-right{
+            top:10px;
+        }
+
+        .box-item{
+            padding: 30px 15px;
+
+            &:first-child {
+                padding-top: 0;
+            }
+        }
+
+        .map-title {
+            margin-bottom: 5px;
+        }
+    }
+
+    .razzi-catalog-page {
+        .content-area {
+            width: 100%;
+        }
+
+        &.sidebar-content ,
+        &.content-sidebar {
+            .content-area,
+            .catalog-sidebar {
+                width: 100%;
+            }
+        }
+    }
+
+    .blog-wrapper--grid {
+        .blog-wrapper {
+            width: 50%;
+        }
+    }
+
+    .full-content {
+        .blog-wrapper--grid {
+            &.blog-columns--2 {
+                margin: 0 -15px;
+                .blog-wrapper {
+                    padding: 0 15px;
+                }
+            }
+        }
+    }
+
+    .razzi-history-back {
+		font-size: 24px;
+		line-height: 1;
+        color: var(--rz-header-color-dark);
+
+		.razzi-svg-icon  {
+			display: block;
+		}
+	}
+}
+
+@media (max-width: 782px) {
+    .admin-bar {
+        &.header-sticky .site-header.minimized {
+             top: 46px;
+        }
+
+        &.modal-opened .modal.open {
+            top: 46px;
+        }
+
+    }
+}

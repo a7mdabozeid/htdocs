@@ -1,0 +1,56 @@
+.razzi-product-of-category {
+	&.has-categories {
+		display: flex;
+		justify-content: space-between;
+
+		.razzi-product-of-category__categories {
+			width: 14.6%;
+		}
+
+		.razzi-product-of-category__product {
+			width: calc(85.4% - 30px);
+		}
+	}
+}
+
+.razzi-product-of-category__categories {
+	position: relative;
+	padding: 27px 0 0 30px;
+
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li {
+		margin-bottom: 15px;
+		a {
+			font-weight: 500;
+			font-size: 16px;
+			line-height: 23px;
+			color: #111111;
+			position: relative;
+
+			&:after {
+				content: '';
+				position: absolute;
+				bottom: -1px;
+				left: 0;
+				right: 0;
+				width: 0;
+				height: 1px;
+				background-color: #111111;
+				transition: .5s;
+				opacity: 0;
+			}
+
+			&:hover {
+				&:after {
+					opacity: 1;
+					width: 100%;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+@import "site/header/cart";
+
+.ra-cart-modal .widget_shopping_cart_content {
+	padding-bottom: 310px;
+}
+
+.widget_shopping_cart_content {
+	.woocommerce-mini-cart-item__thumbnail img {
+		max-width: 100px;
+	}
+}

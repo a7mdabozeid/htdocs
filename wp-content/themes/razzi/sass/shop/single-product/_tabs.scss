@@ -1,0 +1,41 @@
+.single-product {
+	div.product {
+		.woocommerce-tabs {
+			margin: 80px 0 0;
+			.panel {
+				max-width: 790px;
+				padding: 0 15px;
+				margin: 45px auto 0 auto;
+			}
+
+			.product-detail-list ul {
+				list-style-type: none;
+			}
+
+			table.shop_attributes {
+				max-width: 730px;
+				margin: 0 auto;
+				th,
+				td {
+					padding: 10px 20px;
+				}
+				th {
+					font-weight: 500;
+					color: var(--rz-color-dark);
+				}
+
+				td {
+					p {
+						margin: 0;
+					}
+				}
+			}
+		}
+
+		.woocommerce-Tabs-panel--description p:first-child {
+			margin-top: 0;
+		}
+
+		
+	}
+}

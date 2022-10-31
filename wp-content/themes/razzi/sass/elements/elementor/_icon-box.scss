@@ -1,0 +1,91 @@
+/*! elementor - v3.4.5 - 12-10-2021 */
+@media (min-width:768px){
+	.elementor-widget-razzi-icon-box.elementor-position-left,
+	.elementor-widget-razzi-icon-box.elementor-position-right {
+		.razzi-icon-box {
+			display:-webkit-box;
+			display:-ms-flexbox;
+			display:flex;
+		}
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-position-left,
+	.elementor-widget-razzi-icon-box.elementor-position-right {
+		.razzi-icon-box__icon {
+			display:-webkit-inline-box;
+			display:-ms-inline-flexbox;
+			display:inline-flex;
+			-webkit-box-flex:0;
+			-ms-flex:0 0 auto;
+			flex:0 0 auto;
+		}
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-position-right .razzi-icon-box {
+		text-align:right;
+		-webkit-box-orient:horizontal;
+		-webkit-box-direction:reverse;
+		-ms-flex-direction:row-reverse;
+		flex-direction:row-reverse;
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-position-left .razzi-icon-box {
+		text-align:left;
+		-webkit-box-orient:horizontal;
+		-webkit-box-direction:normal;
+		-ms-flex-direction:row;
+		flex-direction:row;
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-vertical-align-top .razzi-icon-box {
+		-webkit-box-align:start;
+		-ms-flex-align:start;
+		align-items:flex-start;
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-vertical-align-middle .razzi-icon-box {
+		-webkit-box-align:center;
+		-ms-flex-align:center;
+		align-items:center;
+	}
+
+	.elementor-widget-razzi-icon-box.elementor-vertical-align-bottom .razzi-icon-box {
+		-webkit-box-align:end;
+		-ms-flex-align:end;
+		align-items:flex-end;
+	}
+}
+
+@media (max-width:767px) {
+	.elementor-widget-razzi-icon-box .razzi-icon-box__icon {
+		margin-left:auto!important;
+		margin-right:auto!important;
+		margin-bottom:15px;
+	}
+}
+
+.razzi-icon-box {
+	text-align:center;
+
+	.razzi-img-icon {
+        display: inline-flex;
+
+        img {
+            display: block;
+        }
+    }
+}
+
+.razzi-icon-box__title a {
+	color:inherit;
+}
+
+.razzi-icon-box__content {
+	-webkit-box-flex:1;
+	-ms-flex-positive:1;
+	flex-grow:1;
+}
+
+.razzi-icon-box__description {
+	margin:0;
+}

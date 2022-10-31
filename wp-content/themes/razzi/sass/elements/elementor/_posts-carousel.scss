@@ -1,0 +1,129 @@
+.razzi-posts-carousel{
+    opacity: 0;
+
+    .list-posts{
+        position: relative;
+    }
+
+    .list-posts__inner{
+        display: flex;
+    }
+
+    .blog-wrapper{
+        box-shadow: 0 0 4px rgba($color: #000000, $alpha: 0.02);
+        margin-bottom: 0;
+        height: auto;
+        background-color: #fff;
+    }
+
+    .post-thumbnail{
+        img{
+            display: block;
+        }
+    }
+
+    .post-summary{
+        padding: 25px 40px 37px;
+
+        .post-meta{
+            font-size: 14px;
+            margin-bottom: 10px;
+            color: #767676;
+
+            a {
+                color: #767676;
+
+                &:hover {
+                    color: #111;
+                }
+            }
+        }
+
+        .post-title{
+            margin: 0;
+            font-size: 20px;
+        }
+    }
+
+    .post-button{
+        display: flex;
+        justify-content: center;
+        margin-top: 77px;
+        text-decoration: none;
+    }
+
+    .swiper-pagination{
+        position: relative;
+        margin-top: 30px;
+    }
+
+    .rz-swiper-button{
+        top: calc(50% - 75px);
+    }
+}
+
+.razzi-posts-carousel__heading{
+    text-align: center;
+    margin-bottom: 66px;
+
+    .heading-subtitle{
+        font-size: 13px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: #909090;
+        display: block;
+        margin-bottom: 9px;
+    }
+
+    .heading-title{
+        font-size: 36px;
+        margin: 0;
+    }
+}
+
+// Post 2
+.razzi-posts-carousel-2__heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 67px;
+
+    .heading-title{
+        font-size: 36px;
+        padding-right: 25px;
+        margin: 0;
+    }
+}
+
+.razzi-posts-carousel-2{
+    opacity: 0;
+
+    .list-posts__inner{
+        display: flex;
+    }
+
+    .blog-wrapper {
+        margin-bottom: 0;
+    }
+
+    .entry-header{
+        margin-bottom: 21px;
+    }
+
+    .entry-title {
+        margin-bottom: 10px;
+    }
+
+    a.post-thumbnail{
+        display: flex;
+    }
+
+    .rz-swiper-button{
+        top: calc(50% - 90px);
+    }
+
+    .swiper-pagination{
+        position: relative;
+        margin-top: 30px;
+    }
+}

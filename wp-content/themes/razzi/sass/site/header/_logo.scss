@@ -1,0 +1,81 @@
+.site-branding {
+	flex: 0 1 auto;
+	position: relative;
+	z-index: 100;
+
+	.logo {
+		position: relative;
+		transition: none;
+
+		&:hover {
+			text-decoration: none;
+		}
+
+		img {
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		.logo-transparent {
+			opacity: 0;
+			visibility: hidden;
+			transition: .5s;
+		}
+
+		&.logo-text {
+			font-weight: 600;
+			font-size: 28px;
+			line-height: 41px;
+			color: var(--rz-header-color-dark);
+		}
+
+		svg {
+			vertical-align: middle;
+		}
+	}
+
+	.logo-light {
+		opacity: 0;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	.site-title,
+	.site-description {
+		@extend .screen-reader-text;
+	}
+}
+
+.header-transparent {
+	.site-branding {
+		.logo.active-logo {
+			.logo-transparent {
+				opacity: 1;
+				visibility: visible;
+			}
+			.logo-main {
+				opacity: 0;
+				visibility: hidden;
+				transition: .5s;
+			}
+		}
+	}
+
+	.site-header{
+		&.minimized {
+			.site-branding {
+				.logo.active-logo {
+					.logo-transparent {
+						opacity: 0;
+						visibility: hidden;
+					}
+					.logo-main {
+						opacity: 1;
+						visibility: visible;
+					}
+				}
+			}
+		}
+	}
+}

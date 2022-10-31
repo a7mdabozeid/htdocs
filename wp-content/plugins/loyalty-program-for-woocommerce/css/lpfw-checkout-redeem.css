@@ -1,0 +1,80 @@
+.lpfw-checkout-redeem-row {
+  font-size: 15px;
+  line-height: 1.3em;
+}
+.lpfw-checkout-redeem-row p {
+  margin: 0 0 0.5em;
+}
+.lpfw-checkout-redeem-row p.summary,
+.lpfw-checkout-redeem-row p.description,
+.lpfw-checkout-redeem-row p.my-points-link {
+  font-size: 0.85em;
+}
+.lpfw-checkout-redeem-row .lpfw-points-status {
+  margin-bottom: 1em;
+}
+.lpfw-checkout-redeem-row .lpfw-checkout-redeem-form .lpfw-fields {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  margin-left: 2px;
+  margin-bottom: 0.5em;
+  column-gap: 5px;
+  row-gap: 5px;
+}
+.lpfw-checkout-redeem-row .lpfw-checkout-redeem-form .lpfw-fields * {
+  font-size: 0.8em;
+  width: 100%;
+}
+.lpfw-checkout-redeem-row .lpfw-checkout-redeem-form input {
+  /* width: calc(100% - 100px); */
+  flex-grow: 2;
+}
+body.lpfw-checkout-smallwidth .lpfw-checkout-redeem-row .lpfw-checkout-redeem-form .lpfw-fields {
+  flex-flow: column;
+}
+.lpfw-checkout-redeem-row .lpfw-checkout-redeem-form input.error {
+  outline: 2px solid #cc0000;
+}
+.lpfw-user-coupons .lpfw-coupon-btn {
+  margin: 0.3em 0.2em;
+  padding: 0.5em 0.7em;
+  font-size: 0.8em;
+  font-weight: normal;
+  text-align: left;
+}
+.lpfw-user-coupons .lpfw-coupon-btn strong {
+  margin-right: 0.3em;
+}
+
+.lpfw-checkout-redeem-row svg.caret-icon {
+  position: absolute;
+  top: -3px;
+  left: -22px;
+  color: inherit;
+  margin: 0;
+  transition: transform 0.5s ease;
+}
+.lpfw-checkout-redeem-row p.toggled svg.caret-icon {
+  transform: rotate(90deg);
+}
+
+.lpfw-checkout-redeem-row p.toggle-trigger {
+  cursor: pointer;
+  position: relative;
+}
+
+.lpfw-checkout-redeem-row .toggle-block {
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+.lpfw-checkout-redeem-row .lpfw-checkout-redeem-form .toggle-block {
+  max-height: 300px;
+  
+}
+.lpfw-checkout-redeem-row .lpfw-user-coupons .toggle-block {
+  max-height: 1000px;
+}
+.lpfw-checkout-redeem-row .toggle-block.hide {
+  max-height: 0;
+}

@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: backend.js
+msgid "Product Labels"
+msgstr ""
+
+#: backend.js
+msgid "Add New Badge"
+msgstr ""
+
+#: backend.js
+msgid "Back"
+msgstr ""
+
+#: backend.js
+msgid "Product Lists"
+msgstr ""
+
+#: backend.js
+msgid "Add New List"
+msgstr ""
+
+#: backend.js
+msgid "Settings"
+msgstr ""
+
+#: backend.js
+msgid "From Date / Time"
+msgstr ""
+
+#: backend.js
+msgid "To Date / Time"
+msgstr ""
+
+#: backend.js
+msgid "End date should be greater than start date"
+msgstr ""
+
+#: backend.js
+msgid "Pick a date"
+msgstr ""
+
+#: backend.js
+msgid "IN"
+msgstr ""
+
+#: backend.js
+msgid "NOT IN"
+msgstr ""
+
+#: backend.js
+msgid "Select Relation"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Category"
+msgstr ""
+
+#: backend.js
+msgid "No categories found"
+msgstr ""
+
+#: backend.js
+msgid "No tags found"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Tags"
+msgstr ""
+
+#: backend.js
+msgid "Category"
+msgstr ""
+
+#: backend.js
+msgid "Tag"
+msgstr ""
+
+#: backend.js
+msgid "Select Type"
+msgstr ""
+
+#: backend.js
+msgid "AND"
+msgstr ""
+
+#: backend.js
+msgid "OR"
+msgstr ""
+
+#: backend.js
+msgid "Add Relations"
+msgstr ""
+
+#: backend.js
+msgid "All"
+msgstr ""
+
+#: backend.js
+msgid "Product List"
+msgstr ""
+
+#: backend.js
+msgid "Edit badge"
+msgstr ""
+
+#: backend.js
+msgid "Add New"
+msgstr ""
+
+#: backend.js
+msgid "SALE"
+msgstr ""
+
+#: backend.js
+msgid "Title"
+msgstr ""
+
+#: backend.js
+msgid "Enter title"
+msgstr ""
+
+#: backend.js
+msgid "CSS Badges"
+msgstr ""
+
+#: backend.js
+msgid "Schedule"
+msgstr ""
+
+#: backend.js
+msgid "TEXT OPTIONS"
+msgstr ""
+
+#: backend.js
+msgid "Badge Label"
+msgstr ""
+
+#: backend.js
+msgid "Use texts "
+msgstr ""
+
+#: backend.js
+msgid "{day} {month} {year}"
+msgstr ""
+
+#: backend.js
+msgid " for dynamic values"
+msgstr ""
+
+#: backend.js
+msgid "*For dynamic labels, badge width will be set to auto"
+msgstr ""
+
+#: backend.js
+msgid "Text Color"
+msgstr ""
+
+#: backend.js
+msgid "Font Size (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "in PX"
+msgstr ""
+
+#: backend.js
+msgid "Line Height (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "BADGE STYLES"
+msgstr ""
+
+#: backend.js
+msgid "STYLE OPTIONS"
+msgstr ""
+
+#: backend.js
+msgid "Badge Color"
+msgstr ""
+
+#: backend.js
+msgid "Width (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "Height (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "Border Radius (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "Top Left"
+msgstr ""
+
+#: backend.js
+msgid "Top Right"
+msgstr ""
+
+#: backend.js
+msgid "Bottom Left"
+msgstr ""
+
+#: backend.js
+msgid "Bottom Right"
+msgstr ""
+
+#: backend.js
+msgid "OPACITY AND POSITION"
+msgstr ""
+
+#: backend.js
+msgid "Opacity"
+msgstr ""
+
+#: backend.js
+msgid "Rotation"
+msgstr ""
+
+#: backend.js
+msgid "Flip Text"
+msgstr ""
+
+#: backend.js
+msgid "Horizontal"
+msgstr ""
+
+#: backend.js
+msgid "Vertical"
+msgstr ""
+
+#: backend.js
+msgid "Badge Position"
+msgstr ""
+
+#: backend.js
+msgid "Badge Position (Pixel)"
+msgstr ""
+
+#: backend.js
+msgid "Top"
+msgstr ""
+
+#: backend.js
+msgid "Bottom"
+msgstr ""
+
+#: backend.js
+msgid "Left"
+msgstr ""
+
+#: backend.js
+msgid "Right"
+msgstr ""
+
+#: backend.js
+msgid "USE PRODUCT SALE SCHEDULE"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Default woocommerce sale schedule will be used, you can set the schedule on "
+"products page."
+msgstr ""
+
+#: backend.js
+msgid "CUSTOM SCHEDULE"
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Please set date / time based on your server time settings. Current Server "
+"Date / Time: "
+msgstr ""
+
+#: backend.js
+msgid "ASSIGN TO ALL PRODUCTS ON SALE"
+msgstr ""
+
+#: backend.js
+msgid "Badge Status"
+msgstr ""
+
+#: backend.js
+msgid "Enable / Disable Badge"
+msgstr ""
+
+#: backend.js
+msgid "PUBLISH"
+msgstr ""
+
+#: backend.js
+msgid "UPDATE"
+msgstr ""
+
+#: backend.js
+msgid "Remove Badge"
+msgstr ""
+
+#: backend.js
+msgid "All badge related datas will be removed."
+msgstr ""
+
+#: backend.js
+msgid "Are you sure to proceed?"
+msgstr ""
+
+#: backend.js
+msgid "NO"
+msgstr ""
+
+#: backend.js
+msgid "YES"
+msgstr ""
+
+#: backend.js
+msgid "Deleting.. Please Wait.."
+msgstr ""
+
+#: backend.js
+msgid "No badges found."
+msgstr ""
+
+#: backend.js
+msgid "TITLE"
+msgstr ""
+
+#: backend.js
+msgid "LABEL"
+msgstr ""
+
+#: backend.js
+msgid "STYLE"
+msgstr ""
+
+#: backend.js
+msgid "DATE"
+msgstr ""
+
+#: backend.js
+msgid "STATUS"
+msgstr ""
+
+#: backend.js
+msgid "Upgrade"
+msgstr ""
+
+#: backend.js
+msgid "Upgrade to Pro version Now!"
+msgstr ""
+
+#: backend.js
+msgid "Thanks for using our plugin"
+msgstr ""
+
+#: backend.js
+msgid "Want more options? Consider upgrading to our pro version"
+msgstr ""
+
+#: backend.js
+msgid "250+ predefined badges to choose from.."
+msgstr ""
+
+#: backend.js
+msgid "Women's Day Sale badges."
+msgstr ""
+
+#: backend.js
+msgid "Valentines Day Sale badges."
+msgstr ""
+
+#: backend.js
+msgid "Seasonal badges."
+msgstr ""
+
+#: backend.js
+msgid "Advanced badges."
+msgstr ""
+
+#: backend.js
+msgid "Option to upload / use images from media as badges on your products."
+msgstr ""
+
+#: backend.js
+msgid "Sale timers and much more.."
+msgstr ""
+
+#: backend.js
+msgid "Upgrade Now >"
+msgstr ""
+
+#: backend.js
+msgid "Delete"
+msgstr ""
+
+#: backend.js
+msgid "will be removed."
+msgstr ""
+
+#: backend.js
+msgid "Are you sure to proceed."
+msgstr ""
+
+#: backend.js
+msgid "Please confirm to duplicate badge "
+msgstr ""
+
+#: backend.js
+msgid "CONFIRM"
+msgstr ""
+
+#: backend.js
+msgid "Duplicating.. Please Wait.."
+msgstr ""
+
+#: backend.js
+msgid "Edit"
+msgstr ""
+
+#: backend.js
+msgid "Woocommerce Badges"
+msgstr ""
+
+#: backend.js
+msgid "Duplicate"
+msgstr ""
+
+#: backend.js
+msgid "Products Selection"
+msgstr ""
+
+#: backend.js
+msgid "Dynamic Request"
+msgstr ""
+
+#: backend.js
+msgid "Edit rule"
+msgstr ""
+
+#: backend.js
+msgid "List Name"
+msgstr ""
+
+#: backend.js
+msgid "Enter Rule Name"
+msgstr ""
+
+#: backend.js
+msgid "Type"
+msgstr ""
+
+#: backend.js
+msgid "Select List Type"
+msgstr ""
+
+#: backend.js
+msgid "Taxonomy Relation"
+msgstr ""
+
+#: backend.js
+msgid "Select Combination Relation"
+msgstr ""
+
+#: backend.js
+msgid "Taxonomy Combinations"
+msgstr ""
+
+#: backend.js
+msgid "Exclude Products"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Products"
+msgstr ""
+
+#: backend.js
+msgid "No products found"
+msgstr ""
+
+#: backend.js
+msgid "*Start typing to select the product from the list."
+msgstr ""
+
+#: backend.js
+msgid "Products"
+msgstr ""
+
+#: backend.js
+msgid "Remove List"
+msgstr ""
+
+#: backend.js
+msgid "All related datas will be removed."
+msgstr ""
+
+#: backend.js
+msgid "No product lists found."
+msgstr ""
+
+#: backend.js
+msgid "Default"
+msgstr ""
+
+#: backend.js
+msgid "General Settings"
+msgstr ""
+
+#: backend.js
+msgid "Single Page Settings"
+msgstr ""
+
+#: backend.js
+msgid "Hide Default 'Woocommerce / Theme Sale Badges'"
+msgstr ""
+
+#: backend.js
+msgid "Note: "
+msgstr ""
+
+#: backend.js
+msgid ""
+"If enabled default 'Woocommerce Sale Tag' wil be no longer shown on "
+"products on sale"
+msgstr ""
+
+#: backend.js
+msgid "Show 'Dynamic Pricing With Discount Rules for WooCommerce' Product Lists"
+msgstr ""
+
+#: backend.js
+msgid ""
+"To enable this 'Dynamic Pricing With Discount Rules for WooCommerce' plugin "
+"should be installed on your site"
+msgstr ""
+
+#: backend.js
+msgid "Enable Product Loop Hook"
+msgstr ""
+
+#: backend.js
+msgid "Enable Product Title Hook"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Please enable this option only if the badges are not getting displayed on "
+"your products or else this might cause mutiple / repeated badges on product."
+msgstr ""
+
+#: backend.js
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: backend.js
+msgid "Show Badge on Product Detail Page"
+msgstr ""
+
+#: backend.js
+msgid "Enable / Disable badge on product detail page."
+msgstr ""
+
+#: backend.js
+msgid "Single Page Wrapper Class"
+msgstr ""
+
+#: backend.js
+msgid "Use this only if single page doesn't show badges"
+msgstr ""
+
+#: backend.js
+msgid "Class Name"
+msgstr ""

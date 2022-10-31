@@ -1,0 +1,99 @@
+.elementor-widget-razzi-products-recently-viewed-carousel.elementor-widget-empty{
+    background-color: transparent;
+
+    .elementor-widget-empty-icon{
+        display: none;
+    }
+}
+
+.razzi-products-recently-viewed-carousel{
+    margin: 0 -15px 0;
+
+    .swiper-container {
+        padding: 0 15px;
+    }
+
+    &.no-ajax{
+        opacity: 0;
+    }
+
+    .products-content{
+        min-height: 40px;
+        z-index: 100;
+
+        &.swiper-container-initialized{
+            z-index: 1;
+        }
+    }
+
+    &.has-ajax{
+        .swiper-scrollbar{
+            opacity: 0;
+        }
+
+        &.loaded{
+            .swiper-scrollbar{
+                opacity: 1;
+            }
+        }
+    }
+
+    .rz-swiper-button-next {
+        right: 15px;
+    }
+
+    .rz-swiper-button-prev {
+        left: 15px;
+    }
+}
+
+.razzi-products-recently-viewed-grid{
+    .product-list{
+        .product-thumbnail{
+            font-size: 0;
+        }
+    }
+
+    .products-tool{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 35px;
+
+        .posts-found{
+            padding-right: 25px;
+        }
+
+        .count{
+            color: var(--rz-color-primary);
+        }
+
+        .reset-button{
+            font-weight: 500;
+
+            &:before {
+                display: inline-block;
+                line-height: 1;
+                vertical-align: middle;
+                margin-right: 7px;
+                margin-top: -3px;
+                width: 16px;
+                height: 16px;
+                content: '';
+                background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZwdCIgaGVpZ2h0PSIxNnB0IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHZlcnNpb249IjEuMSI+CjxnIGlkPSJzdXJmYWNlMSI+CjxwYXRoIHN0eWxlPSIgc3Ryb2tlOm5vbmU7ZmlsbC1ydWxlOm5vbnplcm87ZmlsbDpyZ2IoMCUsMCUsMCUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSA4IDAuMTYwMTU2IEwgOCA2LjQzMzU5NCBMIDExLjEzNjcxOSAzLjI5Njg3NSBaIE0gOCAwLjE2MDE1NiAiLz4KPHBhdGggc3R5bGU9IiBzdHJva2U6bm9uZTtmaWxsLXJ1bGU6bm9uemVybztmaWxsOnJnYigwJSwwJSwwJSk7ZmlsbC1vcGFjaXR5OjE7IiBkPSJNIDggMTUuODM5ODQ0IEMgNC4zMzk4NDQgMTUuODM5ODQ0IDEuMzYzMjgxIDEyLjg1OTM3NSAxLjM2MzI4MSA5LjIwMzEyNSBDIDEuMzYzMjgxIDUuNTQyOTY5IDQuMzM5ODQ0IDIuNTYyNSA4IDIuNTYyNSBMIDggNC4wMjczNDQgQyA1LjE3NTc4MSA0LjAyNzM0NCAyLjgyNDIxOSA2LjMyODEyNSAyLjgyNDIxOSA5LjIwMzEyNSBDIDIuODI0MjE5IDEyLjA3ODEyNSA1LjEyNSAxNC4zNzUgOCAxNC4zNzUgQyAxMC44NzUgMTQuMzc1IDEzLjE3NTc4MSAxMi4wNzgxMjUgMTMuMTc1NzgxIDkuMjAzMTI1IEwgMTQuNjM2NzE5IDkuMjAzMTI1IEMgMTQuNjM2NzE5IDEyLjg1OTM3NSAxMS42NjAxNTYgMTUuODM5ODQ0IDggMTUuODM5ODQ0IFogTSA4IDE1LjgzOTg0NCAiLz4KPC9nPgo8L3N2Zz4K);
+                background-size: cover;
+            }
+        }
+    }
+
+    .woocommerce-pagination{
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    &.has-products {
+        .no-products {
+            display: none;
+        }
+    }
+}

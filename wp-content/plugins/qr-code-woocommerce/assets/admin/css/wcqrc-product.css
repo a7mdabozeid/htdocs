@@ -1,0 +1,81 @@
+.wcqrc-refresh {
+  float: right;
+}
+.wcqrc-refresh:before {
+  padding-top: 3px;
+}
+.product-qr-code-img {
+  max-width: 100%;
+}
+.product-qr-code-container {
+  text-align: left;
+  width: 100%;
+  clear: both;
+}
+
+.print-qr {
+  cursor: pointer;
+  color: #0073aa;
+}
+
+.simple-qr-del {
+  display: block;
+}
+.wooqrcode {
+    width: 250px;
+}
+.panel-wrap.product_data {
+  position: relative;
+}
+.wooqr_actions {
+  padding: 10px 0 10px 10px;
+  background: #fafafa;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+#qr_code_tab_data {
+  padding-bottom: 40px;
+}
+
+/* Bulk QR Generator */
+.product-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 185px);
+}
+.product-grid-item {
+    overflow: hidden;
+padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.product-grid-item .wooqr_actions {
+    position: relative;
+    background: transparent;
+}
+.product-grid-item .product-qr-code-img {
+    max-width: 100%;
+}
+
+.product-grid-item .bulk_product-qr-code-title, .bulk_product-qr-code-price{ font-size:13px}
+
+.wooqr-search-wrap {
+    width: 480px;
+    margin: 0 auto 40px;
+}
+
+.wooqr-search-wrap > input {
+    width: 100%;
+    border-radius: 0px;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+.product-grid-item .wooqr_actions {
+    padding: 10px 0 10px 0px;   
+}
+
+.product-grid-item .result {
+    border:1px solid;   
+}
+.panel.woocommerce_options_panel .result .no_single, .product-grid-item .result .button-primary span{display:none}

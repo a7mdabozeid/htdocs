@@ -1,0 +1,185 @@
+
+// The full wrap on the timer.
+.woo-cart-timer-wrap {
+	position: fixed;
+	top: 5%;
+	right: 5%;
+	z-index: 9999;
+
+	&.woo-cart-timer-wrap-hidden {
+		display: none;
+		visibility: hidden;
+	}
+}
+
+
+.woo-cart-timer-radial {
+
+	overflow: hidden;
+	height: $timer_size;
+	width: $timer_size;
+	position: relative;
+	background-color: transparent;
+	border-radius: 50%;
+	border-color: #fff;
+	-webkit-box-shadow: 0 0 2px 2px rgba(0,0,0,0.1);
+	box-shadow: 0 0 2px 2px rgba(0,0,0,0.1);
+
+	.woo-cart-timer-radial-half {
+		height: $timer_size;
+		width: $timer_size / 2;
+		border-radius: $timer_size / 2 0 0 $timer_size / 2;
+		background: $timer_color_standard;
+		position: absolute;
+		border-color: #fff;
+
+		&:nth-of-type(2) {
+			z-index: 500;
+			-webkit-transform-origin: center right;
+			-webkit-transform: rotate( 180deg );
+		}
+
+		&:before {
+			content: "";
+			position: absolute;
+			top: $timer_thick;
+			left: $timer_thick;
+			height: $timer_size - 2 * $timer_thick;
+			width: ( $timer_size - 2 * $timer_thick ) / 2;
+			border-radius: ( $timer_size - $timer_thick ) / 2 0 0 ( $timer_size - $timer_thick ) / 2;
+			background: $timer_bg;
+		}
+
+		&:after {
+			content: "";
+			position: absolute;
+			background: $timer_bg;
+			height: $timer_size * 2;
+			width: $timer_size * 1.5;
+			left: -$timer_size;
+			top: -$timer_size / 2;
+			-webkit-transform-origin: center right;
+		}
+	}
+
+	&.woo-cart-timer-radial-expire-closer {
+
+		.woo-cart-timer-radial-half {
+			background: $timer_color_closer;
+		}
+	}
+
+	&.woo-cart-timer-radial-expire-warning {
+
+		.woo-cart-timer-radial-half {
+			background: $timer_color_warning;
+		}
+	}
+
+	&.woo-cart-timer-radial-expire-soon {
+
+		.woo-cart-timer-radial-half {
+			background: $timer_color_soon;
+		}
+	}
+
+	&.woo-cart-timer-radial-expire-full {
+
+		border-color: $timer_color_soon;
+
+		.woo-cart-timer-radial-half {
+			// background: $timer_color_soon;
+			@include backcolor( 255, 50, 50, 0.1 );
+
+			&:nth-of-type(2) {
+				z-index: 500;
+			}
+
+			&:before {
+				content: "";
+				position: absolute;
+				top: $timer_thick;
+				left: $timer_thick;
+				height: $timer_size - 2 * $timer_thick;
+				width: ( $timer_size - 2 * $timer_thick ) / 2;
+				border-radius: ( $timer_size - $timer_thick ) / 2 0 0 ( $timer_size - $timer_thick ) / 2;
+				@include backcolor( 255, 50, 50, 0.3 );
+			}
+
+			&:after {
+				content: "";
+				position: absolute;
+				height: $timer_size * 2;
+				width: $timer_size * 1.5;
+				left: -$timer_size;
+				top: -$timer_size / 2;
+				// background: $timer_bg;
+				@include backcolor( 255, 50, 50, 0.3 );
+			}
+
+		}
+	}
+
+	&.woo-cart-timer-radial-expire-pulse {
+		animation: pulseTimer 2s infinite;
+	}
+
+	&.woo-cart-radial-animate {
+		-webkit-transform-origin: center right;
+		.woo-cart-timer-radial-half:nth-of-type(1):after {
+			-webkit-animation: rotateLeftMask $timer_duration infinite linear;
+		}
+		.woo-cart-timer-radial-half:nth-of-type(2):after {
+			-webkit-animation: rotateRightMask $timer_duration infinite linear;
+		}
+	}
+}
+
+#woo-cart-expire-countdown {
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	position: absolute;
+	z-index: 501;
+	width: 100%;
+	height: auto;
+	top: 35%;
+	left: 0;
+
+	.expire-value {
+
+		font-size: 18px;
+		line-height: 18px;
+		color: #000;
+
+		&.expire-minutes {
+
+			&:after {
+				content: ":";
+				font-size: 14px;
+				line-height: 18px;
+				padding: 0 1px;
+			}
+		}
+
+		&.expire-seconds {}
+	}
+}
+
+// Set the new font color.
+.woo-cart-timer-radial-expire-full {
+
+	#woo-cart-expire-countdown {
+
+		.expire-value {
+			color: #fff;
+			text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+		}
+	}
+
+}
+
+@media only screen and (max-width: 782px) {}
+
+
+@media only screen and (max-width: 600px) {}

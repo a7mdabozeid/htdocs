@@ -1,0 +1,696 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/backend.js:25
+msgid "Pricing Rules"
+msgstr ""
+
+#: src/backend.js:27
+msgid "Add New Rule"
+msgstr ""
+
+#: src/backend.js:49
+#: src/details.js:543
+msgid "Product Lists"
+msgstr ""
+
+#: src/backend.js:51
+msgid "Add New List"
+msgstr ""
+
+#: src/backend.js:52
+msgid "Back"
+msgstr ""
+
+#: src/backend.js:73
+msgid "Settings"
+msgstr ""
+
+#: src/components/FormGroup.jsx:219
+msgid "Equal to"
+msgstr ""
+
+#: src/components/FormGroup.jsx:220
+msgid "Less than"
+msgstr ""
+
+#: src/components/FormGroup.jsx:221
+msgid "Less than or Equal"
+msgstr ""
+
+#: src/components/FormGroup.jsx:222
+msgid "Greater than"
+msgstr ""
+
+#: src/components/FormGroup.jsx:223
+msgid "Greater than or Equal"
+msgstr ""
+
+#: src/components/FormGroup.jsx:229
+#: src/components/TaxonomyGroup.jsx:248
+msgid "Select Item"
+msgstr ""
+
+#: src/components/FormGroup.jsx:234
+msgid "Product price"
+msgstr ""
+
+#: src/components/FormGroup.jsx:239
+msgid "Cart total amount"
+msgstr ""
+
+#: src/components/FormGroup.jsx:247
+msgid "Cart total quantity"
+msgstr ""
+
+#: src/components/FormGroup.jsx:251
+msgid "Cart items count"
+msgstr ""
+
+#: src/components/FormGroup.jsx:347
+msgid "Select Discount Mode"
+msgstr ""
+
+#: src/components/FormGroup.jsx:367
+#: src/components/QuantityRange.jsx:137
+msgid "Remove"
+msgstr ""
+
+#: src/components/FormGroup.jsx:385
+#: src/components/TaxonomyGroup.jsx:382
+#: src/product_detail.js:437
+msgid "AND"
+msgstr ""
+
+#: src/components/FormGroup.jsx:386
+#: src/components/TaxonomyGroup.jsx:383
+#: src/product_detail.js:438
+msgid "OR"
+msgstr ""
+
+#: src/components/FormGroup.jsx:400
+#: src/components/QuantityRange.jsx:143
+msgid "Add"
+msgstr ""
+
+#: src/components/FormGroup.jsx:406
+msgid "Group Remove"
+msgstr ""
+
+#: src/components/FormGroup.jsx:418
+msgid "Add Group"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:106
+#: src/details.js:554
+#: src/listing.js:137
+msgid "Discount Type"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:110
+msgid "Percentage"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:111
+msgid "Fixed price"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:121
+#: src/listing.js:137
+msgid "Value"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:89
+msgid "Minimum Quantity"
+msgstr ""
+
+#: src/components/QuantityRange.jsx:98
+msgid "Maximum Quantity"
+msgstr ""
+
+#: src/components/Scheduler.jsx:105
+msgid "From Date"
+msgstr ""
+
+#: src/components/Scheduler.jsx:123
+msgid "To Date"
+msgstr ""
+
+#: src/components/Scheduler.jsx:124
+msgid "End date should be greater than start date."
+msgstr ""
+
+#: src/components/SideBar.jsx:12
+msgid "Upgrade"
+msgstr ""
+
+#: src/components/SideBar.jsx:14
+msgid "Thanks for using our plugin"
+msgstr ""
+
+#: src/components/SideBar.jsx:14
+msgid "Want more options? Consider upgrading to our pro version"
+msgstr ""
+
+#: src/components/SideBar.jsx:14
+msgid "Click on the link below"
+msgstr ""
+
+#: src/components/SideBar.jsx:15
+msgid "Upgrade Now"
+msgstr ""
+
+#: src/components/SideBar.jsx:18
+msgid "Dedicated Support"
+msgstr ""
+
+#: src/components/SideBar.jsx:19
+msgid ""
+"Our support is what makes us No 1. We are available round the clock for any "
+"support"
+msgstr ""
+
+#: src/components/SideBar.jsx:20
+msgid "Contact Support"
+msgstr ""
+
+#: src/components/SideBar.jsx:23
+msgid "Full Documentation"
+msgstr ""
+
+#: src/components/SideBar.jsx:24
+msgid "Look for any helps in our documentation if you are stuck with anything"
+msgstr ""
+
+#: src/components/SideBar.jsx:25
+msgid "Read More"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:253
+msgid "Category"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:261
+msgid "Tag"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:264
+msgid "IN"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:265
+msgid "NOT IN"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:36
+msgid "Select Relation"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:416
+msgid "Add Relations"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:51
+msgid "Select Category"
+msgstr ""
+
+#: src/components/TaxonomyGroup.jsx:77
+msgid "Select Tag"
+msgstr ""
+
+#: src/details.js:289
+#: src/product_detail.js:202
+msgid "Edit rule"
+msgstr ""
+
+#: src/details.js:291
+#: src/product_detail.js:218
+msgid "Add New"
+msgstr ""
+
+#: src/details.js:47
+msgid "Select discount type"
+msgstr ""
+
+#: src/details.js:48
+msgid "Product Rules"
+msgstr ""
+
+#: src/details.js:481
+msgid "Saving Changes..."
+msgstr ""
+
+#: src/details.js:488
+msgid "Allo Good day !!"
+msgstr ""
+
+#: src/details.js:489
+msgid ""
+"Setting the discount rate is easy. Just play with the below settings and "
+"watch the changes"
+msgstr ""
+
+#: src/details.js:49
+msgid "Fixed Discount for Product price"
+msgstr ""
+
+#: src/details.js:495
+msgid "Discount Settings"
+msgstr ""
+
+#: src/details.js:496
+#: src/listing.js:137
+msgid "Schedule"
+msgstr ""
+
+#: src/details.js:497
+msgid "Rules and Restrictions"
+msgstr ""
+
+#: src/details.js:50
+msgid "Percentage of product price"
+msgstr ""
+
+#: src/details.js:504
+msgid "Rule Name"
+msgstr ""
+
+#: src/details.js:507
+#: src/product_detail.js:407
+msgid "Enter rule name"
+msgstr ""
+
+#: src/details.js:51
+msgid "Cart Rules"
+msgstr ""
+
+#: src/details.js:512
+#: src/listing.js:137
+msgid "Priority"
+msgstr ""
+
+#: src/details.js:516
+msgid "Enter discount priority"
+msgstr ""
+
+#: src/details.js:52
+msgid "Fixed Discount for cart total amount"
+msgstr ""
+
+#: src/details.js:520
+msgid "Active"
+msgstr ""
+
+#: src/details.js:53
+msgid "Percentage of cart total amount"
+msgstr ""
+
+#: src/details.js:530
+msgid ""
+"*Cart based rules will have the least priority and will be applied once the "
+"product is added to the cart."
+msgstr ""
+
+#: src/details.js:533
+msgid "Apply discount only for registered customers."
+msgstr ""
+
+#: src/details.js:54
+msgid "Quantity Rules"
+msgstr ""
+
+#: src/details.js:55
+msgid "Quantity based discount"
+msgstr ""
+
+#: src/details.js:565
+msgid ""
+"*Discounts will be applied as Coupon with Discount Label ( Settings -> "
+"Discount Label )"
+msgstr ""
+
+#: src/details.js:583
+msgid "Quantity Based Discount"
+msgstr ""
+
+#: src/details.js:584
+msgid "You can set quantity based discounts on cart items / products"
+msgstr ""
+
+#: src/details.js:587
+#: src/product_detail.js:410
+msgid "Type"
+msgstr ""
+
+#: src/details.js:591
+msgid "Discount on individual product quantity"
+msgstr ""
+
+#: src/details.js:592
+msgid "Discount on cart items count (different products count)"
+msgstr ""
+
+#: src/details.js:593
+msgid "Discount on cart quantity"
+msgstr ""
+
+#: src/details.js:60
+msgid "All"
+msgstr ""
+
+#: src/details.js:602
+msgid "Show pricing table"
+msgstr ""
+
+#: src/details.js:611
+msgid "Table layout"
+msgstr ""
+
+#: src/details.js:615
+msgid "Vertical"
+msgstr ""
+
+#: src/details.js:616
+msgid "Horizontal"
+msgstr ""
+
+#: src/details.js:64
+msgid "Product List"
+msgstr ""
+
+#: src/details.js:659
+msgid ""
+"*Discount value display settings can be managed from Settings -> Pricing "
+"Table -> Pricing Table Value Display"
+msgstr ""
+
+#: src/details.js:665
+#: src/settings.js:225
+msgid "Discount Value"
+msgstr ""
+
+#: src/details.js:669
+msgid "Discount percentage / amount"
+msgstr ""
+
+#: src/details.js:687
+msgid ""
+"Apply sequentially (When applying multiple discounts, apply the first "
+"discount to the full price and the second discount to the discounted price "
+"and so on.)"
+msgstr ""
+
+#: src/details.js:703
+msgid "Disable discount if product is on sale"
+msgstr ""
+
+#: src/details.js:718
+msgid "Schedule Discount Sale"
+msgstr ""
+
+#: src/details.js:719
+msgid "You can set schedule discount sales using the provided options"
+msgstr ""
+
+#: src/details.js:735
+msgid "Apply Rules"
+msgstr ""
+
+#: src/details.js:736
+msgid "You can set discount rule using the provided options"
+msgstr ""
+
+#: src/details.js:737
+msgid ""
+"*All cart based rules will be applied as Virtual Coupons with Discount "
+"Label ( Settings -> Discount Label )"
+msgstr ""
+
+#: src/details.js:755
+#: src/listing.js:174
+#: src/product_detail.js:515
+#: src/product_listing.js:150
+msgid "Delete"
+msgstr ""
+
+#: src/details.js:761
+#: src/product_detail.js:521
+msgid "Publish"
+msgstr ""
+
+#: src/details.js:761
+#: src/product_detail.js:521
+msgid "Update"
+msgstr ""
+
+#: src/details.js:771
+msgid "All discount related datas will be removed."
+msgstr ""
+
+#: src/details.js:772
+#: src/product_detail.js:531
+#: src/product_listing.js:130
+msgid "Are you sure to proceed?"
+msgstr ""
+
+#: src/details.js:776
+#: src/listing.js:149
+#: src/product_detail.js:535
+#: src/product_listing.js:133
+msgid "No"
+msgstr ""
+
+#: src/details.js:782
+#: src/listing.js:154
+#: src/product_detail.js:541
+#: src/product_listing.js:138
+msgid "Yes"
+msgstr ""
+
+#: src/details.js:785
+#: src/listing.js:157
+#: src/product_listing.js:141
+msgid "Deleting.. Please Wait.."
+msgstr ""
+
+#: src/listing.js:129
+msgid "No product rules found."
+msgstr ""
+
+#: src/listing.js:137
+#: src/product_listing.js:121
+msgid "Title"
+msgstr ""
+
+#: src/listing.js:137
+msgid "Status"
+msgstr ""
+
+#: src/listing.js:137
+#: src/product_listing.js:121
+msgid "Actions"
+msgstr ""
+
+#: src/listing.js:145
+#: src/product_listing.js:129
+msgid "will be removed."
+msgstr ""
+
+#: src/listing.js:146
+msgid "Are you sure to proceed."
+msgstr ""
+
+#: src/listing.js:166
+msgid "Pricing Rule"
+msgstr ""
+
+#: src/listing.js:174
+#: src/product_listing.js:150
+msgid "Edit"
+msgstr ""
+
+#: src/product_detail.js:404
+msgid "List Name"
+msgstr ""
+
+#: src/product_detail.js:425
+msgid "Taxonomy Relation"
+msgstr ""
+
+#: src/product_detail.js:443
+msgid "Taxonomies"
+msgstr ""
+
+#: src/product_detail.js:451
+msgid "Exclude Products"
+msgstr ""
+
+#: src/product_detail.js:483
+msgid "Products"
+msgstr ""
+
+#: src/product_detail.js:506
+msgid "*Start typing to select the product from the list."
+msgstr ""
+
+#: src/product_detail.js:530
+msgid "All related datas will be removed."
+msgstr ""
+
+#: src/product_listing.js:114
+msgid "No product lists found."
+msgstr ""
+
+#: src/product_listing.js:121
+msgid "Created On"
+msgstr ""
+
+#: src/settings.js:141
+msgid "General Settings"
+msgstr ""
+
+#: src/settings.js:142
+msgid "Pricing Table"
+msgstr ""
+
+#: src/settings.js:148
+msgid "Discount Label"
+msgstr ""
+
+#: src/settings.js:154
+msgid "Discount"
+msgstr ""
+
+#: src/settings.js:157
+msgid "Show discount applied message on cart page"
+msgstr ""
+
+#: src/settings.js:164
+msgid "Discount has been applied!"
+msgstr ""
+
+#: src/settings.js:164
+msgid "Discount \"\" has been applied!"
+msgstr ""
+
+#: src/settings.js:167
+msgid "Message"
+msgstr ""
+
+#: src/settings.js:174
+msgid "Use"
+msgstr ""
+
+#: src/settings.js:174
+msgid "for label name"
+msgstr ""
+
+#: src/settings.js:176
+msgid "Message:"
+msgstr ""
+
+#: src/settings.js:193
+msgid "Pricing Table Position"
+msgstr ""
+
+#: src/settings.js:199
+msgid "In product summary"
+msgstr ""
+
+#: src/settings.js:200
+msgid "Before add to cart form"
+msgstr ""
+
+#: src/settings.js:201
+msgid "Before variations from"
+msgstr ""
+
+#: src/settings.js:203
+msgid "After add to cart button"
+msgstr ""
+
+#: src/settings.js:204
+msgid "After variations from"
+msgstr ""
+
+#: src/settings.js:205
+msgid "After add to cart form"
+msgstr ""
+
+#: src/settings.js:206
+msgid "Product meta start"
+msgstr ""
+
+#: src/settings.js:207
+msgid "Product meta end"
+msgstr ""
+
+#: src/settings.js:208
+msgid "After product summary"
+msgstr ""
+
+#: src/settings.js:214
+msgid "Before add to cart button"
+msgstr ""
+
+#: src/settings.js:216
+msgid "*Pricing table will be shown only on products page with variations."
+msgstr ""
+
+#: src/settings.js:220
+msgid "Pricing Table Value Display"
+msgstr ""
+
+#: src/settings.js:230
+msgid "Default:"
+msgstr ""
+
+#: src/settings.js:230
+msgid "Discounted Price"
+msgstr ""
+
+#: src/settings.js:233
+msgid "Pricing Table Title"
+msgstr ""
+
+#: src/settings.js:239
+msgid "Quantity Discounts"
+msgstr ""
+
+#: src/settings.js:242
+msgid "Price Label"
+msgstr ""
+
+#: src/settings.js:248
+msgid "Price"
+msgstr ""
+
+#: src/settings.js:251
+msgid "Quantity Label"
+msgstr ""
+
+#: src/settings.js:257
+msgid "Quantity"
+msgstr ""
+
+#: src/settings.js:260
+msgid "Border Color"
+msgstr ""
+
+#: src/settings.js:270
+msgid "Cart Quantity Discount Description (shown below quantity table)"
+msgstr ""
+
+#: src/settings.js:276
+msgid "Default Text:"
+msgstr ""
+
+#: src/settings.js:276
+msgid " refers to discounted items (products with discount) count on cart."
+msgstr ""
+
+#: src/settings.js:282
+msgid "Save Changes"
+msgstr ""

@@ -1,0 +1,99 @@
+.single-product {
+	div.product {
+		position: relative;
+
+		.entry-summary {
+			width: 51.3%;
+			padding-left: 100px;
+			float: right;
+
+			.meta-cat:not(:hover) {
+				color: var(--rz-text-color-gray);
+			}
+
+			.meta-cat > img{
+				max-height: 60px;
+				width: auto;
+				display: block;
+			}
+
+			.star-rating {
+				font-size: 18px;
+				margin-top: 2px;
+			}
+
+			.product_title {
+				font-size: 28px;
+			}
+
+			.woocommerce-product-rating {
+				display: flex;
+				align-items: center;
+			}
+
+			.price {
+				font-size: 24px;
+				font-weight: 500;
+				color: var(--rz-color-dark);
+				margin: 0;
+
+				del {
+					margin-right: 13px;
+					font-size: 18px;
+					color: #a0a0a0;
+				}
+
+				ins {
+					background-color: transparent;
+					color: var(--rz-color-primary);
+				}
+			}
+
+			.woocommerce-review-link {
+				margin-left: 10px;
+			}
+
+			.yith-wcwl-add-to-wishlist {
+				margin: 0;
+				line-height: 52px;
+			}
+		}
+
+		.summary-top-box {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 5px;
+			align-items: center;
+		}
+
+		.summary-price-box {
+			display: flex;
+			align-items: center;
+			margin: 0 0 20px;
+
+			.price {
+				margin-right: 16px;
+			}
+
+			.rz-stock {
+				color: var(--rz-color-dark);
+			}
+		}
+	}
+}
+
+// Degree Product
+.pswp {
+	.razzi-video-wrapper iframe,
+	.razzi-video-wrapper .wp-video {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+
+	}
+
+	.razzi-video-wrapper iframe:-webkit-full-screen {
+		transform: none;
+	}
+}

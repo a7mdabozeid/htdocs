@@ -1,0 +1,19 @@
+.wooqr-wrapper{text-align:center}
+.wooqr-setting-wrapper{    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 100%;
+    margin: 100px auto;}
+   .wooqr-setting-wrapper .left-panel {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+input[type=range]{-webkit-appearance:none;cursor:pointer;     background: #eee;}
+input::-webkit-slider-thumb{-webkit-appearance:none;width:16px;height:16px;border-radius:3px;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#aaa),color-stop(1,#aaa))}
+#wooqrimg-buffer{display:none}
+.right-panel{position:-webkit-sticky;position:sticky;top:100px;align-self:flex-start}
+div#qr-container img {max-width: 300px;height: auto !important;}

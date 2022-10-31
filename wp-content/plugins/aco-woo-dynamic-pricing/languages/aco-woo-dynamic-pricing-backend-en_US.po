@@ -1,0 +1,1012 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: backend.js
+msgid "Pricing Rules"
+msgstr ""
+
+#: backend.js
+msgid "Add New Rule"
+msgstr ""
+
+#: backend.js
+msgid "Back"
+msgstr ""
+
+#: backend.js
+msgid "Product Lists"
+msgstr ""
+
+#: backend.js
+msgid "Add New List"
+msgstr ""
+
+#: backend.js
+msgid "Settings"
+msgstr ""
+
+#: backend.js
+msgid "Select Relation"
+msgstr ""
+
+#: backend.js
+msgid "Equal to"
+msgstr ""
+
+#: backend.js
+msgid "Less than"
+msgstr ""
+
+#: backend.js
+msgid "Less than or Equal"
+msgstr ""
+
+#: backend.js
+msgid "Greater than"
+msgstr ""
+
+#: backend.js
+msgid "Greater than or Equal"
+msgstr ""
+
+#: backend.js
+msgid "Select Item"
+msgstr ""
+
+#: backend.js
+msgid "Product price"
+msgstr ""
+
+#: backend.js
+msgid "Cart total amount (Product list)"
+msgstr ""
+
+#: backend.js
+msgid "Cart total amount"
+msgstr ""
+
+#: backend.js
+msgid "Cart total quantity (Product list)"
+msgstr ""
+
+#: backend.js
+msgid "Cart total quantity"
+msgstr ""
+
+#: backend.js
+msgid "Cart items count"
+msgstr ""
+
+#: backend.js
+msgid "Cart items count (Product List)"
+msgstr ""
+
+#: backend.js
+msgid "AND"
+msgstr ""
+
+#: backend.js
+msgid "OR"
+msgstr ""
+
+#: backend.js
+msgid "Select Discount Mode"
+msgstr ""
+
+#: backend.js
+msgid "Remove"
+msgstr ""
+
+#: backend.js
+msgid "Add"
+msgstr ""
+
+#: backend.js
+msgid "Discount Value"
+msgstr ""
+
+#: backend.js
+msgid "Remove Group"
+msgstr ""
+
+#: backend.js
+msgid "Add Group"
+msgstr ""
+
+#: backend.js
+msgid "Percentage"
+msgstr ""
+
+#: backend.js
+msgid "Fixed price"
+msgstr ""
+
+#: backend.js
+msgid "Minimum Quantity"
+msgstr ""
+
+#: backend.js
+msgid "Maximum Quantity"
+msgstr ""
+
+#: backend.js
+msgid "Discount Type"
+msgstr ""
+
+#: backend.js
+msgid "Select one"
+msgstr ""
+
+#: backend.js
+msgid "Refers to the discount value / percentage, not the price of the product."
+msgstr ""
+
+#: backend.js
+msgid "Value"
+msgstr ""
+
+#: backend.js
+msgid "From Date / Time"
+msgstr ""
+
+#: backend.js
+msgid "To Date / Time"
+msgstr ""
+
+#: backend.js
+msgid "End date should be greater than start date."
+msgstr ""
+
+#: backend.js
+msgid "Pick a date."
+msgstr ""
+
+#: backend.js
+msgid "Upgrade"
+msgstr ""
+
+#: backend.js
+msgid "Pro version upgrade"
+msgstr ""
+
+#: backend.js
+msgid "Thanks for using our plugin"
+msgstr ""
+
+#: backend.js
+msgid "Want more options? Consider upgrading to our pro version"
+msgstr ""
+
+#: backend.js
+msgid "Click on the link below"
+msgstr ""
+
+#: backend.js
+msgid "Upgrade Now"
+msgstr ""
+
+#: backend.js
+msgid "Dedicated Support"
+msgstr ""
+
+#: backend.js
+msgid "Our support is what makes us No 1. We are available for any support"
+msgstr ""
+
+#: backend.js
+msgid "Contact Support"
+msgstr ""
+
+#: backend.js
+msgid "Full Documentation"
+msgstr ""
+
+#: backend.js
+msgid "Look for any helps in our documentation if you are stuck with anything"
+msgstr ""
+
+#: backend.js
+msgid "Read More"
+msgstr ""
+
+#: backend.js
+msgid "IN"
+msgstr ""
+
+#: backend.js
+msgid "NOT IN"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Category"
+msgstr ""
+
+#: backend.js
+msgid "No categories found"
+msgstr ""
+
+#: backend.js
+msgid "No tags found"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Tags"
+msgstr ""
+
+#: backend.js
+msgid "Category"
+msgstr ""
+
+#: backend.js
+msgid "Tag"
+msgstr ""
+
+#: backend.js
+msgid "Select Type"
+msgstr ""
+
+#: backend.js
+msgid "Add Relations"
+msgstr ""
+
+#: backend.js
+msgid "All"
+msgstr ""
+
+#: backend.js
+msgid "Product List"
+msgstr ""
+
+#: backend.js
+msgid "No product lists found, create one."
+msgstr ""
+
+#: backend.js
+msgid "Edit rule"
+msgstr ""
+
+#: backend.js
+msgid "Add New"
+msgstr ""
+
+#: backend.js
+msgid "Saving Changes..."
+msgstr ""
+
+#: backend.js
+msgid "Product Rules"
+msgstr ""
+
+#: backend.js
+msgid "Fixed price of the product price"
+msgstr ""
+
+#: backend.js
+msgid "Percentage of the product price"
+msgstr ""
+
+#: backend.js
+msgid "Cart Rules"
+msgstr ""
+
+#: backend.js
+msgid "Fixed price of cart total amount"
+msgstr ""
+
+#: backend.js
+msgid "Percentage of cart total amount"
+msgstr ""
+
+#: backend.js
+msgid "Quantity Rules"
+msgstr ""
+
+#: backend.js
+msgid "Quantity based discount"
+msgstr ""
+
+#: backend.js
+msgid "Buy X Get X"
+msgstr ""
+
+#: backend.js
+msgid "Gift Product"
+msgstr ""
+
+#: backend.js
+msgid "Discount on individual product quantity"
+msgstr ""
+
+#: backend.js
+msgid "Discount on cart items count (different products count)"
+msgstr ""
+
+#: backend.js
+msgid "Discount on cart quantity"
+msgstr ""
+
+#: backend.js
+msgid "Vertical"
+msgstr ""
+
+#: backend.js
+msgid "Horizontal"
+msgstr ""
+
+#: backend.js
+msgid "Allo Good day !!"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Setting the discount rate is easy. Just play with the below settings and "
+"watch the changes"
+msgstr ""
+
+#: backend.js
+msgid "Rule Name"
+msgstr ""
+
+#: backend.js
+msgid "Enter rule name"
+msgstr ""
+
+#: backend.js
+msgid "Discount Status"
+msgstr ""
+
+#: backend.js
+msgid "Discount Settings"
+msgstr ""
+
+#: backend.js
+msgid "Schedule"
+msgstr ""
+
+#: backend.js
+msgid "Rules and Restrictions"
+msgstr ""
+
+#: backend.js
+msgid "Priority"
+msgstr ""
+
+#: backend.js
+msgid "Enter discount priority"
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Cart based rules will have the least priority and will be applied once the "
+"product is added to the cart."
+msgstr ""
+
+#: backend.js
+msgid "Apply discount only for registered customers."
+msgstr ""
+
+#: backend.js
+msgid "*Use "
+msgstr ""
+
+#: backend.js
+msgid " for applying discount to selected products or categories."
+msgstr ""
+
+#: backend.js
+msgid "*Use Product List for applying discount to selected products or categories."
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Discounts will be applied as Coupon with Discount Label ( Settings -> "
+"Discount Label )"
+msgstr ""
+
+#: backend.js
+msgid "Quantity Based Discount"
+msgstr ""
+
+#: backend.js
+msgid "Set Quantity Based Discounts on Cart items / Products"
+msgstr ""
+
+#: backend.js
+msgid "Type"
+msgstr ""
+
+#: backend.js
+msgid "Show pricing table"
+msgstr ""
+
+#: backend.js
+msgid "Table layout"
+msgstr ""
+
+#: backend.js
+msgid "Consider variations as single product"
+msgstr ""
+
+#: backend.js
+msgid ""
+"*If checked, quantity of all variations (of a product) in the cart will be "
+"considered as a single product quantity"
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Discount value display settings can be managed from Settings -> Pricing "
+"Table -> Pricing Table Value Display"
+msgstr ""
+
+#: backend.js
+msgid "Discount percentage / amount"
+msgstr ""
+
+#: backend.js
+msgid "Set Multiple Discount Values"
+msgstr ""
+
+#: backend.js
+msgid "*To Set Multiple Discount Values"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Navigate to Rules and Restrictions tab, Click on Add Group, Set the rule "
+"actions and set the discount values"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Each group will be considered as different, and make sure to set the group "
+"relation to "
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Discount field will not be visible on existing restrictions (old version), "
+"please remove the existing restrictions and add new restrictions to set "
+"discount values."
+msgstr ""
+
+#: backend.js
+msgid "Disable discount if product is on sale"
+msgstr ""
+
+#: backend.js
+msgid "Schedule Discount Sale"
+msgstr ""
+
+#: backend.js
+msgid "Schedule discount sales for upcoming dates"
+msgstr ""
+
+#: backend.js
+msgid ""
+"*Please set date / time based on your server / wordpress time settings. "
+"Current Date / Time: "
+msgstr ""
+
+#: backend.js
+msgid ""
+"*To set schedules based on default wordpress timezone, please enable the "
+"option from our settings."
+msgstr ""
+
+#: backend.js
+msgid "Apply Rules"
+msgstr ""
+
+#: backend.js
+msgid "Set Restrcitions with the provided options"
+msgstr ""
+
+#: backend.js
+msgid "*Please note"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Rules will be considered based on discount values, the one with the highest "
+"discount value will be considered first."
+msgstr ""
+
+#: backend.js
+msgid "Delete"
+msgstr ""
+
+#: backend.js
+msgid "Publish"
+msgstr ""
+
+#: backend.js
+msgid "Update"
+msgstr ""
+
+#: backend.js
+msgid "All discount related datas will be removed."
+msgstr ""
+
+#: backend.js
+msgid "Are you sure to proceed?"
+msgstr ""
+
+#: backend.js
+msgid "No"
+msgstr ""
+
+#: backend.js
+msgid "Yes"
+msgstr ""
+
+#: backend.js
+msgid "Deleting.. Please Wait.."
+msgstr ""
+
+#: backend.js
+msgid "No product rules found."
+msgstr ""
+
+#: backend.js
+msgid "TITLE"
+msgstr ""
+
+#: backend.js
+msgid "DISCOUNT TYPE"
+msgstr ""
+
+#: backend.js
+msgid "VALUE"
+msgstr ""
+
+#: backend.js
+msgid "PRIORITY"
+msgstr ""
+
+#: backend.js
+msgid "SCHEDULE"
+msgstr ""
+
+#: backend.js
+msgid "STATUS"
+msgstr ""
+
+#: backend.js
+msgid "ACTIONS"
+msgstr ""
+
+#: backend.js
+msgid "will be removed."
+msgstr ""
+
+#: backend.js
+msgid "Are you sure to proceed."
+msgstr ""
+
+#: backend.js
+msgid "Edit"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Rule"
+msgstr ""
+
+#: backend.js
+msgid "Products Selection"
+msgstr ""
+
+#: backend.js
+msgid "Dynamic Request"
+msgstr ""
+
+#: backend.js
+msgid "List Name"
+msgstr ""
+
+#: backend.js
+msgid "Enter Rule Name"
+msgstr ""
+
+#: backend.js
+msgid "Select List Type"
+msgstr ""
+
+#: backend.js
+msgid "Taxonomy Relation"
+msgstr ""
+
+#: backend.js
+msgid "Select Combination Relation"
+msgstr ""
+
+#: backend.js
+msgid "Taxonomy Combinations"
+msgstr ""
+
+#: backend.js
+msgid "Exclude Products"
+msgstr ""
+
+#: backend.js
+msgid "Type to Select Products"
+msgstr ""
+
+#: backend.js
+msgid "No products found"
+msgstr ""
+
+#: backend.js
+msgid "*Start typing to select the product from the list."
+msgstr ""
+
+#: backend.js
+msgid "Products"
+msgstr ""
+
+#: backend.js
+msgid "All related datas will be removed."
+msgstr ""
+
+#: backend.js
+msgid "No product lists found."
+msgstr ""
+
+#: backend.js
+msgid "TYPE"
+msgstr ""
+
+#: backend.js
+msgid "DATE"
+msgstr ""
+
+#: backend.js
+msgid "All products"
+msgstr ""
+
+#: backend.js
+msgid "All products (Active Rules)"
+msgstr ""
+
+#: backend.js
+msgid "In product summary"
+msgstr ""
+
+#: backend.js
+msgid "Before add to cart form"
+msgstr ""
+
+#: backend.js
+msgid "Before variations from"
+msgstr ""
+
+#: backend.js
+msgid "Before add to cart button"
+msgstr ""
+
+#: backend.js
+msgid "After add to cart button"
+msgstr ""
+
+#: backend.js
+msgid "After variations from"
+msgstr ""
+
+#: backend.js
+msgid "After add to cart form"
+msgstr ""
+
+#: backend.js
+msgid "Product meta start"
+msgstr ""
+
+#: backend.js
+msgid "Product meta end"
+msgstr ""
+
+#: backend.js
+msgid "After product summary"
+msgstr ""
+
+#: backend.js
+msgid "Discounted Price"
+msgstr ""
+
+#: backend.js
+msgid "Both Discount Value and Price"
+msgstr ""
+
+#: backend.js
+msgid "Ascending"
+msgstr ""
+
+#: backend.js
+msgid "Descending"
+msgstr ""
+
+#: backend.js
+msgid "Use default size"
+msgstr ""
+
+#: backend.js
+msgid "12px"
+msgstr ""
+
+#: backend.js
+msgid "14px"
+msgstr ""
+
+#: backend.js
+msgid "16px"
+msgstr ""
+
+#: backend.js
+msgid "18px"
+msgstr ""
+
+#: backend.js
+msgid "20px"
+msgstr ""
+
+#: backend.js
+msgid "22px"
+msgstr ""
+
+#: backend.js
+msgid "24px"
+msgstr ""
+
+#: backend.js
+msgid "General Settings"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table"
+msgstr ""
+
+#: backend.js
+msgid "Offer Description"
+msgstr ""
+
+#: backend.js
+msgid "Timezone Settings"
+msgstr ""
+
+#: backend.js
+msgid "NEW"
+msgstr ""
+
+#: backend.js
+msgid "Discount Label"
+msgstr ""
+
+#: backend.js
+msgid "Default Text:"
+msgstr ""
+
+#: backend.js
+msgid "Discount"
+msgstr ""
+
+#: backend.js
+msgid "Hide Coupon Box"
+msgstr ""
+
+#: backend.js
+msgid "Will hide coupon box from your cart / checkout pages"
+msgstr ""
+
+#: backend.js
+msgid "Disable Pricing Rules if normal Coupon is applied"
+msgstr ""
+
+#: backend.js
+msgid "Will auto remove plugin discount from your cart / checkout pages"
+msgstr ""
+
+#: backend.js
+msgid "Show discount applied message on cart page"
+msgstr ""
+
+#: backend.js
+msgid "Discount has been applied!"
+msgstr ""
+
+#: backend.js
+msgid "Discount \"\" has been applied!"
+msgstr ""
+
+#: backend.js
+msgid "Message"
+msgstr ""
+
+#: backend.js
+msgid "Use"
+msgstr ""
+
+#: backend.js
+msgid "for label name"
+msgstr ""
+
+#: backend.js
+msgid "Message:"
+msgstr ""
+
+#: backend.js
+msgid "Save Changes"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Position"
+msgstr ""
+
+#: backend.js
+msgid "Select Position"
+msgstr ""
+
+#: backend.js
+msgid "Default:"
+msgstr ""
+
+#: backend.js
+msgid "*Pricing table will be shown only on products page with variations."
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Value Sorting (Sort Based on Product Quantity Range)"
+msgstr ""
+
+#: backend.js
+msgid "Select Order"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Value Display"
+msgstr ""
+
+#: backend.js
+msgid "Select View"
+msgstr ""
+
+#: backend.js
+msgid "Hide Pricing Table Value Text"
+msgstr ""
+
+#: backend.js
+msgid "If enabled no texts will be shown after the value"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Value Text* (Suffix Text)"
+msgstr ""
+
+#: backend.js
+msgid "Depends on Discount Type"
+msgstr ""
+
+#: backend.js
+msgid "Pricing Table Title"
+msgstr ""
+
+#: backend.js
+msgid "Quantity Discounts"
+msgstr ""
+
+#: backend.js
+msgid "Price Label"
+msgstr ""
+
+#: backend.js
+msgid "Price"
+msgstr ""
+
+#: backend.js
+msgid "Quantity Label"
+msgstr ""
+
+#: backend.js
+msgid "Quantity"
+msgstr ""
+
+#: backend.js
+msgid "Price Label (Third Column Title)"
+msgstr ""
+
+#: backend.js
+msgid "Font size"
+msgstr ""
+
+#: backend.js
+msgid "If not selected, default font size will be used."
+msgstr ""
+
+#: backend.js
+msgid "Border Color"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Quantity Type: Cart Items Count - table Description (shown below pricing "
+"table)"
+msgstr ""
+
+#: backend.js
+msgid ""
+" refers to discounted items (products with discount) individual count on "
+"cart."
+msgstr ""
+
+#: backend.js
+msgid "Quantity Type: Cart Quantity - table Description (shown below pricing table)"
+msgstr ""
+
+#: backend.js
+msgid " refers to discounted items (products with discount) total quantity on cart."
+msgstr ""
+
+#: backend.js
+msgid "Offer Description Display Settings (Single Page)"
+msgstr ""
+
+#: backend.js
+msgid ""
+"Highlight your discount offers with custom offer messages on your product "
+"detail page. Add captions, texts, keywords etc that can catch customers "
+"attention."
+msgstr ""
+
+#: backend.js
+msgid "Show offer description on detail page"
+msgstr ""
+
+#: backend.js
+msgid "Text"
+msgstr ""
+
+#: backend.js
+msgid "Position"
+msgstr ""
+
+#: backend.js
+msgid "Font Size"
+msgstr ""
+
+#: backend.js
+msgid "Padding (Left/Right)"
+msgstr ""
+
+#: backend.js
+msgid "Padding"
+msgstr ""
+
+#: backend.js
+msgid "Padding (Top/Bottom)"
+msgstr ""
+
+#: backend.js
+msgid "Border Radius"
+msgstr ""
+
+#: backend.js
+msgid "Background Color"
+msgstr ""
+
+#: backend.js
+msgid "Font Color"
+msgstr ""
+
+#: backend.js
+msgid ""
+"By default our plugin uses server timezone for schedules / timers, to use "
+"the default Wordpress Timezone, please enable this option"
+msgstr ""
+
+#: backend.js
+msgid "Use Wordpress Timezone"
+msgstr ""

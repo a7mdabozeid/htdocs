@@ -1,0 +1,36 @@
+.lpfw-dashboard {
+    max-width: 1300px;
+
+    .ant-card {
+        margin-bottom: 20px;
+        min-height: 604px;
+
+        .ant-card-head-title {
+            font-weight: bold;
+        }
+
+        table {
+            border: 1px solid #f0f0f0;
+
+            .ant-table-thead {
+                th {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+
+    .lpfw-dashboard-history {
+
+        .ant-table-empty {
+            table {
+                min-height: 490px;
+            }
+        }
+
+        .ant-pagination {
+            text-align: right;
+            margin-top: 1em;
+        }
+    }
+}

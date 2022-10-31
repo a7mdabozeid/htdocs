@@ -1,0 +1,558 @@
+# Translation of Plugins - WP SMS &#8211; Messaging &amp; SMS Notification for WordPress, WooCommerce, GravityForms, etc - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - WP SMS &#8211; Messaging &amp; SMS Notification for WordPress, WooCommerce, GravityForms, etc - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-12 15:28:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - WP SMS &#8211; Messaging &amp; SMS Notification for WordPress, WooCommerce, GravityForms, etc - Stable (latest release)\n"
+
+#: includes/admin/export.php:7
+msgid "Access denied!"
+msgstr "تم رفض الوصول!"
+
+#: includes/admin/export.php:54
+msgid "Please select the desired items."
+msgstr "يرجى تحديد العناصر المطلوبة."
+
+#: includes/admin/import.php:58
+msgid "<strong>%s</strong> items was successfully added."
+msgstr "تم اضافة <strong>%s</strong> من العناصر بنجاح."
+
+#: includes/admin/import.php:63
+msgid "<strong>%s</strong> Mobile numbers Was repeated."
+msgstr "<strong>%s</strong> من أرقام المحمول متكررة."
+
+#: includes/admin/import.php:67
+msgid "Please complete all fields"
+msgstr "يرجى تعبئة جميع الحقول"
+
+#: includes/class-wpsms-rest-api.php:221
+msgid "Activation code is wrong!"
+msgstr "رمز التفعيل غير صحيح!"
+
+#: includes/class-wpsms-rest-api.php:101
+msgid "Service provider is not available for send activate key to your mobile. Please contact with site."
+msgstr "مزود الخدمة غير متاح لإرسال مفتاح التنشيط إلى هاتفك النقال. يرجى التواصل مع مدير الموقع."
+
+#: includes/class-wpsms-rest-api.php:115
+msgid "Your activation code"
+msgstr "رمز التفعيل الخاص بك"
+
+#: includes/class-wpsms-newsletter.php:127
+msgid "Subscriber successfully added."
+msgstr "تم إضافة المشترك بنجاح."
+
+#: includes/class-wpsms-newsletter.php:240
+msgid "Subscriber successfully updated."
+msgstr "تم تحديث المشترك بنجاح."
+
+#: includes/class-wpsms-newsletter.php:337
+msgid "Name is empty!"
+msgstr "الأسم فارغ!"
+
+#: includes/class-wpsms-newsletter.php:368
+msgid "Group successfully added."
+msgstr "تم إضافة المجموعة بنجاح."
+
+#: includes/class-wpsms-newsletter.php:422
+msgid "Group successfully updated."
+msgstr "تم تحديث المجموعة بنجاح."
+
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:110
+#: includes/class-wpsms-features.php:65
+#: includes/templates/admin/subscriber-edit-form.php:15
+#: includes/templates/mobile-field.php:3
+msgid "Mobile"
+msgstr "الجوال"
+
+#: includes/admin/class-wpsms-admin.php:118
+#: includes/admin/class-wpsms-admin.php:148 includes/class-front.php:63
+#: includes/class-wpsms-gateway.php:391
+msgid "SMS"
+msgstr "الرسالة النصية"
+
+#: includes/admin/settings/class-wpsms-settings.php:156
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: includes/templates/wpcf7-form.php:2
+msgid "Send to number"
+msgstr "ارسل الى الرقم"
+
+#: includes/templates/wpcf7-form.php:4
+msgid "After submit form you can send a sms message to number"
+msgstr "بعد تقديم النموذج يمكنك إرسال رسالة قصيرة إلى الرقم"
+
+#: includes/templates/wpcf7-form.php:8
+msgid "Send to"
+msgstr "إرسال إلى"
+
+#: includes/admin/settings/class-wpsms-settings.php:280
+#: includes/admin/settings/class-wpsms-settings.php:406
+#: includes/admin/settings/class-wpsms-settings.php:430
+#: includes/admin/settings/class-wpsms-settings.php:456
+#: includes/admin/settings/class-wpsms-settings.php:481
+#: includes/admin/settings/class-wpsms-settings.php:505
+#: includes/admin/settings/class-wpsms-settings.php:648
+#: includes/admin/settings/class-wpsms-settings.php:679
+#: includes/admin/settings/class-wpsms-settings.php:712
+#: includes/admin/settings/class-wpsms-settings.php:750
+#: includes/admin/settings/class-wpsms-settings.php:773
+#: includes/admin/settings/class-wpsms-settings.php:850
+#: includes/admin/settings/class-wpsms-settings.php:874
+#: includes/admin/settings/class-wpsms-settings.php:954
+#: includes/admin/settings/class-wpsms-settings.php:983
+#: includes/admin/settings/class-wpsms-settings.php:1026
+#: includes/admin/settings/class-wpsms-settings.php:1050
+#: includes/admin/settings/class-wpsms-settings.php:1074
+#: includes/admin/settings/class-wpsms-settings.php:1133
+#: includes/admin/settings/class-wpsms-settings.php:1162
+#: includes/admin/settings/class-wpsms-settings.php:1258
+#: includes/admin/settings/class-wpsms-settings.php:1286
+#: includes/admin/settings/class-wpsms-settings.php:1703
+#: includes/admin/settings/class-wpsms-settings.php:1743
+#: includes/admin/settings/class-wpsms-settings.php:1819
+#: includes/admin/settings/class-wpsms-settings.php:1855
+#: includes/templates/meta-box.php:64 includes/templates/wpcf7-form.php:16
+#: includes/templates/wpcf7-form.php:37
+msgid "Message body"
+msgstr "نص الرسالة"
+
+#: includes/templates/wpcf7-form.php:19 includes/templates/wpcf7-form.php:41
+msgid "<b>Note:</b> Use %% Instead of [], for example: %your-name%"
+msgstr "<b>ملاحظة:</b> استخدم %% بدلا من [], مثال %your-name%"
+
+#: includes/templates/wpcf7-form.php:24
+msgid "Send to form"
+msgstr "إرسال الى النموذج"
+
+#: includes/templates/wpcf7-form.php:25
+msgid "After submit form you can send a sms message to field"
+msgstr "بعد تقديم نموذج يمكنك إرسال رسالة قصيرة إلى الحقل"
+
+#: includes/templates/wpcf7-form.php:28
+msgid "Send to field"
+msgstr "إرسال الى الحقل"
+
+#: includes/templates/wpcf7-form.php:32
+msgid "<b>Note:</b> Use %% Instead of [], for example: %your-mobile%"
+msgstr "<b>ملاحظة:</b> استخدم %% بدلا من [], مثال: %your-mobile%"
+
+#: includes/admin/settings/class-wpsms-settings.php:166
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: includes/admin/settings/class-wpsms-settings.php:1705
+#: includes/admin/settings/class-wpsms-settings.php:1745
+#: includes/admin/settings/class-wpsms-settings.php:1784
+#: includes/admin/settings/class-wpsms-settings.php:1796
+#: includes/admin/settings/class-wpsms-settings.php:1821
+#: includes/admin/settings/class-wpsms-settings.php:1857
+msgid "Enter the contents of the sms message."
+msgstr "أدخل مضمون الرسالة النصية."
+
+#: includes/templates/meta-box.php:69
+msgid "Input data:"
+msgstr "البيانات المدخلة:"
+
+#: includes/class-wpsms-notifications.php:56
+msgid "WordPress %s is available! Please update now"
+msgstr "ووردبريس %s متاح! يرجى التحديث الآن"
+
+#: includes/admin/settings/class-wpsms-settings.php:1647
+msgid "Published new posts"
+msgstr "المشاركات الجديدة المنشورة"
+
+#: includes/admin/settings/class-wpsms-settings.php:1757
+msgid "The new release of WordPress"
+msgstr "الإصدار الجديد من ووردبريس"
+
+#: includes/admin/settings/class-wpsms-settings.php:1770
+msgid "Register a new user"
+msgstr "تسجيل مستخدم جديد"
+
+#: includes/admin/settings/class-wpsms-settings.php:1807
+msgid "New comment"
+msgstr "تعليق جديد"
+
+#: includes/admin/settings/class-wpsms-settings.php:1836
+msgid "User login"
+msgstr "تسجيل دخول المستخدم"
+
+#: includes/admin/outbox/outbox.php:8
+msgid "Outbox SMS"
+msgstr "رسائل علبة الصادر"
+
+#: includes/admin/class-wpsms-admin.php:149
+#: includes/admin/settings/class-wpsms-settings.php:423
+#: includes/admin/settings/class-wpsms-settings.php:449
+#: includes/admin/settings/class-wpsms-settings.php:474
+#: includes/admin/settings/class-wpsms-settings.php:498
+#: includes/admin/settings/class-wpsms-settings.php:617
+#: includes/admin/settings/class-wpsms-settings.php:666
+#: includes/admin/settings/class-wpsms-settings.php:705
+#: includes/admin/settings/class-wpsms-settings.php:737
+#: includes/admin/settings/class-wpsms-settings.php:766
+#: includes/admin/settings/class-wpsms-settings.php:793
+#: includes/admin/settings/class-wpsms-settings.php:837
+#: includes/admin/settings/class-wpsms-settings.php:867
+#: includes/admin/settings/class-wpsms-settings.php:924
+#: includes/admin/settings/class-wpsms-settings.php:976
+#: includes/admin/settings/class-wpsms-settings.php:1019
+#: includes/admin/settings/class-wpsms-settings.php:1043
+#: includes/admin/settings/class-wpsms-settings.php:1067
+#: includes/templates/admin/send-sms.php:4
+#: includes/templates/admin/send-sms.php:253
+msgid "Send SMS"
+msgstr "إرسال رسالة نصية"
+
+#: includes/admin/settings/class-wpsms-settings.php:935
+#: includes/admin/settings/class-wpsms-settings.php:948
+#: includes/admin/settings/class-wpsms-settings.php:1670
+#: includes/admin/settings/class-wpsms-settings.php:1683
+#: includes/templates/admin/send-sms.php:57 includes/templates/meta-box.php:37
+#: includes/templates/meta-box.php:56
+msgid "Number(s)"
+msgstr "إدخال رقم"
+
+#: includes/templates/meta-box.php:47
+msgid "All (%s subscribers active)"
+msgstr "كل (%s المشتركين النشيطين)"
+
+#: includes/templates/admin/send-sms.php:96
+msgid "<b>%s</b> Users have mobile number."
+msgstr "<b>%s</b> عضو  لديهم رقم الهاتف النقال"
+
+#: includes/templates/admin/send-sms.php:240
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/templates/admin/send-sms.php:242
+msgid "No"
+msgstr "لا"
+
+#: includes/admin/settings/class-wpsms-settings.php:152
+msgid "SMS Gateway"
+msgstr "بوابة الرسائل القصيرة"
+
+#: includes/admin/settings/class-wpsms-settings.php:624
+#: includes/admin/settings/class-wpsms-settings.php:673
+#: includes/admin/settings/class-wpsms-settings.php:744
+#: includes/admin/settings/class-wpsms-settings.php:844
+#: includes/admin/settings/class-wpsms-settings.php:931
+msgid "SMS receiver"
+msgstr "مسقبل الرسائل النصية"
+
+#: includes/admin/settings/class-wpsms-settings.php:1350
+msgid "Add Mobile number to user profile and register form."
+msgstr "إضافة رقم الجوال إلى الملف الشخصي للمستخدم ونموذج التسجيل."
+
+#: includes/admin/settings/class-wpsms-settings.php:1323
+msgid "Administrator"
+msgstr "Адміністратар"
+
+#: includes/admin/settings/class-wpsms-settings.php:627
+msgid "Subscriber"
+msgstr "المشتركين"
+
+#: includes/class-wpsms-gateway.php:389
+msgid "Credit"
+msgstr "الرصيد"
+
+#: includes/admin/groups/groups.php:27
+#: includes/templates/admin/subscriber-edit-form.php:59
+msgid "Add"
+msgstr "إضافة"
+
+#: includes/admin/subscribers/subscribers.php:13
+msgid "Add Subscriber"
+msgstr "إضافة مشتركين"
+
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:111
+#: includes/admin/subscribers/subscribers.php:34
+#: includes/templates/admin/subscriber-edit-form.php:22
+#: includes/templates/admin/subscriber-edit-form.php:33
+#: includes/templates/subscribe-form.php:27
+msgid "Group"
+msgstr "المجموعة"
+
+#: includes/admin/subscribers/subscribers.php:42
+msgid "There is no group! <a href=\"%s\">Add</a>"
+msgstr "ليس هناك مجموعة! <a href=\"%s\">إضافة</a>"
+
+#: includes/admin/class-wpsms-admin.php:326
+msgid "Edit Subscriber"
+msgstr "تعديل المشتركين"
+
+#: includes/admin/subscribers/subscribers.php:66
+msgid "Export To"
+msgstr "التصدير لـ"
+
+#: includes/admin/subscribers/subscribers.php:68
+msgid "Please select."
+msgstr "الرجاء اختيار."
+
+#: includes/admin/subscribers/subscribers.php:74
+msgid "Select the output file type."
+msgstr "حدد نوع ملف الإخراج."
+
+#: includes/admin/class-wpsms-admin.php:155 includes/admin/groups/groups.php:8
+msgid "Groups"
+msgstr "المجموعات"
+
+#: includes/admin/class-wpsms-admin.php:154
+#: includes/admin/settings/class-wpsms-settings.php:1669
+#: includes/admin/subscribers/subscribers.php:10
+#: includes/templates/admin/send-sms.php:41 includes/templates/meta-box.php:36
+msgid "Subscribers"
+msgstr "المشتركين"
+
+#: includes/admin/subscribers/subscribers.php:14
+msgid "Manage Group"
+msgstr "إدارة المجموعة"
+
+#: includes/templates/meta-box.php:35
+msgid "Please select"
+msgstr "الرجاء اختر"
+
+#: includes/templates/subscribe-form.php:16
+#: includes/templates/subscribe-form.php:17
+msgid "Your name"
+msgstr "اسمك"
+
+#: includes/BlockAbstract.php:69
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+#: includes/BlockAbstract.php:71 includes/templates/subscribe-form.php:70
+msgid "Activation"
+msgstr "التنشيط"
+
+#: includes/templates/subscribe-form.php:21
+msgid "Your mobile"
+msgstr "جوالك"
+
+#: includes/templates/subscribe-form.php:44
+#: includes/templates/subscribe-form.php:45
+msgid "Unsubscribe"
+msgstr "إلغاء الاشتراك"
+
+#: includes/templates/subscribe-form.php:67
+#: includes/templates/subscribe-form.php:68
+msgid "Activation code:"
+msgstr "رمز التفعيل:"
+
+#: includes/templates/mobile-field.php:6
+msgid "User mobile number."
+msgstr "رقم جوال المستخدم."
+
+#: includes/templates/widget.php:8
+msgid "HTML code is valid."
+msgstr "كود HTML غير صالح."
+
+#: includes/admin/outbox/class-wpsms-outbox.php:45
+msgid "%s <span class=\"wpsms-time\">Time: %s</span>"
+msgstr "%s <span class=\"wpsms-time\">الوقت: %s</span>"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:92
+msgid "Resend"
+msgstr "إعادة إرسال"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:126
+msgid "Recipient"
+msgstr "المستلم"
+
+#: includes/admin/groups/class-wpsms-groups-table.php:148
+#: includes/admin/outbox/class-wpsms-outbox.php:175
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:173
+msgid "Items removed."
+msgstr "العناصر المحذوفة."
+
+#: includes/admin/groups/class-wpsms-groups-table.php:157
+#: includes/admin/outbox/class-wpsms-outbox.php:184
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:182
+msgid "Item removed."
+msgstr "العنصر المحذوف."
+
+#: includes/admin/groups/class-wpsms-groups-table-edit.php:47
+#: includes/admin/groups/class-wpsms-groups-table.php:71
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:79
+msgid "Edit"
+msgstr "التعديل"
+
+#: includes/admin/groups/class-wpsms-groups-table.php:103
+msgid "Total subscribers"
+msgstr "مجموع المشتركين"
+
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:117
+msgid "Activate code"
+msgstr "رمز التفعيل"
+
+#: includes/admin/class-wpsms-admin.php:380
+#: includes/admin/class-wpsms-admin.php:383
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "انقر هنا لتقييم ومراجعة هذا المنتج على WordPress.org"
+
+#: includes/admin/class-wpsms-admin.php:383
+msgid "Subscribe to our Email Newsletter"
+msgstr "المشتركين في بريد نشرتنا الإخبارية"
+
+#: includes/templates/subscribe-form.php:9
+msgid "Subscribe SMS"
+msgstr "اشترك"
+
+#: includes/admin/class-wpsms-admin.php:131
+msgid "%s Subscriber"
+msgstr "%s مشترك"
+
+#: includes/admin/class-wpsms-admin.php:133
+msgid "%s SMS Credit"
+msgstr "رصيد الحساب  %s"
+
+#: includes/admin/class-wpsms-admin.php:151
+msgid "Outbox"
+msgstr "علبة الصادر"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:125
+#: includes/templates/admin/quick-reply.php:24
+#: includes/templates/admin/send-sms.php:132
+msgid "Message"
+msgstr "رسالة"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:123
+msgid "Sender"
+msgstr "الراسل"
+
+#: includes/admin/groups/class-wpsms-groups-table.php:72
+#: includes/admin/groups/class-wpsms-groups-table.php:122
+#: includes/admin/outbox/class-wpsms-outbox.php:93
+#: includes/admin/outbox/class-wpsms-outbox.php:150
+#: includes/admin/privacy/class-wpsms-privacy-actions.php:120
+#: includes/admin/privacy/class-wpsms-privacy-actions.php:161
+#: includes/admin/privacy/class-wpsms-privacy-actions.php:177
+#: includes/admin/privacy/class-wpsms-privacy.php:70
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:80
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:143
+msgid "Delete"
+msgstr "محو"
+
+#: includes/templates/widget.php:7
+msgid "Description"
+msgstr " الوصف"
+
+#: includes/templates/widget.php:2
+msgid "Title"
+msgstr "المسمى الوظيفي"
+
+#: includes/admin/subscribers/subscribers.php:54
+msgid "Upload"
+msgstr "رفع الملف"
+
+#: includes/admin/subscribers/subscribers.php:15
+msgid "Import"
+msgstr "عمليه استيراد"
+
+#: includes/admin/groups/class-wpsms-groups-table-edit.php:36
+#: includes/admin/groups/class-wpsms-groups-table.php:102
+#: includes/admin/groups/groups.php:20
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:109
+#: includes/templates/admin/subscriber-edit-form.php:9
+msgid "Name"
+msgstr "الأسم"
+
+#: includes/admin/groups/groups.php:14
+msgid "Add Group"
+msgstr "اضافة مجموعة"
+
+#: includes/admin/settings/class-wpsms-settings.php:151
+#: includes/admin/settings/class-wpsms-settings.php:364
+#: includes/admin/settings/class-wpsms-settings.php:531
+#: includes/admin/settings/class-wpsms-settings.php:1189
+msgid "General"
+msgstr "العام"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:129
+#: includes/admin/settings/class-wpsms-settings.php:273
+#: includes/admin/settings/class-wpsms-settings.php:299
+#: includes/admin/settings/class-wpsms-settings.php:399
+#: includes/admin/settings/class-wpsms-settings.php:559
+#: includes/admin/settings/class-wpsms-settings.php:573
+#: includes/admin/settings/class-wpsms-settings.php:1461
+#: includes/admin/settings/class-wpsms-settings.php:1578
+#: includes/admin/settings/class-wpsms-settings.php:1652
+#: includes/admin/settings/class-wpsms-settings.php:1729
+#: includes/admin/settings/class-wpsms-settings.php:1762
+#: includes/admin/settings/class-wpsms-settings.php:1775
+#: includes/admin/settings/class-wpsms-settings.php:1812
+#: includes/admin/settings/class-wpsms-settings.php:1841
+#: includes/admin/settings/class-wpsms-settings.php:1879
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:113
+#: includes/templates/admin/subscriber-edit-form.php:41
+msgid "Status"
+msgstr "وضعیة"
+
+#: includes/admin/groups/groups.php:38 includes/admin/outbox/outbox.php:17
+#: includes/admin/subscribers/subscribers.php:90
+msgid "Search"
+msgstr "البحث"
+
+#: includes/admin/settings/class-wpsms-settings.php:163
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#: includes/admin/add-ons/class-add-ons.php:48
+#: includes/admin/settings/class-wpsms-settings.php:2135
+#: includes/templates/admin/subscriber-edit-form.php:44
+#: includes/templates/admin/subscriber-edit-form.php:47
+msgid "Active"
+msgstr "تفعيل"
+
+#: includes/admin/outbox/class-wpsms-outbox.php:124
+#: includes/admin/subscribers/class-wpsms-subscribers-table.php:112
+msgid "Date"
+msgstr "التاريخ"
+
+#: includes/admin/privacy/class-wpsms-privacy-actions.php:102
+#: includes/admin/privacy/class-wpsms-privacy-actions.php:113
+#: includes/admin/privacy/class-wpsms-privacy.php:44
+#: includes/admin/subscribers/subscribers.php:16
+#: includes/admin/subscribers/subscribers.php:80
+msgid "Export"
+msgstr "تصدير"
+
+#: includes/templates/admin/subscriber-edit-form.php:57
+msgid "Update"
+msgstr "تحديثات"
+
+#: includes/admin/settings/class-wpsms-settings.php:154
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: includes/admin/class-wpsms-admin.php:380
+msgid "Rate this plugin"
+msgstr "تقييم هذه الإضافة"
+
+#: includes/templates/admin/newsletter-form.php:9
+msgid "Close"
+msgstr "إغلاق"
+
+#: includes/BlockAbstract.php:70 includes/templates/admin/newsletter-form.php:8
+#: includes/templates/subscribe-form.php:39
+#: includes/templates/subscribe-form.php:40
+#: includes/templates/subscribe-form.php:56
+msgid "Subscribe"
+msgstr "اشتراك"
+
+#: includes/templates/meta-box.php:70
+msgid "Post title"
+msgstr "عنوان المقالة"
+
+#. Plugin Name of the plugin
+#: includes/BlockAssetsManager.php:42
+msgid "WP SMS"
+msgstr "WP SMS"

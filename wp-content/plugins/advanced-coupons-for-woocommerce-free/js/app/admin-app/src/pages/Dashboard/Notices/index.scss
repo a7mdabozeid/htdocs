@@ -1,0 +1,75 @@
+.dashboard-notices {
+  clear: both;
+  margin-bottom: 1em;
+
+  h2 {
+    font-size: 20px;
+  }
+
+  .list-overflow {
+    overflow: hidden;
+    transition: height 0.2s ease-in;
+    margin: -3px -2px;
+  }
+
+  .notices-list {
+    margin: 3px 2px;
+  }
+
+  .single-notice {
+    position: relative;
+    border: 0;
+    border-left: 5px solid #72aee6;
+    box-shadow: 0px 1px 4px 0px rgb(0 0 0 / 23%);
+    margin-bottom: 1em;
+
+    &.notice-success {
+      border-left-color: #00a32a;
+    }
+
+    &.notice-error {
+      border-left-color: #d63638;
+    }
+
+    &.notice-warning {
+      border-left-color: #dba617;
+    }
+
+    .notice-content {
+      margin-bottom: 0.5em;
+
+      p {
+        margin-bottom: 0.5em;
+      }
+    }
+
+    .notice-actions {
+
+      .ant-btn {
+        margin-right: 0.3em;
+      }
+
+      .ant-btn-primary {
+        background: #C6CD2E;
+        border-color: #b4bb1f;
+        color: #000000;
+        font-weight: bold;
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
+    
+    .dismiss-notice-icon {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+    }
+
+  }
+
+  .toggle-view-all {
+    text-transform: uppercase;
+  }
+}

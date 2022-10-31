@@ -1,0 +1,22 @@
+@import "site/default/button";
+@import "site/default/quote";
+@import "site/default/image";
+@import "site/default/widget";
+@import "site/default/cover";
+@import "site/default/columns";
+@import "site/default/embeds";
+@import "site/default/layout-el";
+
+.wp-block-table td,
+.wp-block-table th{
+	padding: 10px 20px;
+    border-color: var(--rz-border-color-gray);
+}
+
+
+table.large-padding thead th,
+table.large-padding thead td,
+table.large-padding th,
+table.large-padding td {
+	padding: 10px;
+}

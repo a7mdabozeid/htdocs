@@ -1,0 +1,21 @@
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_msrp_description"></key>
+    </admin-texts>
+    <custom-fields>
+        <custom-field action="translate">awdp_pc_title</custom-field>
+        <custom-field action="translate">awdp_pc_label</custom-field>
+        <custom-field action="translate">awdp_qn_label</custom-field>
+        <custom-field action="translate">awdp_new_label</custom-field>
+        <custom-field action="translate">awdp_fee_label</custom-field>
+        <custom-field action="translate">awdp_discount_message</custom-field>
+        <custom-field action="translate">awdp_table_value_text</custom-field>
+        <custom-field action="translate">awdp_table_value_notext</custom-field>
+        <custom-field action="translate">awdp_discount_description</custom-field>
+        <custom-field action="translate">awdp_discount_item_description</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">acoplw_badges</custom-type>
+        <custom-type translate="1">acoplw_prod_list</custom-type>
+    </custom-types>
+</wpml-config>

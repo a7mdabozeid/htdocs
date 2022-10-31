@@ -1,0 +1,230 @@
+.dashboard-page {
+  max-width: 1300px;
+
+  .dashboard-header {
+    margin-bottom: 2em;
+  }
+  
+  .quick-create-coupon {
+    display: inline-block;
+    margin: 0.3em 0 1.2em;
+
+    span.label {
+      margin-right: 0.3em;
+      font-weight: bold;
+    }
+
+    .ant-btn {
+      margin-left: 0.3em;
+      font-size: 0.9em;
+    }
+  }
+  
+  .report-date-range-picker {
+    display: block;
+    float: right;
+    margin-bottom: 1em;
+  }
+
+  .report-widgets {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 -0.5em;
+    clear: both;
+
+    .section-title {
+      width: 100%;
+      font-size: 20px;
+    }
+
+    .widget {
+      width: calc(50% - 1em);
+      margin: 0.5em 0.5em 2em;
+
+      .widget-header {
+        display: flex;
+        flex-flow: row;
+        align-items: flex-end;
+        margin-bottom: 0.5em;
+      
+        h3 {
+          display: inline-block;
+          margin:0 0.3em 0 0;
+        }
+      }
+    }
+
+    .big-number-widget, .upsell-widget {
+      border: 0;
+      box-shadow: 0 2px 4px 0px rgb(0 0 0 / 23%);
+
+      .ant-card-body {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 130px;
+
+        p {
+          margin: 0;
+          font-size: 1.2em;
+
+          &.title {
+            display: flex;
+            align-items: center;
+            column-gap: 0.1em;
+            font-size: 2.5em;
+            font-weight: bold;
+          }
+
+          &.description {
+            display: flex;
+            flex-flow: row;
+            align-items: flex-end;
+            column-gap: 0.4em;
+          }
+
+          .woocommerce-Price-currencySymbol {
+            font-size: 0.7em;
+          }
+        }
+      }
+    }
+
+    .coupon-table-widget {
+      .widget-name {
+        font-size: 16px;
+      }
+
+      table {
+        min-height: 330px;
+
+        .ant-table-cell .discounted-label {
+          display: inline-block;
+          margin-right: 0.3em;
+        }
+      }
+    }
+
+    .upsell-widget {
+
+      .ant-card-body {
+
+        p.title {
+          font-size: 1.8em;
+          line-height: 3em;
+        }
+
+        p.description a {
+          border-bottom: 1px solid #1890ff;
+        }
+      }
+
+      
+    }
+  }
+
+  .dashboard-sidebar .sidebar-inner {
+    padding: 0.4em 1.3em;
+    background: #FAFAFA;
+    border: 1px solid #D5D5D5;
+
+    .ant-list-header {
+      border: 0;
+
+      h2 {
+        font-size: 1.15em;
+        font-weight: bold;
+        margin: 0;
+      }
+    
+    }
+
+    .ant-list-item {
+      border-color: #E5E5E5;
+    }
+
+    .view-licenses {
+      font-size: 1.15em;
+    }
+  }
+
+  .resources-section {
+
+    li.ant-list-item {
+
+      a {
+        display: flex;
+        flex-flow:row;
+        align-items: center;
+        color: inherit;
+
+        &:hover {
+          color: #1890ff;
+        }
+      }
+
+      .anticon {
+        margin-right: 0.3em;
+        width: 1.2em;
+        font-size: 1.5em;
+      }
+    }
+  }
+
+  .plugins-section {
+
+    li.ant-list-item {
+      justify-content: left;
+      padding: 0.3em 0;
+      border: 0;
+
+      .anticon {
+        margin-right: 0.3em;
+        width: 1.2em;
+        font-size: 1.5em;
+
+        &.anticon-check-square {
+          color: #45BE93;
+        }
+
+        &.anticon-issues-close {
+          color: #D96208;
+        }
+
+        &.anticon-warning {
+          color: #E11111;
+        }
+      }
+
+      .plugin-name {
+        max-width: 220px;
+        display: inline-block;
+      }
+
+      .plugin-status {
+        
+        &.active {
+          color: #45BE93;
+        }
+
+        &.inactive {
+          color: #D96208;
+        }
+
+        &.expired {
+          color: #E11111;
+        }
+      }
+    }
+  }
+
+  span.tooltip {
+    font-size: 16px;
+  }
+
+}
+
+.dashboard-tooltip .ant-popover-content {
+  max-width: 400px;
+}

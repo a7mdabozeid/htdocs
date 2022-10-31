@@ -1,0 +1,28 @@
+{
+  "name": "tmeister/wp-api-jwt-auth",
+  "description": "A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API.",
+  "homepage": "https://github.com/Tmeister/wp-api-jwt-auth/",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+      {
+          "name": "Enrique Chavez",
+          "homepage": "https://enriquechavez.co"
+      }
+  ],
+  "support": {
+      "issues": "https://github.com/Tmeister/wp-api-jwt-auth/issues",
+      "source": "https://github.com/Tmeister/wp-api-jwt-auth/"
+  },
+  "config": {
+      "vendor-dir": "includes/vendor",
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  },
+  "require": {
+      "php": ">=5.3",
+      "composer/installers": "~1.0",
+      "firebase/php-jwt": "^6.3"
+  }
+}

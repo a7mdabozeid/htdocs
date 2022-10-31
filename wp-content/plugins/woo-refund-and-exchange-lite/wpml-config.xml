@@ -1,0 +1,24 @@
+<wpml-config>
+    <admin-texts>
+        <key name="wps_rma_refund_button_text"/>
+        <key name="wps_rma_refund_rules_editor"/>
+        <key name="wps_rma_order_message_button_text"/>
+        <key name="wps_rma_refund_reasons"/>
+        <key name="woocommerce_wps_rma_refund_request_email_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+          <key name="woocommerce_wps_rma_refund_request_accept_email_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+        <key name="woocommerce_wps_rma_refund_request_cancel_email_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+         <key name="woocommerce_wps_rma_order_messages_email_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+    </admin-texts>
+</wpml-config>

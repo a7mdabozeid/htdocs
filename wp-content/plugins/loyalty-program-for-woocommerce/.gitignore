@@ -1,0 +1,5 @@
+syntax: glob
+.idea/
+js/app/my-points-ui/node_modules/
+js/app/my-points-ui/package-lock.json
+js/app/admin_app/yarn.lock

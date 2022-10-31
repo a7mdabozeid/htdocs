@@ -1,0 +1,197 @@
+@media (max-width: 991px){
+    .razzi-deals-carousel {
+        .countdown-slider {
+            justify-content: center;
+            text-align: center;
+        }
+    }
+
+    .razzi-products-showcase {
+        &.razzi-swiper-carousel-elementor .rz-swiper-button {
+            display: none;
+        }
+
+        &.show-featured {
+            ul.products li.product .product-inner .product-thumbnail .rz-loop_button {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .razzi-shortcode-title {
+            margin-bottom: 25px;
+            font-size: 24px;
+        }
+
+        .swiper-pagination {
+            margin-top: 10px;
+        }
+
+        ul.products li.product {
+            .product-inner {
+                .product-loop__buttons {
+                    top: 60px;
+                    right: 25px;
+
+                    .rz-loop_button {
+                        width: 40px;
+                        height: 40px;
+                        background-color: #fff;
+
+                        &:hover {
+                            background-color: #fff;
+                        }
+
+                        &:before {
+                            right: 54px;
+                        }
+
+                        &:after {
+                            right: 44px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .razzi-product-shortcode {
+        .rz-product-wrapper {
+            display: block;
+        }
+        &.single-product {
+            div.product {
+                .woocommerce-product-gallery,
+                .entry-summary {
+                    width: 100%;
+                    float: none;
+                }
+
+                .woocommerce-product-gallery {
+                    .woocommerce-product-gallery__image {
+                        a, img {
+                            margin: 0 auto;
+                        }
+                    }
+                }
+
+                .entry-summary {
+                    padding: 0;
+                }
+
+            }
+        }
+    }
+
+    .razzi-products-deal {
+        ul.products {
+            li.product {
+                .product-summary {
+                    padding: 0;
+                    top: 0;
+                    margin-top: 20px;
+                }
+
+                .product-summary-deal {
+                    padding: 0;
+                }
+
+               .woocommerce-loop-product__title {
+                   font-size: 16px;
+                   line-height: 24px;
+               }
+            }
+        }
+
+        .swiper-pagination {
+            margin-top: 30px;
+        }
+    }
+
+    .razzi-lookbook-slider-elementor{
+
+        .slick-slide-block__blank{
+            width: 25%;
+        }
+
+        .slick-slide-block__img{
+            width: 75%;
+        }
+    }
+
+    .razzi-pricing-table__content{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .razzi-product-of-category {
+        &.has-categories {
+            display: block;
+
+            .razzi-product-of-category__categories,
+            .razzi-product-of-category__product {
+                width: 100%;
+            }
+
+            .razzi-products-carousel__heading--arrows {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .razzi-product-of-category__categories {
+        background: none !important;
+        padding-left: 0 !important;
+        padding-top: 5px;
+
+        ul {
+            display: flex;
+            overflow-x: auto;
+            scrollbar-color: #1f1f1f #e2e2e278;
+            scrollbar-width: thin;
+            margin-bottom: 20px;
+
+            &::-webkit-scrollbar {
+                height: 2px;
+            }
+
+            &::-webkit-scrollbar-track {
+                background-color: #e2e2e2;
+            }
+
+            &::-webkit-scrollbar-thumb {
+                background-color: #1f1f1f;
+            }
+
+            li {
+                margin-bottom: 5px;
+                display: flex;
+                a {
+                    padding-right: 15px;
+                    font-weight: 400;
+
+                    &::after {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+
+    .razzi-isolate-slides__wrapper {
+        flex: 1 1 65%;
+    }
+
+    .razzi-isolate-slides__image {
+        flex: 1 1 35%;
+    }
+}
+
+@media (min-width:992px) {
+    .razzi-deals-carousel {
+        .countdown-item {
+            width: 50%;
+            margin-left: 50%;
+        }
+    }
+}

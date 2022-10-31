@@ -1,0 +1,20 @@
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+	color: var(--rz-text-color);
+	font-family: var(--rz-font-family-primary);
+	@include font-size(1);
+	line-height: 1.5;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	box-sizing: border-box;
+}
+
+@import "links";
+
+@import "headings";
+
+@import "copy";

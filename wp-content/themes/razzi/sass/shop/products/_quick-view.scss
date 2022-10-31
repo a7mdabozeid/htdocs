@@ -1,0 +1,152 @@
+.quick-view-modal {
+	.button-close {
+		top: 32px;
+		right: 32px;
+		transform: none;
+		z-index: 9;
+		cursor: pointer;
+
+		.razzi-svg-icon {
+			font-size: 24px;
+		}
+	}
+
+	.modal-content {
+		max-height: 600px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background-color: transparent;
+		padding: 0;
+	}
+
+	.razzi-posts__loading {
+		bottom: 0;
+	}
+
+	&.loading {
+		.button-close,
+		.product {
+			opacity: 0;
+		}
+
+		.razzi-posts__loading {
+			display: block;
+			background-color: transparent;
+
+			.razzi-loading {
+				transform: translate(-50%, -50%);
+				top: 50%;
+			}
+		}
+	}
+
+	.woocommerce .product {
+		background-color: #fff;
+
+		.woocommerce-product-gallery {
+			width: 100%;
+			padding-bottom: 50px;
+
+			.woocommerce-product-gallery__image img {
+				cursor: default;
+			}
+		}
+
+		.entry-thumbnail {
+			width: 42%;
+			position: relative;
+			overflow: hidden;
+
+			&:hover {
+				.rz-swiper-button{
+					opacity: 1;
+				}
+			}
+		}
+
+		.entry-summary {
+			padding: 40px 70px 20px 55px;
+			width: 58%;
+			position: absolute;
+			right: 0;
+			top: 0;
+			height: 100%;
+
+			.woocommerce-product-rating {
+				margin-bottom: 20px;
+			}
+		}
+
+		.rz-buy-now-button  + {
+			.rz-wishlist-button {
+				border: none;
+			}
+
+			.rz-wishlist-button .razzi-svg-icon  {
+				font-size: 20px;
+			}
+		}
+	}
+
+	.razzi-product-deal {
+		margin: 30px 0 20px;
+	}
+
+	.product-more-infor {
+		font-size: 15px;
+		font-weight: 500;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		position: absolute;
+		padding: 14px 20px;
+		text-align: center;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: var(--rz-background-color-primary);
+		color: var(--rz-color-lighter);
+		z-index: 1;
+
+		.razzi-svg-icon {
+			margin-left: 10px;
+			font-size: 20px;
+		}
+	}
+
+	.rz-swiper-button {
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		display: block;
+		cursor: pointer;
+		outline: none;
+		width: 42px;
+		height: 42px;
+		line-height: 42px;
+		background-color: #ffffff;
+		text-align: center;
+		color: var(--rz-color-dark);
+		opacity: 0;
+		z-index: 1;
+		transition: .3s;
+		font-size: 20px;
+
+		svg {
+		/*rtl:raw:
+			transform: rotate(-180deg);
+		*/
+		}
+
+	}
+
+	.rz-quickview-button-prev {
+		left: 0;
+	}
+
+	.rz-quickview-button-next {
+		right: 0;
+	}
+}

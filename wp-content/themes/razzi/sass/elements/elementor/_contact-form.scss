@@ -1,0 +1,18 @@
+.razzi-contact-form-7{
+    p{
+        margin-bottom: 0;
+    }
+
+    input:not([type="submit"]),
+    textarea{
+        width: 100%;
+    }
+
+    input:not([type="submit"]){
+        margin-bottom: 30px;
+    }
+
+    textarea{
+        margin-bottom: 55px;
+    }
+}

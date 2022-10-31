@@ -1,0 +1,63 @@
+@media (min-width: 992px) {
+	body:not(.full-content) .widget-area {
+		width: 31.25%;
+	}
+	
+	body:not(.full-content) .content-area {
+		width: 68.75%;
+	}
+	
+	body {
+		&.content-sidebar {
+			.content-area {
+				padding-right: 15px;
+				float: left;
+			}
+			
+			.primary-sidebar {
+				padding-left: 15px;
+				float: right;
+			}
+		}
+		
+		&.sidebar-content {
+			.content-area {
+				padding-left: 15px;
+				float: right;
+			}
+			
+			.primary-sidebar {
+				padding-right: 15px;
+				float: left;
+			}
+		}
+	}
+	
+	.site-footer .col-5 {
+		width: 20%;
+	}
+}
+
+@media (min-width: 1400px) {
+	body {
+		&.content-sidebar {
+			.content-area {
+				padding-right: 30px;
+			}
+			
+			.primary-sidebar {
+				padding-left: 30px;
+			}
+		}
+		
+		&.sidebar-content {
+			.content-area {
+				padding-left: 30px;
+			}
+			
+			.primary-sidebar {
+				padding-right: 30px;
+			}
+		}
+	}
+}

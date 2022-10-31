@@ -1,0 +1,166 @@
+.elementor-774 .elementor-element.elementor-element-6b41c56 .elementor-search-form__container{min-height:55px;}.elementor-774 .elementor-element.elementor-element-6b41c56 .elementor-search-form__submit{min-width:calc( 4.4 * 55px );font-family:"Roboto", Sans-serif;font-weight:400;background-color:#FFAC52;}body:not(.rtl) .elementor-774 .elementor-element.elementor-element-6b41c56 .elementor-search-form__icon{padding-left:calc(55px / 3);}body.rtl .elementor-774 .elementor-element.elementor-element-6b41c56 .elementor-search-form__icon{padding-right:calc(55px / 3);}.elementor-774 .elementor-element.elementor-element-6b41c56 .elementor-search-form__input, .elementor-774 .elementor-element.elementor-element-6b41c56.elementor-search-form--button-type-text .elementor-search-form__submit{padding-left:calc(55px / 3);padding-right:calc(55px / 3);}.elementor-774 .elementor-element.elementor-element-6b41c56:not(.elementor-search-form--skin-full_screen) .elementor-search-form__container{border-radius:3px;}.elementor-774 .elementor-element.elementor-element-6b41c56.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{border-radius:3px;}.elementor-774 .elementor-element.elementor-element-238f243{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-774 .elementor-element.elementor-element-238f243 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-774 .elementor-element.elementor-element-3990028 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-774 .elementor-element.elementor-element-3990028 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-774 .elementor-element.elementor-element-ae4ec16 > .elementor-widget-container{background-color:#F5F5F5;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map{padding:10px 0px 10px 0px;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map > *{height:340px;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map .box-item{background-color:#FFFFFF;border-color:#FFFFFF;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map__table .map-title{margin-bottom:0px;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map__table .map-local{color:var( --e-global-color-89d8970 );}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map__table .map-desc{color:var( --e-global-color-text );}body.elementor-page-774 .header-v4 .header-bottom{margin-bottom:20px;}@media(max-width:1024px){.elementor-774 .elementor-element.elementor-element-238f243{margin-top:0px;margin-bottom:50px;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map{padding:0px 0px 0px 0px;}.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map > *{height:450px;}}@media(max-width:767px){.elementor-774 .elementor-element.elementor-element-ae4ec16 .razzi-map > *{height:400px;}}/* Start custom CSS for search-form, class: .elementor-element-6b41c56 */.elementor-search-form__container {
+    flex-direction: row-reverse;
+}
+
+.elementor-search-form__input {
+    display: none !important;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-7dc3148 */#searchlocationlist {
+    background-image:
+      linear-gradient(45deg, transparent 50%, gray 50%),
+      linear-gradient(135deg, gray 50%, transparent 50%),
+      linear-gradient(to right, #ccc, #ccc);
+    background-position:
+      calc(100% - 20px) calc(1em + 2px),
+      calc(100% - 15px) calc(1em + 2px),
+      calc(100% - 2.5em) 0.5em;
+    background-size:
+      5px 5px,
+      5px 5px,
+      1px 1.5em;
+    background-repeat: no-repeat;
+  }
+  
+  #searchlocationlist:focus {
+    background-image:
+      linear-gradient(45deg, green 50%, transparent 50%),
+      linear-gradient(135deg, transparent 50%, green 50%),
+      linear-gradient(to right, #ccc, #ccc);
+    background-position:
+      calc(100% - 15px) 1em,
+      calc(100% - 20px) 1em,
+      calc(100% - 2.5em) 0.5em;
+    background-size:
+      5px 5px,
+      5px 5px,
+      1px 1.5em;
+    background-repeat: no-repeat;
+    border-color: green;
+    outline: 0;
+  }
+  
+  
+  #searchlocationlist:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+  }
+  
+  
+#searchlocationlist {
+    width: 100%;
+    font-size: 1.2em;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-8d4e24d */.searchlocator .elementor-element.elementor-element-6b41c56 .elementor-search-form__submit {
+    min-width: initial;
+    margin: 0 15px;
+    width: 186px;
+    border-radius: 4px;
+    background-color: #d4070e;
+    padding: 4px 16px;
+}
+
+.searchlocator .elementor-search-form__container {
+    background-color: #fff;
+}
+
+
+.searchlocator .elementor-search-form__container {
+    flex-direction: row;
+}/* End custom CSS */
+/* Start custom CSS for razzi-map, class: .elementor-element-ae4ec16 */.razzi-map {
+    flex-direction: column-reverse;
+
+}
+
+.razzi-map__table {
+    max-width: 100% !important;
+    width: 100%;
+    display: flex  !important;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0;
+    margin-top: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.razzi-map .box-item {
+    position: relative;
+    margin: 0 5px 16px 0; 
+    padding: 26px 10px 0px 10px !important;
+    flex: 0 0 32% !important;
+    text-align: right;
+    font-size: 13px !important;
+    box-shadow: 0 1px 1px 0 rgb(23 43 77 / 25%);
+    -webkit-box-shadow: 0 1px 1px 0 rgb(23 43 77 / 25%);
+    -mox-box-shadow: 0 1px 1px 0 rgb(23 43 77 / 25%);
+    transition:  all 1s  .1s  ease-in;
+    -webkit-transition:  all 1s  .1s  ease-in;
+    -moz-transition:  all 1s  .1s  ease-in;
+    -ms-transition:  all 1s  .1s  ease-in;
+    -os-transition:  all 1s  .1s  ease-in;
+}
+
+.razzi-map .box-item * {
+    margin: 10px 0 !important;
+}
+
+.razzi-map .box-item .map-title {
+    display: none;
+}
+
+
+.razzi-map .box-item .map-locationlist-city {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+    color: #d4070e;
+}
+
+.razzi-map .box-item .store-hours , .razzi-map .box-item  p:not( .map-locationlist-city), .razzi-map .box-item  span {
+    text-align: left !important;
+    width: 100%;
+    text-align: left;
+    display: block;
+}
+
+.razzi-map .box-item .razzi-svg-icon  {
+    float: right;
+    display: block;
+    margin: 0px 10px !important;
+    color: #8492a6;
+}
+
+.razzi-map .box-item .store-hours .razzi-svg-icon, .razzi-map .box-item .location-map-link .razzi-svg-icon {
+    float: left;
+    margin: -10px 10px !important;
+}  
+
+
+.razzi-map .box-item p:not(.map-locationlist-city), .razzi-map .box-item .map-local {
+    color: #8492a6 !important;    
+}
+
+.razzi-map__content {
+    box-shadow: 0 0 1px #8aab8d;
+}
+
+.razzi-map .box-item.active {
+    border: 1px solid #13304f !important;
+}
+
+
+.razzi-map .box-item.active .map-desc {
+    display: block;
+}
+
+
+@media (max-width: 991px) {
+    .razzi-map__table {
+        flex-direction: column;
+    }
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-017e7f9 */.site-paragraph-hepler-admin {
+    display: none
+}/* End custom CSS */

@@ -1,0 +1,357 @@
+{
+    "translation-revision-date": "2020-07-10T15:17:18+00:00",
+    "generator": "WP-CLI\/2.3.0",
+    "source": "backend.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Product Labels": [
+                ""
+            ],
+            "Add New Badge": [
+                ""
+            ],
+            "Back": [
+                ""
+            ],
+            "Product Lists": [
+                ""
+            ],
+            "Add New List": [
+                ""
+            ],
+            "Settings": [
+                ""
+            ],
+            "From Date \/ Time": [
+                ""
+            ],
+            "To Date \/ Time": [
+                ""
+            ],
+            "End date should be greater than start date": [
+                ""
+            ],
+            "Pick a date": [
+                ""
+            ],
+            "IN": [
+                ""
+            ],
+            "NOT IN": [
+                ""
+            ],
+            "Select Relation": [
+                ""
+            ],
+            "Type to Select Category": [
+                ""
+            ],
+            "No categories found": [
+                ""
+            ],
+            "No tags found": [
+                ""
+            ],
+            "Type to Select Tags": [
+                ""
+            ],
+            "Category": [
+                ""
+            ],
+            "Tag": [
+                ""
+            ],
+            "Select Type": [
+                ""
+            ],
+            "AND": [
+                ""
+            ],
+            "OR": [
+                ""
+            ],
+            "Add Relations": [
+                ""
+            ],
+            "All": [
+                ""
+            ],
+            "Product List": [
+                ""
+            ],
+            "Edit badge": [
+                ""
+            ],
+            "Add New": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "Enter title": [
+                ""
+            ],
+            "CSS Badges": [
+                ""
+            ],
+            "Schedule": [
+                ""
+            ],
+            "TEXT OPTIONS": [
+                ""
+            ],
+            "Badge Label": [
+                ""
+            ],
+            "Text Color": [
+                ""
+            ],
+            "Font Size (Pixel)": [
+                ""
+            ],
+            "in PX": [
+                ""
+            ],
+            "Line Height (Pixel)": [
+                ""
+            ],
+            "BADGE STYLES": [
+                ""
+            ],
+            "STYLE OPTIONS": [
+                ""
+            ],
+            "Badge Color": [
+                ""
+            ],
+            "Width (Pixel)": [
+                ""
+            ],
+            "Height (Pixel)": [
+                ""
+            ],
+            "Border Radius (Pixel)": [
+                ""
+            ],
+            "Top Left": [
+                ""
+            ],
+            "Top Right": [
+                ""
+            ],
+            "Bottom Left": [
+                ""
+            ],
+            "Bottom Right": [
+                ""
+            ],
+            "OPACITY AND POSITION": [
+                ""
+            ],
+            "Opacity": [
+                ""
+            ],
+            "Rotation": [
+                ""
+            ],
+            "Flip Text": [
+                ""
+            ],
+            "Horizontal": [
+                ""
+            ],
+            "Vertical": [
+                ""
+            ],
+            "Badge Position": [
+                ""
+            ],
+            "Badge Position (Pixel)": [
+                ""
+            ],
+            "Top": [
+                ""
+            ],
+            "Bottom": [
+                ""
+            ],
+            "Left": [
+                ""
+            ],
+            "Right": [
+                ""
+            ],
+            "Use Product Sale Schedule": [
+                ""
+            ],
+            "*You can set the schedule on products page": [
+                ""
+            ],
+            "CUSTOM SCHEDULE": [
+                ""
+            ],
+            "*Please set date \/ time based on your server time settings. Current Server Date \/ Time: ": [
+                ""
+            ],
+            "ASSIGN TO ALL PRODUCTS ON SALE": [
+                ""
+            ],
+            "Badge Status": [
+                ""
+            ],
+            "Enable \/ Disable Badge": [
+                ""
+            ],
+            "SALE": [
+                ""
+            ],
+            "PUBLISH": [
+                ""
+            ],
+            "UPDATE": [
+                ""
+            ],
+            "Remove Badge": [
+                ""
+            ],
+            "All badge related datas will be removed.": [
+                ""
+            ],
+            "Are you sure to proceed?": [
+                ""
+            ],
+            "NO": [
+                ""
+            ],
+            "YES": [
+                ""
+            ],
+            "Deleting.. Please Wait..": [
+                ""
+            ],
+            "No badges found.": [
+                ""
+            ],
+            "TITLE": [
+                ""
+            ],
+            "BADGE STYLE": [
+                ""
+            ],
+            "DATE": [
+                ""
+            ],
+            "STATUS": [
+                ""
+            ],
+            "Delete": [
+                ""
+            ],
+            "will be removed.": [
+                ""
+            ],
+            "Are you sure to proceed.": [
+                ""
+            ],
+            "Please confirm to duplicate badge ": [
+                ""
+            ],
+            "CONFIRM": [
+                ""
+            ],
+            "Duplicating.. Please Wait..": [
+                ""
+            ],
+            "Edit": [
+                ""
+            ],
+            "Woocommerce Badges": [
+                ""
+            ],
+            "Duplicate": [
+                ""
+            ],
+            "Products Selection": [
+                ""
+            ],
+            "Dynamic Request": [
+                ""
+            ],
+            "Edit rule": [
+                ""
+            ],
+            "List Name": [
+                ""
+            ],
+            "Enter Rule Name": [
+                ""
+            ],
+            "Type": [
+                ""
+            ],
+            "Select List Type": [
+                ""
+            ],
+            "Taxonomy Relation": [
+                ""
+            ],
+            "Select Combination Relation": [
+                ""
+            ],
+            "Taxonomy Combinations": [
+                ""
+            ],
+            "Exclude Products": [
+                ""
+            ],
+            "Type to Select Products": [
+                ""
+            ],
+            "No products found": [
+                ""
+            ],
+            "*Start typing to select the product from the list.": [
+                ""
+            ],
+            "Products": [
+                ""
+            ],
+            "Remove List": [
+                ""
+            ],
+            "All related datas will be removed.": [
+                ""
+            ],
+            "No product lists found.": [
+                ""
+            ],
+            "General Settings": [
+                ""
+            ],
+            "Hide Default 'Woocommerce \/ Theme Sale Badges'": [
+                ""
+            ],
+            "Note: ": [
+                ""
+            ],
+            "If enabled default 'Woocommerce Sale Tag' wil be no longer shown on products on sale": [
+                ""
+            ],
+            "Show 'Dynamic Pricing With Discount Rules for WooCommerce' Product Lists": [
+                ""
+            ],
+            "To enable this 'Dynamic Pricing With Discount Rules for WooCommerce' plugin should be installed on your site": [
+                ""
+            ],
+            "SAVE CHANGES": [
+                ""
+            ]
+        }
+    }
+}

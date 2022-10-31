@@ -1,0 +1,462 @@
+2022-10-09T08:45:16+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:45:16+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:45:17+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:45:17+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:46:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:46:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:46:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:46:03+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:12+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:12+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:12+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:12+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:47:22+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:22+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:22+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:23+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:47:42+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:42+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:43+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:47:43+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:48:13+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:48:14+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:48:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:48:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:48:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:48:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:49:06+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:06+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:06+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:06+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:49:15+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:15+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:49:16+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:16+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:28+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:29+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:29+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:29+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+
+2022-10-09T08:49:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i في /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php في السطر 24
+
+2022-10-09T08:49:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/alshia5/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2238): wc_get_template('cart/mini-cart....', Array)
+#2 /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php(17): woocommerce_mini_cart()
+#3 /home/alshia5/public_html/wp-includes/template.php(772): require('/home/alshia5/p...')
+#4 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#5 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#6 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#7 /home/alshia5/public_html/wp-i in /home/alshia5/public_html/wp-content/themes/razzi/woocommerce/cart/mini-cart.php on line 24
+

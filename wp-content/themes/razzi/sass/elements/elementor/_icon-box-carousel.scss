@@ -1,0 +1,74 @@
+
+.razzi-icons-box-carousel__wrapper{
+    opacity: 0;
+    border-style:solid ;
+    border-width: 0 0 0 1px;
+    border-color: var(--rz-icons-box-border-color);
+}
+
+.razzi-icons-box-carousel{
+    --rz-icons-box-border-color: #303030;
+
+    .razzi-icon {
+        font-size: 48px;
+        margin-bottom: 8px;
+    }
+
+    .razzi-img-icon {
+        margin-bottom: 8px;
+        display: inline-flex;
+        width: 45px;
+        height: 45px;
+
+        img {
+            display: block;
+        }
+    }
+
+    .icon-box{
+        position: relative;
+        text-align: center;
+        border-style:solid ;
+        border-width: 0 1px 0 0;
+        border-color: var(--rz-icons-box-border-color);
+        padding: 25px 20px 24px;
+        height: auto;
+        transition: 0.3s;
+    }
+
+    .icon-box__btn{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .icon-box__title{
+        margin: 0;
+    }
+
+    .rz-swiper-button{
+        background-color: transparent;
+        color: #767676;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 28px;
+    }
+
+    .rz-swiper-button-prev{
+        left: -80px;
+    }
+
+    .rz-swiper-button-next{
+        right: -80px;
+    }
+
+    .swiper-pagination{
+        position: absolute;
+        width: 100%;
+        margin-top: 0;
+        bottom: -40px;
+    }
+}

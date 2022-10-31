@@ -1,0 +1,5283 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-23 11:27:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:45
+msgid "%s Setup"
+msgstr "إعداد %s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:65
+msgid "%s Overview"
+msgstr "نظرة عامة على %s"
+
+#: app/Common/Views/admin/settings-page.php:180
+msgid "View supported browsers"
+msgstr "عرض المتصفحات (المستعرضات) المدعومة"
+
+#. Translators: 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:173
+msgid "You are using a browser which is no longer supported by %1$s. Please update or use another browser in order to access the plugin settings."
+msgstr "أنت تستخدم متصفحًا (مستعرض) لم يعد مدعومًا بنسبة %1$s. يرجى تحديث أو استخدام متصفح آخر من أجل الوصول إلى إعدادات الإضافة."
+
+#: app/Common/Views/admin/settings-page.php:162
+msgid "Resolve This Issue"
+msgstr "حل هذه المشكلة"
+
+#: app/Common/Views/admin/settings-page.php:134
+msgid "Ooops! It Appears JavaScript Didn’t Load"
+msgstr "عذرا! يبدو أن لغة جافا سكريبت لم يتم تحميلها"
+
+#. Translators: 1 - The sitemap name, 2 - The current page.
+#: app/Common/Sitemap/Xsl.php:64
+msgid "%1$s Sitemap %2$s"
+msgstr "%1$s خريطة الموقع %2$s"
+
+#: app/Common/Views/admin/settings-page.php:167
+msgid "Your browser version is not supported"
+msgstr "نسخة متصفحك ليست مدعومة"
+
+#. Translators: 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:154
+msgid "Copy the error message above and paste it in a message to the %1$s support team."
+msgstr "انسخ رسالة الخطأ أعلاه وقم بلصقها في رسالة إلى فريق دعم %1$s."
+
+#. Translators: 1 - Line break HTML tag, 2 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:140
+msgid "There seems to be an issue running JavaScript on your website. %1$s%2$s is built with JavaScript to give you the best experience possible."
+msgstr "يبدو أن هناك مشكلة في تشغيل جافا سكربت على موقع الويب الخاص بك. %1$s%2$s مبني بواسطة لغة جافا سكربت لمنحك أفضل تجربة ممكنة."
+
+#: app/Common/Admin/Admin.php:308
+msgid "Insert/edit link"
+msgstr "إدارج أو تحرير رابط"
+
+#: app/Common/Admin/Admin.php:314
+msgid "Link selected."
+msgstr "تم تحديد الرابط."
+
+#. Translators: Minimum input length in characters to start searching posts in
+#. the "Insert/edit link" modal.
+#: app/Common/Admin/Admin.php:323
+msgctxt "minimum input length for searching post links"
+msgid "3"
+msgstr "3"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:794
+msgid "profit"
+msgstr "الربح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:739
+msgid "horrific"
+msgstr "مروع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:850
+msgid "six-figure"
+msgstr "ستة أرقام"
+
+#: app/Common/Standalone/PageBuilders/Elementor.php:91
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:428
+msgid "terrific"
+msgstr "استثنائي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:429
+msgid "simplified"
+msgstr "مبسط"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:641
+msgid "first"
+msgstr "أول"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:699
+msgid "fire"
+msgstr "نار"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:440
+msgid "profitable"
+msgstr "مربح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:754
+msgid "fulfill"
+msgstr "ينجز"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:709
+msgid "flush"
+msgstr "تدفق"
+
+#: app/Common/Models/Post.php:480 languages/aioseo-lite.php:3599
+#: languages/aioseo-pro.php:5081
+msgid "No content yet"
+msgstr "لا يوجد محتوى بعد"
+
+#: app/Common/Admin/Admin.php:188 app/Common/Admin/Admin.php:189
+#: languages/aioseo-lite.php:3191 languages/aioseo-pro.php:4481
+#: dist/Lite/assets/js/App.75c2c871.js:1 dist/Lite/assets/js/Main.1ee553a9.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/Main.e87be427.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Link Assistant"
+msgstr "الرابط المساعد"
+
+#: app/Common/Api/Analyze.php:133
+msgid "Please enter a valid headline."
+msgstr "الرجاء إدخال عنوان صالح."
+
+#: app/Common/Api/Plugins.php:77
+msgid "Plugin update failed. Please check permissions and try again."
+msgstr "فشل تحديث الإضافة. يرجى التحقق من الأذونات والمحاولة مرة أخرى."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:49
+msgid "sitemap"
+msgstr "خريطة الموقع"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:30
+msgid "High"
+msgstr "مرتفع"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:29
+msgid "Medium"
+msgstr "متوسط"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:28
+msgid "Low"
+msgstr "منخفض"
+
+#. Translators: 1 - The generated date, 2 - The generated time.
+#: app/Common/Views/sitemap/xsl/templates/header.php:60
+msgid "and was generated on %1$s at %2$s"
+msgstr "وتم توليده في %1$s الساعة %2$s"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:48
+msgid "Didn't expect to see this? Make sure your sitemap is enabled and your content is set to be indexed. %1$sLearn More →%2$s"
+msgstr "لم أتوقع رؤية هذا؟ تأكد من تمكين خريطة الموقع الخاصة بك وأنه تم تعيين المحتوى الخاص بك على فهرسة. %1$s اطلع على المزيد %2$s"
+
+#. Translators: 1 - The amount of errors.
+#: languages/aioseo-lite.php:55 languages/aioseo-pro.php:74
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "%1$s Error"
+msgid_plural "%1$s Errors"
+msgstr[0] "%1$s خطأ"
+msgstr[1] "خطأ واحد"
+msgstr[2] "خطأن"
+msgstr[3] "%1$s أخطاء"
+msgstr[4] "%1$s خطأ"
+msgstr[5] "%1$s خطأ"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:32
+msgid "Whoops!"
+msgstr "معذرة!"
+
+#: app/Common/Views/sitemap/xsl/styles.php:103
+msgid "Back"
+msgstr "رجوع"
+
+#: app/Common/Views/sitemap/xsl/default.php:279 languages/aioseo-pro.php:4006
+msgid "Images"
+msgstr "الصور"
+
+#: app/Common/Views/sitemap/xsl/default.php:104
+msgid "URL Count"
+msgstr "عدد عناوين URL"
+
+#: app/Common/Views/sitemap/xsl/default.php:42
+#: app/Common/Views/sitemap/xsl/default.php:92
+#: app/Common/Views/sitemap/xsl/default.php:257
+#: app/Common/Views/sitemap/xsl/default.php:443
+msgid "Sitemap Index"
+msgstr "فهرس خريطة الموقع"
+
+#. Translators: 1 - The "start-end" pagination results, 2 - Total items.
+#: app/Common/Views/sitemap/xsl/partials/pagination.php:42
+msgid "Showing %1$s of %2$s"
+msgstr "يعرض %1$s من %2$s"
+
+#: app/Common/Sitemap/Xsl.php:38
+msgid "Post Archive"
+msgstr "أرشيف المقالات"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:39
+msgid "Configure Sitemap"
+msgstr "تكوين خارطة الموقع"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:37
+msgid "Back to Homepage"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:34
+msgid "There are no posts here"
+msgstr "لا يوجد مقالات هنا."
+
+#: app/Common/Options/Options.php:560
+msgid "404 - Page Not Found"
+msgstr "404 - الصفحة غير موجودة"
+
+#: app/Common/Options/Options.php:559
+msgid "Search Results for"
+msgstr "نتائج البحث عن"
+
+#: languages/aioseo-lite.php:649 languages/aioseo-pro.php:912
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "An error occurred while fetching keyphrases. Please try again later."
+msgstr "حدث خطأ أثناء جلب عبارات مفتاحية. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: languages/aioseo-lite.php:4854 languages/aioseo-pro.php:6900
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Show label"
+msgstr "عرض التسمية"
+
+#: languages/aioseo-lite.php:3349 languages/aioseo-pro.php:4737
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Map Preview"
+msgstr "معاينة الخريطة"
+
+#: languages/aioseo-lite.php:4842 languages/aioseo-pro.php:6888
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Show icon"
+msgstr "عَرض الأيقونة"
+
+#: languages/aioseo-lite.php:1497 languages/aioseo-pro.php:2114
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Custom Marker"
+msgstr "علامة مخصصة"
+
+#: languages/aioseo-lite.php:6603 languages/aioseo-pro.php:9442
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "You have exceeded the limit for requests. Please try again later."
+msgstr "لقد تجاوزت الحد للطلبات. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: languages/aioseo-lite.php:2560 languages/aioseo-pro.php:3615
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Google Reviews"
+msgstr "تقيمات Google "
+
+#: languages/aioseo-pro.php:2529
+msgid "Display Map"
+msgstr "عَرض الخريطة"
+
+#: languages/aioseo-lite.php:4892 languages/aioseo-pro.php:7022
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Show your location to your visitors using an interactive Google Map. Create multiple maps for use with multiple locations."
+msgstr "إظهار موقعك الجغرافي لزوارك باستخدام خرائط Google التفاعلية. إنشاء خرائط متعددة للاستخدام مع مواقع جغرافية متعددة."
+
+#. Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro".
+#: languages/aioseo-lite.php:3256 languages/aioseo-pro.php:4586
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Local SEO Maps are only available for licensed %1$s %2$s users."
+msgstr "خرائط تحسين محركات البحث المحلية متاحة فقط للمستخدمين المرخصين %1$s %2$s."
+
+#: languages/aioseo-lite.php:1808 languages/aioseo-pro.php:2607
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Driving Directions"
+msgstr "اتجاهات القيادة"
+
+#: languages/aioseo-lite.php:2557 languages/aioseo-pro.php:3612
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Google Places Support"
+msgstr "يدعم Google Places"
+
+#: languages/aioseo-lite.php:3602 languages/aioseo-pro.php:5084
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "No focus keyphrase!"
+msgstr "لا توجد عبارة مفتاحية رئيسة!"
+
+#: languages/aioseo-lite.php:2554 languages/aioseo-pro.php:3609
+#: dist/Lite/assets/js/Maps.9d5950b8.js:1
+msgid "Google Maps API Key"
+msgstr "مفتاح واجهة برمجة التطبيقات لخرائط Google "
+
+#: languages/aioseo-pro.php:3603
+msgid "Google Maps"
+msgstr "خرائط Google"
+
+#: languages/aioseo-lite.php:3343 languages/aioseo-pro.php:4730
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Map"
+msgstr "الخريطة"
+
+#: languages/aioseo-lite.php:3353 languages/aioseo-pro.php:4744
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Maps"
+msgstr "الخرائط"
+
+#: languages/aioseo-lite.php:2523 languages/aioseo-pro.php:3571
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Good!"
+msgstr "جيّد!"
+
+#: languages/aioseo-lite.php:975 languages/aioseo-pro.php:1423
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Blocked!"
+msgstr "محظور!"
+
+#: app/Common/Api/Tools.php:216
+msgid ".htaccess file is empty."
+msgstr "ملف الـ .htaccess فارغ."
+
+#. Translators: 1 - How many errors were found.
+#: languages/aioseo-lite.php:59 languages/aioseo-pro.php:78
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "%1$s error found!"
+msgid_plural "%1$s errors found!"
+msgstr[0] "تم العثور على %1$s خطأ!"
+msgstr[1] "تم العثور على خطأ واحد!"
+msgstr[2] "تم العثور على خطأين!"
+msgstr[3] "تم العثور على %1$s أخطاء!"
+msgstr[4] "تم العثور على %1$s خطأ!"
+msgstr[5] "تم العثور على %1$s خطأ!"
+
+#: languages/aioseo-lite.php:5754 languages/aioseo-pro.php:8269
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "To view the new sitemap, first save changes."
+msgstr "لعرض خريطة الموقع الجديدة، احفظ التغييرات أولاً."
+
+#: languages/aioseo-lite.php:5757 languages/aioseo-pro.php:8272
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "To view the sitemap, enter a URL and save changes."
+msgstr "لعرض خريطة الموقع، أدخل عنوان URL واحفظ التغييرات."
+
+#: app/Common/Views/sitemap/xsl/default.php:199 languages/aioseo-lite.php:4255
+#: languages/aioseo-pro.php:5992 dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Publication Date"
+msgstr "تاريخ النشر"
+
+#: languages/aioseo-lite.php:2714 languages/aioseo-pro.php:3810
+#: dist/Lite/assets/js/Category.b41f392b.js:1
+msgid "Home Page Meta Description"
+msgstr "الوصف التعريفي للصفحة الرئيسية"
+
+#: languages/aioseo-lite.php:2763 languages/aioseo-pro.php:3865
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "HTML Sitemap Settings"
+msgstr "إعدادات خريطة موقع الـ HTML"
+
+#: languages/aioseo-lite.php:6523 languages/aioseo-pro.php:9295
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "Yes, I want to delete this backup"
+msgstr "نعم، أريد حذف هذه النسخة الاحتياطية"
+
+#: languages/aioseo-lite.php:781 languages/aioseo-pro.php:1141
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "Are you sure you want to restore this backup?"
+msgstr "هل أنت متأكد أنك تريد استعادة هذه النسخة الاحتياطية؟"
+
+#: languages/aioseo-lite.php:6526 languages/aioseo-pro.php:9331
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "Yes, I want to restore this backup"
+msgstr "نعم، أريد استعادة هذا النسخة الاحتياطية"
+
+#: app/Common/Views/sitemap/html/widget-options.php:143
+#: languages/aioseo-lite.php:1674 languages/aioseo-pro.php:2388
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Descending"
+msgstr "تنازلي"
+
+#: app/Common/Views/sitemap/html/widget-options.php:142
+#: languages/aioseo-lite.php:811 languages/aioseo-pro.php:1180
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: languages/aioseo-lite.php:6610 languages/aioseo-pro.php:9449
+#: dist/Lite/assets/notifications.6087f18f.js:1
+msgid "You have new notifications!"
+msgstr "لديك إشعارات جديدة!"
+
+#: app/Common/Views/sitemap/html/widget-options.php:52
+#: languages/aioseo-lite.php:4860 languages/aioseo-pro.php:6906
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Show Labels"
+msgstr "عرض التسميات"
+
+#: app/Common/Views/sitemap/html/widget-options.php:130
+#: languages/aioseo-lite.php:612 languages/aioseo-pro.php:853
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+#: app/Common/Views/sitemap/html/widget-options.php:127
+#: app/Common/Views/sitemap/xsl/default.php:113
+#: app/Common/Views/sitemap/xsl/default.php:319 languages/aioseo-lite.php:3129
+#: languages/aioseo-pro.php:4389 dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Last Updated"
+msgstr "آخر تحديث"
+
+#: app/Common/Views/sitemap/html/widget-options.php:120
+#: languages/aioseo-lite.php:5000 languages/aioseo-pro.php:7182
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Sort Order"
+msgstr "ترتيب الفرز"
+
+#: app/Common/Views/sitemap/html/widget-options.php:68
+#: languages/aioseo-lite.php:4874 languages/aioseo-pro.php:7001
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Show Publication Date"
+msgstr "عرض تاريخ النشر"
+
+#: app/Common/Views/sitemap/html/widget-options.php:36
+#: languages/aioseo-lite.php:1298 languages/aioseo-pro.php:1865
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Compact Archives"
+msgstr "الأرشيفات المدمجة"
+
+#: app/Common/Sitemap/Html/Sitemap.php:127
+msgid "Sitemap"
+msgstr "خريطة الموقع"
+
+#: app/Common/Views/sitemap/html/compact-archive.php:12
+msgid "No date archives could be found."
+msgstr "تعذر العثور على أرشيفات التاريخ."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:47
+msgid "%1$s - HTML Sitemap"
+msgstr "%1$s - HTML خريطة الموقع"
+
+#. Translators: The short plugin name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:40
+msgid "%1$s HTML sitemap widget."
+msgstr "%1$s HTML ودجة خريطة الموقع."
+
+#: app/Common/Sitemap/Html/Frontend.php:174
+msgid "No posts/terms could be found."
+msgstr "لم يتم العثور على مقالات/اصطلاحات (عناصر فئات)."
+
+#. Translators: 1 - Opening bold tag, 2 - Plugin short name ("AIOSEO"), 3 -
+#. "Pro", 4 - Closing bold tag.
+#: app/Common/Utils/Addons.php:121
+msgid "The following addons cannot be used, because they require %1$s%2$s %3$s%4$s to work:"
+msgstr "لا يمكن استخدام الإضافات التالية، لأنها تتطلب %1$s%2$s %3$s%4$s للعمل:"
+
+#: app/Common/Views/sitemap/html/widget-options.php:172
+msgid "Enter a comma-separated list of term IDs."
+msgstr "أدخل قائمة مفصولة بفاصلة من معرفات المصطلحات."
+
+#: app/Common/Views/sitemap/html/widget-options.php:158
+msgid "Enter a comma-separated list of post IDs."
+msgstr "أدخل قائمة مفصولة بفاصلة من معرفات المقالات."
+
+#: app/Common/Views/sitemap/html/widget-options.php:139
+#: languages/aioseo-lite.php:4996 languages/aioseo-pro.php:7178
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Sort Direction"
+msgstr "اتجاه الفرز"
+
+#: languages/aioseo-pro.php:6278
+msgid "Remove www from domain"
+msgstr "إزالة www من اسم النطاق"
+
+#: languages/aioseo-lite.php:4647 languages/aioseo-pro.php:6652
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Select Roles"
+msgstr "حدد دور المستخدم"
+
+#: languages/aioseo-lite.php:4667 languages/aioseo-pro.php:6672
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Select Status"
+msgstr "اختر الحالة"
+
+#: languages/aioseo-lite.php:3086 languages/aioseo-pro.php:4332
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Key"
+msgstr "المفتاح"
+
+#: languages/aioseo-lite.php:4644 languages/aioseo-pro.php:6649
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Select a Value or Add a New One"
+msgstr "تحديد قيمة أو إضافة واحدة جديدة"
+
+#: languages/aioseo-lite.php:403 languages/aioseo-pro.php:540
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Add Custom Rule"
+msgstr "إضافة قاعدة مخصصة"
+
+#: languages/aioseo-lite.php:2673 languages/aioseo-pro.php:3754
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Help us improve"
+msgstr "ساعدنا على تحسين الخدمة"
+
+#: languages/aioseo-lite.php:5188 languages/aioseo-pro.php:7436
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "That's Awesome!"
+msgstr "هذا رائع!"
+
+#: languages/aioseo-lite.php:6520 languages/aioseo-pro.php:9265
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Yes, I love it!"
+msgstr "نعم أحبه!"
+
+#. Translators: 1 - Learn more link.
+#: languages/aioseo-pro.php:8976
+msgid "We cannot detect your web server. Server redirects are disabled. %1$s"
+msgstr "لا يمكننا اكتشاف خادوم الويب الخاص بك. إعادة توجيهات الخادوم معطلة. %1$s"
+
+#: languages/aioseo-pro.php:2082
+msgid "Custom"
+msgstr "مُخصَّص"
+
+#: languages/aioseo-pro.php:6114
+msgid "redirect"
+msgstr "إعادة التوجيه"
+
+#: languages/aioseo-pro.php:7038
+msgid "site"
+msgstr "الموقع"
+
+#: languages/aioseo-pro.php:7041
+msgid "Site"
+msgstr "الموقع"
+
+#: languages/aioseo-pro.php:6636
+msgid "Select a header"
+msgstr "حدد ترويسة"
+
+#: languages/aioseo-pro.php:549
+msgid "Add headers by clicking in the options below."
+msgstr "إضافة ترويسات عن طريق النقر في الخيارات أدناه."
+
+#: languages/aioseo-pro.php:537
+msgid "Add CORS Presets"
+msgstr "إضافة إعدادات مسبقة لـ اشتراك المصادر في الموارد CORS"
+
+#: languages/aioseo-pro.php:595
+msgid "Add Security Presets"
+msgstr "إضافة الإعدادات المسبقة الأمنية"
+
+#: languages/aioseo-pro.php:546
+msgid "Add Header"
+msgstr "إضافة ترويسة"
+
+#: languages/aioseo-lite.php:6177 languages/aioseo-pro.php:8862
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Value"
+msgstr "القيمة"
+
+#: languages/aioseo-pro.php:3691
+msgid "Header"
+msgstr "الترويسة"
+
+#: languages/aioseo-pro.php:4603
+msgid "Location"
+msgstr "المكان"
+
+#: languages/aioseo-pro.php:3874
+msgid "HTTP Headers"
+msgstr "ترويسات HTTP "
+
+#: languages/aioseo-pro.php:9657
+msgid "Your new site address"
+msgstr "عنوان موقعك الجديد"
+
+#: languages/aioseo-pro.php:9660
+msgid "Your old site address"
+msgstr "عنوان موقعك القديم"
+
+#: languages/aioseo-lite.php:3163 languages/aioseo-pro.php:4454
+msgid "Libraries"
+msgstr "المكاتب"
+
+#: languages/aioseo-lite.php:2177 languages/aioseo-pro.php:3180
+msgid "Feeds"
+msgstr "الموجزات"
+
+#: languages/aioseo-lite.php:3421 languages/aioseo-pro.php:4835
+msgid "Mobile"
+msgstr "الجوال"
+
+#: languages/aioseo-lite.php:3259 languages/aioseo-pro.php:4592
+msgid "Locale"
+msgstr "اللغة"
+
+#: languages/aioseo-lite.php:6457 languages/aioseo-pro.php:9192
+msgid "WordPress Filter"
+msgstr "فلتر وورديريس"
+
+#: languages/aioseo-lite.php:2766 languages/aioseo-pro.php:3871
+msgid "HTTP Header"
+msgstr "ترويسة HTTP "
+
+#: languages/aioseo-lite.php:3021 languages/aioseo-pro.php:4251
+msgid "IP"
+msgstr "عنوان IP"
+
+#: languages/aioseo-lite.php:1408 languages/aioseo-pro.php:1990
+msgid "Cookie"
+msgstr " الكعكات"
+
+#: languages/aioseo-lite.php:6463 languages/aioseo-pro.php:9198
+msgid "WordPress User Roles"
+msgstr "أدور مستخدمي ووردبريس"
+
+#: languages/aioseo-lite.php:4376 languages/aioseo-pro.php:6196
+msgid "Referrer"
+msgstr "الإحالة"
+
+#: languages/aioseo-lite.php:3278 languages/aioseo-pro.php:4649
+msgid "Login Status"
+msgstr "حالة تسجيل الدخول"
+
+#: languages/aioseo-lite.php:1424 languages/aioseo-pro.php:2016
+msgid "CORS"
+msgstr "اشتراك المصادر في الموارد "
+
+#: languages/aioseo-lite.php:2323 languages/aioseo-pro.php:3362
+msgid "Full Site Redirect"
+msgstr "إعادة توجيه الموقع بأكمله"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:654
+msgid "social"
+msgstr "الإجتماعية"
+
+#: app/Common/Models/Post.php:462 languages/aioseo-pro.php:1948
+msgid "Content"
+msgstr "المحتوى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:507
+msgid "excellent"
+msgstr "ممتاز"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:468
+msgid "security"
+msgstr "الأمن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:947
+msgid "you see"
+msgstr "أترى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:946
+msgid "tired"
+msgstr "متعب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:948
+msgid "surprisingly"
+msgstr "مدهش"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:949
+msgid "to be"
+msgstr "يكون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:950
+msgid "vaporize"
+msgstr "تبخر"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:934
+msgid "worry"
+msgstr "قلق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:935
+msgid "sure"
+msgstr "واثق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:936
+msgid "this is"
+msgstr "هذا هو"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:937
+msgid "wounded"
+msgstr "مجروح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:930
+msgid "unusually"
+msgstr "بشكل غير معتاد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:891
+msgid "unauthorized"
+msgstr "غير مصرح به"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:706
+msgid "happy"
+msgstr "سعيد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:702
+msgid "had enough"
+msgstr "ضاق ذراعاً"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:700
+msgid "hack"
+msgstr "هزيل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:695
+msgid "dollar"
+msgstr "دولار"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:622
+msgid "little"
+msgstr "قليل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:620
+msgid "want"
+msgstr "يريد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:618
+msgid "life"
+msgstr "حياة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:617
+msgid "best"
+msgstr "أفضل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:616
+msgid "video"
+msgstr "فيديو"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:615
+msgid "old"
+msgstr "قديم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:614
+msgid "know"
+msgstr "يعرف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:613
+msgid "being"
+msgstr "يكون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:612
+msgid "valentines"
+msgstr "أعياد الحب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:610
+msgid "its"
+msgstr "إنه"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:608
+msgid "time"
+msgstr "وقت"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:606
+msgid "here"
+msgstr "هنا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:605
+msgid "baby"
+msgstr "طفل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:604
+msgid "think"
+msgstr "يفكر"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:602
+msgid "heart"
+msgstr "قلب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:601
+msgid "awesome"
+msgstr "مهيب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:600
+msgid "thing"
+msgstr "شيء"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:599
+msgid "need"
+msgstr "يحتاج"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:598
+msgid "happened"
+msgstr "حدث"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:597
+msgid "actually"
+msgstr "في الواقع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:584
+msgid "there"
+msgstr "هناك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:582
+msgid "their"
+msgstr "هم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:580
+msgid "the"
+msgstr "ال"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:579
+msgid "with"
+msgstr "مع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:578
+msgid "that"
+msgstr "ذلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:576
+msgid "so"
+msgstr "لذلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:575
+msgid "why"
+msgstr "لماذا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:574
+msgid "sould"
+msgstr "سندات"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:573
+msgid "who"
+msgstr "مَن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:570
+msgid "re"
+msgstr "يعيد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:568
+msgid "on"
+msgstr "مفعّل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:567
+msgid "was"
+msgstr "كان"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:565
+msgid "up"
+msgstr "فوق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:564
+msgid "not"
+msgstr "ليس"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:563
+msgid "to"
+msgstr "إلى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:562
+msgid "no"
+msgstr "لا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:561
+msgid "this"
+msgstr "هذا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:559
+msgid "things"
+msgstr "شيء"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:558
+msgid "most"
+msgstr "أغلب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:556
+msgid "me"
+msgstr "أنا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:555
+msgid "these"
+msgstr "هؤلاء"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:554
+msgid "ll"
+msgstr "اثنان"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:553
+msgid "like"
+msgstr "مثل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:552
+msgid "ever"
+msgstr " أبدا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:551
+msgid "just"
+msgstr "فقط"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:548
+msgid "did"
+msgstr "فعل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:547
+msgid "is"
+msgstr "يكون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:545
+msgid "in"
+msgstr "في"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:544
+msgid "by"
+msgstr "بواسطة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:543
+msgid "if"
+msgstr "إذ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:542
+msgid "but"
+msgstr "لكن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:541
+msgid "I"
+msgstr "أنا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:540
+msgid "be"
+msgstr "يكون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:537
+msgid "his"
+msgstr "حقه"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:536
+msgid "as"
+msgstr "ك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:535
+msgid "her"
+msgstr "حقها"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:532
+msgid "and"
+msgstr "و"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:530
+msgid "an"
+msgstr " "
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:528
+msgid "all"
+msgstr "كل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:527
+msgid "get"
+msgstr "يحصل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:526
+msgid "after"
+msgstr "بعد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:525
+msgid "from"
+msgstr "من"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:524
+msgid "about"
+msgstr "عن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:523
+msgid "for"
+msgstr "لأجل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:522
+msgid "a"
+msgstr " "
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:509
+msgid "download"
+msgstr "تنزيل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:508
+msgid "delighted"
+msgstr "مسرور"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:506
+msgid "practical"
+msgstr "عملي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:505
+msgid "insider"
+msgstr "دخيل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:504
+msgid "surprise"
+msgstr "مفاجأة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:503
+msgid "sensational"
+msgstr "حسي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:502
+msgid "introducing"
+msgstr "تقديم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:501
+msgid "value"
+msgstr "قيمة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:500
+msgid "weird"
+msgstr "غريب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:499
+msgid "revealing"
+msgstr "كاشف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:498
+msgid "huge gift"
+msgstr "هدية كبيرة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:497
+msgid "strange"
+msgstr "غريب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:496
+msgid "reward"
+msgstr "جائزة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:495
+msgid "portfolio"
+msgstr "معرض أعمال"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:494
+msgid "announcing"
+msgstr "تصريح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:493
+msgid "simple"
+msgstr "بسيط"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:492
+msgid "proven"
+msgstr "مثبت"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:491
+msgid "exciting"
+msgstr "مشوق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:490
+msgid "authentic"
+msgstr "أصلي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:489
+msgid "direct"
+msgstr "مباشر"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:488
+msgid "magic"
+msgstr "سحر"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:487
+msgid "amazing"
+msgstr "مذهل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:486
+msgid "fortune"
+msgstr "حظ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:485
+msgid "easy"
+msgstr "سهل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:484
+msgid "miracle"
+msgstr "معجزة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:455
+msgid "promising"
+msgstr "واعد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:403
+msgid "easily"
+msgstr "بسهولة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:401
+msgid "superior"
+msgstr "أسمى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:387
+msgid "affordable"
+msgstr "في متناول اليد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:374
+msgid "limited"
+msgstr "محدود"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:373
+msgid "unusual"
+msgstr "غير اعتيادي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:367
+msgid "expert"
+msgstr "خبير"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:366
+msgid "improved"
+msgstr "محسّن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:479
+msgid "important"
+msgstr "مهم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:159
+msgid "common"
+msgstr "شائع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:153
+msgid "emotion"
+msgstr "العواطف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:268
+msgid "nine"
+msgstr "تسعة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:267
+msgid "eight"
+msgstr "ثمنية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:266
+msgid "seven"
+msgstr "سبعة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:265
+msgid "six"
+msgstr "ستة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:264
+msgid "five"
+msgstr "خمسة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:263
+msgid "four"
+msgstr "أربعة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:262
+msgid "three"
+msgstr "ثلاثة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:261
+msgid "two"
+msgstr "اثنان"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:260
+#: app/Common/Standalone/HeadlineAnalyzer.php:619
+msgid "one"
+msgstr "واحد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:199
+msgid "List"
+msgstr "قائمة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:193
+msgid "How-To"
+msgstr "كيفية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:192
+msgid "howto"
+msgstr "كيفية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:192
+#: app/Common/Standalone/HeadlineAnalyzer.php:402
+msgid "how to"
+msgstr "كيفية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:171
+msgid "power"
+msgstr "قدرة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:165
+msgid "uncommon"
+msgstr "غير شائع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:295
+#: app/Common/Standalone/HeadlineAnalyzer.php:322
+#: app/Common/Standalone/HeadlineAnalyzer.php:546
+msgid "can"
+msgstr "يستطيع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:294
+#: app/Common/Standalone/HeadlineAnalyzer.php:321
+#: app/Common/Standalone/HeadlineAnalyzer.php:550
+msgid "do"
+msgstr "يفعل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:293
+#: app/Common/Standalone/HeadlineAnalyzer.php:320
+msgid "does"
+msgstr "يفعل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:292
+#: app/Common/Standalone/HeadlineAnalyzer.php:319
+#: app/Common/Standalone/HeadlineAnalyzer.php:529
+msgid "has"
+msgstr "يمتلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:291
+#: app/Common/Standalone/HeadlineAnalyzer.php:318
+#: app/Common/Standalone/HeadlineAnalyzer.php:531
+msgid "have"
+msgstr "أمتلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:290
+#: app/Common/Standalone/HeadlineAnalyzer.php:569
+msgid "what"
+msgstr "ماذا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:289
+#: app/Common/Standalone/HeadlineAnalyzer.php:539
+msgid "how"
+msgstr "كيف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:288
+#: app/Common/Standalone/HeadlineAnalyzer.php:571
+msgid "when"
+msgstr "عندما"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:287
+msgid "where"
+msgstr "أين"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:274
+msgid "thousand"
+msgstr "ألف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:273
+msgid "hundred"
+msgstr "مئة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:272
+msgid "fift"
+msgstr " "
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:342
+msgid "sale"
+msgstr "البيع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:310
+#: app/Common/Standalone/HeadlineAnalyzer.php:581
+msgid "you"
+msgstr "أنت"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:297
+#: app/Common/Standalone/HeadlineAnalyzer.php:324
+#: app/Common/Standalone/HeadlineAnalyzer.php:577
+msgid "will"
+msgstr "سوف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:296
+#: app/Common/Standalone/HeadlineAnalyzer.php:323
+#: app/Common/Standalone/HeadlineAnalyzer.php:534
+msgid "are"
+msgstr "يكون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:311
+#: app/Common/Standalone/HeadlineAnalyzer.php:316
+#: app/Common/Standalone/HeadlineAnalyzer.php:557
+msgid "they"
+msgstr "هم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:314
+#: app/Common/Standalone/HeadlineAnalyzer.php:583
+msgid "your"
+msgstr "خاصتك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:313
+#: app/Common/Standalone/HeadlineAnalyzer.php:572
+msgid "she"
+msgstr "هي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:312
+#: app/Common/Standalone/HeadlineAnalyzer.php:533
+msgid "he"
+msgstr "هو"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:940
+msgid "you need to know"
+msgstr "يجب أن تعرف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:939
+msgid "thrilled"
+msgstr "فتن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:938
+msgid "surge"
+msgstr "اندفاع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:933
+msgid "uplifting"
+msgstr "نهضة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:932
+msgid "this is what"
+msgstr "هذا ما "
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:931
+msgid "wondrous"
+msgstr "عجيب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:923
+msgid "stupid"
+msgstr "غبي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:922
+msgid "will make you"
+msgstr "سنجعلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:921
+msgid "the most"
+msgstr "أغلب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:920
+msgid "stunning"
+msgstr "مدهش"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:919
+msgid "wicked"
+msgstr "خبيث"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:918
+msgid "the ranking of"
+msgstr "ترتيب ال"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:917
+msgid "stuck up"
+msgstr "عالق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:916
+msgid "whopping"
+msgstr "ضخم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:915
+msgid "the best"
+msgstr "الأفضل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:914
+msgid "whip"
+msgstr "سوط"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:913
+msgid "that will"
+msgstr "التي سوف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:912
+msgid "strangle"
+msgstr "خنق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:911
+msgid "when you"
+msgstr "عندما"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:910
+msgid "unexpected"
+msgstr "غير متوقع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:909
+msgid "that will make"
+msgstr "التي سوف تجعلك"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:893
+msgid "temporary fix"
+msgstr "اصلاح مؤقت"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:892
+msgid "spectacular"
+msgstr "مُذهِل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:890
+msgid "teetering"
+msgstr "يتأرجح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:889
+msgid "warning"
+msgstr "تحذير"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:888
+msgid "soaring"
+msgstr "يرتفع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:887
+msgid "wanton"
+msgstr "وحشي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:886
+msgid "turn the tables"
+msgstr "يقلب الطاولات"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:885
+msgid "tech"
+msgstr "تقني"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:884
+msgid "try before you buy"
+msgstr "جرب قبل أن تشتي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:837
+msgid "silly"
+msgstr "سخيف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:836
+msgid "refugee"
+msgstr "لاجئ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:835
+msgid "played"
+msgstr "مشغل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:834
+msgid "money"
+msgstr "مال"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:833
+msgid "sick and tired"
+msgstr "متعب ومرهق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:832
+msgid "plague"
+msgstr "طاعون"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:831
+msgid "mistakes"
+msgstr "أخطاء"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:830
+msgid "reclaim"
+msgstr "استعادة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:829
+msgid "pitfall"
+msgstr "مأزق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:828
+msgid "mired"
+msgstr "غارق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:827
+msgid "shellacking"
+msgstr "قذيفة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:826
+msgid "reckoning"
+msgstr " تصفية حساب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:825
+msgid "piranha"
+msgstr "بيرانا"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:824
+msgid "shatter"
+msgstr "تحطيم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:823
+msgid "rave"
+msgstr "الهذيان"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:822
+msgid "minute"
+msgstr "دقيقة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:821
+msgid "shameless"
+msgstr "وقح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:820
+msgid "mind-blowing"
+msgstr "العصف الذهني"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:819
+msgid "peril"
+msgstr "موبق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:818
+msgid "might look like a"
+msgstr "قد تبدو مثل "
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:817
+msgid "payback"
+msgstr "تسديد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:816
+msgid "meltdown"
+msgstr "الانهيار"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:815
+msgid "seize"
+msgstr "يستولي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:813
+msgid "massive"
+msgstr "ضخم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:811
+msgid "quadruple"
+msgstr "رباعي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:810
+msgid "panic"
+msgstr "هلع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:809
+msgid "marked down"
+msgstr "وضع علامة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:808
+msgid "punish"
+msgstr "يعاقب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:762
+msgid "results"
+msgstr "النتائج"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:761
+msgid "nightmare"
+msgstr "كابوس"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:760
+msgid "like a normal"
+msgstr "مثل الطبيعي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:759
+msgid "gambling"
+msgstr "المقامرة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:758
+msgid "exposed"
+msgstr "مكشوف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:757
+msgid "lies"
+msgstr "يكذب"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:756
+msgid "explode"
+msgstr "ينفجر"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:755
+msgid "lick"
+msgstr "يلعق"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:753
+msgid "illegal"
+msgstr "غير قانوني"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:752
+msgid "frugal"
+msgstr "مقتصد"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:751
+msgid "lawsuit"
+msgstr "دعوى قضائية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:750
+msgid "hypnotic"
+msgstr "منوم"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:749
+msgid "frightening"
+msgstr "مخيف"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:748
+msgid "fresh on the mind"
+msgstr "جديد على العقل"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:747
+msgid "excited"
+msgstr "فرح"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:725
+msgid "jail"
+msgstr "سجن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:724
+msgid "hidden"
+msgstr "مخفي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:723
+msgid "forbidden"
+msgstr "ممنوع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:722
+msgid "jackpot"
+msgstr "الفوز بالجائزة الكبرى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:720
+msgid "for the first time"
+msgstr "للمرة الأولى"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:719
+msgid "embarrass"
+msgstr "يحرج"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:718
+msgid "it looks like a"
+msgstr "يبدو كأن"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:717
+msgid "helpless"
+msgstr "مغلوب على أمره"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:716
+msgid "fooled"
+msgstr "مخدوع"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:726
+msgid "empower"
+msgstr "تمكين"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:730
+msgid "forgotten"
+msgstr "منسي"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:728
+msgid "high"
+msgstr "مرتفع"
+
+#: languages/aioseo-lite.php:2917 languages/aioseo-pro.php:4088
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Improve your SEO rankings with additional keyphrases."
+msgstr "طور من ترتيب ت.م.ب مع عبارات مفتاحية إضافية."
+
+#. Translators: 1 - "Pro" string, 2 - "Learn more link".
+#: languages/aioseo-lite.php:3462 languages/aioseo-pro.php:4906
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Multiple Keyphrases is a %1$s feature. %2$s"
+msgstr "العبارات المفتاحية المتعددة هي ميزة %1$s. %2$s"
+
+#: app/Common/Breadcrumbs/Tags.php:206
+msgid "Post Type Name"
+msgstr "اسم نوع المنشور"
+
+#: app/Common/Breadcrumbs/Tags.php:172
+msgid "The 404 error format."
+msgstr "صيغة خطأ 404."
+
+#: app/Common/Breadcrumbs/Tags.php:142
+msgid "The crumb separator."
+msgstr "فاصل مسار التنقل."
+
+#: app/Common/Breadcrumbs/Tags.php:123 languages/aioseo-lite.php:3102
+#: languages/aioseo-pro.php:4351 dist/Lite/assets/blocks.c8876ebe.js:1
+msgid "Label"
+msgstr "العنوان"
+
+#: app/Common/Breadcrumbs/Tags.php:124 languages/aioseo-pro.php:7617
+msgid "The label."
+msgstr "التسمية."
+
+#: app/Common/Breadcrumbs/Tags.php:187
+msgid "The day."
+msgstr "اليوم."
+
+#: app/Common/Breadcrumbs/Tags.php:182
+msgid "The month."
+msgstr "الشهر."
+
+#: app/Common/Breadcrumbs/Tags.php:177
+msgid "The year."
+msgstr "السنة."
+
+#: app/Common/Breadcrumbs/Tags.php:167
+msgid "The search result format."
+msgstr "صيغة نتائج البحث"
+
+#: app/Common/Breadcrumbs/Tags.php:166
+msgid "Search result format"
+msgstr "صيغة نتائج البحث"
+
+#: app/Common/Breadcrumbs/Tags.php:147
+msgid "The blog page title."
+msgstr "عنوان صفحة المدونة."
+
+#: languages/aioseo-pro.php:1247
+msgid "Author name"
+msgstr "اسم المؤلف"
+
+#: app/Common/Breadcrumbs/Tags.php:186 languages/aioseo-pro.php:2206
+msgid "Day"
+msgstr "اليوم"
+
+#: app/Common/Breadcrumbs/Tags.php:176 languages/aioseo-pro.php:9242
+msgid "Year"
+msgstr "السنة"
+
+#: app/Common/Admin/Admin.php:636 languages/aioseo-lite.php:4353
+#: languages/aioseo-pro.php:6165 dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/Main.e87be427.js:1
+msgid "Redirection Manager"
+msgstr "مدير إعادة التوجيه"
+
+#: languages/aioseo-pro.php:6118
+msgid "Redirect"
+msgstr "إعادة التوجيه"
+
+#: languages/aioseo-pro.php:573
+msgid "Add New Redirections"
+msgstr "إضافة علميات إعادة توجيه جديدة"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:538 languages/aioseo-pro.php:1186
+msgid "at"
+msgstr "في"
+
+#: languages/aioseo-pro.php:822
+msgid "All Redirects"
+msgstr "جميع عمليات إعادة التوجيه"
+
+#: languages/aioseo-lite.php:3941 languages/aioseo-pro.php:5521
+#: dist/Lite/assets/js/Redirects.2698e644.js:1
+msgid "Our Redirection Manager allows you to easily create and manage redirects for your broken links to avoid confusing search engines and users, as well as losing valuable backlinks. It even automatically sends users and search engines from your old URLs to your new ones."
+msgstr "يتيح لك مدير إعادة التوجيه الخاص بنا إنشاء وإدارة عمليات إعادة التوجيه للروابط المعطلة لتجنب إرباك محركات البحث والمستخدمين ، فضلاً عن فقدان الروابط الخلفية القيمة. حتى أنه يرسل تلقائيًا المستخدمين ومحركات البحث من عناوين URL القديمة إلى عناوين URL الجديدة."
+
+#: languages/aioseo-lite.php:6097 languages/aioseo-pro.php:8742
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Use Defaults"
+msgstr "استخدام الإعدادات الافتراضية"
+
+#: languages/aioseo-pro.php:4711
+msgid "Manage Redirects"
+msgstr "إدارة إعادة التوجيهات"
+
+#. Translators: 1 - Plugin short name ("AIOSEO"), 2 - Pro.
+#: languages/aioseo-lite.php:4364 languages/aioseo-pro.php:6178
+#: dist/Lite/assets/js/Redirects.2698e644.js:1
+msgid "Redirects are only available for licensed %1$s %2$s users."
+msgstr "علميات إعادة التوجية متوافرة فقط لمستخدمي %1$s %2$s المرخصين."
+
+#: languages/aioseo-lite.php:418 languages/aioseo-pro.php:570
+#: dist/Lite/assets/js/Redirects.2698e644.js:1
+msgid "Add New Redirection"
+msgstr "إضافة إعادة توجيه جديدة"
+
+#: languages/aioseo-lite.php:4412 languages/aioseo-pro.php:6269
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Remove Keyphrase"
+msgstr "إزالة العبارة الرئيسية"
+
+#: languages/aioseo-lite.php:5751 languages/aioseo-pro.php:8266
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "To use this feature, first add a focus keyphrase."
+msgstr "لاستخدام هذه الميزة، قم أولا بإضافة عبارة مفتاحية رئيسة."
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:566
+#: languages/aioseo-lite.php:3789 languages/aioseo-pro.php:5310
+#: dist/Lite/assets/js/Table.60a5b156.js:1
+msgid "of"
+msgstr "من"
+
+#: app/Common/Schema/Context.php:224
+msgid "Not Found"
+msgstr "غير موجود"
+
+#: app/Common/Main/Updates.php:1064 languages/aioseo-lite.php:1439
+#: languages/aioseo-pro.php:2038 dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Course"
+msgstr "المساق"
+
+#: app/Common/Main/Updates.php:1138 languages/aioseo-lite.php:4322
+#: languages/aioseo-pro.php:6101 dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Recipe"
+msgstr "الوصفة"
+
+#: app/Common/Utils/Tags.php:347
+msgid "The first name of the post author."
+msgstr "الاسم الأول لمؤلف المقال."
+
+#: app/Common/Utils/Tags.php:342
+msgid "The display name of the post author."
+msgstr "الاسم الأول لمؤلف المقال."
+
+#: app/init/notices.php:225
+msgid "Heads up!"
+msgstr "انتباه!"
+
+#: app/Common/Utils/Tags.php:983
+msgid "Sample author biography"
+msgstr "عينة سيرة المؤلف "
+
+#: app/Common/Utils/Tags.php:975
+msgid "Sample Archive Title"
+msgstr "عينة لعنوان الأرشيف"
+
+#: app/Common/Utils/Tags.php:958
+msgid "Sample taxonomy description"
+msgstr "عينة وصف الفئة"
+
+#: app/Common/Utils/Tags.php:865
+msgid "Sample Post"
+msgstr "عينة للمقال"
+
+#: app/Common/Utils/Tags.php:361
+msgid "Archive Title"
+msgstr "عنوان الأرشيف"
+
+#: app/Common/Utils/Tags.php:547
+msgid "Search Term"
+msgstr "مصطلح البحث"
+
+#: app/Common/Utils/Tags.php:542
+msgid "A custom field from the current page/post."
+msgstr "حقل مخصص من الصفحة / المقال الحالي."
+
+#: app/Common/Utils/Tags.php:541
+msgid "Custom Field"
+msgstr "حقل مخصص"
+
+#: app/Common/Utils/Tags.php:537
+msgid "The tagline for your site, set in the general settings."
+msgstr "سطر الوصف لموقعك، مضبوط في الإعدادات العامة."
+
+#: app/Common/Utils/Tags.php:548
+msgid "The term the user is searching for."
+msgstr "المصطلح الذي يبحث عنه المستخدم."
+
+#: app/Common/Utils/Tags.php:868
+msgid "Sample Parent"
+msgstr "مثال على الأب"
+
+#: app/Common/Utils/Tags.php:568
+msgid "Parent Title"
+msgstr "العنوان الأصلي"
+
+#: app/Common/Utils/Tags.php:552
+msgid "Taxonomy Name"
+msgstr "اسم الفئة"
+
+#: app/Common/Utils/Tags.php:846
+msgid "Sample caption for media."
+msgstr "مثال على وصف الوسائط"
+
+#: app/Common/Utils/Tags.php:496
+msgid "The separator defined in the search appearance settings."
+msgstr "الفاصل المحدد في إعدادات مظهر البحث."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:441
+msgid "%1$s Content"
+msgstr "محتوى الـ%1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:429
+msgid "%1$s Excerpt"
+msgstr "مقتطف الـ%1$s"
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:379
+msgid "%1$s Description"
+msgstr "الوصف %1$s"
+
+#: app/Common/Breadcrumbs/Tags.php:118 app/Common/Utils/Tags.php:398
+msgid "Permalink"
+msgstr "الرابط الدائم"
+
+#: app/Common/Utils/Tags.php:446
+msgid "Archive Date"
+msgstr "تاريخ الأرشقة"
+
+#: app/Common/Utils/Tags.php:408
+msgid "Current Date"
+msgstr "التاريخ الحالي"
+
+#: app/Common/Breadcrumbs/Tags.php:196 app/Common/Utils/Tags.php:403
+msgid "Page Number"
+msgstr "رقم الصفحة"
+
+#: app/Common/Utils/Tags.php:413
+msgid "Current Day"
+msgstr "اليوم الحالي"
+
+#: app/Common/Utils/Tags.php:423
+msgid "Current Year"
+msgstr "السنة الحالية"
+
+#: app/Common/Utils/Tags.php:418
+msgid "Current Month"
+msgstr "الشهر الحالي"
+
+#: app/Common/Utils/Tags.php:500 app/Common/Utils/Tags.php:518
+msgid "Site Link"
+msgstr "رابط الموقع"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:470
+msgid "%1$s Year"
+msgstr "%1$s سنة"
+
+#: app/Common/Utils/Tags.php:536
+msgid "Tagline"
+msgstr "سطر الوصف"
+
+#: app/Common/Utils/Tags.php:531
+msgid "The description for your site."
+msgstr "وصف الموقع الخاص بك"
+
+#: app/Common/Utils/Tags.php:564
+msgid "The meta description for the current page/post."
+msgstr "الوصف التعريفي للمقال/الصفحة الحالية"
+
+#: app/Common/Breadcrumbs/Tags.php:156 app/Common/Utils/Tags.php:346
+msgid "Author First Name"
+msgstr "الاسم الأول للكاتب"
+
+#: app/Common/Breadcrumbs/Tags.php:161 app/Common/Utils/Tags.php:351
+msgid "Author Last Name"
+msgstr "الاسم الأخير للكاتب"
+
+#: app/Common/Utils/Tags.php:362
+msgid "The title of the current archive."
+msgstr "عنوان الأرشيف الحالي."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:367 app/Common/Utils/Tags.php:374
+msgid "Current or first category title."
+msgstr "عنوان التصنيف الحالي أو الأول."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:435
+msgid "%1$s Excerpt Only"
+msgstr "مقتطف %1$s فقط"
+
+#: app/Common/Utils/Tags.php:316
+msgid "Media Caption"
+msgstr "كلمات توضيحية للوسائط"
+
+#: app/Common/Traits/Helpers/Wp.php:203
+msgid "Attachments"
+msgstr "المرفقات"
+
+#: app/Common/Sitemap/Sitemap.php:175
+msgid "Static sitemap files detected"
+msgstr "تم اكتشاف ملفات خريطة الموقع الثابتة"
+
+#: app/Common/Options/Options.php:558
+msgid "Archives for"
+msgstr "أرشيفات لـ"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "statically"
+msgstr "بشكل ثابت"
+
+#: app/Common/Sitemap/Sitemap.php:185
+msgid "Delete Static Files"
+msgstr "حذف الملفات الثابتة"
+
+#. Translators: 1 - "statically" or "dynamically", 2 - The date, 3 - The  time,
+#. 4 - The plugin name ("All in One SEO").
+#: app/Common/Sitemap/Output.php:36
+msgid "This sitemap was %1$s generated on %2$s at %3$s by %4$s - the original SEO plugin for WordPress."
+msgstr "تم إنشاء خريطة الموقع هذه %1$s في %2$s عند %3$s بواسطة %4$s -الإضافة الأصلية لتحسين محركات البحث (ت.م.ب) لـ ووردبريس."
+
+#: app/Common/Utils/Tags.php:331
+msgid "Author Link (Alt)"
+msgstr "رابط الكاتب (البديل)"
+
+#: app/Common/Utils/Tags.php:311
+msgid "Image Alt Tag"
+msgstr "النص البديل لعلامة الصورة"
+
+#: app/Common/Utils/Tags.php:326
+msgid "Author Link"
+msgstr "رابط الكاتب"
+
+#: app/Common/Utils/Tags.php:327
+msgid "Author archive link (name as text)."
+msgstr "رابط أرشيف الكاتب (اسم كنص)."
+
+#: app/Common/Utils/Tags.php:317
+msgid "Caption for the current media file."
+msgstr "التسمية التوضيحية لملف الوسائط الحالي."
+
+#: app/Common/Utils/Tags.php:341 languages/aioseo-pro.php:1250
+msgid "Author Name"
+msgstr "اسم الكاتب"
+
+#: app/Common/Utils/Tags.php:337
+msgid "The biography of the author."
+msgstr "سيرة الكاتب."
+
+#: app/Common/Utils/Tags.php:336
+msgid "Author Biography"
+msgstr "سيرة الكاتب"
+
+#: app/Common/Utils/Tags.php:332
+msgid "Author archive link (link as text)."
+msgstr "رابط أرشيف الكاتب (رابط كنص)."
+
+#. Translators: 1 - The phone number.
+#: app/Common/ImportExport/RankMath/TitleMeta.php:419
+msgid ""
+"We were unable to import the phone number that you previously entered for your Knowledge Graph schema markup.\n"
+"\t\t\t\t\tAs it needs to be internationally formatted, please enter it (%1$s) with the country code, e.g. +1 (555) 555-1234."
+msgstr "رقم الهاتف الذي أدخلته مسبقًا لمخطط علامات «الرسم البياني المعرفي» غير صالح. نظرًا لأنه يلزم تنسيقه دوليًا، يرجى إدخاله (%1$s) مرة أخرى باستخدام رمز البلد، على سبيل المثال +1 (555) 555-1234."
+
+#: app/Common/Api/Tools.php:225
+msgid "An error occurred while trying to write to the .htaccess file. Please try again later."
+msgstr "حدث خطأ أثناء محاولة الكتابة إلى ملف htaccess. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: app/Common/Api/Wizard.php:54
+msgid "SEO Plugin Import Failed"
+msgstr "فشل استيراد إضافة السيو"
+
+#: app/Common/Api/Wizard.php:58
+msgid "Try Again"
+msgstr "حاول مرّة اخرى"
+
+#: app/Common/Api/Wizard.php:55
+msgid "Unfortunately, there was an error importing your SEO plugin settings. This could be due to an incompatibility in the version installed. Make sure you are on the latest version of the plugin and try again."
+msgstr "لسوء الحظ، كان هناك خطأ في استيراد إعدادات إضافة ت.م.ب. قد يكون هذا بسبب عدم التوافق في الإصدار المُنصّب. تأكد من أنك على أحدث إصدار من البرنامج المساعد وحاول مرة أخرى."
+
+#: app/Common/Api/Wizard.php:262 app/Common/Api/Wizard.php:270
+msgid "Install MonsterInsights"
+msgstr "قم بتنصيب MonsterInsights"
+
+#: app/Common/Api/Tools.php:42 app/Common/Api/Tools.php:66
+msgid "There was an error deleting the physical robots.txt file."
+msgstr "حدث خطأ أثناء حذف ملف robots.txt الفعلي."
+
+#: app/Common/Api/Plugins.php:130 app/Common/Api/Sitemaps.php:84
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "فشل إلغاء التنشيط. يرجى التحقق من الأذونات وحاول مرة أخرى."
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr "فشل التثبيت. يرجى التحقق من الأذونات وحاول مرة أخرى."
+
+#: app/Common/Api/PostsTerms.php:225
+msgid "Post ID is missing."
+msgstr "معرّف المقال مفقود."
+
+#: app/Common/Api/PostsTerms.php:136 app/Common/Api/PostsTerms.php:168
+#: app/Common/Api/PostsTerms.php:396
+msgid "No post ID was provided."
+msgstr "لم يتم تقديم معرّف مقال."
+
+#: app/Common/Api/Tools.php:121
+msgid "Unable to send debug email, please check your email send settings and try again."
+msgstr "تعذر إرسال بريد إلكتروني لتصحيح الأخطاء، يرجى التحقق من إعدادات إرسال البريد الإلكتروني والمحاولة مرة أخرى."
+
+#: app/Common/Api/Tools.php:33
+msgid "There was an error importing the physical robots.txt file."
+msgstr "حدث خطأ أثناء استيراد ملف robots.txt الفعلي."
+
+#: app/Common/Migration/SocialMeta.php:106
+msgid "Review Your Facebook Open Graph Titles and Descriptions"
+msgstr "راجع عناوين وأوصاف Facebook Open Graph"
+
+#: app/Common/Migration/SocialMeta.php:90
+msgid "Due to some changes in how our Open Graph integration works, your Facebook Titles and Descriptions may have changed. You were using the following options that have been removed:"
+msgstr "نظرًا لبعض التغييرات في كيفية عمل تكامل Open Graph، ربما تغيرت عناوين وأوصاف Facebook الخاصة بك. كنت تستخدم الخيارات التالية التي تمت إزالتها:"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The Site URL.
+#: app/Common/Api/Tools.php:100
+msgid "%1$s Debug Info from %2$s"
+msgstr "%1$s معلومات التنقيح (تصحيح الأخطاء) من %2$s"
+
+#. Translators: 1 - The phone number.
+#: app/Common/Migration/GeneralSettings.php:740
+msgid "The phone number that you previously entered for your Knowledge Graph schema markup is invalid. As it needs to be internationally formatted, please enter it (%1$s) again with the country code, e.g. +1 (555) 555-1234."
+msgstr "رقم الهاتف الذي أدخلته مسبقًا لمخطط علامات «الرسم البياني المعرفي» غير صالح. نظرًا لأنه يلزم تنسيقه دوليًا، يرجى إدخاله (%1$s) مرة أخرى باستخدام رمز البلد، على سبيل المثال +1 (555) 555-1234."
+
+#: app/Common/ImportExport/RankMath/TitleMeta.php:416
+#: app/Common/Migration/GeneralSettings.php:737
+msgid "Invalid Phone Number for Knowledge Graph"
+msgstr "رقم الهاتف غير صالح للرسم البياني المعرفي"
+
+#: app/Common/Migration/GeneralSettings.php:467
+msgid "Blank Title Formats Detected"
+msgstr "تم اكتشاف صيغ عناوين فارغة"
+
+#: app/Common/Migration/GeneralSettings.php:375
+msgid "Review Now"
+msgstr "المراجعة الآن"
+
+#: app/Common/Migration/GeneralSettings.php:367
+msgid "Review Your Homepage Title & Description"
+msgstr "راجع عنوان الصفحة الرئيسة والوصف"
+
+#: app/Common/Tools/SystemStatus.php:296 app/Common/Tools/SystemStatus.php:328
+msgid "needs update"
+msgstr "يحتاج التحديث"
+
+#: app/Common/Tools/SystemStatus.php:104
+msgid "Url:"
+msgstr "عنوان Url:"
+
+#: app/Common/Tools/SystemStatus.php:105
+msgid "Base Directory:"
+msgstr "الدليل الأساسي:"
+
+#: app/Common/Tools/SystemStatus.php:121
+msgid "Constants"
+msgstr "الثوابت"
+
+#: app/Common/Tools/SystemStatus.php:181 languages/aioseo-pro.php:9058
+msgid "Web Server"
+msgstr "خادم الويب"
+
+#: app/Common/Tools/SystemStatus.php:182
+msgid "unknown"
+msgstr "غير معروف"
+
+#: app/Common/Tools/SystemStatus.php:193
+msgid "MySQL SQL Mode"
+msgstr "وضع MySQL SQL "
+
+#: app/Common/Tools/SystemStatus.php:194
+msgid "Not Set"
+msgstr "غير مُعيَّن"
+
+#: app/Common/Tools/SystemStatus.php:101
+msgid "Upload Directory Info"
+msgstr "معلومات دليل الرفع"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Hidden"
+msgstr "مخفي"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Visible"
+msgstr "مرئي"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Front Page Info"
+msgstr "معلومات الصفحة الأمامية"
+
+#: app/Common/Tools/SystemStatus.php:89
+msgid "User Count"
+msgstr "عدد المستخدمين"
+
+#: app/Common/Tools/SystemStatus.php:77
+msgid "Permalink Structure"
+msgstr "تركيبة الرابط الدائم"
+
+#: app/Common/Social/Twitter.php:228
+msgid "Written by"
+msgstr "كُتب من قِبل"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:137
+msgid "%1$s Settings"
+msgstr "إعدادات %1$s"
+
+#: app/Common/Tools/SystemStatus.php:61
+msgid "User Language"
+msgstr "لغة المستخدم"
+
+#: app/Common/Tools/SystemStatus.php:42
+msgid "Latest version:"
+msgstr "آخر إصدار:"
+
+#: app/Common/Tools/BadBotBlocker.php:223
+msgid "(Invalid IP)"
+msgstr "(عنوان بروتوكول غير صالح)"
+
+#: app/Common/Social/Twitter.php:237
+msgid "Est. reading time"
+msgstr "الوقت المقدر للقراءة"
+
+#. Translators: 1 - The date the article was published on.
+#: app/Common/Schema/Graphs/Article/NewsArticle.php:33
+#: app/Common/Schema/Graphs/Article/NewsArticle.php:34
+msgid "Published on %1$s."
+msgstr "تم النشر في %1$s."
+
+#. Translators: 1 - The estimated reading time.
+#: app/Common/Social/Twitter.php:239
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s دقيقة"
+msgstr[1] "دقيقة واحدة"
+msgstr[2] "دقيقتان"
+msgstr[3] "%1$s دقائق"
+msgstr[4] "%1$s دقيقة"
+msgstr[5] "%1$s دقيقة"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:275
+msgid "%1$s needs to be updated"
+msgstr "يجب تحديث %1$s"
+
+#: app/Common/Tools/SystemStatus.php:106
+msgid "Base URL:"
+msgstr "عنوان URL الأساسي"
+
+#: app/Common/Tools/SystemStatus.php:103
+msgid "Path:"
+msgstr "المسار:"
+
+#: app/Common/Tools/RobotsTxt.php:360
+msgid "Physical Robots.txt File Detected"
+msgstr "تم اكتشاف ملف robots.txt"
+
+#: app/Common/Migration/Helpers.php:159
+msgid "Custom field names with spaces detected"
+msgstr "تم اكتشاف أسماء حقول مخصصة مع مسافات"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/header.php:26
+msgid "You can find more information about XML Sitemaps at %1$ssitemaps.org%2$s."
+msgstr "يمكنك العثور على مزيد من المعلومات حول XML خرائط الموقع على %1$ssitemaps.org%2$s."
+
+#: app/Common/Admin/SiteHealth.php:200 app/Common/Admin/SiteHealth.php:235
+msgid "Go to Schema Settings"
+msgstr "انتقل إلى إعدادات المخطط"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:41
+msgid "This notice will automatically disappear as soon as the import has completed. Meanwhile, everything should continue to work as expected."
+msgstr "سيختفي هذا الإشعار تلقائيًا بمجرد اكتمال الاستيراد. في غضون ذلك، يجب أن يستمر كل شيء في العمل كما هو متوقع."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:45
+msgid "This notice will automatically disappear as soon as the migration has completed. Meanwhile, everything should continue to work as expected."
+msgstr "سيختفي هذا الإشعار تلقائيًا بمجرد اكتمال الترحيل. في غضون ذلك، يجب أن يستمر كل شيء في العمل كما هو متوقع."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:44
+msgid "%1$s is currently upgrading your database and migrating your SEO data in the background."
+msgstr "يقوم %1$s حاليًا بترقية قاعدة البيانات الخاصة بك ونقل بيانات تحسين محركات البحث في الخلفية."
+
+#: app/Common/Admin/Notices/Import.php:38
+msgid "SEO Meta Import In Progress"
+msgstr "استيراد البيانات الوصفية لتحسين محركات البحث قيد التقدم"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:41
+msgid "%1$s Site Info"
+msgstr "%1$s معلومات الموقع"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:36
+msgid "%1$s Site Public"
+msgstr "%1$s الموقع العام"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Standalone/SetupWizard.php:173
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; معالج إعداد البدء"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:970
+msgid "%1$s Score"
+msgstr "نقطة %1$s"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Standalone/DetailsColumn.php:145
+msgid "%1$s Details"
+msgstr "%1$s تفاصيل"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:103
+#: app/Common/Admin/Notices/Review.php:158 languages/aioseo-lite.php:1126
+#: languages/aioseo-pro.php:1639 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "CEO of %1$s"
+msgstr "المدير التنفيذي لإضافة %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:46
+msgid "%1$s Plugin Update"
+msgstr "تحديث إضافة %1$s "
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:52
+msgid "%1$s Schema Markup"
+msgstr "%1$s مخطط العلامات"
+
+#: app/Common/Admin/Notices/Notices.php:464
+msgid "Invalid Description Format"
+msgstr "تنسيق الوصف غير صالح"
+
+#: app/Common/Admin/Notices/Notices.php:423
+#: app/Common/Admin/Notices/Notices.php:472
+#: app/Common/Admin/Notices/Notices.php:548
+#: app/Common/ImportExport/RankMath/TitleMeta.php:425
+#: app/Common/Migration/GeneralSettings.php:745
+msgid "Fix Now"
+msgstr "الإصلاح الآن"
+
+#: app/Common/Admin/Notices/Notices.php:544
+msgid "Conflicting Plugins Detected"
+msgstr "تم اكتشاف إضافات متضاربة"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:467
+msgid "Warning: %1$s has detected that you may have an invalid description format. This could lead to descriptions not being properly applied to your content."
+msgstr "تحذير: اكتشف %1$s أنه قد يكون لديك تنسيق وصف غير صالح. قد يؤدي هذا إلى عدم تطبيق الأوصاف بشكل صحيح على المحتوى الخاص بك."
+
+#: app/Common/Admin/Notices/Notices.php:415
+msgid "Search Engines Blocked"
+msgstr "تم حظر محركات البحث"
+
+#: app/AIOSEO.php:239
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "الإضافة تفتقر إلى تبعيات مطلوبة. يرجى الاتصال بالدعم لمزيد من المعلومات."
+
+#: app/Lite/Admin/Connect.php:317
+msgid "You are not licensed."
+msgstr "لا تمتلك رخصة"
+
+#: app/Lite/Admin/Connect.php:233
+msgid "Pro version is already installed."
+msgstr "النسخة الإحترافية منصّبة بالفعل."
+
+#: languages/aioseo-lite.php:4206 languages/aioseo-pro.php:5917
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Preview & Edit"
+msgstr "معاينة وتحرير"
+
+#: languages/aioseo-lite.php:4937 languages/aioseo-pro.php:7103
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Snippet Preview"
+msgstr "معاينة المقتطف"
+
+#: languages/aioseo-lite.php:4940 languages/aioseo-pro.php:7106
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Snippet Preview content here."
+msgstr "معاينة مقتطفات المحتوى هنا."
+
+#: languages/aioseo-lite.php:2216 languages/aioseo-pro.php:3232
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Focus Keyphrase"
+msgstr "العبارة المفتاحية الرئيسة"
+
+#: languages/aioseo-lite.php:406 languages/aioseo-pro.php:543
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Add Focus Keyphrase"
+msgstr "إضافة عبارة مفتاحية رئيسة"
+
+#: languages/aioseo-lite.php:444 languages/aioseo-pro.php:617
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Additional Keyphrases"
+msgstr "العبارات المفتاحية الإضافية"
+
+#: languages/aioseo-lite.php:390 languages/aioseo-pro.php:517
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Add Additional Keyphrases"
+msgstr "إضافة عبارات مفتاحية إضافية"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:211
+#: languages/aioseo-lite.php:2336 languages/aioseo-pro.php:3380
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "General"
+msgstr "عام"
+
+#: languages/aioseo-lite.php:5229 languages/aioseo-pro.php:7494
+msgid "The content length is ok. Good job!"
+msgstr "طول المحتوى جيد. أحسنت!"
+
+#: languages/aioseo-lite.php:4312 languages/aioseo-pro.php:6086
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Readability"
+msgstr "قابلية القراءة"
+
+#: languages/aioseo-lite.php:4463 languages/aioseo-pro.php:6358
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Robots Setting"
+msgstr "‘إعداد الروبوتات"
+
+#: languages/aioseo-lite.php:5881 languages/aioseo-pro.php:8419
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Twitter Description"
+msgstr "وصف تويتر"
+
+#: app/Lite/Admin/Connect.php:215
+msgid "You are not allowed to install plugins."
+msgstr "غير مسموح لك بتنصيب الإضافات."
+
+#. Translators: 1 - "WooCommerce".
+#: app/Lite/Admin/Notices/Notices.php:78
+msgid "Advanced %1$s Support"
+msgstr "دعم  ووكومرس متقدم "
+
+#: app/Lite/Admin/Connect.php:391
+msgid "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "تم تثبيت الإصدار الاحترافي بشكل صحيح، ولكن يجب تنشيطه من صفحة الإضافات داخل منقطة المسؤول في ووردبريس الخاص بك."
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:287
+msgid "Could not install upgrade. Please download from %1$s and install manually."
+msgstr "تعذرت عملية تنصيب الترقية. يرجى تنزيله من %1$s وتنصيبه يدويًا."
+
+#: app/Lite/Admin/Connect.php:221
+msgid "Please enter your license key to connect."
+msgstr "يرجى إدخال مفتاح الرخصة للاتصال"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:161
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; اتصال"
+
+#: languages/aioseo-lite.php:5887 languages/aioseo-pro.php:8425
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Twitter Preview"
+msgstr "معاينة تويتر"
+
+#: languages/aioseo-lite.php:2136 languages/aioseo-pro.php:3132
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Facebook Preview"
+msgstr "معاينة فيسبوك"
+
+#: languages/aioseo-lite.php:4209 languages/aioseo-pro.php:5920
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Preview Snippet Editor"
+msgstr "معاينة محرر مقتطفات"
+
+#: languages/aioseo-lite.php:4944 languages/aioseo-pro.php:7110
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Social"
+msgstr "الاجتماعية"
+
+#: languages/aioseo-lite.php:2139 languages/aioseo-pro.php:3135
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Facebook Title"
+msgstr "عنوان الفيسبوك"
+
+#: languages/aioseo-lite.php:2130 languages/aioseo-pro.php:3126
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Facebook Description"
+msgstr "وصف الفيسبوك"
+
+#: languages/aioseo-lite.php:3386 languages/aioseo-pro.php:4780
+msgid "Meta description Length"
+msgstr "طول الوصف التعريفي"
+
+#: languages/aioseo-lite.php:3383 languages/aioseo-pro.php:4777
+msgid "Meta description length"
+msgstr "طول الوصف التعريفي"
+
+#: languages/aioseo-lite.php:5323 languages/aioseo-pro.php:7651
+msgid "The meta description is over 160 characters."
+msgstr "تجاوز الوصف التعريفي 160 مِحرفا (حرف أو رمز)."
+
+#: languages/aioseo-lite.php:6283 languages/aioseo-pro.php:8988
+msgid "We couldn't find any internal links in your content. Add internal links in your content."
+msgstr "لم نتمكن من العثور على أي روابط داخلية في المحتوى الخاص بك. أضف روابط داخلية في المحتوى الخاص بك."
+
+#: languages/aioseo-lite.php:2111 languages/aioseo-pro.php:3103
+msgid "External links"
+msgstr "روابط خارجية"
+
+#: languages/aioseo-lite.php:3668 languages/aioseo-pro.php:5150
+msgid "No outbound links were found. Link out to external resources."
+msgstr "لم يتم العثور على روابط  برّانية. قم بعمل روابط تشير لموارد خارجية."
+
+#: languages/aioseo-lite.php:3012 languages/aioseo-pro.php:4231
+msgid "Internal links"
+msgstr "الروابط الداخلية"
+
+#: languages/aioseo-lite.php:4762 languages/aioseo-pro.php:6785
+msgid "SEO Title length"
+msgstr "طول عنوان ت.م.ب"
+
+#: languages/aioseo-lite.php:5458 languages/aioseo-pro.php:7831
+msgid "The title is over 60 characters."
+msgstr "العنوان أكثر من 60 مِحرفاً (حرف أو رمز)."
+
+#: languages/aioseo-lite.php:5840 languages/aioseo-pro.php:8367
+msgid "Transition words"
+msgstr "الكلمات الانتقالية"
+
+#: languages/aioseo-lite.php:3730 languages/aioseo-pro.php:5249
+msgid "None of the sentences contain transition words. Use some."
+msgstr "لا تحتوي أي من الجُمل على كلمات انتقالية. استخدم بعضاً منها."
+
+#: languages/aioseo-lite.php:1359 languages/aioseo-pro.php:1923
+msgid "Consecutive sentences"
+msgstr "الجُمل المتوالية"
+
+#. Translators: 1 - Number of sentences.
+#: languages/aioseo-lite.php:5452 languages/aioseo-pro.php:7813
+msgid "The text contains %1$d consecutive sentences starting with the same word. Try to mix things up!"
+msgstr "يحتوي النص على جمل متوالية بنسبة %1$d تبدأ بنفس الكلمة. حاول خلط الأشياء! "
+
+#: languages/aioseo-lite.php:6542 languages/aioseo-pro.php:9350
+msgid "You are not using any subheadings, although your text is rather long. Try and add some subheadings."
+msgstr "أنت لا تستخدم أي عناوين فرعية، مع أنّ نصك طويل إلى حد ما. حاول إضافة بعض العناوين الفرعية."
+
+#: languages/aioseo-lite.php:5060 languages/aioseo-pro.php:7281
+msgid "Subheading distribution"
+msgstr "توزيع العناوين الفرعية"
+
+#: languages/aioseo-lite.php:6548 languages/aioseo-pro.php:9356
+msgid "You are not using rich media like images or videos."
+msgstr "أنت لا تستخدم وسائط غنية مثل الصور أو مقاطع الفيديو"
+
+#: languages/aioseo-lite.php:820 languages/aioseo-pro.php:1195
+msgid "At least one paragraph is long. Consider using short paragraphs."
+msgstr "هنالك فقرة واحدة طويلة. ضع في الحسبان استخدام فقرات صغيرة."
+
+#. Translators: 1 - Number of the sentences, 2 - Number of words, 3 -
+#. Recommended maximum of words.
+#: languages/aioseo-lite.php:159 languages/aioseo-pro.php:175
+msgid "%1$s of the sentences contain more than %2$s words, which is more than the recommended maximum of %3$s. Try to shorten the sentences."
+msgstr "تحتوي %1$s من الجمل على أكثر من %2$s كلمة، وهو أكثر من الحد الأقصى الموصى به وهو %3$s. حاول تقصير الجمل."
+
+#: languages/aioseo-lite.php:2847 languages/aioseo-pro.php:4000
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Image Source"
+msgstr "مصدر الصورة"
+
+#: languages/aioseo-lite.php:5693 languages/aioseo-pro.php:8185
+msgid "Title Length"
+msgstr "طول العنوان"
+
+#: languages/aioseo-lite.php:2133 languages/aioseo-pro.php:3129
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Facebook Image"
+msgstr "صورة فيسبوك"
+
+#: languages/aioseo-lite.php:6218 languages/aioseo-pro.php:8915
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Video URL"
+msgstr "رابط الفيديو"
+
+#. Translators: 1 - Expand to the number of text sections not separated by
+#. subheadings, 2 - expands to the recommended number of words following a
+#. subheading.
+#: languages/aioseo-lite.php:20 languages/aioseo-pro.php:35
+msgid "%1$d section of your text is longer than %2$d words and is not separated by any subheadings. Add subheadings to improve readability."
+msgid_plural "%1$d sections of your text are longer than %2$d words and are not separated by any subheadings. Add subheadings to improve readability."
+msgstr[0] "%1$d قسم/أقسام من النص أطول من %2$d كلمة/كلمات ولا يتم فصله/فصلهم بأي عناوين فرعية. أضف عناوين فرعية لتحسين إمكانية القراءة."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: languages/aioseo-lite.php:3398 languages/aioseo-pro.php:4809
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Minimum size: 200px x 200px, ideal ratio 1.91:1, 5MB max. (eg: 1640px x 856px or 3280px x 1712px for retina screens)"
+msgstr "الحد الأدنى للحجم: 200 بك × 200 بك، النسبة المثالية 1.91: 1، 5 ميجابايت كحد أقصى. (على سبيل المثال: 1640 بك × 856 بك أو 3280 بك × 1712 بك لشاشات شبكية العين)"
+
+#: languages/aioseo-lite.php:6087 languages/aioseo-pro.php:8731
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Use Data from Facebook Tab"
+msgstr "استخدام البيانات من علامة تبويب فيسبوك"
+
+#: app/Common/Models/Post.php:472 languages/aioseo-lite.php:4075
+#: languages/aioseo-pro.php:5740
+msgid "Please add a title first."
+msgstr "الرجاء إضافة عنوان أولاً"
+
+#: app/Common/Models/Post.php:463 app/Common/Models/Post.php:481
+#: languages/aioseo-lite.php:4079 languages/aioseo-pro.php:5744
+msgid "Please add some content first."
+msgstr "الرجاء إضافة بعض المحتوى أولاً"
+
+#: languages/aioseo-lite.php:6347 languages/aioseo-pro.php:9066
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Webmaster Tools Verification"
+msgstr "التحقق من أدوات مشرفي المواقع"
+
+#: languages/aioseo-lite.php:3415 languages/aioseo-pro.php:4829
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Miscellaneous Verification"
+msgstr "التحقق المتنوع"
+
+#: languages/aioseo-lite.php:6493 languages/aioseo-pro.php:9235
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Yandex Verification Code"
+msgstr "رمز التحقق لـ Yandex "
+
+#: languages/aioseo-lite.php:4203 languages/aioseo-pro.php:5914
+msgid "Preview"
+msgstr "معاينة"
+
+#: languages/aioseo-lite.php:5168 languages/aioseo-pro.php:7401
+msgid "Tell Google about your business for display as a Knowledge Graph card or business carousel."
+msgstr "أخبر Google عن نشاطك التجاري لعرضه كبطاقة رسم بياني معرفي أو منصّة عرض بعناصر متغيّرة."
+
+#: languages/aioseo-lite.php:3898 languages/aioseo-pro.php:5446
+msgid "Optimized Search Appearance"
+msgstr "مظهر بحث محسن"
+
+#: languages/aioseo-lite.php:3169 languages/aioseo-pro.php:4461
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "License"
+msgstr "الترخيص"
+
+#: languages/aioseo-lite.php:4804 languages/aioseo-pro.php:6833
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "Setup Wizard"
+msgstr "معالج الإعداد"
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:499
+#: app/Common/Options/Options.php:557 app/Common/Schema/Breadcrumb.php:306
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+#: languages/aioseo-lite.php:2701 languages/aioseo-pro.php:3793
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+msgid "Home"
+msgstr "الرئيسية"
+
+#: languages/aioseo-lite.php:799 languages/aioseo-pro.php:1168
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+msgid "Article Title"
+msgstr "عنون المقال"
+
+#: app/Common/Breadcrumbs/Tags.php:141 app/Common/Utils/Tags.php:495
+#: languages/aioseo-lite.php:4765 languages/aioseo-pro.php:6788
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+msgid "Separator"
+msgstr "الفاصل"
+
+#: app/Common/Breadcrumbs/Tags.php:171 languages/aioseo-lite.php:242
+#: languages/aioseo-pro.php:291 dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+msgid "404 Error Format"
+msgstr "404 خطأ في الصيغة"
+
+#: languages/aioseo-lite.php:1709 languages/aioseo-pro.php:2462
+msgid "Directory Listing seems to be enabled on your server."
+msgstr "يبدو أن قائمة الدليل ممكنة على الخادوم الخاص بك."
+
+#: languages/aioseo-lite.php:2551 languages/aioseo-pro.php:3599
+msgid "Google has not flagged your site for malware!"
+msgstr "Google لم تضع علامة على موقعك لبرامج ضارة!"
+
+#: languages/aioseo-lite.php:6834 languages/aioseo-pro.php:9738
+msgid "Your site is using a secure transfer protocol (https)."
+msgstr "يستخدم موقعك بروتوكول نقل آمن (HTTPS)."
+
+#. Translators: 1 - The length of the meta description as a number.
+#: languages/aioseo-lite.php:6753 languages/aioseo-pro.php:9646
+msgid "Your meta description is set and is %1$d characters long."
+msgstr "تم تعيين الوصف التعريفي الخاص بك ويتكون من %1$d مِحرفاً (حروف ورموز)."
+
+#. Translators: 1 - The length of the meta description as a number.
+#: languages/aioseo-lite.php:6745 languages/aioseo-pro.php:9638
+msgid "Your meta description is %1$d characters long, which is too long."
+msgstr "طول الوصف التعريفي هو %1$d مِحرفاً، وهذا طويل جداً."
+
+#. Translators: 1 - The length of the meta description as a number.
+#: languages/aioseo-lite.php:6749 languages/aioseo-pro.php:9642
+msgid "Your meta description is only %1$d characters long, which is too short."
+msgstr "بلغ طول الوصف التعريفي %1$d مِحرفاً، وهذا قصير جداً."
+
+#: languages/aioseo-lite.php:1866 languages/aioseo-pro.php:2691
+msgid "Edit Your Meta Description"
+msgstr "تحرير الوصف التعريفي"
+
+#: app/Common/Views/sitemap/html/widget-options.php:133
+#: languages/aioseo-lite.php:2776 languages/aioseo-pro.php:3887
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/ExcludePosts.5fd3cd3b.js:1
+msgid "ID"
+msgstr "المعرّف"
+
+#: languages/aioseo-lite.php:6788 languages/aioseo-pro.php:9692
+msgid "Your response time is under 0.2 seconds."
+msgstr "وقت الاستجابة الخاص بك أقل من 0.2 ثانية."
+
+#: languages/aioseo-lite.php:4980 languages/aioseo-pro.php:7162
+msgid "Some Javascript files don't seem to be minified."
+msgstr "يبدو أن بعض ملفات جافا سكريبت ليست مصغرة."
+
+#: languages/aioseo-lite.php:4971 languages/aioseo-pro.php:7153
+msgid "Some CSS files don't seem to be minified."
+msgstr "بعض ملفات التنسيق CSS غير مصغرة."
+
+#. Translators: 1 - The total number of page requests.
+#: languages/aioseo-lite.php:6779 languages/aioseo-pro.php:9679
+msgid "Your page makes %1$d requests."
+msgstr "صفحتك تولد %1$d طلب."
+
+#: languages/aioseo-lite.php:3445 languages/aioseo-pro.php:4870
+msgid "More than 20 requests can result in slow page loading."
+msgstr "أكثر من 20 طلب قد يتسبب في تحميل بطيء للصفحة."
+
+#. Translators: 1 - The length of the SEO title as a number.
+#: languages/aioseo-lite.php:6807 languages/aioseo-pro.php:9711
+msgid "Your SEO title is set and is %1$d characters long."
+msgstr "تم تعيين عنوان ت.م.ب الخاص بك ويتكون من %1$d مِحرفاً (حروف ورموز)."
+
+#. Translators: 1 - The total number of page requests.
+#: languages/aioseo-lite.php:5429 languages/aioseo-pro.php:7775
+msgid "The size of the HTML document is %1$d Kb."
+msgstr "حجم مستند HTML هو  %1$d كيلوبايت."
+
+#: languages/aioseo-lite.php:5619 languages/aioseo-pro.php:8089
+msgid "This is under the average of 33 Kb."
+msgstr "هذا تحت المتوسط ​​33 كيلو بايت."
+
+#. Translators: 1 - The length of the SEO title as a number.
+#: languages/aioseo-lite.php:6799 languages/aioseo-pro.php:9703
+msgid "Your SEO title is %1$d characters long, which is too long."
+msgstr "طول عنوان ت.م.ب الخاص بك هو %1$d، وهذا قصير للغاية."
+
+#: languages/aioseo-lite.php:6810 languages/aioseo-pro.php:9714
+msgid "Your server is not using \"expires\" headers for your images."
+msgstr "الخادوم الخاص بك لا يستخدم ترويسات (headers) «انتهاء الصلاحية» لصورك."
+
+#. Translators: 1 - The length of the SEO title as a number.
+#: languages/aioseo-lite.php:6803 languages/aioseo-pro.php:9707
+msgid "Your SEO title is only %1$d characters long, which is too short."
+msgstr "عنوان ت.م.ب الخاص بك، هو فقط %1$d مِحرفاً، وهذا قصير جداً."
+
+#: languages/aioseo-lite.php:6822 languages/aioseo-pro.php:9726
+msgid "Your site has a robots.txt file."
+msgstr "يحتوي موقعك على ملف Robots.txt."
+
+#: languages/aioseo-lite.php:6293 languages/aioseo-pro.php:8999
+msgid "We found Schema.org data on your page."
+msgstr "وجدنا بيانات Schema.org على صفحتك."
+
+#. Translators: 1 - The Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:147 languages/aioseo-pro.php:163
+msgid "%1$s makes it extremely easy to add highly relevant Schema.org markup to your site. It has a simple graphical interface, so you don't have to get your hands dirty with complex HTML markup."
+msgstr "يجعل %1$s من السهل للغاية إضافة ترميز Schema.org وثيق الصلة للغاية إلى موقعك. يحتوي على واجهة رسومية بسيطة، لذلك لن تضطر إلى تلطيخ يديك باستخدام ترميز HTML معقد."
+
+#: languages/aioseo-lite.php:595 languages/aioseo-pro.php:832
+msgid "All the required Open Graph meta tags have been found."
+msgstr "تم العثور على كل علامات (وسوم) meta المطلوبة والمتعلقة بـ Open Graph."
+
+#: languages/aioseo-lite.php:3635 languages/aioseo-pro.php:5117
+msgid "No internal links were found on the page."
+msgstr "لم يتم العثور على روابط داخلية على هذه الصفحة."
+
+#: languages/aioseo-lite.php:5763 languages/aioseo-pro.php:8278
+msgid "Too few internal links on your page."
+msgstr "عدد قليل جدا من الروابط الداخلية على صفحتك."
+
+#: languages/aioseo-lite.php:5760 languages/aioseo-pro.php:8275
+msgid "Too few internal links on the page."
+msgstr "عدد قليل جدا من الروابط الداخلية على هذه الصفحة."
+
+#: languages/aioseo-lite.php:5371 languages/aioseo-pro.php:7714
+msgid "The ratio of internal links to external links is uneven."
+msgstr "النسبة من الروابط الداخلية إلى الروابط الخارجية غير متساوية."
+
+#: languages/aioseo-lite.php:3638 languages/aioseo-pro.php:5120
+msgid "No internal links were found on your page."
+msgstr "لم يتم العثور على روابط داخلية على صفحتك."
+
+#: languages/aioseo-lite.php:5346 languages/aioseo-pro.php:7686
+msgid "The page has a correct number of internal and external links."
+msgstr "تحتوي الصفحة على عدد مضبوط من الروابط الداخلية والخارجية."
+
+#: languages/aioseo-lite.php:6772 languages/aioseo-pro.php:9672
+msgid "Your page has a correct number of internal and external links."
+msgstr "صفحتك لديها عدد مضبوط من الروابط الداخلية والخارجية."
+
+#: languages/aioseo-lite.php:4977 languages/aioseo-pro.php:7159
+msgid "Some images on your page have no alt attribute."
+msgstr "لا تحتوي بعض الصور على صفحتك على سمة  النص البديل alt."
+
+#: languages/aioseo-lite.php:2619 languages/aioseo-pro.php:3676
+msgid "H2 tags were found on the page."
+msgstr "تم العثور على علامات (وسوم) H2 على الصفحة."
+
+#: languages/aioseo-lite.php:3615 languages/aioseo-pro.php:5097
+msgid "No H2 tags were found on the page."
+msgstr "لم يتم العثور على علامات (وسوم) H2 على الصفحة."
+
+#: languages/aioseo-lite.php:3618 languages/aioseo-pro.php:5100
+msgid "No H2 tags were found on your page."
+msgstr "لم يتم العثور على علامات (وسوم) H2 على الصفحة."
+
+#: languages/aioseo-lite.php:2622 languages/aioseo-pro.php:3679
+msgid "H2 tags were found on your page."
+msgstr "تم العثور على علامات (وسوم) H2 على الصفحة."
+
+#: languages/aioseo-lite.php:3612 languages/aioseo-pro.php:5094
+msgid "No H1 tag was found."
+msgstr "لم يتم العثور على علامة H1. "
+
+#: languages/aioseo-lite.php:2292 languages/aioseo-pro.php:3315
+msgid "For the best SEO results there should be exactly one H1 tag on each page."
+msgstr " للحصول على أفضل نتائج تحسين محركات البحث، يجب أن تكون هناك علامة H1 واحدة بالضبط في كل صفحة."
+
+#: languages/aioseo-lite.php:4521 languages/aioseo-pro.php:6440
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+#: dist/Lite/assets/js/Tabs.1078c304.js:1
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: languages/aioseo-lite.php:1265 languages/aioseo-pro.php:1823
+#: dist/Lite/assets/js/HtmlTagsEditor.967fcae2.js:1
+msgid "Click on the tags below to insert variables into your template."
+msgstr "انقر على الوسوم أدناه لإدراج المتغيرات في القالب الخاص بك."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:5185 languages/aioseo-pro.php:7433
+#: dist/Lite/assets/js/GettingStarted.12a939e7.js:1
+msgid "Thank you for choosing the best WordPress SEO plugin. %1$s default settings works great out of the box. We created the setup wizard to guide you through some important configuration settings & custom-tailored SEO best practices for your site to help you improve rankings."
+msgstr "شكرًا لاختيارك أفضل إضافة تحسين محركات البحث في ووردبريس. تعمل الإعدادات الافتراضية لـ%1$s  مباشرة بشكل رائع. لقد أنشأنا معالج الإعداد لإرشادك خلال بعض إعدادات التكوين المهمة وأفضل ممارسات تحسين محركات البحث المصممة خصيصًا لموقعك لمساعدتك على تحسين التصنيفات."
+
+#: languages/aioseo-lite.php:3138 languages/aioseo-pro.php:4401
+#: dist/Lite/assets/js/GettingStarted.12a939e7.js:1
+msgid "Launch the Setup Wizard"
+msgstr "تشغيل معالج الإعداد"
+
+#: languages/aioseo-lite.php:4304 languages/aioseo-pro.php:6078
+#: dist/Lite/assets/js/GettingStarted.12a939e7.js:1
+msgid "Read the Setup Guide"
+msgstr "قراءة دليل الإعداد"
+
+#: languages/aioseo-lite.php:3818 languages/aioseo-pro.php:5347
+msgid "One or more keywords were found in the title and description of your page."
+msgstr "تم العثور على كلمة مفتاحية واحدة أو أكثر في عنوان ووصف صفحتك."
+
+#: languages/aioseo-lite.php:3652 languages/aioseo-pro.php:5134
+msgid "No keywords were found in your meta description."
+msgstr "لم يتم العثور على كلمات مفتاحية في الوصف التعريفي."
+
+#: languages/aioseo-lite.php:2747 languages/aioseo-pro.php:3849
+#: dist/Lite/assets/js/GettingStarted.12a939e7.js:1
+msgid "How to Get Started"
+msgstr "كيف تبدأ"
+
+#: languages/aioseo-lite.php:3793 languages/aioseo-pro.php:5313
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "off"
+msgstr "خصم"
+
+#: languages/aioseo-lite.php:930 languages/aioseo-pro.php:1353
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.02dbc84f.js:4
+msgid "Basic SEO"
+msgstr "ت.م.ب أساسي"
+
+#: languages/aioseo-lite.php:6613 languages/aioseo-pro.php:9452
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "You have no new notifications."
+msgstr "لا توجد لديك إشعارات جديدة"
+
+#: languages/aioseo-lite.php:6763 languages/aioseo-pro.php:9663
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+msgid "Your Overall Site Score"
+msgstr "نتائج الموقع الكُلية"
+
+#: languages/aioseo-lite.php:499 languages/aioseo-pro.php:691
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.02dbc84f.js:4
+msgid "Advanced SEO"
+msgstr "ت.م.ب متقدم"
+
+#: languages/aioseo-lite.php:4601 languages/aioseo-pro.php:6567
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.02dbc84f.js:4
+msgid "Security"
+msgstr "الأمان"
+
+#: languages/aioseo-lite.php:6147 languages/aioseo-pro.php:8824
+#: dist/Lite/assets/js/SocialProfiles.fd4d4759.js:1
+msgid "Use the same username for multiple social networks"
+msgstr "استخدام نفس اسم المستخدم لشبكات اجتماعية متعددة"
+
+#: languages/aioseo-lite.php:1506 languages/aioseo-pro.php:2130
+#: dist/Lite/assets/js/SettingsSeparator.5585ff75.js:1
+msgid "Custom separator:"
+msgstr "فاصل مخصص:"
+
+#: languages/aioseo-lite.php:4851 languages/aioseo-pro.php:6897
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+msgid "Show in Search Results"
+msgstr "عرض في نتائج البحث"
+
+#: languages/aioseo-lite.php:1269 languages/aioseo-pro.php:1827
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+msgid "Click on the tags below to insert variables into your title."
+msgstr "انقر على الوسم أدناه لإدراج المتغيرات في العنوان الخاص بك."
+
+#. Translators: 1 - "Pro".
+#: languages/aioseo-lite.php:6044 languages/aioseo-pro.php:8643
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+#: dist/Lite/assets/js/Header.df493c4a.js:1
+msgid "upgrading to %1$s"
+msgstr "الترقية إلى %1$s"
+
+#: languages/aioseo-lite.php:2760 languages/aioseo-pro.php:3862
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "HTML Sitemap"
+msgstr "خريطة موقع HTML"
+
+#. Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro".
+#: languages/aioseo-lite.php:6212 languages/aioseo-pro.php:8909
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Video Sitemaps are only available for licensed %1$s %2$s users."
+msgstr "خريطة موقع الفيديوهات متاحة فقط لمستخدمي %1$s %2$s  المرخصين."
+
+#: languages/aioseo-lite.php:2579 languages/aioseo-pro.php:3637
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Google, Bing and other search engines use specific data from your schema markup to output data in their Knowledge Panels. This data is known as the Knowledge Graph. Use these settings to change how that data looks."
+msgstr "تستخدم Google و Bing ومحركات البحث الأخرى بيانات محددة من ترميز المخطط الخاص بك لإخراج البيانات في بطاقات المعلومات الخاصة بهم. تُعرف هذه البيانات بالرسم البياني المعرفي. استخدم هذه الإعدادات لتغيير شكل هذه البيانات."
+
+#: languages/aioseo-lite.php:4768 languages/aioseo-pro.php:6791
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Separator Character"
+msgstr "المِحرف (الرمز) الفاصل"
+
+#: languages/aioseo-lite.php:2708 languages/aioseo-pro.php:3804
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#: languages/aioseo-lite.php:3098 languages/aioseo-pro.php:4347
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Knowledge Graph"
+msgstr "الرسم البياني المعرفي"
+
+#: languages/aioseo-lite.php:5696 languages/aioseo-pro.php:8188
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Title Separator"
+msgstr "فاصل العنوان"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:129 app/Common/Breadcrumbs/Tags.php:135
+#: app/Common/Utils/Tags.php:373 app/Common/Utils/Tags.php:490
+#: languages/aioseo-lite.php:202 languages/aioseo-pro.php:223
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+msgid "%1$s Title"
+msgstr "عنوان الـ%1$s"
+
+#: languages/aioseo-lite.php:4539 languages/aioseo-pro.php:6477
+#: dist/Lite/assets/js/ContentTypes.ea5d12cf.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+msgid "Schema Markup"
+msgstr "علامات المخطط"
+
+#: languages/aioseo-lite.php:3314 languages/aioseo-pro.php:4697
+#: dist/Lite/assets/js/AboutUs.bc1b75cc.js:1
+#: dist/Lite/assets/js/SitemapsPro.37c79d04.js:1
+msgid "Manage"
+msgstr "إدارة"
+
+#: languages/aioseo-lite.php:4268 languages/aioseo-pro.php:6018
+#: dist/Lite/assets/js/FeatureManager.9d6ad19b.js:1
+msgid "Purchase License"
+msgstr "شراء ترخيص"
+
+#: languages/aioseo-lite.php:2023 languages/aioseo-pro.php:2939
+#: dist/Lite/assets/js/FeatureManager.9d6ad19b.js:1
+msgid "Enter License Key"
+msgstr "أدخل مفتاح الترخيص"
+
+#: languages/aioseo-lite.php:3317 languages/aioseo-pro.php:4700
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Manage all of your sitemap settings, including XML, Video, News and more."
+msgstr "قم بإدارة جميع إعدادات خريطة الموقع الخاصة بك، بما في ذلك XML والفيديو والأخبار وأكثر من ذلك."
+
+#: languages/aioseo-lite.php:1332 languages/aioseo-pro.php:1895
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Configure how your website content will look in Google, Bing and other search engines."
+msgstr "قم بتكوين كيف سيبدو محتوى موقع الويب الخاص بك في Google و Bing ومحركات البحث الأخرى."
+
+#: languages/aioseo-lite.php:1133 languages/aioseo-pro.php:1658
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Check how your site scores with our SEO analyzer and compare against your competitor's site."
+msgstr "تحقق من نتائج موقعك باستخدام محلل تحسين محركات البحث الخاص بنا وقارن بينه وبين مواقع منافسِك."
+
+#: languages/aioseo-lite.php:2911 languages/aioseo-pro.php:4082
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Improve local SEO rankings with schema for business address, open hours, contact, and more."
+msgstr "قم بتحسين تصنيفات مُحسّنات محرّكات البحث المحلية باستخدام مخطط لعنوان العمل وساعات العمل والاتصال والمزيد."
+
+#: languages/aioseo-lite.php:4795 languages/aioseo-pro.php:6823
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Setup Open Graph for Facebook, Twitter, etc. to show the right content / thumbnail preview."
+msgstr "قم بإعداد Open Graph لفيسبوك، وتويتر وما إلى ذلك، لإظهار معاينة المحتوى / الصورة المصغرة بشكل صحيح."
+
+#: languages/aioseo-lite.php:2192 languages/aioseo-pro.php:3205
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Fine-tune your site with our powerful tools including Robots.txt editor, import/export and more."
+msgstr "اضبط موقعك باستخدام أدواتنا القوية بما في ذلك محرر Robots.txt و وميزة الاستيراد / التصدير والمزيد."
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro".
+#: languages/aioseo-lite.php:2387 languages/aioseo-pro.php:3436
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Get more features in %1$s %2$s:"
+msgstr "احصل على المزيد من الميزات في  %1$s %2$s:"
+
+#: languages/aioseo-lite.php:4756 languages/aioseo-pro.php:6779
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "SEO Site Score"
+msgstr "نتائج ت.م.ب للموقع"
+
+#: languages/aioseo-lite.php:5485 languages/aioseo-pro.php:7879
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "There are no new notifications at this moment."
+msgstr "لا يوجد اشعارات في هذه اللحظة"
+
+#: languages/aioseo-lite.php:4281 languages/aioseo-pro.php:6040
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Quicklinks"
+msgstr "روابط سريعة"
+
+#: app/Common/Tools/RobotsTxt.php:369 languages/aioseo-lite.php:2876
+#: languages/aioseo-pro.php:4034 dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Import and Delete"
+msgstr "استيرد وحذف"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name
+#. ("AIOSEO").
+#: app/Common/Tools/RobotsTxt.php:363 languages/aioseo-lite.php:84
+#: languages/aioseo-pro.php:104 dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "%1$s has detected a physical robots.txt file in the root folder of your WordPress installation. We recommend removing this file as it could cause conflicts with WordPress' dynamically generated one. %2$s can import this file and delete it, or you can simply delete it."
+msgstr "اكتشفت إضافة %1$s مِلف Robots.txt فعلي في المجلد الجذر لتنصيب ووردبريس الخاص بك. نوصي بإزالة هذا المِلف لأنه يمكن أن يتسبب في تعارض مع المِلف المُنشأ ديناميكًا من قبل ووردبريس. %2$s يمكنها استيراد هذا الملف وحذفه، أو يمكنك ببساطة حذفه."
+
+#: app/Common/Admin/Admin.php:198 languages/aioseo-lite.php:3247
+#: languages/aioseo-pro.php:4577 dist/Lite/assets/js/Main.52a4c200.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/Main.e87be427.js:1
+msgid "Local SEO"
+msgstr "ت.م.ب محلي"
+
+#: languages/aioseo-lite.php:4933 languages/aioseo-pro.php:7096
+msgid "Smart Schema"
+msgstr "المخطط الذكي"
+
+#: languages/aioseo-lite.php:4065 languages/aioseo-pro.php:5727
+#: dist/Lite/assets/js/Pinterest.83369783.js:1
+msgid "Pinterest uses Open Graph metadata just like Facebook, so be sure to keep Open Graph enabled on the Facebook tab checked if you want to optimize your site for Pinterest."
+msgstr "يستخدم Pinterest البيانات الوصفية لـ Open Graph تمامًا مثل Facebook ، لذا تأكد من تمكين Open Graph في علامة تبويب Facebook إذا كنت تريد تحسين موقعك من أجل Pinterest."
+
+#: languages/aioseo-lite.php:2792 languages/aioseo-pro.php:3922
+#: dist/Lite/assets/js/Pinterest.83369783.js:1
+msgid "If you have already confirmed your website with Pinterest, you can skip the step below."
+msgstr "إذا كنت قد أكدت بالفعل موقع الويب الخاص بك باستخدام Pinterest، فيمكنك تخطي الخطوة أدناه"
+
+#: languages/aioseo-lite.php:4069 languages/aioseo-pro.php:5731
+#: dist/Lite/assets/js/Pinterest.83369783.js:1
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Pinterest Verification Code"
+msgstr "رمز التحقق الخاص بـ Pinterest "
+
+#: languages/aioseo-lite.php:5104 languages/aioseo-pro.php:7326
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Summary with Large Image"
+msgstr "ملخص مع صورة كبيرة"
+
+#: languages/aioseo-lite.php:1590 languages/aioseo-pro.php:2268
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Default Card Type"
+msgstr "نوع البطاقة الإفتراضي"
+
+#: app/Common/Tools/SystemStatus.php:273 languages/aioseo-lite.php:3482
+#: languages/aioseo-pro.php:4937 dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Must-Use Plugins"
+msgstr "الإضافات الواجب استخدامها"
+
+#: app/Common/Tools/SystemStatus.php:174 languages/aioseo-lite.php:4774
+#: languages/aioseo-pro.php:6798 dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Server Info"
+msgstr "معلومات الخادوم"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1070 languages/aioseo-pro.php:1546
+#: dist/Lite/assets/js/WebmasterTools.5e7a9ca4.js:1
+msgid "By default Editors have access to %1$sSEO settings for General Settings, Search Appearance and Social Networks, as well as all settings for individual pages and posts.%2$s"
+msgstr "افتراضيًا، يمكن للمحررين الوصول إلى إعدادات %1$sSEO للإعدادات العامة ومظهر البحث والشبكات الاجتماعية، بالإضافة إلى جميع إعدادات الصفحات والمنشورات أو المقالات %2$s"
+
+#: languages/aioseo-lite.php:1254 languages/aioseo-pro.php:1812
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+msgid "Click on the tags below to insert variables into your meta description."
+msgstr "انقر على الوسم أدناه لإدراج المتغيرات في الوصف التعريفي الخاص بك."
+
+#: languages/aioseo-lite.php:1262 languages/aioseo-pro.php:1820
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+msgid "Click on the tags below to insert variables into your site title."
+msgstr "انقر على الوسم أدناه لإدراج المتغيرات في عنوان موقعك."
+
+#. Translators: 1 - A number, 2 - A number.
+#: languages/aioseo-lite.php:167 languages/aioseo-pro.php:183
+#: dist/Lite/assets/js/MaxCounts.5a7ca2fd.js:1
+msgid "%1$s out of %2$s max recommended characters."
+msgstr "%1$s من إجمالي %2$s من المحارف القصوى الموصى بها."
+
+#: languages/aioseo-lite.php:3536 languages/aioseo-pro.php:5009
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "New Notifications"
+msgstr "الاشعارات الجديدة"
+
+#: languages/aioseo-lite.php:3236 languages/aioseo-pro.php:4566
+#: dist/Lite/assets/js/FeatureManager.9d6ad19b.js:1
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+#: dist/Lite/assets/js/OpeningHours.722a0301.js:1
+msgid "Local Business schema markup enables you to tell Google about your business, including your business name, address and phone number, opening hours and price range. This information may be displayed as a Knowledge Graph card or business carousel."
+msgstr "يمكّنك ترميز مخطط الأعمال المحلية من إخبار Google عن نشاطك التجاري، بما في ذلك اسم عملك وعنوانك ورقم هاتفك وساعات العمل ونطاق السعر. قد يتم عرض هذه المعلومات كبطاقة رسم بياني معرفي أو منصّة عرض بعناصر متغيّرة."
+
+#: languages/aioseo-lite.php:2055 languages/aioseo-pro.php:2986
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "Errors"
+msgstr "أخطاء"
+
+#: languages/aioseo-lite.php:2069 languages/aioseo-pro.php:3004
+#: dist/Lite/assets/js/HeadlineAnalyzer.fa4bc980.js:1
+#: dist/Lite/assets/js/SeoSiteScore.48a1cf92.js:1
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "Excellent!"
+msgstr "ممتاز!"
+
+#: languages/aioseo-lite.php:1318 languages/aioseo-pro.php:1889
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "Complete Site Audit Checklist"
+msgstr "قائمة تدقيق المراجعة للموقع بأكمله"
+
+#: languages/aioseo-lite.php:3490 languages/aioseo-pro.php:4944
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "name"
+msgstr "الاسم"
+
+#: languages/aioseo-lite.php:3203 languages/aioseo-pro.php:4522
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Links Per Sitemap"
+msgstr "عدد الروابط لكل خريطة موقع"
+
+#: languages/aioseo-lite.php:856 languages/aioseo-pro.php:1257
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Author Sitemap"
+msgstr "خريطة موقع الكاتب"
+
+#: languages/aioseo-lite.php:1545 languages/aioseo-pro.php:2186
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Date Archive Sitemap"
+msgstr "خريطة موقع التاريخ"
+
+#: languages/aioseo-lite.php:2723 languages/aioseo-pro.php:3819
+#: dist/Lite/assets/js/Category.b41f392b.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Home Page Title"
+msgstr "عنوان الصفحة الرئيسية"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:669 languages/aioseo-pro.php:934
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "An XML Sitemap is a list of all your content that search engines use when they crawl your site. This is an essential part of SEO because it contains some important pieces of information that search engines need when crawling your site. The XML Sitemap created by %1$s tells search engines where to find all of the content on your site."
+msgstr "خريطة موقع XML هي قائمة المحتوى الذي تستخدمه محركات البحث عند الزحف على موقعك. وهذا جزء أساسي من عملية «تحسين محركات البحث» لأنه يحتوي على بعض المعلومات المهمة التي تحتاجها محركات البحث عند الزحف على موقعك. تُخبر خريطة موقع XML -الذي تم إنشاؤه بواسطة %1$s- محركات البحث عن أمكان العثور على كافة المحتوى في موقعك."
+
+#: languages/aioseo-lite.php:1772 languages/aioseo-pro.php:2555
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Do you get a blank sitemap or 404 error?"
+msgstr "هل تتلقى الخطأ 404 أو خريطة موقع فارعة؟"
+
+#: languages/aioseo-lite.php:1946 languages/aioseo-pro.php:2826
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Enable Sitemap"
+msgstr "تمكين خريطة الموقع"
+
+#: languages/aioseo-lite.php:4157 languages/aioseo-pro.php:5842
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Post Type Priority Score"
+msgstr "نقاط الألوية لنوع المنشور"
+
+#: languages/aioseo-lite.php:5159 languages/aioseo-pro.php:7389
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Taxonomy Priority Score"
+msgstr "نقاط الأولية للفئات"
+
+#: languages/aioseo-lite.php:2963 languages/aioseo-pro.php:4154
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+#: dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Include All Taxonomies"
+msgstr "تضمين كافة الفئات"
+
+#: languages/aioseo-lite.php:711 languages/aioseo-pro.php:991
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Any posts that are assigned to these terms will also be excluded from your sitemap."
+msgstr "سيتم استبعاد أي منشورات مسندة لعناصر الفئات هذه، من خريطة الموقع."
+
+#: languages/aioseo-lite.php:2610 languages/aioseo-pro.php:3666
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Grouped"
+msgstr "مجمعة"
+
+#: languages/aioseo-lite.php:3864 languages/aioseo-pro.php:5403
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Open Sitemap"
+msgstr "فتح خريطة الموقع"
+
+#: languages/aioseo-lite.php:3718 languages/aioseo-pro.php:5233
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Noindexed content will not be displayed in your sitemap."
+msgstr "المحتوى الغير مفهرس لن يتم عرضه في خريطة الموقع."
+
+#: languages/aioseo-lite.php:6408 languages/aioseo-pro.php:9136
+#: dist/Lite/assets/js/Category.b41f392b.js:1
+msgid "Which category best describes your website?"
+msgstr "أي من هذه التصنيفات يصف موقعك بشكل أفضل؟"
+
+#: app/Common/Admin/Admin.php:184 languages/aioseo-lite.php:4911
+#: languages/aioseo-pro.php:7071 dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/Main.f9cdeabe.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Sitemaps"
+msgstr "خرائط الموقع"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:617 languages/aioseo-pro.php:857
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+#: dist/Lite/assets/js/LicenseKey.98ba186f.js:1
+msgid "Already purchased? Simply enter your license key below to connect with %1$s!"
+msgstr "هل لديك ترخيص فعلًا؟ ما عليك سوى إدخال مفتاح الترخيص أدناه للاتصال بـ %1$s!"
+
+#: app/Common/Admin/Admin.php:180 languages/aioseo-lite.php:4958
+#: languages/aioseo-pro.php:7128 dist/Lite/assets/js/Main.979a60d2.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Social Networks"
+msgstr "التواصل الاجتماعي"
+
+#: app/Common/Admin/Notices/Notices.php:469 languages/aioseo-lite.php:259
+#: languages/aioseo-pro.php:311 dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "A Description tag is required in order to properly display your meta descriptions on your site."
+msgstr "مطلوب علامة الوصف من أجل عرض الأوصاف التعريفية الخاصة بك بشكل صحيح على موقعك."
+
+#: languages/aioseo-lite.php:4329 languages/aioseo-pro.php:6108
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "Recommended Improvements"
+msgstr "التحسينات الموصى بها"
+
+#: languages/aioseo-lite.php:2518 languages/aioseo-pro.php:3566
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+#: dist/Lite/assets/js/TruSeoScore.98a47fd6.js:1
+msgid "Good Results"
+msgstr "النتائج الجيدة"
+
+#: languages/aioseo-lite.php:1312 languages/aioseo-pro.php:1883
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+msgid "Complete SEO Checklist"
+msgstr "قائمة تدقيق ت.م.ب"
+
+#: languages/aioseo-lite.php:4010 languages/aioseo-pro.php:5649
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+msgid "Perform in-depth SEO Analysis of your competitor's website."
+msgstr "إجراء تحليل تحسين محركات البحث المتعمق للموقع المنافس."
+
+#: languages/aioseo-lite.php:577 languages/aioseo-pro.php:803
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+msgid "All Items"
+msgstr " كل العناصر"
+
+#: languages/aioseo-lite.php:4380 languages/aioseo-pro.php:6207
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+#: dist/Lite/assets/js/SeoAuditChecklist.54c4147b.js:1
+msgid "Refresh Results"
+msgstr "تحديث النتائج"
+
+#. Translators: 1 - The plugin short name name ("AIOSEO") + Pro, 2 - "Learn
+#. more".
+#: languages/aioseo-lite.php:5581 languages/aioseo-pro.php:8046
+#: dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "This feature is only for licensed %1$s users. %2$s"
+msgstr "هذه المِيزة خاصة بمستخدمي %1$s المرخصين. %2$s"
+
+#: app/Common/Tools/RobotsTxt.php:371 languages/aioseo-lite.php:1654
+#: languages/aioseo-pro.php:2346
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Delete"
+msgstr "حذف"
+
+#: app/Common/Tools/SystemStatus.php:65 languages/aioseo-lite.php:5668
+#: languages/aioseo-pro.php:8153 dist/Lite/assets/js/OpeningHours.722a0301.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Timezone"
+msgstr "المنطقة الزمنية"
+
+#: languages/aioseo-lite.php:2020 languages/aioseo-pro.php:2936
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+msgid "Enter Competitor URL"
+msgstr "أدخل عنوان URL للمواقع المنافسة"
+
+#: languages/aioseo-lite.php:2480 languages/aioseo-pro.php:3528
+#: dist/Lite/assets/js/Welcome.750c2235.js:1
+msgid "Go back to the Dashboard"
+msgstr "ارجع إلى لوحة التحكم"
+
+#: languages/aioseo-lite.php:2195 languages/aioseo-pro.php:3208
+#: dist/Lite/assets/js/Success.519c2c4d.js:1
+msgid "Finish Setup and Go to the Dashboard"
+msgstr "قم بإنهاء الإعداد وانتقل إلى لوحة التحكم"
+
+#: languages/aioseo-lite.php:3496 languages/aioseo-pro.php:4969
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Name"
+msgstr "الاسم"
+
+#: languages/aioseo-lite.php:4696 languages/aioseo-pro.php:6714
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Select which team or department the phone number belongs to."
+msgstr "حدد الفريق أو القسم الذي ينتمي إليه رقم الهاتف."
+
+#: languages/aioseo-lite.php:3282 languages/aioseo-pro.php:4654
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Logo"
+msgstr "الشعار"
+
+#: languages/aioseo-lite.php:3391 languages/aioseo-pro.php:4802
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+msgid "Minimum size: 112px x 112px, The image must be in JPG, PNG, GIF, SVG, or WEBP format."
+msgstr "الحد الأدنى للحجم: 112 بك × 112 بك، يجب أن تكون الصورة بتنسيق JPG أو PNG أو GIF أو SVG أو WEBP."
+
+#: languages/aioseo-lite.php:1376 languages/aioseo-pro.php:1943
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Contact Type"
+msgstr "نوع جهة الاتصال"
+
+#: languages/aioseo-lite.php:1157 languages/aioseo-pro.php:1691
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Choose a Contact Type"
+msgstr "اختر نوع جهة الاتصال"
+
+#: languages/aioseo-lite.php:4406 languages/aioseo-pro.php:6263
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Remove"
+msgstr "إزالة"
+
+#: languages/aioseo-lite.php:1243 languages/aioseo-pro.php:1801
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Click on the tags below to insert variables into your description."
+msgstr "انقر على الوسم أدناه لإدراج المتغيرات في وصفك."
+
+#: languages/aioseo-lite.php:1247 languages/aioseo-pro.php:1805
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Click on the tags below to insert variables into your home page title."
+msgstr "انقر فوق الوسم أدناه لإدراج المتغيرات في عنوان صفحتك الرئيسية."
+
+#: languages/aioseo-lite.php:1258 languages/aioseo-pro.php:1816
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Click on the tags below to insert variables into your site name."
+msgstr "انقر على الوسم أدناه لإدراج المتغيرات في اسم الموقع الخاص بك."
+
+#: app/Common/Breadcrumbs/Widget.php:104 languages/aioseo-lite.php:5704
+#: languages/aioseo-pro.php:8196 dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Title:"
+msgstr "العنوان:"
+
+#: languages/aioseo-lite.php:2850 languages/aioseo-pro.php:4003
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Image Title:"
+msgstr "عنوان الصورة:"
+
+#: languages/aioseo-lite.php:6144 languages/aioseo-pro.php:8818
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Use the home page title"
+msgstr "استخدم عنوان الصفحة الرئيسية"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:6383 languages/aioseo-pro.php:9107
+#: dist/Lite/assets/js/Welcome.750c2235.js:1
+msgid "Welcome to the %1$s Setup Wizard!"
+msgstr "مرحبا بكم في معالج الإعداد الخاص بـ %1$s!"
+
+#: languages/aioseo-lite.php:4965 languages/aioseo-pro.php:7138
+#: dist/Lite/assets/js/SocialProfiles.bf457c7e.js:1
+#: dist/Lite/assets/user-profile-tab.ceaad841.js:1
+msgid "Social Profiles"
+msgstr "ملفات التعريف الاجتماعية"
+
+#: languages/aioseo-lite.php:3160 languages/aioseo-pro.php:4451
+#: dist/Lite/assets/js/Welcome.750c2235.js:1
+msgid "Let's Get Started"
+msgstr "لنبدأ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:650
+msgid "media"
+msgstr "الوسائط"
+
+#: languages/aioseo-pro.php:7636
+msgid "The Local SEO module is a premium feature that enables businesses to tell Google about their business, including their business name, address and phone number, opening hours and price range.  This information may be displayed as a Knowledge Graph card or business carousel in the search engine sidebar."
+msgstr "وحدة Local SEO هي ميزة متميزة تمكن الشركات من إخبار Google عن أعمالها، بما في ذلك اسم عملها وعنوانها ورقم الهاتف وساعات العمل والنطاق السعري. قد يتم عرض هذه المعلومات كبطاقة الرسم البياني المعرفي أو منصّة عرض بعناصر متغيّرة في الشريط الجانبي لمحرك البحث."
+
+#: app/Common/Admin/Admin.php:176 languages/aioseo-lite.php:4568
+#: languages/aioseo-pro.php:6513 dist/Lite/assets/js/Main.131526ba.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Search Appearance"
+msgstr "مظهر البحث"
+
+#: app/Common/Admin/Admin.php:166 languages/aioseo-lite.php:1526
+#: languages/aioseo-pro.php:2158
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: languages/aioseo-lite.php:3727 languages/aioseo-pro.php:5246
+#: dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/RobotsMeta.43a238ee.js:1
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "None"
+msgstr "بدون"
+
+#: languages/aioseo-lite.php:2347 languages/aioseo-pro.php:3395
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "General Sitemap"
+msgstr "خريطة موقع عامة"
+
+#: languages/aioseo-lite.php:493 languages/aioseo-pro.php:674
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Archives.5c61a3bb.js:1
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+#: dist/Lite/assets/js/ContentTypes.ea5d12cf.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+#: dist/Lite/assets/js/Taxonomies.b282fbf2.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Advanced"
+msgstr "المتقدمة"
+
+#: languages/aioseo-lite.php:3209 languages/aioseo-pro.php:4532
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "List of custom field names to include in the SEO Page Analysis. Add one per line."
+msgstr "قائمة أسماء الحقول المخصصة لتشمل في تحليل «تحسين محركات البحث». أضف واحدا لكل سطر."
+
+#: languages/aioseo-lite.php:4728 languages/aioseo-pro.php:6751
+msgid "SEO Audit Checklist"
+msgstr "قائمة تدقيق المراجعة لـ ت.م.ب"
+
+#: languages/aioseo-lite.php:682 languages/aioseo-pro.php:947
+msgid "Analyze Competitor Site"
+msgstr "تحليل الموقع المنافس"
+
+#: languages/aioseo-lite.php:6344 languages/aioseo-pro.php:9063
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Webmaster Tools"
+msgstr "أدوات مشرفي المواقع"
+
+#: languages/aioseo-lite.php:2444 languages/aioseo-pro.php:3492
+msgid "Getting Started"
+msgstr "الشروع في العمل"
+
+#: languages/aioseo-lite.php:4548 languages/aioseo-pro.php:6488
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "Schema Type"
+msgstr "نوع المخطط"
+
+#: languages/aioseo-lite.php:802 languages/aioseo-pro.php:1172
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "Article Type"
+msgstr "نوع المقال"
+
+#: languages/aioseo-lite.php:986 languages/aioseo-pro.php:1439
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "Blog Post"
+msgstr "منشور تدويني"
+
+#: languages/aioseo-lite.php:3547 languages/aioseo-pro.php:5022
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "News Article"
+msgstr "مقال إخباري"
+
+#: app/Common/Admin/Admin.php:216 languages/aioseo-lite.php:674
+#: languages/aioseo-pro.php:939 dist/Lite/assets/js/Main.b8feb0e9.js:1
+msgid "Analytics"
+msgstr "التحليلات"
+
+#: languages/aioseo-pro.php:6523
+msgid "Search Appearance Settings"
+msgstr "إعدادات مظهر البحث"
+
+#: languages/aioseo-lite.php:6738 languages/aioseo-pro.php:9627
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "Your license key provides access to updates and addons."
+msgstr "يوفر مفتاح الترخيص الخاص بك الوصول إلى التحديثات والمحلقات."
+
+#: app/Common/Admin/Admin.php:208 languages/aioseo-lite.php:5785
+#: languages/aioseo-pro.php:8303 dist/Lite/assets/js/Main.6d2f8b59.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Tools"
+msgstr "الأدوات"
+
+#: languages/aioseo-lite.php:4905 languages/aioseo-pro.php:7064
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Sitemap Settings"
+msgstr "إعدادات خريطة الموقع"
+
+#: languages/aioseo-lite.php:3959 languages/aioseo-pro.php:5559
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Page Analysis"
+msgstr "تحليل الصفحة"
+
+#: languages/aioseo-pro.php:4235 dist/Lite/assets/js/Overview.fb833568.js:1
+msgid "Internal Links"
+msgstr "الروابط الداخلية"
+
+#: languages/aioseo-pro.php:3386
+msgid "General SEO Settings:"
+msgstr "إعدادت ت.م.ب العامة:"
+
+#: languages/aioseo-lite.php:6094 languages/aioseo-pro.php:8739
+#: dist/Lite/assets/blocks.c8876ebe.js:1 dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/RobotsMeta.43a238ee.js:1
+#: dist/Lite/assets/js/WebmasterTools.5e7a9ca4.js:1
+msgid "Use Default Settings"
+msgstr "استخدام الإعدادات الافتراضية"
+
+#: app/Common/Admin/Admin.php:202 languages/aioseo-lite.php:4725
+#: languages/aioseo-pro.php:6748 dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/Main.37770832.js:1
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "SEO Analysis"
+msgstr "تحليل ت.م.ب:"
+
+#: app/Common/Admin/Admin.php:194 languages/aioseo-lite.php:4360
+#: languages/aioseo-pro.php:6174 dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Main.2b2a350c.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Redirects"
+msgstr "عمليات إعادة التوجيه"
+
+#: app/Common/Options/Options.php:549 languages/aioseo-lite.php:1581
+#: languages/aioseo-pro.php:2256 dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+msgid "default"
+msgstr "الافتراضي"
+
+#: languages/aioseo-pro.php:8905
+msgid "Video Sitemap Settings"
+msgstr "إعدادات خريطة موقع الفيديو"
+
+#: languages/aioseo-pro.php:6001 dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+msgid "Publication Name"
+msgstr "اسم النشر"
+
+#: languages/aioseo-pro.php:5036
+msgid "News Sitemap Settings"
+msgstr "إعدادات خريطة موقع جديدة"
+
+#: languages/aioseo-lite.php:4226 languages/aioseo-pro.php:5951
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Priority Score"
+msgstr "نقاط الأولوية"
+
+#: languages/aioseo-lite.php:2954 languages/aioseo-pro.php:4144
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+#: dist/Lite/assets/js/SearchAppearance.994a035c.js:1
+msgid "Include All Post Types"
+msgstr "تضمين كل أنواع المنشورات"
+
+#: languages/aioseo-lite.php:1208 languages/aioseo-pro.php:1763
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/ExcludePosts.5fd3cd3b.js:1
+msgid "Clear"
+msgstr "إزالة"
+
+#: app/Common/Views/sitemap/html/widget-options.php:149
+#: languages/aioseo-lite.php:2089 languages/aioseo-pro.php:3030
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Exclude Posts / Pages"
+msgstr "استبعاد المقالات أو الصفحات"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/SiteHealth.php:329 app/Common/Admin/SiteHealth.php:395
+msgid "Search Page"
+msgstr "صفحة البحث"
+
+#: app/Common/Admin/SiteHealth.php:328 app/Common/Admin/SiteHealth.php:394
+#: languages/aioseo-pro.php:2189
+msgid "Date Archives"
+msgstr "أرشيف التاريخ"
+
+#: app/Common/Admin/SiteHealth.php:327 app/Common/Admin/SiteHealth.php:393
+#: languages/aioseo-pro.php:1241
+msgid "Author Archives"
+msgstr "أرشيف الكاتب"
+
+#: app/Common/Admin/SiteHealth.php:323 app/Common/Admin/SiteHealth.php:389
+msgid "Paginated Content"
+msgstr "المحتوى المفهرس"
+
+#: app/Common/Utils/Tags.php:573
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: app/Common/Admin/SiteHealth.php:81
+msgid "Nofollowed content"
+msgstr "محتوى غير متبوع"
+
+#: app/Common/Admin/SiteHealth.php:73
+msgid "Noindexed content"
+msgstr "محتوى غير مفهرس"
+
+#: app/Common/Admin/SiteHealth.php:283
+msgid "Go to Plugins"
+msgstr "اذهب إلى الإضافات"
+
+#: app/Common/Admin/SiteHealth.php:242
+msgid "Your Person Name and Image are set"
+msgstr "تم تحديد اسمك وصورتك"
+
+#: app/Common/Admin/SiteHealth.php:207
+msgid "Your Organization Name and Logo are set"
+msgstr "تم تحديد اسم وشعار منظمتك."
+
+#: app/Common/Admin/SiteHealth.php:194
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "اسم و\\أو شعار منظمتك غير محددين"
+
+#: app/Common/Admin/SiteHealth.php:229
+msgid "Your Person Name and/or Image are blank"
+msgstr "اسمك و\\أو صورتك غير محددين  "
+
+#: app/Common/Admin/SiteHealth.php:164
+msgid "Your Site Title and Tagline are set"
+msgstr "تم تحديد عنوان موقعك ووسم الخط "
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "موقعك يظهر في نتائج البحث"
+
+#: app/Common/Admin/SiteHealth.php:295
+msgid "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+msgstr "رائع! عبر تحديثك إلى آخر نسخة، يمكنك الوصول إلى كل الميزات الجديدة، بالإضافة إلى تصليح الثغرات والتحسينات الأمنية."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:94
+msgid "The fields below contain important SEO information from %1$s that may effect your site."
+msgstr "الحقول التالية تحتوي على معلومات ت.م.ب مهمة من إضافة %1$s, قد تؤثر على موقعك."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:245
+msgid "Awesome! These are required for %1$s's Person schema markup."
+msgstr "رائع! هذه القيم مطلوبة من قبل %1$s علامات مخطط الشخص."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:167
+msgid "Great! These are required for %1$s's schema markup and are often used as fallback values for various other features."
+msgstr "رائع! هذه القيم مطلوبة من قبل %1$s علامات مخطط وغالبًا ما تستخدم كقيم احتياطية لمختلف الميزات الأخرى."
+
+#: app/Common/Admin/SiteHealth.php:129
+msgid "Your site is set to public. Search engines will index your website and it will appear in search results."
+msgstr "تم تعيين موقعك على العام. ستقوم محركات البحث بفهرسة موقع الويب الخاص بك وسيظهر في نتائج البحث."
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "انتقل إلى الإعدادات> قراءة"
+
+#: app/Common/Admin/SiteHealth.php:148
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "عنوان الموقع و/أو سطر الوصف فارغان"
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "موقعك لا يظهر في نتائج البحث"
+
+#: app/Common/Admin/SiteHealth.php:120
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "تم تعيين موقعك على الخاص. هذا يعني أن ووردبريس يطلب من محركات البحث استبعاد موقع الويب الخاص بك من نتائج البحث."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:280
+msgid "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+msgstr "هنالك تحديث متوافر للإضافة %1$s. عبر تحديثك إلى آخر نسخة ستحصل على أحدث الميزات، بالإضافة إلى تصليح الثغرات والتحسينات الأمنية.  "
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:232
+msgid "Your Person Name and/or Image are blank. These values are required for %1$s's Person schema markup."
+msgstr "اسم الشخص و/أو الصورة فارغان. هذه القيم مطلوبة من قبل %1$s مخطط علامات الشخص."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:151
+msgid "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+msgstr "عنوان موقعك و/أو سطر الوصف الخاص بك فارغان. نوصي بتعيين كلتا هذه القيم لأن إضافة %1$s تتطلب هذه الميزات المختلفة، بما في ذلك مخطط العلامات لدينا."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:210
+msgid "Awesome! These are required for %1$s's Organization schema markup."
+msgstr "رائع! هذه القيم مطلوبة من قبل %1$s مخطط علامات المنظمة."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:197
+msgid "Your Organization Name and/or Logo are blank. These values are required for %1$s's Organization schema markup."
+msgstr "اسم و/أو شعار منظمتك فارغان. هذه القيم مطلوبة من قبل %1$s مخطط علامات المنظمة."
+
+#: app/Common/Migration/GeneralSettings.php:471
+#: app/Common/Migration/SocialMeta.php:110 languages/aioseo-lite.php:3151
+#: languages/aioseo-pro.php:4415 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Learn More"
+msgstr "معرفة المزيد"
+
+#: languages/aioseo-lite.php:1228 languages/aioseo-pro.php:1783
+#: dist/Lite/assets/js/Monsterinsights.2c3f9f33.js:1
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Click here"
+msgstr "انقر هنا"
+
+#: app/Common/Utils/Tags.php:352
+msgid "The last name of the post author."
+msgstr "الاسم الأول لكاتب المقال."
+
+#: languages/aioseo-lite.php:4486 languages/aioseo-pro.php:6382
+#: dist/Lite/assets/js/RssContent.98b9db68.js:1
+msgid "RSS Content Settings"
+msgstr "اعدادات محتوى RSS"
+
+#: languages/aioseo-lite.php:3240 languages/aioseo-pro.php:4571
+#: dist/Lite/assets/js/FeatureManager.9d6ad19b.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Local Business SEO"
+msgstr "ت.م.ب العمل المحلي"
+
+#: app/Common/Admin/Admin.php:408 app/Common/Admin/Admin.php:651
+#: languages/aioseo-lite.php:3776 languages/aioseo-pro.php:5287
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "انتقل إلى الإعدادات> عام"
+
+#: app/Common/Admin/Admin.php:516
+msgid "LinkedIn Post Inspector"
+msgstr "فاحص منشورات LinkedIn"
+
+#: app/Common/Views/sitemap/xsl/default.php:102
+#: app/Common/Views/sitemap/xsl/default.php:190
+#: app/Common/Views/sitemap/xsl/default.php:268
+#: app/Common/Views/sitemap/xsl/templates/header.php:37
+#: languages/aioseo-pro.php:8682
+msgid "URL"
+msgstr "عنوان URL"
+
+#: languages/aioseo-lite.php:3557 languages/aioseo-pro.php:5031
+#: dist/Lite/assets/js/Main.e87be427.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+msgid "News Sitemap"
+msgstr "خريطة موقع الأخبار"
+
+#: languages/aioseo-lite.php:4490 languages/aioseo-pro.php:6386
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "RSS Sitemap"
+msgstr "خريطة موقع RSS"
+
+#: app/Common/Views/sitemap/html/widget-options.php:124
+#: languages/aioseo-lite.php:4259 languages/aioseo-pro.php:6008
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Publish Date"
+msgstr "تاريخ النشر"
+
+#: languages/aioseo-lite.php:329 languages/aioseo-pro.php:424
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Access our Premium Support"
+msgstr "الوصول الى الدعم المميز"
+
+#: app/Common/Admin/Notices/Review.php:96 languages/aioseo-lite.php:3765
+#: languages/aioseo-pro.php:5276 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Not Really..."
+msgstr "ليس حقاً..."
+
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Yes I love it"
+msgstr "نعم أحبه!"
+
+#: languages/aioseo-lite.php:3095 languages/aioseo-pro.php:4344
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/js/TitleDescription.2d9f1978.js:1
+msgid "Keywords"
+msgstr "الكلمات المفتاحية"
+
+#: languages/aioseo-lite.php:1687 languages/aioseo-pro.php:2423
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Description:"
+msgstr "الوصف:"
+
+#: languages/aioseo-lite.php:3756 languages/aioseo-pro.php:5267
+#: dist/Lite/assets/js/AboutUs.bc1b75cc.js:1
+#: dist/Lite/assets/js/SitemapsPro.37c79d04.js:1
+msgid "Not Installed"
+msgstr "غير مثبت "
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro" string.
+#: languages/aioseo-lite.php:2361 languages/aioseo-pro.php:3410
+#: dist/Lite/assets/js/GettingStarted.c9d70ceb.js:1
+msgid "Get %1$s %2$s and Unlock all the Powerful Features."
+msgstr "أحصل على %1$s %2$s وفتح جميع الميزات القوية."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:6655 languages/aioseo-pro.php:9505
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+#: dist/Lite/assets/js/LicenseKey.98ba186f.js:1
+msgid "You're using %1$s - no license needed. Enjoy!"
+msgstr "أنت تستخدم %s - لا حاجة للترخيص. استمتع! 🙂"
+
+#: app/Common/Admin/Admin.php:311
+msgid "(no title)"
+msgstr "(لا عنوان)"
+
+#: languages/aioseo-lite.php:4953 languages/aioseo-pro.php:7119
+msgid "Social meta for Categories, Tags and Custom Taxonomies"
+msgstr "التعريف الاجتماعي من أجل التصنيفات، الوسوم، والفئات المخصصة.. "
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The plugin name
+#. ("All in One SEO").
+#: languages/aioseo-lite.php:6379 languages/aioseo-pro.php:9103
+#: dist/Lite/assets/js/AboutUs.bc1b75cc.js:1
+msgid "Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build software that helps you rank your website in search results and gain organic traffic."
+msgstr "مرحبًا بك في %1$s، والتي هي إضافة لتحسين محركات البحث خاصة بووردبريس. في %2$s، نبني برنامجًا يساعدك في ترتيب موقعك على الويب في نتائج البحث واكتساب حركة مرور عضوية."
+
+#: app/Common/Admin/Admin.php:463
+msgid "Analyze this page"
+msgstr "تحليل هذه الصفحة"
+
+#: app/Common/Admin/Admin.php:501
+msgid "CSS Validator"
+msgstr "مدقق CSS"
+
+#: app/Common/Admin/Admin.php:496
+msgid "HTML Validator"
+msgstr "مدقق HTML"
+
+#: app/Common/Admin/Admin.php:309
+msgid "Update"
+msgstr "تحديث"
+
+#: app/Common/Admin/Admin.php:310 languages/aioseo-pro.php:559
+msgid "Add Link"
+msgstr "إضافة رابط"
+
+#: app/Common/Admin/Admin.php:313
+msgid "No results found."
+msgstr "لا توجد نتائج."
+
+#: app/Common/Admin/Admin.php:315
+msgid "Link has been inserted."
+msgstr "تم إدارج الرابط"
+
+#: app/Common/Admin/Admin.php:511
+msgid "Mobile-Friendly Test"
+msgstr "اختبار التوافق مع الجوّال"
+
+#: app/Common/Admin/Admin.php:506
+msgid "Google Page Speed Test"
+msgstr "اختبار Google لسرعة الصفحة"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:288
+msgid "Plugin installed & activated."
+msgstr "تم تنصيب الإضافة وتفعيلها."
+
+#: app/Common/Admin/Admin.php:879
+msgid "Give us a 5-star rating!"
+msgstr "أعطنا تقييم 5 نجوم!"
+
+#: app/Common/Admin/Admin.php:486
+msgid "Facebook Debugger"
+msgstr "مُنقّح فيسبوك"
+
+#: app/Common/Admin/Admin.php:476
+msgid "Check Google Cache"
+msgstr "التحقق من ذاكرة Google للتخزين المؤقت"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:521
+msgid "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+msgstr "تحذير: اكتشفت إضافة %1$s إضافات نشطة أخرى خاصة بـ ت.م.ب أو خرائط الموقع. نوصي بإلغاء تنشيط الإضافات التالية لمنع أي تعارضات:"
+
+#. Translators: 1 - "upgrading to Pro".
+#: languages/aioseo-lite.php:5741 languages/aioseo-pro.php:8256
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "To unlock more features, consider %1$s."
+msgstr "لفتح المزيد من الميزات، ضع في الاعتبار %1$s."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99 languages/aioseo-lite.php:2456
+#: languages/aioseo-pro.php:3504 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Give feedback"
+msgstr "تقديم الملاحظات"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:603
+#: languages/aioseo-lite.php:3533 languages/aioseo-pro.php:5006
+msgid "never"
+msgstr "أبدا"
+
+#: languages/aioseo-lite.php:6500 languages/aioseo-pro.php:9245
+msgid "yearly"
+msgstr "سنويًا"
+
+#: languages/aioseo-lite.php:2735 languages/aioseo-pro.php:3834
+msgid "hourly"
+msgstr "كل ساعة"
+
+#: languages/aioseo-lite.php:633 languages/aioseo-pro.php:879
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+msgid "always"
+msgstr "دائمًا"
+
+#: app/Common/Admin/Notices/Review.php:106
+#: app/Common/Admin/Notices/Review.php:161
+msgid "I already did"
+msgstr "لقد قمت بذلك"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:104
+#: app/Common/Admin/Notices/Review.php:159 languages/aioseo-lite.php:3800
+#: languages/aioseo-pro.php:5329 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Ok, you deserve it"
+msgstr "حسنا، أنت تستحق ذلك"
+
+#: app/Common/Admin/Admin.php:220 languages/aioseo-lite.php:315
+#: languages/aioseo-pro.php:409 dist/Lite/assets/js/Main.e87be427.js:1
+msgid "About Us"
+msgstr "حول"
+
+#: app/Common/Admin/Notices/Review.php:105
+#: app/Common/Admin/Notices/Review.php:160 languages/aioseo-lite.php:3734
+#: languages/aioseo-pro.php:5253 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Nope, maybe later"
+msgstr "كلا، ربما لاحقاً"
+
+#. Translators: 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84 languages/aioseo-lite.php:5964
+#: languages/aioseo-pro.php:8562 dist/Lite/assets/js/Index.97438b3f.js:1
+msgid "Upgrade to %1$s"
+msgstr "الترقية إلى %1$s"
+
+#: app/Common/Admin/Notices/Review.php:101
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr " من فضلك هل يمكنك أن تقدم لنا معروفاً كبيراً من خلال تقييمك لنا على WordPress.org لمساعدتنا في نشر الكلمة وتعزيز دافعنا؟"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:30 languages/aioseo-lite.php:5096
+#: languages/aioseo-pro.php:7314 dist/Lite/assets/flyout-menu.287a37e0.js:1
+msgid "Suggest a Feature"
+msgstr "اقترح ميزة"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:98 languages/aioseo-lite.php:6329
+#: languages/aioseo-pro.php:9036 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "نأسف لسماع أنك لا تستمتع بإضافة %1$s. نود فرصة للتحسين. هل يمكنك أن تأخذ دقيقة وتخبرنا بما يمكننا فعله بشكل أفضل؟"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:92 languages/aioseo-lite.php:751
+#: languages/aioseo-pro.php:1043 dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Are you enjoying %1$s?"
+msgstr "هل تستمتع %1$s؟"
+
+#: app/Common/Utils/Tags.php:312
+msgid "Your image's alt tag attribute."
+msgstr "النص البديل لسِمة علامة الصورة"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "فريق All in One SEO "
+
+#: languages/aioseo-lite.php:380 languages/aioseo-pro.php:504
+msgid "Ad free (no banner adverts)"
+msgstr "إعلان مجاني (بدون لافته صوريه) "
+
+#: languages/aioseo-lite.php:3915 languages/aioseo-pro.php:5467
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Organize sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs."
+msgstr ""
+"تنظيم إدخالات ملف (خريطة الموقع) (sitemap) وتوجيهها الى ملفات معينه  ضمن ملف خريطة الموقع (sitemap) الخاص بك. \n"
+" نوصي بتمكين هذا الإعداد إذا كان ملف خريطة الموقع (Sitemap) الخاص بك يحتوي على أكثر من 1000رابط"
+
+#: languages/aioseo-lite.php:4037 languages/aioseo-pro.php:5687
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: languages/aioseo-lite.php:1517 languages/aioseo-pro.php:2144
+#: dist/Lite/assets/js/Main.e87be427.js:1
+msgid "Customer Support"
+msgstr "دعم العملاء"
+
+#: languages/aioseo-lite.php:5162 languages/aioseo-pro.php:7395
+msgid "Technical Support"
+msgstr "الدعم الفني"
+
+#: languages/aioseo-lite.php:956 languages/aioseo-pro.php:1404
+msgid "Billing Support"
+msgstr "دعم الخاص بالفوترة"
+
+#: languages/aioseo-lite.php:3908 languages/aioseo-pro.php:5459
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+msgid "Organization Name"
+msgstr "اسم المنظمة"
+
+#: languages/aioseo-lite.php:4433 languages/aioseo-pro.php:6305
+msgid "Reservations"
+msgstr "الحجوزات"
+
+#: languages/aioseo-lite.php:4499 languages/aioseo-pro.php:6407
+msgid "Sales"
+msgstr "المبيعات"
+
+#: languages/aioseo-pro.php:6480
+msgid "Schema Settings"
+msgstr "إعدادات مخطط قاعدة البيانات"
+
+#: app/Common/Breadcrumbs/Tags.php:197
+msgid "The page number."
+msgstr "رقم الصفحة."
+
+#: languages/aioseo-lite.php:1726 languages/aioseo-pro.php:2492
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Dismiss"
+msgstr "تجاهل"
+
+#: languages/aioseo-lite.php:735 languages/aioseo-pro.php:1026
+msgid "Archive"
+msgstr "الأرشيف"
+
+#: app/Common/Utils/Tags.php:366 languages/aioseo-lite.php:1112
+#: languages/aioseo-pro.php:1625 dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+msgid "Category"
+msgstr "التصنيف"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "الصفحة"
+
+#: languages/aioseo-pro.php:4386
+msgid "Last name"
+msgstr "اسم العائلة"
+
+#: languages/aioseo-pro.php:3217
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: app/Common/Admin/Notices/Notices.php:425
+#: app/Common/Admin/Notices/Notices.php:474
+#: app/Common/Admin/Notices/Notices.php:550 app/Common/Api/Wizard.php:272
+#: app/Common/Api/Wizard.php:305
+#: app/Common/ImportExport/RankMath/TitleMeta.php:427
+#: app/Common/Migration/GeneralSettings.php:747
+#: app/Common/Migration/Helpers.php:169
+msgid "Remind Me Later"
+msgstr "ذكرني لاحقاً"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:640
+msgid "year"
+msgstr "سنة"
+
+#: app/Common/Admin/Notices/Review.php:100 languages/aioseo-lite.php:3699
+#: languages/aioseo-pro.php:5191 dist/Lite/assets/js/Index.af3a4741.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "No thanks"
+msgstr "لا شكرًا"
+
+#: app/Common/Breadcrumbs/Tags.php:181 languages/aioseo-pro.php:4857
+msgid "Month"
+msgstr "الشهر"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:6375 languages/aioseo-pro.php:9099
+#: dist/Lite/assets/js/GettingStarted.12a939e7.js:1
+msgid "Welcome to %1$s"
+msgstr "مرحبا بك في %1$s"
+
+#: app/Common/Admin/Dashboard.php:154
+msgid "Temporarily unable to load feed."
+msgstr "غير قادر مؤقتا على تحميل التغذية."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:418
+msgid "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "تحذير: اكتشفت إضافة %1$s أنك تمنع الوصول إلى محركات البحث. يمكنك تغيير هذا في الإعدادات > القراءة، إذا كان هذا غير مقصود."
+
+#. Translators: 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:80
+msgid "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+msgstr "لقد اكتشفنا أنك تستخدم %1$s. قم بالترقية إلى %2$s لإلغاء تأمين ميزات ت.م.ب للتجارة الإلكترونية المتقدمة، بما في ذلك ت.م.ب لتصنيفات المنتجات والمزيد."
+
+#: app/Common/Tools/SystemStatus.php:305 languages/aioseo-lite.php:365
+#: languages/aioseo-pro.php:489 dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Active Plugins"
+msgstr "الإضافات النشطة"
+
+#: app/Common/Tools/SystemStatus.php:337 languages/aioseo-lite.php:2930
+#: languages/aioseo-pro.php:4101 dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Inactive Plugins"
+msgstr "الإضافات غير النشطة"
+
+#: app/Common/Views/sitemap/html/widget-options.php:163
+#: languages/aioseo-lite.php:2095 languages/aioseo-pro.php:3038
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+msgid "Exclude Terms"
+msgstr "استبعاد عناصر الفئات"
+
+#. Translators: 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:116
+msgid "%1$s Debug Info"
+msgstr "معلومات تنقيح %1$s"
+
+#: languages/aioseo-lite.php:852 languages/aioseo-pro.php:1253
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Author Pages"
+msgstr "صفحات الكُتّاب"
+
+#: app/Common/Utils/Tags.php:513 app/Common/Utils/Tags.php:525
+msgid "Your site title."
+msgstr "عنوان موقعك."
+
+#: languages/aioseo-pro.php:2844
+msgid "Enable this option to look for videos in custom fields as well."
+msgstr "تمكين هذا الخيار للبحث عن مقاطع الفيديو في الحقول المخصصة أيضا."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "خرائط الموقع"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "فهرس خريطة الموقع هذا يحتوي على "
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+#: languages/aioseo-lite.php:6061 languages/aioseo-pro.php:8690
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "URLs"
+msgstr "عناوين URL"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "خريطة الموقع هذه تحتوي على"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "تم توليده بواسطة"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "هذه هي خريطة موقع XML، والتي تهدف إلى استهلاكها بواسطة محركات البحث مثل Google أو Bing."
+
+#: languages/aioseo-lite.php:963 languages/aioseo-pro.php:1411
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Bing Webmaster Tools"
+msgstr "أدوات مشرفي المواقع الخاصة بـ  Bing"
+
+#: languages/aioseo-lite.php:2567 languages/aioseo-pro.php:3622
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Google Search Console"
+msgstr "Google Search Console لمشرفي المواقع"
+
+#: languages/aioseo-lite.php:1721 languages/aioseo-pro.php:2484
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Disallow"
+msgstr "رفض"
+
+#: languages/aioseo-lite.php:4493 languages/aioseo-pro.php:6389
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Rule"
+msgstr "قواعد"
+
+#: languages/aioseo-lite.php:598 languages/aioseo-pro.php:835
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Allow"
+msgstr "السماح"
+
+#: languages/aioseo-lite.php:2075 languages/aioseo-pro.php:3010
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Exclude Images from your sitemap."
+msgstr "استبعاد الصور في ملف sitemap الخاص بك."
+
+#: languages/aioseo-lite.php:2072 languages/aioseo-pro.php:3007
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Exclude Images"
+msgstr "استبعاد الصور"
+
+#: languages/aioseo-lite.php:5811 languages/aioseo-pro.php:8338
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Facebook and Twitter"
+msgstr "تتبع فيسبوك وتويتر"
+
+#: languages/aioseo-lite.php:1981 languages/aioseo-pro.php:2888
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Ensure URL Consistency"
+msgstr "تأكد من اتساق عنوان URL"
+
+#: languages/aioseo-lite.php:5808 languages/aioseo-pro.php:8335
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Events"
+msgstr "تتبع الأحداث"
+
+#: languages/aioseo-lite.php:5826 languages/aioseo-pro.php:8353
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Page Scrolling"
+msgstr "تتبع تمرير الصفحة"
+
+#: languages/aioseo-lite.php:5814 languages/aioseo-pro.php:8341
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Media Queries"
+msgstr "تتبع استعلامات الوسائط"
+
+#: languages/aioseo-lite.php:5832 languages/aioseo-pro.php:8359
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track URL Changes"
+msgstr "تتبع تغييرات الروابط"
+
+#: languages/aioseo-lite.php:5820 languages/aioseo-pro.php:8347
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Outbound Forms"
+msgstr "تتبع النماذج الخارجية:"
+
+#: languages/aioseo-lite.php:5805 languages/aioseo-pro.php:8332
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Elements Visibility"
+msgstr "تتبع الظهور للعناصر"
+
+#: languages/aioseo-lite.php:5829 languages/aioseo-pro.php:8356
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Page Visibility"
+msgstr "تتبع الظهور للصفحات"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "الظهور لمحركات البحث"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "لغة الموقع"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:512
+#: app/Common/Utils/Tags.php:524 languages/aioseo-lite.php:4901
+#: languages/aioseo-pro.php:7059
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Site Title"
+msgstr "عنوان الموقع"
+
+#: languages/aioseo-lite.php:4738 languages/aioseo-pro.php:6761
+#: dist/Lite/assets/js/FeatureManager.9d6ad19b.js:1
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "SEO لـ التصنيفات، الوسوم والفئات المخصصة"
+
+#: languages/aioseo-lite.php:513 languages/aioseo-pro.php:713
+msgid "Advanced support for e-commerce"
+msgstr "دعم متقدم للمتاجر الإلكترونية"
+
+#: app/Common/Migration/SocialMeta.php:75 languages/aioseo-lite.php:6080
+#: languages/aioseo-pro.php:8718 dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "استخدام المحتوى لتوليد الوصف التلقائي"
+
+#: languages/aioseo-lite.php:1232 languages/aioseo-pro.php:1789
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Click here to get"
+msgstr "انقر هنا للحصول عليها"
+
+#: languages/aioseo-lite.php:2400 languages/aioseo-pro.php:3452
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Get Started"
+msgstr "الشروع في ..."
+
+#: languages/aioseo-lite.php:5952 languages/aioseo-pro.php:8550
+#: dist/Lite/assets/js/Index.af3a4741.js:1
+msgid "Upgrade"
+msgstr "الترقية"
+
+#: languages/aioseo-lite.php:1820 languages/aioseo-pro.php:2625
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Dynamically creates the XML Sitemap instead of using a static file."
+msgstr "توليد خريطة موقع XML بشكل آلي بدلا من استخدام ملف ثابت."
+
+#: languages/aioseo-lite.php:679 languages/aioseo-pro.php:944
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.b2c19fa7.js:1
+#: dist/Lite/assets/js/HeadlineAnalyzer.fa4bc980.js:1
+#: dist/Lite/assets/js/Score.8de07f5e.js:1
+msgid "Analyze"
+msgstr "تحليل"
+
+#. Description of the plugin
+msgid "SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, ecommerce sites, and much more. More than 80 million downloads since 2007."
+msgstr ""
+"تحسين محركات بالبحث من أجل ووردبريس. تمنحك مميزات كخرائط الموقع بصيغة XML, تحسين محركات البحث لـ أنواع المنشورات المخصصة، ت.م.ب للمدونات أو مواقع المال والأعمال، ت.م.ب لمحركات البحث للمتاجر الإلكترونية والعديد من المميزات الأخرى.\n"
+"أكثر من 30 مليون تنزيل منذ سنة 2007."
+
+#: languages/aioseo-lite.php:966 languages/aioseo-pro.php:1414
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "Block Bad Bots using HTTP"
+msgstr "حظر العناكب المزعجة (spam) عبر HTTP"
+
+#: languages/aioseo-lite.php:969 languages/aioseo-pro.php:1417
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "Block Referral Spam using HTTP"
+msgstr "حظر العناكب المزعجة (spam) عبر HTTP"
+
+#: languages/aioseo-lite.php:6083 languages/aioseo-pro.php:8721
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "Use Custom Blocklists"
+msgstr "إستخدام لائحة الحظر المخصصة"
+
+#: languages/aioseo-lite.php:2836 languages/aioseo-pro.php:3989
+#: dist/Lite/assets/js/Main.e87be427.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Image SEO"
+msgstr "ت.م.ب الصور"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:71
+#: app/Lite/Main/Filters.php:63 languages/aioseo-lite.php:5987
+#: languages/aioseo-pro.php:8584 dist/Lite/assets/js/Index.af3a4741.js:1
+#: dist/Lite/assets/js/SitemapsPro.37c79d04.js:1
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى النسخة الإحترافية"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "مستندات المساعدة"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:571 app/Lite/Main/Filters.php:48
+#: languages/aioseo-lite.php:4750 languages/aioseo-pro.php:6773
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "SEO Settings"
+msgstr "إعدادات ت.م.ب"
+
+#: languages/aioseo-lite.php:3173 languages/aioseo-pro.php:4465
+#: dist/Lite/assets/js/GeneralSettings.7dae73f9.js:1
+msgid "License Key"
+msgstr "مفتاح الترخيص"
+
+#: languages/aioseo-lite.php:2124 languages/aioseo-pro.php:3120
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Facebook App ID"
+msgstr "معرض تطبيق الفيسبوك"
+
+#: languages/aioseo-lite.php:2121 languages/aioseo-pro.php:3117
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Facebook Admin ID"
+msgstr "معرّف مدير حساب الفيسبوك"
+
+#: languages/aioseo-lite.php:3964 languages/aioseo-pro.php:5564
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+msgid "Page URL"
+msgstr "رابط الصفحة"
+
+#: languages/aioseo-lite.php:3126 languages/aioseo-pro.php:4383
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+msgid "Last Modified"
+msgstr "آخر تعديل"
+
+#: app/Common/Sitemap/Xsl.php:35 languages/aioseo-lite.php:451
+#: languages/aioseo-pro.php:625
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+msgid "Additional Pages"
+msgstr "صفحات اضافية"
+
+#: languages/aioseo-lite.php:434 languages/aioseo-pro.php:601
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+msgid "Add URL"
+msgstr "إضافة رابط"
+
+#: languages/aioseo-lite.php:1951 languages/aioseo-pro.php:2832
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Enable Sitemap Indexes"
+msgstr "تفعيل فهرسة خريطة الموقع"
+
+#: languages/aioseo-lite.php:2315 languages/aioseo-pro.php:3347
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Frequency"
+msgstr "التواتر"
+
+#: app/Common/Views/sitemap/xsl/default.php:306 languages/aioseo-lite.php:4222
+#: languages/aioseo-pro.php:5943
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+msgid "Priority"
+msgstr "الأولوية"
+
+#: languages/aioseo-lite.php:3438 languages/aioseo-pro.php:4860
+msgid "monthly"
+msgstr "شهريًا"
+
+#: languages/aioseo-lite.php:6368 languages/aioseo-pro.php:9092
+msgid "weekly"
+msgstr "أسبوعياً"
+
+#: languages/aioseo-lite.php:1520 languages/aioseo-pro.php:2147
+msgid "daily"
+msgstr "يوميًا"
+
+#: app/Common/Views/sitemap/xsl/default.php:293
+msgid "Change Frequency"
+msgstr "تغير التردد"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "dynamically"
+msgstr "ديناميكيًا"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+#: languages/aioseo-lite.php:5150 languages/aioseo-pro.php:7380
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Taxonomies"
+msgstr "الفئات"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+#: languages/aioseo-lite.php:4165 languages/aioseo-pro.php:5855
+#: dist/Lite/assets/blocks.c8876ebe.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Post Types"
+msgstr "أنواع المحتوى"
+
+#: languages/aioseo-lite.php:510 languages/aioseo-pro.php:710
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+#: dist/Lite/assets/js/Advanced.a4746696.js:1
+#: dist/Lite/assets/js/DisplayInfo.32757ad2.js:1
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+msgid "Advanced Settings"
+msgstr "الاعدادات المتقدمة"
+
+#: languages/aioseo-pro.php:3356 dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Front Page"
+msgstr "الصفحة الرئيسية"
+
+#: app/Common/Tools/SystemStatus.php:49 languages/aioseo-lite.php:6187
+#: languages/aioseo-pro.php:8875 dist/Lite/assets/js/SitemapsPro.37c79d04.js:1
+msgid "Version"
+msgstr "النسخة"
+
+#: languages/aioseo-lite.php:4466 languages/aioseo-pro.php:6361
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Robots.txt"
+msgstr "ملف Robots.txt"
+
+#: languages/aioseo-lite.php:1853 languages/aioseo-pro.php:2667
+#: dist/Lite/assets/js/HtaccessEditor.0a4add5e.js:1
+msgid "Edit .htaccess"
+msgstr "تعديل .htaccess"
+
+#: languages/aioseo-lite.php:1850 languages/aioseo-pro.php:2664
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:3
+#: dist/Lite/assets/link-format/link-format-block.js:2
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Edit"
+msgstr "تعديل"
+
+#: languages/aioseo-lite.php:4512 languages/aioseo-pro.php:6427
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Save"
+msgstr "حفظ"
+
+#: languages/aioseo-lite.php:1095 languages/aioseo-pro.php:1588
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/Index.f3f4a75e.js:1
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226 languages/aioseo-lite.php:3564
+#: languages/aioseo-pro.php:5046
+msgid "No"
+msgstr "لا"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "رابط الموقع"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "رابط الصفحة الرئيسية"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "مواقع متعددة"
+
+#: app/Common/Tools/SystemStatus.php:243 languages/aioseo-lite.php:368
+#: languages/aioseo-pro.php:492 dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Active Theme"
+msgstr "القالب المفعل"
+
+#: languages/aioseo-lite.php:5063 languages/aioseo-pro.php:7284
+#: dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Submit"
+msgstr "إرسال"
+
+#: languages/aioseo-lite.php:6161 languages/aioseo-pro.php:8841
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "User Agent"
+msgstr "وكيل المستخدم"
+
+#: languages/aioseo-lite.php:1712 languages/aioseo-pro.php:2465
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Directory Path"
+msgstr "مسار المجلد"
+
+#: languages/aioseo-lite.php:431 languages/aioseo-pro.php:588
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Add Rule"
+msgstr "إضافة تعليمات"
+
+#: languages/aioseo-lite.php:608 languages/aioseo-pro.php:849
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "يسمح لك بتحديد الحد الأقصى لعدد المواضيع في خريطة الموقع ( اكثر من 50.000 )."
+
+#: languages/aioseo-lite.php:4676 languages/aioseo-pro.php:6688
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/NewsSitemap.b60d5efa.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Select which Post Types appear in your sitemap."
+msgstr "حدد نوع المواضيع التي تظهر في خريطة موقعك."
+
+#: languages/aioseo-lite.php:2971 languages/aioseo-pro.php:4168
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Include Date Archives in your sitemap."
+msgstr "تضمين تاريخ الارشيف في خريطة موقعك"
+
+#: languages/aioseo-lite.php:6243 languages/aioseo-pro.php:8940
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "View the Changelog"
+msgstr "عرض التغيير"
+
+#: languages/aioseo-lite.php:6271 languages/aioseo-pro.php:8972
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Watch video tutorials"
+msgstr "مشاهدة دروس الفيديو"
+
+#: languages/aioseo-lite.php:2447 languages/aioseo-pro.php:3495
+#: dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Getting started? Read the Beginners Guide"
+msgstr "كيف تبدء؟ إقرأ دليل المبتدئين"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "إضافة All in One SEO"
+
+#: app/Common/Admin/Admin.php:212 languages/aioseo-lite.php:2168
+#: languages/aioseo-pro.php:3171 dist/Lite/assets/js/Main.b9ad24be.js:1
+msgid "Feature Manager"
+msgstr "إدارة الميزات"
+
+#: languages/aioseo-lite.php:4013 languages/aioseo-pro.php:5652
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.02dbc84f.js:4
+msgid "Performance"
+msgstr "الفعالية"
+
+#: languages/aioseo-lite.php:5872 languages/aioseo-pro.php:8410
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Twitter"
+msgstr "تويتر"
+
+#: languages/aioseo-lite.php:2118 languages/aioseo-pro.php:3114
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: languages/aioseo-lite.php:2863 languages/aioseo-pro.php:4021
+#: dist/Lite/assets/js/AdditionalPages.3dd9f79a.js:2
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "Import"
+msgstr "استيراد"
+
+#: languages/aioseo-lite.php:2107 languages/aioseo-pro.php:3086
+#: dist/Lite/assets/js/ImportExport.8bb9ceb0.js:1
+msgid "Export Settings"
+msgstr "إعدادات التصدير"
+
+#: languages/aioseo-lite.php:5010 languages/aioseo-pro.php:7197
+msgid "Sport"
+msgstr "رياضة"
+
+#: languages/aioseo-lite.php:374 languages/aioseo-pro.php:498
+msgid "Activity"
+msgstr "نشاط"
+
+#: languages/aioseo-lite.php:1301 languages/aioseo-pro.php:1868
+msgid "Company"
+msgstr "شركة"
+
+#: languages/aioseo-lite.php:1089 languages/aioseo-pro.php:1578
+msgid "Cafe"
+msgstr "مقهى"
+
+#: languages/aioseo-lite.php:1121 languages/aioseo-pro.php:1634
+msgid "Cause"
+msgstr "جمعيات"
+
+#: languages/aioseo-lite.php:5016 languages/aioseo-pro.php:7209
+msgid "Sports League"
+msgstr "دوري الرياضات"
+
+#: languages/aioseo-lite.php:916 languages/aioseo-pro.php:1339
+msgid "Band"
+msgstr "فرقة"
+
+#: languages/aioseo-lite.php:4554 languages/aioseo-pro.php:6495
+msgid "School"
+msgstr "مدرسة"
+
+#: languages/aioseo-lite.php:5926 languages/aioseo-pro.php:8495
+msgid "University"
+msgstr "جامعة"
+
+#: languages/aioseo-lite.php:377 languages/aioseo-pro.php:501
+msgid "Actor"
+msgstr "ممثل"
+
+#: languages/aioseo-lite.php:827 languages/aioseo-pro.php:1202
+msgid "Athlete"
+msgstr "رياضي"
+
+#: languages/aioseo-lite.php:846 languages/aioseo-pro.php:1238
+#: dist/Lite/assets/js/WebmasterTools.5e7a9ca4.js:1
+msgid "Author"
+msgstr "كاتب"
+
+#: languages/aioseo-lite.php:1697 languages/aioseo-pro.php:2450
+msgid "Director"
+msgstr "مدير"
+
+#: languages/aioseo-lite.php:4117 languages/aioseo-pro.php:5786
+msgid "Politician"
+msgstr "سياسي"
+
+#: languages/aioseo-lite.php:4245 languages/aioseo-pro.php:5977
+msgid "Profile"
+msgstr "الصفحة الشخصية"
+
+#: languages/aioseo-lite.php:5019 languages/aioseo-pro.php:7212
+msgid "Sports Team"
+msgstr "فريق رياضي"
+
+#: languages/aioseo-lite.php:4252 languages/aioseo-pro.php:5989
+msgid "Public Figure"
+msgstr "شخصية مشهورة"
+
+#: languages/aioseo-lite.php:1201 languages/aioseo-pro.php:1750
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "City"
+msgstr "مدينة"
+
+#: languages/aioseo-lite.php:1436 languages/aioseo-pro.php:2031
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Country"
+msgstr "دولة"
+
+#: languages/aioseo-lite.php:3117 languages/aioseo-pro.php:4368
+msgid "Landmark"
+msgstr "نقطة الإستدلال"
+
+#: languages/aioseo-lite.php:540 languages/aioseo-pro.php:757
+msgid "Album"
+msgstr "الألبوم"
+
+#: languages/aioseo-lite.php:990 languages/aioseo-pro.php:1444
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Book"
+msgstr "كتاب"
+
+#: languages/aioseo-lite.php:1805 languages/aioseo-pro.php:2601
+msgid "Drink"
+msgstr "مشروب"
+
+#: languages/aioseo-lite.php:2272 languages/aioseo-pro.php:3288
+msgid "Food"
+msgstr "طعام"
+
+#: languages/aioseo-lite.php:2332 languages/aioseo-pro.php:3376
+msgid "Game"
+msgstr "لعبة"
+
+#: languages/aioseo-lite.php:3458 languages/aioseo-pro.php:4899
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Movie"
+msgstr "فيلم"
+
+#: app/Common/Main/Updates.php:1081 languages/aioseo-lite.php:4233
+#: languages/aioseo-pro.php:5959 dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Product"
+msgstr "منتوج"
+
+#: languages/aioseo-lite.php:4992 languages/aioseo-pro.php:7174
+msgid "Song"
+msgstr "أغنية"
+
+#: languages/aioseo-lite.php:5867 languages/aioseo-pro.php:8405
+msgid "TV Show"
+msgstr "برنامج تلفزيوني"
+
+#: languages/aioseo-lite.php:2052 languages/aioseo-pro.php:2982
+msgid "Episode"
+msgstr "حلقة"
+
+#: app/Common/Main/Updates.php:1039 languages/aioseo-lite.php:790
+#: languages/aioseo-pro.php:1159 dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Schema.2f221e53.js:1
+msgid "Article"
+msgstr "مقال"
+
+#: languages/aioseo-lite.php:979 languages/aioseo-pro.php:1427
+#: dist/Lite/assets/js/Breadcrumbs.b072e079.js:1
+#: dist/Lite/assets/js/Category.b41f392b.js:1
+msgid "Blog"
+msgstr "مدونة"
+
+#: languages/aioseo-lite.php:6350 languages/aioseo-pro.php:9070
+msgid "Website"
+msgstr "موقع"
+
+#: languages/aioseo-lite.php:2822 languages/aioseo-pro.php:3972
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Locations.e1ec8078.js:1
+#: dist/Lite/assets/post-settings.fd82513a.js:1
+msgid "Image"
+msgstr "صورة"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226 languages/aioseo-lite.php:6507
+#: languages/aioseo-pro.php:9252
+msgid "Yes"
+msgstr "نعم"
+
+#: languages/aioseo-lite.php:4898 languages/aioseo-pro.php:7056
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Site Name"
+msgstr "اسم الموقع"
+
+#: languages/aioseo-lite.php:1494 languages/aioseo-pro.php:2110
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "Custom Image"
+msgstr "صورة مخصصة"
+
+#: languages/aioseo-lite.php:4131 languages/aioseo-pro.php:5800
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "Post Author Image"
+msgstr "وضع صورة الكاتب"
+
+#: languages/aioseo-lite.php:2198 languages/aioseo-pro.php:3211
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "First Available Image"
+msgstr "الصورة الاولى المتاحة"
+
+#: languages/aioseo-lite.php:5878 languages/aioseo-pro.php:8416
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Twitter Card Type"
+msgstr "نوع بطاقة تويتر"
+
+#: languages/aioseo-lite.php:4886 languages/aioseo-pro.php:7016
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Show Twitter Author"
+msgstr "إظهار تويتر الكاتب"
+
+#: languages/aioseo-lite.php:878 languages/aioseo-pro.php:1298
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Automatically Generate Article Tags"
+msgstr "توليد تلقائيا علامات المقال"
+
+#: languages/aioseo-lite.php:793 languages/aioseo-pro.php:1162
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Article Section"
+msgstr "قسم المقال"
+
+#: languages/aioseo-lite.php:796 languages/aioseo-pro.php:1165
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Article Tags"
+msgstr "علامات المقال"
+
+#: languages/aioseo-lite.php:4021 languages/aioseo-pro.php:5670
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Person"
+msgstr "شخص"
+
+#: languages/aioseo-lite.php:3905 languages/aioseo-pro.php:5456
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Organization"
+msgstr "منظمة"
+
+#: languages/aioseo-pro.php:7141
+msgid "Social Settings"
+msgstr "الاعدادات الاجتماعية"
+
+#: languages/aioseo-pro.php:6449
+msgid "Scan Now"
+msgstr "فحص الان"
+
+#: languages/aioseo-lite.php:3786 languages/aioseo-pro.php:5307
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+msgid "Object Type"
+msgstr "نوع العنصر"
+
+#: languages/aioseo-lite.php:5123 languages/aioseo-pro.php:7349
+msgid "System Status"
+msgstr "حالة النظام"
+
+#: languages/aioseo-lite.php:3806 languages/aioseo-pro.php:5335
+msgid "On"
+msgstr "تشغيل"
+
+#: languages/aioseo-lite.php:3796 languages/aioseo-pro.php:5316
+msgid "Off"
+msgstr "إيقاف التشغيل"
+
+#: app/Common/Tools/SystemStatus.php:177 languages/aioseo-pro.php:5443
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
+#: languages/aioseo-lite.php:4771 languages/aioseo-pro.php:6795
+msgid "Server"
+msgstr "الخادم"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "حد ذاكرة PHP"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "PHP الحجم الاقصى للتحميل"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "PHP الحجم الاقصى للمشاركة"
+
+#: languages/aioseo-lite.php:5946 languages/aioseo-pro.php:8530
+#: dist/Lite/assets/js/Main.6d2f8b59.js:1
+msgid "Update Options"
+msgstr " تحديث الإعدادات"
+
+#: languages/aioseo-lite.php:2732 languages/aioseo-pro.php:3828
+msgid "Hotel"
+msgstr "فندق"
+
+#: languages/aioseo-lite.php:4450 languages/aioseo-pro.php:6327
+msgid "Restaurant"
+msgstr "مطعم"
+
+#: languages/aioseo-lite.php:3479 languages/aioseo-pro.php:4934
+msgid "Musician"
+msgstr "موسيقار"
+
+#: languages/aioseo-lite.php:4105 languages/aioseo-pro.php:5770
+#: dist/Lite/assets/posts-table.f732b8c7.js:1
+msgid "Please wait..."
+msgstr "يرجى الانتظار..."
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "إصدار PHP"
+
+#: languages/aioseo-lite.php:2171 languages/aioseo-pro.php:3177
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "Featured Image"
+msgstr "الصورة البارزة"
+
+#: languages/aioseo-lite.php:6490 dist/Lite/assets/js/Main.e87be427.js:1
+msgid "XML Sitemap"
+msgstr "خريطة الموقع XML"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "لم يتم التعيين"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53 languages/aioseo-lite.php:5117
+#: languages/aioseo-pro.php:7343 dist/Lite/assets/js/Main.a90eac21.js:1
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: languages/aioseo-lite.php:919 languages/aioseo-pro.php:1342
+msgid "Bar"
+msgstr "شريط"
+
+#: languages/aioseo-lite.php:4025 languages/aioseo-pro.php:5674
+#: dist/Lite/assets/js/AdditionalInformation.c00edb88.js:1
+#: dist/Lite/assets/js/GlobalSettings.fd73deaa.js:1
+msgid "Person or Organization"
+msgstr "شخص أم منظمة"
+
+#: languages/aioseo-lite.php:5890 languages/aioseo-pro.php:8428
+#: dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Twitter Title"
+msgstr "عنوان التويتر"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "تشغيل الأكواد المختصرة في العنوان"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "تشغيل الأكواد القصيرة في الوصف"
+
+#: app/Common/Admin/Admin.php:400 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "ت.م.ب"
+
+#: app/Common/Admin/Admin.php:553
+msgid "Edit SEO"
+msgstr "تعديل ت.م.ب"
+
+#: languages/aioseo-lite.php:2526 languages/aioseo-pro.php:3574
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Google Analytics"
+msgstr "إحصاءات Google"
+
+#: languages/aioseo-pro.php:4740
+msgid "Map Settings"
+msgstr "إعدادات الخريطة"
+
+#: languages/aioseo-lite.php:4470 languages/aioseo-pro.php:6365
+#: dist/Lite/assets/js/RobotsEditor.15eb8555.js:2
+msgid "Robots.txt Editor"
+msgstr "محرر Robots.txt"
+
+#: languages/aioseo-lite.php:2266 languages/aioseo-pro.php:3282
+#: dist/Lite/assets/js/Success.519c2c4d.js:1
+msgid "Follow on Twitter"
+msgstr "تابعنا على تويتر"
+
+#: languages/aioseo-lite.php:4440 languages/aioseo-pro.php:6315
+#: dist/Lite/assets/js/DatabaseTools.ae7671ad.js:1
+msgid "Reset Selected Settings to Default"
+msgstr "إعادة تعيين الإعدادات المحددة إلى الافتراضي"
+
+#: languages/aioseo-lite.php:7 languages/aioseo-pro.php:7
+#: dist/Lite/assets/js/HtaccessEditor.0a4add5e.js:1
+msgid ".htaccess Editor"
+msgstr "محرر .htaccess"
+
+#: languages/aioseo-lite.php:2828 languages/aioseo-pro.php:3981
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "Image from Custom Field"
+msgstr "صورة من حقل مخصص"
+
+#: languages/aioseo-lite.php:2201 languages/aioseo-pro.php:3214
+#: dist/Lite/assets/js/Image.d7ae93cb.js:1
+msgid "First Image in Content"
+msgstr "الصورة الأولى في المحتوى"
+
+#: app/Common/Utils/Tags.php:530
+msgid "Site Description"
+msgstr "وصف الموقع"
+
+#: languages/aioseo-lite.php:5100 languages/aioseo-pro.php:7322
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Summary"
+msgstr "الملخص"
+
+#: languages/aioseo-lite.php:1897 languages/aioseo-pro.php:2735
+#: dist/Lite/assets/js/SystemStatus.63f5e670.js:1
+msgid "Email Debug Information"
+msgstr "معلومات تنقيح (اكتشاف الأخطاء وتصحيحها) البريد الإلكتروني"
+
+#: app/Common/Tools/SystemStatus.php:225
+msgid "PHP XML Support"
+msgstr "يدعم PHP XML "
+
+#: app/Common/Tools/SystemStatus.php:221
+msgid "PHP IPTC Support"
+msgstr "يدعم PHP IPTC "
+
+#: languages/aioseo-lite.php:2967 languages/aioseo-pro.php:4158
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Include Author Archives in your sitemap."
+msgstr "تضمين كاتب الارشيف في خريطة موقعك."
+
+#: languages/aioseo-lite.php:4685 languages/aioseo-pro.php:6700
+#: dist/Lite/assets/js/GeneralSitemap.7e08764e.js:1
+#: dist/Lite/assets/js/HtmlSitemap.2e4bd617.js:1
+#: dist/Lite/assets/js/RssSitemap.754bf964.js:1
+msgid "Select which Taxonomies appear in your sitemap."
+msgstr "حدد نوع الفئات التي تظهر في خريطة موقعك. "
+
+#: languages/aioseo-lite.php:3721 languages/aioseo-pro.php:5236
+msgid "Non-Profit"
+msgstr "غير ربحية"
+
+#: app/Common/Tools/SystemStatus.php:78 languages/aioseo-lite.php:1584
+#: languages/aioseo-pro.php:2259 dist/Lite/assets/js/App.75c2c871.js:1
+msgid "Default"
+msgstr "الإفتراضي"
+
+#: app/Common/Tools/SystemStatus.php:185
+msgid "Memory Usage"
+msgstr "استخدام الذاكرة"
+
+#: languages/aioseo-lite.php:5029 languages/aioseo-pro.php:7226
+msgid "State/Province"
+msgstr "ولاية\\منطقة"
+
+#: languages/aioseo-lite.php:6208 languages/aioseo-pro.php:8902
+#: dist/Lite/assets/js/Main.e87be427.js:1
+#: dist/Lite/assets/js/VideoSitemap.4b8d8df2.js:1
+msgid "Video Sitemap"
+msgstr "خريطة موقع الفيديوهات"
+
+#: app/Common/Tools/SystemStatus.php:186 languages/aioseo-lite.php:3486
+#: languages/aioseo-pro.php:4941 dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "N/A"
+msgstr "لا ينطبق"
+
+#: app/Common/Tools/SystemStatus.php:217
+msgid "PHP Exif Support"
+msgstr "دعم PHP Exif"
+
+#: app/Common/Tools/SystemStatus.php:213
+msgid "PHP Max Script Execution Time"
+msgstr "PHP الوقت الاقصى لتنفيذ النص البرمجي"
+
+#: app/Common/Tools/SystemStatus.php:189
+msgid "MySQL Version"
+msgstr "إصدار MySQL"
+
+#: languages/aioseo-lite.php:2718 languages/aioseo-pro.php:3814
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Home Page Settings"
+msgstr "إعدادات الصفحة الرئيسية"
+
+#: languages/aioseo-lite.php:1757 languages/aioseo-pro.php:2538
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+#: app/Common/Admin/Admin.php:312 app/Common/Models/Post.php:471
+#: app/Common/Views/sitemap/html/widget-options.php:13
+#: languages/aioseo-lite.php:5678 languages/aioseo-pro.php:8166
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+msgid "Title"
+msgstr "العنوان"
+
+#: app/Common/Utils/Tags.php:563 languages/aioseo-lite.php:1679
+#: languages/aioseo-pro.php:2415 dist/Lite/assets/js/Facebook.c94007fd.js:1
+#: dist/Lite/assets/js/Media.7fccba67.js:1
+#: dist/Lite/assets/js/Twitter.2ee48100.js:1
+msgid "Description"
+msgstr "الوصف"
+
+#: languages/aioseo-lite.php:1682 languages/aioseo-pro.php:2418
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Description Format"
+msgstr " تنسيق الوصف"
+
+#: languages/aioseo-lite.php:1969 languages/aioseo-pro.php:2860
+msgid "Enabled"
+msgstr "تمكين"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153 languages/aioseo-lite.php:1715
+#: languages/aioseo-pro.php:2478
+msgid "Disabled"
+msgstr "معطل"
+
+#: languages/aioseo-lite.php:1099 languages/aioseo-pro.php:1601
+#: dist/Lite/assets/js/App.75c2c871.js:1
+#: dist/Lite/assets/publish-panel.2b94eefc.js:1
+msgid "Canonical URL"
+msgstr "عنوان URL الأساسي"
+
+#: languages/aioseo-lite.php:3671 languages/aioseo-pro.php:5156
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "No Pagination for Canonical URLs"
+msgstr "عدم ترقيم الصفحات لعناوين URL الأساسية:"
+
+#: languages/aioseo-lite.php:5650 languages/aioseo-pro.php:8127
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "This string gets appended to the titles and descriptions of paginated pages (like term or archive pages)."
+msgstr "تُرفق هذه السلسلة إلى عناوين وأوصاف الصفحات المرقمة (مثل صفحات الفئات (الوسوم والتصنيفات) أو أرشيف صفحات)."
+
+#: languages/aioseo-lite.php:863 languages/aioseo-pro.php:1275
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Autogenerate Descriptions"
+msgstr "الإنشاء التلقائي للأوصاف:"
+
+#: languages/aioseo-lite.php:6074 languages/aioseo-pro.php:8712
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Use Categories for Meta Keywords"
+msgstr "استخدام التصنيفات للكلمات المفتاحية"
+
+#: languages/aioseo-lite.php:3324 languages/aioseo-pro.php:4707
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Manage Google Analytics"
+msgstr "إدارة احصاءات Google"
+
+#: languages/aioseo-lite.php:6120 languages/aioseo-pro.php:8766
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Use Tags for Meta Keywords"
+msgstr "استخدام الوسوم للكلمات المفتاحية التعريفية: "
+
+#: languages/aioseo-lite.php:1975 languages/aioseo-pro.php:2872
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Enhanced Ecommerce"
+msgstr "التجارة الإلكترونية المحسَّنة"
+
+#: languages/aioseo-lite.php:708 languages/aioseo-pro.php:979
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Anonymize IP Addresses"
+msgstr "جعل عناوين برتوكول الإنترنت (IP) مجهولة:"
+
+#: languages/aioseo-lite.php:440 languages/aioseo-pro.php:610
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Additional Domains"
+msgstr "نطاقات إضافية"
+
+#: languages/aioseo-lite.php:5817 languages/aioseo-pro.php:8344
+#: dist/Lite/assets/js/WebmasterTools.5933e254.js:11
+msgid "Track Multiple Domains"
+msgstr "تتبع نطاقات متعددة"
+
+#: languages/aioseo-lite.php:5630 languages/aioseo-pro.php:8104
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "هذا الخيار يسمح لك بالتبديل بين استخدام \"ميتا الكلمات الرئيسية\" في جميع أنحاء كامل الموقع."
+
+#: languages/aioseo-lite.php:1136 languages/aioseo-pro.php:1667
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "حدد هذا الخيار إذا كنت تريد فئات الخاصة لشغل وظيفة معينة تستخدم الكلمات الرئيسية META (بالإضافة إلى أي كلمات والعلامات التي تحدد على الصفحة تحرير آخر)."
+
+#: languages/aioseo-lite.php:1142 languages/aioseo-pro.php:1673
+#: dist/Lite/assets/js/Advanced.0c4d4b0b.js:1
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "حدد هذا الخيار إذا كنت تريد العلامات الخاصة لشغل وظيفة معينة تستخدم الكلمات الرئيسية ميتا (بالإضافة إلى أي الكلمات الرئيسية التي تحدد على تحرير الصفحة آخر)."
+
+#: languages/aioseo-lite.php:5802 languages/aioseo-pro.php:8329
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "Track Blocked Bots"
+msgstr "تعقب الروبوتات التي تم منعها"
+
+#: app/Common/Admin/Admin.php:172 languages/aioseo-lite.php:2343
+#: languages/aioseo-pro.php:3391 dist/Lite/assets/js/Main.093e11e8.js:1
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: languages/aioseo-lite.php:6164 languages/aioseo-pro.php:8844
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "User Agent Blocklist"
+msgstr " قائمة User Agent التي تم منعها "
+
+#: languages/aioseo-lite.php:4373 languages/aioseo-pro.php:6193
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+msgid "Referer Blocklist"
+msgstr "قائمة الإحالات Referer التي تم منعها"
+
+#: languages/aioseo-lite.php:902 languages/aioseo-pro.php:1325
+#: dist/Lite/assets/js/BadBotBlocker.44a1d250.js:1
+#: dist/Lite/assets/js/ToolsSettings.fc44d740.js:1
+msgid "Bad Bot Blocker"
+msgstr "مانع الروبوتات الخبيثة"
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "تم حظر الريبوت الحامل لبروتوكول الإنترنت %1$s  -- إذ يتطابق مع وكيل المستخدم  %2$s الذي يوجد قائمة الحظر."
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "تم حظر الروبوت الحامل لبروتوكول الإنترنت %1$s --إذ يتطابق مع الإحالة %2$s الموجودة في قائمة الحظر."

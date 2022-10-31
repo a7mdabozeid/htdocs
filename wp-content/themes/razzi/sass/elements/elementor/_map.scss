@@ -1,0 +1,137 @@
+.elementor-widget-razzi-map{
+    overflow: hidden;
+}
+
+.razzi-map__has-tab{
+    display: flex;
+
+    .razzi-map__table{
+        display: block;
+    }
+
+    .mapboxgl-ctrl-top-right {
+        transform: translateX(-33%);
+    }
+}
+
+.razzi-map__has-search{
+    margin-top: 175px;
+}
+
+.razzi-map {
+    clear: both;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+
+    > *{
+        height: 614px;
+    }
+
+    .box-item{
+        padding: 32px 40px;
+        cursor: pointer;
+
+        &:not(:last-child){
+            border-bottom: 1px solid var(--rz-border-color-light);
+        }
+    }
+
+    .map-title{
+        margin: 0 0 29px;
+        font-size: 18px;
+    }
+
+    .map-local{
+        margin-bottom: 18px;
+    }
+
+    .map-desc{
+        > *:not(:last-child){
+            margin-bottom: 17px;
+        }
+
+        h6{
+            margin: 0 0 4px;
+        }
+    }
+
+    .mapboxgl-ctrl-bottom-left{
+        display: none;
+    }
+
+    .mapboxgl-ctrl-top-right {
+        position: absolute;
+        z-index: 1;
+        width: 75%;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: -175px;
+    }
+
+    .mapboxgl-ctrl-geocoder {
+        min-width: 100%;
+
+        ul > li > a{
+            text-decoration: none;
+            padding: 10px;
+            color: var(--rz-color-dark);
+        }
+    }
+
+    .mapboxgl-popup-content {
+        max-width: 270px;
+        font-size: 15px;
+
+        .map-title{
+            font-size: 16px;
+            padding-right: 20px;
+            margin-bottom: 13px;
+        }
+
+        .map-local{
+            margin-bottom: 14px;
+        }
+
+        .map-desc{
+            > *:not(:last-child){
+                margin-bottom: 13px;
+            }
+        }
+    }
+
+    .mapboxgl-ctrl-geocoder .geocoder-icon-search {
+        /*rtl:raw:
+        left: 20px;
+        right: auto;
+        */
+    }
+
+}
+.razzi-map__table{
+    max-width: 370px;
+    flex: 0 0 33%;
+    margin-right: 30px;
+    overflow-y: auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.02);
+    display: none;
+    scrollbar-color: #1f1f1f #e2e2e278;
+	scrollbar-width: thin;
+
+    &::-webkit-scrollbar {
+        width: 2px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background-color:#e2e2e2;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: var(--rz-background-color-dark);
+    }
+}
+
+.razzi-map__content{
+    width: 100%;
+}

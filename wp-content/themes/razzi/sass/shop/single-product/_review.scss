@@ -1,0 +1,141 @@
+.single-product {
+	div.product {
+		.woocommerce-Reviews {
+			.woocommerce-Reviews-title {
+				display: none;
+			}
+
+			ol.commentlist {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+
+				li {
+					position: relative;
+					margin-bottom: 20px;
+					padding: 40px;
+					border: 1px solid #e5e5e5;
+
+					.comment_container {
+						display: flex;
+						align-items: flex-start;
+					}
+
+					img.avatar {
+						width: 100px;
+						border: none;
+						padding: 0;
+						border-radius: 50%;
+					}
+
+					.comment-text {
+						margin: 0 0 0 40px;
+						border-radius: 0;
+						padding: 0;
+						border: none;
+						width: 100%;
+					}
+
+					.star-rating {
+						float: right;
+					}
+
+					p.meta {
+						margin: 0 0 10px;
+					}
+
+					.woocommerce-review__author {
+						display: block;
+						font-weight: 500;
+						font-size: 18px;
+						color: var(--rz-color-dark);
+					}
+
+					.woocommerce-review__dash {
+						display: none;
+					}
+
+					.woocommerce-review__published-date {
+						font-size: 14px;
+						color: #767676;
+					}
+
+					.description p {
+						margin-bottom: 0;
+					}
+				}
+			}
+
+			.comment-respond {
+				padding: 30px 0 0;
+
+				.comment-form {
+					text-align: left;
+
+					p.stars {
+						margin-top: 10px;
+
+						a {
+							border-right: 17px solid transparent;
+						}
+					}
+				}
+
+				.comment-notes {
+					display: block;
+					text-align: center;
+				}
+
+				.comment-reply-title {
+					font-size: 28px;
+					font-weight: 500;
+					display: block;
+					margin-bottom: 20px;
+					color: var(--rz-color-darker);
+				}
+
+				.stars:hover {
+					a:before {
+						color: var(--rz-color-darker);
+					}
+				}
+
+				.comment-form-rating {
+					margin-top: 60px;
+					padding: 0 15px;
+				}
+
+				.comment-form-author {
+					width: 50%;
+					float: left;
+					padding-right: 15px;
+				}
+
+				.comment-form-email {
+					width: 50%;
+					padding-left: 15px;
+					float: left;
+				}
+
+				.comment-form-cookies-consent,
+				.form-submit {
+					clear: bottom;
+				}
+
+				.form-submit {
+					margin-top: 20px;
+
+					.submit {
+						min-width: 150px;
+					}
+				}
+
+			}
+
+			.woocommerce-noreviews {
+				margin: 0;
+				text-align: center;
+			}
+		}
+	}
+}

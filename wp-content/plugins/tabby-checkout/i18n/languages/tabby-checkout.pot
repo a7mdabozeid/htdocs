@@ -1,0 +1,274 @@
+# Copyright (C) 2021 Tabby
+# This file is distributed under the same license as the Tabby Checkout plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tabby Checkout 2.3.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tabby-checkout\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-28T11:43:36+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: tabby-checkout\n"
+
+#. Plugin Name of the plugin
+msgid "Tabby Checkout"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://tabby.ai/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tabby Checkout payment gateway"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tabby"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://tabby.ai"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:87
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:89
+msgid "Enable "
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:93
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:95
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:100
+msgid "Customer Message"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:109
+msgid "Tabby API Public or Secret key is not configured."
+msgstr ""
+
+#. translators: %s is replaced with the url of Tabby settings page
+#: includes/class-wc-gateway-tabby-checkout-base.php:111
+msgid "Please configure Tabby API settings <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:135
+msgid "Tabby not available for your purchase"
+msgstr ""
+
+#. translators: %s is replaced with Tabby payment ID
+#: includes/class-wc-gateway-tabby-checkout-base.php:282
+msgid "Payment assigned. ID: %s"
+msgstr ""
+
+#. translators: %s is replaced with Tabby payment ID
+#: includes/class-wc-gateway-tabby-checkout-base.php:301
+msgid "Payment created. ID: %s"
+msgstr ""
+
+#. translators: %s is replaced with Tabby payment ID
+#: includes/class-wc-gateway-tabby-checkout-base.php:309
+msgid "Payment authorized. ID: %s"
+msgstr ""
+
+#. translators: %1$s is replaced with Tabby payment ID, %2$s is replaced with payment currency
+#: includes/class-wc-gateway-tabby-checkout-base.php:314
+msgid "Payment failed. ID: %1$s. Total missmatch. Transaction amount: %2$s"
+msgstr ""
+
+#. translators: %s is replaced with Tabby capture ID
+#: includes/class-wc-gateway-tabby-checkout-base.php:374
+msgid "Payment captured. ID: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:393
+msgid "Order payment captured. Please refund order."
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:417
+msgid "Tabby payment closed"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:443
+msgid "Cannot find refund object"
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:446
+msgid "Refund failed."
+msgstr ""
+
+#: includes/class-wc-gateway-tabby-checkout-base.php:473
+msgid "Something wrong"
+msgstr ""
+
+#. translators: %1$s is replaced with payment amount, %2$s is replaced with Tabby refund ID
+#: includes/class-wc-gateway-tabby-checkout-base.php:479
+msgid "Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/settings.php:20
+msgid "Tabby Checkout API"
+msgstr ""
+
+#: includes/settings.php:22
+msgid "The following options are used to configure Tabby Checkout API"
+msgstr ""
+
+#: includes/settings.php:26
+msgid "Merchant Public Key"
+msgstr ""
+
+#: includes/settings.php:29
+msgid "Used for public API calls"
+msgstr ""
+
+#: includes/settings.php:32
+msgid "Merchant Secret Key"
+msgstr ""
+
+#: includes/settings.php:35
+msgid "Used for server to server calls"
+msgstr ""
+
+#: includes/settings.php:38
+msgid "Tabby Language"
+msgstr ""
+
+#: includes/settings.php:41
+msgid "Tabby popup language"
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Auto"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "English"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "Arabic"
+msgstr ""
+
+#: includes/settings.php:50
+msgid "Tabby order timeout, mins"
+msgstr ""
+
+#: includes/settings.php:53
+msgid "Used for deleting unpaid orders"
+msgstr ""
+
+#: includes/settings.php:64
+msgid "Use phone number for order history lookup"
+msgstr ""
+
+#: includes/settings.php:67
+msgid "Add order history by phone"
+msgstr ""
+
+#: includes/settings.php:70
+msgid "Capture payment on checkout"
+msgstr ""
+
+#: includes/settings.php:73
+msgid "Enable payment capture on checkout"
+msgstr ""
+
+#: includes/settings.php:76
+msgid "Tabby promotions (product)"
+msgstr ""
+
+#: includes/settings.php:79
+msgid "Enable Tabby promo on product view pages"
+msgstr ""
+
+#: includes/settings.php:83
+msgid "Tabby promotions (cart page)"
+msgstr ""
+
+#: includes/settings.php:86
+msgid "Enable Tabby promo on shopping cart page"
+msgstr ""
+
+#: includes/settings.php:90
+msgid "Tabby promo max price"
+msgstr ""
+
+#: includes/settings.php:93
+msgid "Maximum product price for showing Tabby promotions, 0 for unlimited"
+msgstr ""
+
+#: includes/settings.php:104
+msgid "Allowed Countries"
+msgstr ""
+
+#: includes/settings.php:107
+msgid "Tabby allowed countries"
+msgstr ""
+
+#: includes/settings.php:109
+msgid "Bahrain"
+msgstr ""
+
+#: includes/settings.php:110
+msgid "Kuwait"
+msgstr ""
+
+#: includes/settings.php:111
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/settings.php:112
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/settings.php:117
+msgid "Use <html> tag lang"
+msgstr ""
+
+#: includes/settings.php:120
+msgid "Use documentElement lang attribute for tabby language"
+msgstr ""
+
+#: includes/settings.php:123
+msgid "Send extended merchant code"
+msgstr ""
+
+#: includes/settings.php:126
+msgid "Change merchant code format to &lt;country&gt;_&lt;currency&gt;"
+msgstr ""
+
+#: includes/settings.php:129
+msgid "Hide methods"
+msgstr ""
+
+#: includes/settings.php:132
+msgid "Hide Tabby payment methods on checkout if not available"
+msgstr ""
+
+#: includes/settings.php:135
+msgid "Debug"
+msgstr ""
+
+#: includes/settings.php:138
+msgid "Enable API request/reply logging"
+msgstr ""
+
+#: includes/settings.php:156
+msgid "Tabby API"
+msgstr ""
+
+#: tabby-checkout.php:83
+msgid "Tabby unpaid order cancelled - time limit reached."
+msgstr ""

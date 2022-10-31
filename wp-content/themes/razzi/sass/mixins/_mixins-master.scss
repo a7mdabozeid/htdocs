@@ -1,0 +1,245 @@
+// Rem output with px fallback
+@mixin font-size($sizeValue: 1) {
+	font-size: ($sizeValue * 16) * 1px;
+}
+
+// Center block
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Clearfix
+@mixin clearfix() {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+// Clear after (not all clearfix need this also)
+@mixin clearfix-after() {
+	clear: both;
+}
+
+// Column width with margin
+@mixin column-width($numberColumns: 3) {
+	width: map-get($columns, $numberColumns);
+}
+
+@keyframes razzi-rotate {
+	0% {
+		transform: rotate(0deg) scale(1);
+	}
+
+	50% {
+		transform: rotate(180deg) scale(0.6);
+	}
+
+	100% {
+		transform: rotate(360deg) scale(1);
+	}
+}
+
+@keyframes razzi-scale {
+	30% {
+        transform: scale(0.3);
+    }
+	100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes razzi-spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+@mixin razzi-loading() {
+	position: relative;
+
+	&:before{
+		content: '';
+		display: block;
+		border-radius: 100px;
+	    position: absolute;
+	}
+
+	&:before{
+		background-color: var(--rz-background-color-primary);
+		height: 13px;
+		width: 13px;
+		top: 0;
+		left: 0;
+		animation: razzi-scale 1s 0s cubic-bezier(0.09, 0.57, 0.49, 0.9) infinite;
+	}
+}
+
+@keyframes razziFadeInUp {
+	from {
+		opacity: 0;
+		transform: translate3d(0, 80px, 0);
+	}
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+
+@-webkit-keyframes fadeInDown {
+	from {
+		opacity: 0;
+		-webkit-transform: translate3d(0, -100%, 0);
+		transform: translate3d(0, -100%, 0);
+	}
+	to {
+		opacity: 1;
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+@keyframes fadeInDown {
+	from {
+		opacity: 0;
+		-webkit-transform: translate3d(0, -100%, 0);
+		transform: translate3d(0, -100%, 0);
+	}
+	to {
+		opacity: 1;
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+
+@keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+// Loading 2
+@keyframes bubble {
+	0%, 100% {
+		transform: scale(0);
+	}
+	50% {
+		transform: scale(1);
+	}
+}
+
+@mixin razzi-primary-button() {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 50px;
+	display: inline-block;
+	background-color: var( --rz-background-color-primary );
+	color: var(--rz-color-lighter);
+	padding: 0 37px;
+	text-align: center;
+	transition: ease .3s;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+@mixin razzi-button() {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 50px;
+	display: inline-block;
+	background-color: var( --rz-background-color-dark );
+	color: var(--rz-color-lighter);
+    padding: 0 37px;
+    text-align: center;
+	transition: ease .3s;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+@mixin razzi-button-outline() {
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	transition: none;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 46px;
+	padding: 0 40px;
+	text-decoration: none;
+	background-color: transparent;
+	color: var(--rz-color-dark);
+	border: 1px solid;
+	white-space: nowrap;
+}
+
+@mixin razzi-input-radio() {
+	input[type="radio"] {
+		display: none;
+
+		+ label {
+			position: relative;
+			padding-left: 33px;
+			cursor: pointer;
+			color: var(--rz-text-color-gray);
+			display: flex;
+			align-items: center;
+
+			&:before {
+				content: '';
+				width: 16px;
+				height: 16px;
+				border: 2px solid #ccc;
+				border-radius: 50%;
+				position: absolute;
+				left: 0;
+				top: 50%;
+				transform: translateY(-50%);
+			}
+
+			&:after {
+				content: '';
+				width: 8px;
+				height: 8px;
+				position: absolute;
+				left: 4px;
+				top: 50%;
+				transform: translateY(-50%);
+				z-index: 9;
+				opacity: 0;
+				background-color: var(--rz-color-darker);
+				border-radius: 50%;
+			}
+		}
+
+		&:checked {
+			+ label {
+				color: var(--rz-text-color-dark);
+				&:after {
+					opacity: 1;
+				}
+
+				&:before {
+					border-color: var(--rz-color-darker);
+					border-width: 1px;
+				}
+			}
+		}
+	}
+}
+
+@keyframes anim-ripple {
+    0% {
+        transform: scale(0.8);
+        opacity: 0
+    }
+    20% {
+        transform: scale(1);
+        opacity: .4
+    }
+    to {
+        transform: scale(1.2);
+        opacity: 0
+    }
+}

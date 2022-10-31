@@ -1,0 +1,426 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 14:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: main.php:222
+msgid "Hide Checkout button"
+msgstr ""
+
+#: main.php:226
+msgid "if min/max requirements no passed hide checkout button."
+msgstr ""
+
+#: main.php:232
+msgid "Checkout cart button class: "
+msgstr ""
+
+#: main.php:238
+msgid "Checkout widget cart button class: "
+msgstr ""
+
+#: main.php:241
+msgid "Cart products quantity"
+msgstr ""
+
+#: main.php:246 main.php:261
+msgid "Minimum: "
+msgstr ""
+
+#: main.php:251 main.php:266
+msgid "Maximum: "
+msgstr ""
+
+#: main.php:256
+msgid "Cart products price"
+msgstr ""
+
+#: main.php:271
+msgid "Prevent add to cart"
+msgstr ""
+
+#: main.php:275
+msgid "Doesn't add products when limit reached"
+msgstr ""
+
+#: main.php:278
+msgid "Full OR Limitation"
+msgstr ""
+
+#: main.php:284
+msgid "Display on product pages errors only for this product"
+msgstr ""
+
+#: main.php:290
+msgid "Fix error duplicate"
+msgstr ""
+
+#: main.php:295
+msgid "If on some pages errors displayed twice enable this option"
+msgstr ""
+
+#: main.php:298
+msgid "Pages to fix duplicate"
+msgstr ""
+
+#: main.php:303
+msgid "Chekcout page"
+msgstr ""
+
+#: main.php:311
+msgid "Cart page"
+msgstr ""
+
+#: main.php:319
+msgid "Product page"
+msgstr ""
+
+#: main.php:327
+msgid "Archive page"
+msgstr ""
+
+#: main.php:335
+msgid "Other pages"
+msgstr ""
+
+#: main.php:341 includes/custom_post.php:363
+msgid "Minimum Quantity Message"
+msgstr ""
+
+#: main.php:347 includes/custom_post.php:370
+msgid "Maximum Quantity Message"
+msgstr ""
+
+#: main.php:353 includes/custom_post.php:377
+msgid "Minimum Price Message"
+msgstr ""
+
+#: main.php:359 includes/custom_post.php:384
+msgid "Maximum Price Message"
+msgstr ""
+
+#: main.php:373
+msgid "Input Limitation"
+msgstr ""
+
+#: main.php:374
+msgid ""
+"Set correct limitation for product quantity input field on product page and "
+"cart page"
+msgstr ""
+
+#: main.php:519 main.php:573 includes/custom_post.php:308
+msgid "Minimum Quantity"
+msgstr ""
+
+#: main.php:530 main.php:583 includes/custom_post.php:309
+msgid "Maximum Quantity"
+msgstr ""
+
+#: main.php:713
+msgid ""
+"Quantity of product %products% can not be less than <strong>%value%</strong>"
+msgstr ""
+
+#: main.php:714
+msgid ""
+"Quantity of product %products% can not be more than <strong>%value%</strong>"
+msgstr ""
+
+#: main.php:719
+msgid ""
+"Quantity of one variation of a %products% product can not be less than "
+"<strong>%value%</strong>"
+msgstr ""
+
+#: main.php:720
+msgid ""
+"Quantity of one variation of a %products% product can not be more than "
+"<strong>%value%</strong>"
+msgstr ""
+
+#: includes/paid.php:214
+msgid "Global multiplicity"
+msgstr ""
+
+#: includes/paid.php:220
+msgid "Exclude Products"
+msgstr ""
+
+#: includes/paid.php:236 includes/paid.php:279
+msgid "Multiplicity Message"
+msgstr ""
+
+#: includes/paid.php:256
+msgid "Each Product"
+msgstr ""
+
+#: includes/paid.php:257
+msgid "Use this limitation for each product instead of products summary"
+msgstr ""
+
+#: includes/paid.php:263
+msgid "Check limitation for"
+msgstr ""
+
+#: includes/paid.php:267
+msgid "Products without variation and variations"
+msgstr ""
+
+#: includes/paid.php:268
+msgid "Products without variation and products with variations"
+msgstr ""
+
+#: includes/paid.php:400
+msgid "This product %products% must be multiplicity <strong>%value%</strong>"
+msgstr ""
+
+#: includes/paid.php:401
+msgid ""
+"One variation of a %products% product must be multiplicity <strong>"
+"%value%</strong>"
+msgstr ""
+
+#: includes/paid.php:417
+msgid "User Role"
+msgstr ""
+
+#: includes/paid.php:418
+msgid "Group"
+msgstr ""
+
+#: includes/paid.php:433 includes/paid.php:491
+msgid "Quantity Group"
+msgstr ""
+
+#: includes/paid.php:442 includes/paid.php:501
+msgid "Exclude Group"
+msgstr ""
+
+#: includes/paid.php:454 includes/paid.php:513 includes/paid.php:592
+msgid "Multiplicity"
+msgstr ""
+
+#: includes/paid.php:642
+msgid "Group name (required)"
+msgstr ""
+
+#: includes/paid.php:649
+msgid "Add group"
+msgstr ""
+
+#: includes/custom_post.php:8
+msgid "Cart Coupon"
+msgstr ""
+
+#: includes/custom_post.php:13
+msgid "Shipping Zone"
+msgstr ""
+
+#: includes/custom_post.php:18
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/custom_post.php:37
+msgid "Any coupon if not selected"
+msgstr ""
+
+#: includes/custom_post.php:202 includes/custom_post.php:204
+#: includes/custom_post.php:205
+msgid "Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:206
+msgctxt "Admin menu name"
+msgid "Limitations"
+msgstr ""
+
+#: includes/custom_post.php:207
+msgid "Add Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:208
+msgid "Add New Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:209
+msgid "Edit"
+msgstr ""
+
+#: includes/custom_post.php:210
+msgid "Edit Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:211
+msgid "New Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:212
+msgid "View Min/Max Limitations"
+msgstr ""
+
+#: includes/custom_post.php:213
+msgid "View Min/Max Limitation"
+msgstr ""
+
+#: includes/custom_post.php:214
+msgid "Search Min/Max Limitations"
+msgstr ""
+
+#: includes/custom_post.php:215
+msgid "No Min/Max Limitations found"
+msgstr ""
+
+#: includes/custom_post.php:216
+msgid "No Min/Max Limitations found in trash"
+msgstr ""
+
+#: includes/custom_post.php:218
+msgid "This is where you can add Min/Max Limitations."
+msgstr ""
+
+#: includes/custom_post.php:244
+msgid "Conditions"
+msgstr ""
+
+#: includes/custom_post.php:245
+msgid "Min/Max Settings"
+msgstr ""
+
+#: includes/custom_post.php:278
+msgid "ADD LIMITATION"
+msgstr ""
+
+#: includes/custom_post.php:306
+msgid "REMOVE LIMITATION"
+msgstr ""
+
+#: includes/custom_post.php:310
+msgid "Minimum Price"
+msgstr ""
+
+#: includes/custom_post.php:312
+msgid "Maximum Price"
+msgstr ""
+
+#: includes/custom_post.php:324
+msgid "OR"
+msgstr ""
+
+#: includes/custom_post.php:357
+msgid "Use local text"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:36
+msgid ""
+"Attribute/Postmeta must have nummeric values. All non numeric values will be "
+"converted to 0"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:62
+#: includes/addons/attribute_limitation.php:111
+msgid "Post Meta"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:104
+msgid "Type"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:109
+msgid "Disable"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:110
+#: includes/addons/attribute_limitation.php:120
+msgid "Attribute"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:152
+msgid "Minimum Attribute/Postmeta Message"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:160
+msgid "Maximum Attribute/Postmeta Message"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:277
+msgid "Minimum Attribute Summary"
+msgstr ""
+
+#: includes/addons/attribute_limitation.php:284
+msgid "Maximum Attribute Summary"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:222
+msgid "Global Limitation"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:223
+msgid ""
+"Use global limitation for all quantity fields (All fields will work same as "
+"fields on WooCommerce cart page)"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:229
+msgid "Maximum reached Text"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:230
+msgid "Displayed on product page when you cannot add more product to the cart"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:259
+msgid "It works with:"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:261
+msgid "Only for quantity limitation"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:262
+msgid "Any limitation for maximum Quantity"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:263
+msgid "Limitation in simple products"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:264
+msgid "Limitation in variations of variable product"
+msgstr ""
+
+#: includes/addons/set_input_limitation.php:265
+msgid "Limitation with enabled option \"Each Product\""
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Min and Max Quantities"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin for WooCommerce which add minimum and maximum quantities for products"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://berocket.com/product/woocommerce-minmax-quantity"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""

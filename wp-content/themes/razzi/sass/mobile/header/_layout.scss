@@ -1,0 +1,62 @@
+.header-mobile {
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 15px;
+
+	.mobile-menu a{
+		color: var( --rz-header-color-dark );
+		transition: none;
+		display: flex;
+		margin-top: 2px;
+	}
+
+	.header-cart {
+		padding-right: 5px;
+	}
+
+	.mobile-search .razzi-svg-icon {
+		font-size: 18px;
+	}
+
+	& > * {
+		line-height: 1;
+	}
+
+	.site-branding {
+		flex: auto;
+		text-align: center;
+	}
+
+	&.header-no-menu {
+		.site-branding {
+			text-align: left;
+		}
+	}
+
+	.razzi-history-back,
+	.mobile-menu {
+		flex: 1;
+	}
+}
+
+.mobile-header-icons {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	line-height: 1;
+	flex: 1;
+
+	.search-icon {
+		color: var( --rz-header-color-dark );
+	}
+
+	> * {
+		margin-left: 15px;
+
+		&:first-child {
+			margin-left: 0;
+		}
+	}
+}

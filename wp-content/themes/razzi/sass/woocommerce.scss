@@ -1,0 +1,73 @@
+/*
+Theme Name: razzi
+
+WooCommerce styles override
+*/
+
+/**
+ * WooCommerce color variables
+ */
+$woocommerce__color-error: #e2401c;
+$woocommerce__color-success: #0f834d;
+$woocommerce__color-info: #3D9CD2;
+
+/**
+ * Imports
+ */
+@import "variables-site/variables-sites";
+@import "mixins/mixins-master";
+@import "shop/columns";
+
+/**
+ * Shop tables
+ */
+@import "shop/tables";
+
+/**
+ * Products
+ */
+@import "shop/products/products";
+
+/**
+ * WooCommerce widgets
+ */
+@import "shop/widgets";
+
+/**
+ * Products filter
+ */
+@import "shop/products-filter/products-filter";
+
+/**
+ * Single product
+ */
+@import "shop/single-product/single-product";
+
+/**
+ * Account
+ */
+@import "shop/account";
+
+/**
+ * Cart
+ */
+ @import "shop/cart";
+
+/**
+ * Checkout
+ */
+ @import "shop/checkout";
+
+/**
+ * General WooCommerce components
+ */
+@import "shop/components";
+
+@import "shop/recently-viewed";
+
+@import "shop/sticky-atc";
+
+/**
+ * WooCommerce Responsive
+ */
+@import "shop/responsive/responsive";

@@ -1,0 +1,61 @@
+@import "site/primary/posts-and-pages";
+
+.blog-wrapper--listing {
+	display: block;
+	width: 100%;
+
+	.entry-header {
+		margin-bottom: 20px;
+		margin-right: 0;
+		max-width: 100%;
+	}
+
+	.entry-summary {
+		height: auto;
+	}
+
+	.blog-wrapper {
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+		display: block;
+	}
+}
+
+.razzi-post__socials-share .social-share-link{
+	display: block;
+	text-align: center;
+}
+
+.blog-wrapper  .entry-title {
+	font-size: 18px;
+	line-height: 1.2;
+}
+
+.single-post .site-content {
+	padding-top: 20px;
+}
+
+.single-post .entry-header {
+	margin-bottom: 40px;
+}
+
+.entry-footer {
+	clear: both;
+}
+
+.post-wrapper .entry-title {
+	font-size: 24px;
+	line-height: 1.2;
+}
+
+.post-wrapper .entry-meta {
+	font-size: 14px;
+}
+
+.razzi-posts__taxs-list {
+	margin: 10px 0 20px;
+
+	ul {
+		justify-content: flex-start;
+	}
+}

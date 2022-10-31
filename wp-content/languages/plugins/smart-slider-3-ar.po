@@ -1,0 +1,59 @@
+# Translation of Plugins - Smart Slider 3 - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - Smart Slider 3 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-12 18:03:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Smart Slider 3 - Stable (latest release)\n"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31ge/includes/modules/SmartSlider3/SmartSlider3.php:108
+msgid "Here you can create the content that will be used within the module."
+msgstr "هنا يمكنك إنشاء المحتوى الذي سيتم استخدامه داخل الوحدة النمطية."
+
+#. Author of the plugin
+msgid "Nextend"
+msgstr "Nextend"
+
+#. Description of the plugin
+msgid "The perfect all-in-one responsive slider solution for WordPress."
+msgstr "الحل المثالي لعارض شرائح Slider متجاوب في إضافة واحدة لـ ووردبريس."
+
+#. Plugin URI of the plugin
+msgid "https://smartslider3.com/"
+msgstr "https://smartslider3.com/"
+
+#. Plugin Name of the plugin
+msgid "Smart Slider 3"
+msgstr "إضافة Smart Slider 3"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Unyson/smartslider/shortcodes/smartslider/config.php:10
+msgid "Media Elements"
+msgstr "عناصر الوسائط"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/BeaverBuilder.php:84
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/BeaverBuilder.php:105
+msgid "General"
+msgstr "عام"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/SmartSlider3.php:15
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/SmartSlider3Legacy.php:15
+msgid "Basic Modules"
+msgstr "الوحدات الأساسية"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31ge/includes/modules/SmartSlider3/SmartSlider3.php:28
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/VisualComposer1/VisualComposer1.php:84
+msgid "Content"
+msgstr "المحتوى"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31lt/DiviModuleSmartSlider.php:66
+msgid "This will change the label of the module in the builder for easy identification."
+msgstr "سيؤدي ذلك إلى تغيير تسمية الوحدة النمطية في أداة البناء لسهولة تحديد المُعرّف."
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31lt/DiviModuleSmartSlider.php:64
+msgid "Admin Label"
+msgstr "تسمية المدير"

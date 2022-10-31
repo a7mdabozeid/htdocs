@@ -1,0 +1,85 @@
+.razzi-deals-carousel {
+    .countdown-slider {
+        height: 550px;
+        display: flex;
+        align-items: center;
+    }
+
+    .countdown-item {
+        position: relative;
+        padding: 15px;
+    }
+
+    .countdown-bg {
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+
+    .countdown-title {
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 44px;
+        color: var( --rz-color-dark );
+        margin-bottom: 30px;
+    }
+
+    .countdown-content {
+        margin-bottom: 52px;
+    }
+
+    .digits {
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 59px;
+        color: var( --rz-color-primary );
+    }
+
+    .text {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 19px;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        color: #919191;
+    }
+
+    .timer {
+        .divider {
+            top: 7px;
+            color: var( --rz-color-primary );
+        }
+    }
+
+    .countdown-button {
+        .razzi-svg-icon {
+            font-size: 13px;
+        }
+
+        a {
+            padding: 0 44px;
+            line-height: 54px;
+        }
+    }
+
+    .swiper-container-horizontal > .swiper-pagination-bullets {
+        bottom: 30px;
+    }
+
+    .rz-swiper-button {
+        font-size: 20px;
+        color: var(--rz-color-dark);
+        background-color: #fff;
+    }
+
+    .rz-swiper-button-next {
+        right: 0;
+    }
+
+    .rz-swiper-button-prev {
+        left: 0;
+    }
+
+}

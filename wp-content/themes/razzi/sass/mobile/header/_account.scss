@@ -1,0 +1,32 @@
+@import "site/header/account/account-modal";
+
+.site-header .header-account {
+	height: inherit;
+
+	.account-icon {
+		font-size: 17px;
+		display: flex;
+		align-items: center;
+		height: inherit;
+		position: relative;
+		top: -2px;
+	}
+
+	.account-links {
+		display: none;
+	}
+}
+
+.ra-account-modal .modal-content {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.ra-hamburger-modal ul.nav-menu > li .razzi-svg-icon {
+	font-size: 14px;
+}
+
+.ra-account-modal .modal-content form {
+	height: auto;
+	margin-top: 40px;
+}

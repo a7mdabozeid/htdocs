@@ -1,0 +1,17 @@
+{
+  "name": "sms-alert/smsalert",
+  "title": "SMSAlert",
+  "category": "widgets",
+  "description": "SMSAlert Form Block",
+  "keywords":["sms-alert","SMSAlert","Shortcode","Forms"],
+  "textdomain": "sms-alert",
+  "attributes": {
+        "sa_shortcode": {
+            "type": "string",
+        }
+  },
+  "providesContext": {
+    "sms-alert/sa_shortcode": "sa_shortcode"
+  },
+  "editorScript": "file:.js/block.js"
+}

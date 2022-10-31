@@ -1,0 +1,542 @@
+[
+    {
+      "id": 128,
+      "name": "Jubrah DISTRICT",
+      "lat": "21.2978574",
+      "lng": "40.4254443",
+      "address": "Jubrah District , Airport road , opposite to Othaim Markets.",
+      "city": "Taif",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 126,
+      "name": "Al-Nadwah (An-Nazem) DISTRICT",
+      "lat": "24.803265",
+      "lng": "46.8684966",
+      "address": "Al-Nadwah (An-Nazem) District , Khurais road , opposite to Evenings East.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 124,
+      "name": "Al Hijrah Walkway",
+      "lat": "24.4241969",
+      "lng": "39.5886996",
+      "address": "Al Abbas Ibn Ubadah st, (Al Hijrah Walkway), next to XOXO coffee.",
+      "city": "Madinah",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 122,
+      "name": "Northern Central Region",
+      "lat": "24.4716847",
+      "lng": "39.6073076,17",
+      "address": "Northern Central Region- Elaf Grand Al Majeedi Hotel– Next to Taiba Commercial Center. ",
+      "city": "Madinah",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 118,
+      "name": "Nawariya Dist.",
+      "lat": "21.550538",
+      "lng": "39.775792",
+      "address": "Maddinah Road next to al Jazeerah paintings.",
+      "city": "Makkah",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 116,
+      "name": "As Salam 2nd Distarct",
+      "lat": "25.394662",
+      "lng": "49.561113",
+      "address": "Ain Najm road, Al Mubarraz.",
+      "city": "Hofuf",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 114,
+      "name": " Al Aziziyah Distract",
+      "lat": "27.533306",
+      "lng": "41.659592",
+      "address": "King Fahd Ibn Abdul Aziz Rd, near Roof Furniture. ",
+      "city": "Hail",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 112,
+      "name": "ALBAWADI DISTRICT",
+      "lat": "21.594427",
+      "lng": "39.17327",
+      "address": "Al-Setteen St. Taibah Markets 1.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 110,
+      "name": "Al Yarmouk",
+      "lat": "24.8063109",
+      "lng": "46.8008059",
+      "address": "Alemam Abdullah bin Saud, Next to Top Ten.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 109,
+      "name": "Dahrat Laban",
+      "lat": "24.6338668",
+      "lng": "46.5674581",
+      "address": "Dahrat Laban, Alshifa St, Next to Alnaforah Resturent.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": ""
+    },
+    {
+      "id": 106,
+      "name": "Al-Ulaya District",
+      "lat": "28.3765699",
+      "lng": "36.5802937",
+      "address": "Al-Ulaya District - King Abdulaziz Road.",
+      "city": "Tabuk",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4PM-11PM"
+    },
+    {
+      "id": 104,
+      "name": "Alsamer District",
+      "lat": "21.594661",
+      "lng": "39.2463981",
+      "address": "A",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "10AM-12:25PM | 4:30PM-12AM"
+    },
+    {
+      "id": 102,
+      "name": "Gurnata District",
+      "lat": "24.1320862",
+      "lng": "47.2685057",
+      "address": "King Abdullah Road, Khalifa Park.",
+      "city": "Alkharj",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4PM-11PM"
+    },
+    {
+      "id": 96,
+      "name": "Al-Hindaweyyah Distract",
+      "lat": "21.4720362",
+      "lng": "39.1955654",
+      "address": "King Khaled St., near Khaimah Market.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "10AM-12:25PM | 4:30PM-12AM"
+    },
+    {
+      "id": 94,
+      "name": "King Abdualaziz Rd.",
+      "lat": "19.134331",
+      "lng": "41.07253",
+      "address": "King Abdualaziz Rd. Behind RedTag store. ",
+      "city": "Al Qunfudhah",
+      "phone": "",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 90,
+      "name": "Almustashfa St.",
+      "lat": "19.8611318",
+      "lng": "41.5715399",
+      "address": "Almustashfa St. Abu Alkheer Center, opposite to Farm Superstore. ",
+      "city": "Baljurashi",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4:30PM-11:30PM"
+    },
+    {
+      "id": 88,
+      "name": "AlShate’a Alsharqi District",
+      "lat": "26.455637",
+      "lng": "50.125288",
+      "address": "Alkhaleej road, east Alsawari roundabout. ",
+      "city": "Damam",
+      "phone": "",
+      "hours1": "9:30AM-11PM"
+    },
+    {
+      "id": 86,
+      "name": "Al-Awali District",
+      "lat": "21.354053",
+      "lng": "39.892459",
+      "address": "Juffali Street in front of Nour Mosque.",
+      "city": "Makkah",
+      "phone": "",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 42,
+      "name": "A-Bandar District",
+      "lat": "24.098456",
+      "lng": "38.035153",
+      "address": "Omar bin Al khatab road next to Extra electronic Center.",
+      "city": "Yanbu",
+      "phone": "",
+      "hours1": "10AM–12:20PM 4:30PM–12AM"
+    },
+    {
+      "id": 41,
+      "name": "Al-Bishr District",
+      "lat": "26.368649",
+      "lng": "43.930999",
+      "address": "Omar bin Al-Khatab road, opposite to Ministry of Islamic Affairs.",
+      "city": "Buraydah",
+      "phone": "",
+      "hours1": "9:30AM-11PM"
+    },
+    {
+      "id": 40,
+      "name": "Al-Shuraymiyyah District",
+      "lat": "26.095667",
+      "lng": "43.985548",
+      "address": "King Abdulaziz road next to Al-Shubaily School.",
+      "city": "Unaizah",
+      "phone": "+966(12)5591780",
+      "hours1": "9:30AM-12PM | 4PM-11PM"
+    },
+    {
+      "id": 39,
+      "name": "Hawaya District",
+      "lat": "21.260437",
+      "lng": "40.409912",
+      "address": "Shehar main St. opposite to Thaqif High School.",
+      "city": "Taif",
+      "phone": "+966(12)7421521",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 37,
+      "name": "Shehar District",
+      "lat": "21.249209",
+      "lng": "40.413755",
+      "address": "Shehar main St. next to Bank Al-Bilad. next to Al Bilad Bank",
+      "city": "Taif",
+      "phone": "",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 36,
+      "name": "Al-Yasameen District",
+      "lat": "24.813062",
+      "lng": "46.62792",
+      "address": "Anas bin Malek road, east to Al-Olaya St.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4PM-11PM"
+    },
+    {
+      "id": 34,
+      "name": "Al-Hamraa District",
+      "lat": "24.775035",
+      "lng": "46.754347",
+      "address": "Khaled bin Alwaleed St. Hamra Al-Sharq Shopping Center.",
+      "city": "Riyadh",
+      "phone": "+966566887700",
+      "hours1": "9:30AM-12PM | 4PM-11PM"
+    },
+    {
+      "id": 32,
+      "name": "Al-Murooj District",
+      "lat": "24.784717",
+      "lng": "46.664529",
+      "address": "Imam Saud bin Abdulaziz road, next to NCB.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": "9:30AM-11PM"
+    },
+    {
+      "id": 31,
+      "name": "Al-Suwadi Western District",
+      "lat": "24.851533",
+      "lng": "46.612032",
+      "address": "Al-Madinah Al-Munawarah road, East to Exit 28.",
+      "city": "Riyadh",
+      "phone": "+966(11)4332474",
+      "hours1": "9:30AM–11PM"
+    },
+    {
+      "id": 30,
+      "name": "Al-Naseem Distruct",
+      "lat": "24.725887",
+      "lng": "46.82037",
+      "address": "Saad bin Abi-Waqqas St. next to Al-Arabi National Bank.",
+      "city": "Riyadh",
+      "phone": "",
+      "hours1": "9:30AM–11PM"
+    },
+    {
+      "id": 29,
+      "name": "Aljorf",
+      "lat": "24.491081",
+      "lng": "39.569758",
+      "address": "Khalid bin Alwalid St.",
+      "city": "Madinah",
+      "phone": "",
+      "hours1": "10AM–12:20PM 4:30PM–12AM"
+    },
+    {
+      "id": 28,
+      "name": "Al-Matar (Airport Road)",
+      "lat": "24.486534",
+      "lng": "39.6344407",
+      "address": "Airport road near Prince Mohammed bin Abdulaziz intersection.",
+      "city": "Madinah",
+      "phone": "+966(14)8395891",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 26,
+      "name": "Al-Difa’a District",
+      "lat": "24.45023",
+      "lng": "39.518669",
+      "address": "Al-Imam Al-Bukhari St. next to Red Tag Center.",
+      "city": "Madinah",
+      "phone": "",
+      "hours1": "10AM–12:20PM 4:30PM–12AM"
+    },
+    {
+      "id": 24,
+      "name": "Sultanah",
+      "lat": "24.482653",
+      "lng": "39.597282",
+      "address": "Sultana road next to Madinah International mall.",
+      "city": "Madinah",
+      "phone": "+966(14)8152332",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 23,
+      "name": "Al-Jameaat Road",
+      "lat": "24.421131",
+      "lng": "39.530033",
+      "address": "Prince Naif road, opposite to Saudi Germany Hospital.",
+      "city": "Madinah",
+      "phone": "+966(14)8406420",
+      "hours1": "10AM–12:30PM 4:30PM–12AM"
+    },
+    {
+      "id": 22,
+      "name": "Al-Aziziyah (2)",
+      "lat": "21.411325",
+      "lng": "39.866739",
+      "address": "Al-Aziziyah St. next to Senaf-In Hotel. al Jameaa traffic sing next to mobily",
+      "city": "Makkah",
+      "phone": "",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 21,
+      "name": "Al-Shawqiah District",
+      "lat": "21.371661",
+      "lng": "39.803509",
+      "address": "Souq Al-Qawafel, opposite to CenterPoint shopping center.",
+      "city": "Makkah",
+      "phone": "+966(12)5360967",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 20,
+      "name": "JABAL OMAR (1)",
+      "lat": "21.421071",
+      "lng": "39.821668",
+      "address": "Alharam, central area, Jabal Omar towers.",
+      "city": "Makkah",
+      "phone": "+966(12)5759925",
+      "hours1": "9AM–11PM"
+    },
+    {
+      "id": 19,
+      "name": "Al-Sitten",
+      "lat": "21.436943",
+      "lng": "39.790191",
+      "address": "Abdullah Oraif St. opposite to (Smart Phones) shopping center.",
+      "city": "Makkah",
+      "phone": "",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 18,
+      "name": "Al-Aziziyah (1)",
+      "lat": "21.40719",
+      "lng": "39.869508",
+      "address": "Al-Aziziyah St. next to Al-Saif showroom.",
+      "city": "Makkah",
+      "phone": "+966(12)5495830",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 17,
+      "name": "Al-Adel District",
+      "lat": "21.4442957",
+      "lng": "39.8604557",
+      "address": "Jabal Alnoor road next to Jarir Bookstore.",
+      "city": "Makkah",
+      "phone": "+966(12)5541736",
+      "hours1": "10AM–12AM"
+    },
+    {
+      "id": 16,
+      "name": "Mahayel Aseer",
+      "lat": "18.545379",
+      "lng": "42.038008",
+      "address": "Prince Faisal road opposite to Hezam mall.",
+      "city": "Mahael Aseer",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4:30PM-11:30PM"
+    },
+    {
+      "id": 14,
+      "name": "Dubai Mall",
+      "lat": "18.285293",
+      "lng": "42.727058",
+      "address": "Hizam St. next to Panda shopping center.",
+      "city": "Khamees Musheet",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4:30PM-11:30PM"
+    },
+    {
+      "id": 13,
+      "name": "Jizan",
+      "lat": "16.905678",
+      "lng": "42.552383",
+      "address": "Prince Sultan road opposite to Alshera’a roundabout.",
+      "city": "Jizan",
+      "phone": "",
+      "hours1": "9:30AM-12PM | 4:30PM-11:30PM"
+    },
+    {
+      "id": 12,
+      "name": "Al-Kawthar District",
+      "lat": "21.733126",
+      "lng": "39.194957",
+      "address": "Al-Hamadanyah St. opposite to Al-Enmaa Bank.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 11,
+      "name": "Al-Marwah District",
+      "lat": "21.62209",
+      "lng": "39.200565",
+      "address": "Hera St. Mandarin Avenue mall.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 10,
+      "name": "Al-Nahdah District",
+      "lat": "21.610283",
+      "lng": "39.137128",
+      "address": "Hera St. Heraa Plaza Center.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 9,
+      "name": "Al-Fayha District",
+      "lat": "21.490831",
+      "lng": "39.22138",
+      "address": "Abdullah sulaiman St. opposite to Gold’s Gym.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 8,
+      "name": "Al-Faysaliah District",
+      "lat": "21.573852",
+      "lng": "39.179975",
+      "address": "Sitteen St. Al-Abdullatif Plaza.",
+      "city": "Jeddah",
+      "phone": "+966(12)6981946",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 7,
+      "name": "Al-Aziziyah District",
+      "lat": "21.550926",
+      "lng": "39.203607",
+      "address": "Prince Majed road, Flamingo mall.",
+      "city": "Jeddah",
+      "phone": "+966(12)6768863",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 6,
+      "name": "Al-Salamah District.",
+      "lat": "21.590636",
+      "lng": "39.144318",
+      "address": "Prince Sultan St. opposite to Ghassan N.Pharoan Hospital.",
+      "city": "Jeddah",
+      "phone": "",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 5,
+      "name": "Al-Nuzah District",
+      "lat": "21.625539",
+      "lng": "39.162472",
+      "address": "Sitteen St. Al-Jawad Center, behind Al-Arab Mall.",
+      "city": "Jeddah",
+      "phone": "+966(12)6052856",
+      "hours1": "9AM–12AM"
+    },
+    {
+      "id": 4,
+      "name": "Al-Safa District (2)",
+      "lat": "21.579783",
+      "lng": "39.224463",
+      "address": "Abdulaziz bin Ibrahim St. behind Almurjan mall (Alsoreen previously).",
+      "city": "Jeddah",
+      "phone": "+966(12)2711071",
+      "hours1": "10AM–12:30PM 4:30PM–12AM"
+    },
+    {
+      "id": 3,
+      "name": "Al-Safa District (1)",
+      "lat": "21.579783",
+      "lng": "39.224463",
+      "address": "Abdulaziz bin Ibrahim St. behind Almurjan shopping mall (Alsoreen previously). ",
+      "city": "Jeddah",
+      "phone": "+966(12)6284451",
+      "hours1": "10AM–12:30PM 4:30PM–12AM"
+    },
+    {
+      "id": 2,
+      "name": "Mowadafeen District",
+      "lat": "18.238181",
+      "lng": "42.594734",
+      "address": "Prince Faisal road, opposite to Ministry of Agriculture branch office.",
+      "city": "Abha",
+      "phone": "",
+      "hours1": "10AM–12:30PM 4:30PM–12AM"
+    },
+    {
+      "id": 1,
+      "name": "Al-Dabab District",
+      "lat": "18.202426",
+      "lng": "42.512906",
+      "address": "King Abdulaziz road next to CenterPoint shopping center",
+      "city": "Abha",
+      "phone": "+966(17)2298856",
+      "hours1": "10AM–12:30PM 4:30PM–12AM"
+    }
+  ]

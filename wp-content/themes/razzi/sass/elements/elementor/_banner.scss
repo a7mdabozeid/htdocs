@@ -1,0 +1,153 @@
+.razzi-banner {
+    position: relative;
+    overflow: hidden;
+
+    &:hover{
+        .razzi-banner__featured-image{
+            transform: scale(1.05);
+        }
+
+        .razzi-icon{
+            transform: translateX(3px);
+            /*rtl:raw:
+                transform: translateX(-3px) rotateY(180deg);
+            */
+        }
+
+        .image-zoom img {
+            transform:scale(1.05);
+			-ms-transform:scale(1.05); /* IE 9 */
+			-moz-transform:scale(1.05); /* Firefox */
+			-webkit-transform:scale(1.05); /* Safari and Chrome */
+			-o-transform:scale(1.05); /* Opera */
+        }
+    }
+}
+
+.razzi-banner__featured-image{
+    transform: scale(1.01);
+    transition: .3s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    &:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9;
+    }
+}
+
+.razzi-banner-content{
+    position: relative;
+    z-index: 1;
+    height: 400px;
+    max-width: 100%;
+    display: flex;
+    margin: auto;
+    padding: 30px 70px;
+}
+
+.razzi-banner-content-inner {
+
+}
+
+.razzi-banner-content__sub-title{
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.razzi-banner-content__title{
+    font-size: 28px;
+    line-height: (38/28);
+    margin: 0 0 16px;
+}
+
+.razzi-banner-content__description{
+    margin: 0 0 16px;
+}
+
+.razzi-banner-content__button-link{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+}
+
+.razzi-banner-content__sale{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    background-color: var(--rz-background-color-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.razzi-banner-content__sale--text{
+    font-size: 16px;
+    margin-bottom: 6px;
+    line-height: 1;
+}
+
+.razzi-banner-content__sale--unit{
+    margin-left: 3px;
+}
+
+.razzi-banner-content__sale--number{
+    line-height: 1.1;
+}
+
+// Position
+.razzi--v-position-top{
+	.razzi-banner-content{
+        align-items: flex-start;
+    }
+}
+
+.razzi--v-position-bottom{
+	.razzi-banner-content{
+        align-items: flex-end;
+    }
+}
+
+.razzi--v-position-middle{
+	.razzi-banner-content{
+        align-items: center;
+    }
+}
+
+.razzi--h-position-left{
+	.razzi-banner-content{
+        justify-content: flex-start;
+    }
+}
+
+.razzi--h-position-right{
+	.razzi-banner-content{
+        justify-content: flex-end;
+    }
+}
+
+.razzi--h-position-center{
+	.razzi-banner-content{
+        justify-content: center;
+    }
+}

@@ -1,0 +1,32 @@
+.razzi-popular-keywords{
+    text-align: center;
+    padding: 90px 0 110px;
+
+    .heading-title{
+        font-size: 60px;
+        line-height: (8/6);
+        margin: 0 0 66px;
+    }
+}
+
+.razzi-popular-keywords__inner{
+    margin: -15px;
+
+    .button-link{
+        display: inline-block;
+        padding: 15px;
+    }
+
+    .button-text{
+        padding: 13px 15px;
+        line-height: 1.5;
+        min-width: 190px;
+        border-width: 2px;
+
+        &:hover{
+            border-color: #ffffff;
+            background-color: #ffffff;
+            color: #111111;
+        }
+    }
+}

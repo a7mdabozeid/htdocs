@@ -1,0 +1,53 @@
+/**
+ * Checkout page
+ */
+ @import "shop/checkout";
+
+.woocommerce-checkout {
+    .form-row {
+        width: 100%;
+    }
+
+    .col2-set {
+        width: 100%;
+        padding: 0;
+    }
+
+    .woocommerce-checkout-review-order {
+        width: 100%;
+    }
+
+    .woocommerce-checkout-review-order-table {
+        padding-left: 20px;
+        padding-right: 20px;
+        tr {
+            display: table-row;
+        }
+
+    }
+
+    .checkout-form-col .woocommerce-info {
+        font-size: 14px;
+        padding: 15px;
+    }
+
+    .woocommerce-order {
+        > section {
+            padding: 30px 15px 15px;
+        }
+
+        table.shop_table.order_total tr {
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .woocommerce-columns--addresses {
+            flex-direction: column;
+        }
+
+        .col2-set > * {
+            width: 100%;
+        }
+    }
+}

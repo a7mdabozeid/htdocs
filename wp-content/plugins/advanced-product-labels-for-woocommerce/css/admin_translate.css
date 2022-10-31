@@ -1,0 +1,7 @@
+html[lang="ru-RU"] .br_html_condition .br_cond_select:before {
+    content: "И";
+}
+
+html[lang="ru-RU"] .br_conditions .br_html_condition:before {
+    content: "ИЛИ";
+}

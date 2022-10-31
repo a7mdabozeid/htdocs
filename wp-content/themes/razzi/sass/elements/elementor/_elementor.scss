@@ -1,0 +1,57 @@
+body {
+	.elementor-widget:not(:last-child) {
+		margin-bottom: 0;
+	}
+}
+
+@media (max-width: 767px) {
+	.elementor .elementor-hidden-phone {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.elementor .elementor-hidden-tablet {
+		display: none;
+	}
+}
+
+@media (min-width: 1025px) {
+	.elementor .elementor-hidden-desktop {
+		display: none;
+	}
+}
+
+@media (min-width: 1200px) {
+	.elementor-section.elementor-section-boxed {
+		& > .elementor-container {
+			max-width: 1170px;
+		}
+		
+		& > .elementor-column-gap-default {
+			max-width: 1190px;
+		}
+		
+		& > .elementor-column-gap-extended {
+			max-width: 1200px;
+		}
+		
+		& > .elementor-column-gap-narrow {
+			max-width: 1180px;
+		}
+		
+		& > .elementor-column-gap-wider {
+			max-width: 1200px;
+		}
+		
+		& > .elementor-column-gap-wide {
+			max-width: 1200px;
+		}
+	}
+}
+
+.elementor-section-content-space-between {
+	.elementor-container {
+		justify-content: space-between;
+	}
+}

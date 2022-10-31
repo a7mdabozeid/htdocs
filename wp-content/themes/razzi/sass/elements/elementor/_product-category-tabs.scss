@@ -1,0 +1,200 @@
+.razzi-product-category-tabs {
+    padding: 0 100px;
+
+    &.razzi-category-parent {
+        .razzi-shortcode-title {
+            margin-bottom: 75px;
+        }
+    }
+
+    .category-content {
+        position: relative;
+        padding: 0 100px;
+    }
+
+    .category-list {
+        margin: 0 -15px;
+        padding: 0;
+        list-style-type: none;
+        box-sizing: border-box;
+        display: flex;
+
+        li {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+
+            .cat-thumb {
+                margin-bottom: 10px;
+            }
+
+            .cat-name {
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 35px;
+
+                .cat-count {
+                    margin-left: 5px;
+                    font-size: 16px;
+                }
+            }
+
+            &:hover {
+                .cat-name {
+                    color: var( --rz-color-primary );
+                }
+            }
+        }
+    }
+
+    ul.tabs {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+
+        li {
+            padding: 0 15px;
+            display: block;
+            margin: 0;
+            position: relative;
+
+            a {
+                padding: 0 2px;
+                line-height: 24px;
+                display: block;
+                position: relative;
+                font-weight: 500;
+
+                &:after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    width: 0;
+                    height: 1px;
+                    background-color: var(--rz-background-color-primary);
+                    transition: .5s;
+                    opacity: 0;
+                }
+
+                &:hover,
+                &.active {
+                    color: var( --rz-color-primary );
+
+                    &:after {
+                        opacity: 1;
+                        width: 100%;
+                    }
+                }
+            }
+
+            &:first-child {
+                padding-left: 0;
+            }
+            &:last-child {
+                padding-right: 0;
+            }
+        }
+    }
+
+    .tabs-content {
+        &.loading{
+           @include razzi-loading();
+
+           &:before {
+               z-index: 10;
+               top: 50%;
+               left: 50%;
+           }
+
+           &:after {
+               content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba( 255, 255, 255, .7 );
+                z-index: 5;
+           }
+        }
+    }
+
+    .tabs-header {
+        margin-bottom: 80px;
+    }
+
+    .tabs-panel {
+        min-height: 300px;
+
+        .tab-content.swiper-container {
+            position: static;
+        }
+
+		.razzi-loading {
+			position: absolute;
+            left: 50%;
+            top: 50%;
+			transform: translateX(-50%);
+		}
+
+		.razzi-tabs-button {
+            text-align: center;
+			opacity: 0;
+			visibility: hidden;
+		}
+
+		&.tab-loaded {
+            min-height: auto;
+
+			.razzi-tabs-button {
+				opacity: 1;
+				visibility: visible;
+            }
+        }
+    }
+
+    ul.swiper-wrapper {
+        margin: 0;
+        box-sizing: border-box;
+
+        li {
+            clear: none;
+            margin-bottom: 0;
+        }
+    }
+
+    &.razzi-swiper-carousel-elementor {
+        .rz-swiper-button {
+            position: fixed;
+            top: 85px;
+            width: auto;
+            height: auto;
+            z-index: 9;
+            font-size: 36px;
+        }
+
+        .rz-category-arrow-prev {
+            left: -113px;
+        }
+
+        .rz-category-arrow-next {
+            right: -113px;
+        }
+
+    }
+
+    .rz-category-arrow-prev {
+        left: 0;
+    }
+
+    .rz-category-arrow-next {
+        right: 0;
+    }
+
+    .swiper-button-disabled{
+        cursor: not-allowed;
+    }
+}

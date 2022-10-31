@@ -1,0 +1,21 @@
+.razzi-before-after-images{
+    padding: 0 100px;
+    opacity: 0;
+
+    .imageslide-handle{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 999999;
+    }
+
+    .razzi-icon{
+        font-size: 21px;
+    }
+
+    .rz-swiper-button{
+        font-size: 24px;
+        color: #cdcdcd;
+        background-color: transparent;
+    }
+}

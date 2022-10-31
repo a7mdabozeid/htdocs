@@ -1,0 +1,16 @@
+<svg width="113" height="22" viewBox="0 0 113 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="113" height="22" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 1C18.5227 1 23 5.47733 23 11C23 16.5227 18.5227 21 13 21C7.47733 21 3 16.5227 3 11C3 5.47733 7.47733 1 13 1V1Z" stroke="#1EB5FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.0005 14.9998L11.0005 10.9998L15.0005 6.99976" stroke="#1EB5FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 6.33334V15.6667" stroke="#1EB5FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.6666 11H32.3333" stroke="#1EB5FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37 1C42.5227 1 47 5.47733 47 11C47 16.5227 42.5227 21 37 21C31.4773 21 27 16.5227 27 11C27 5.47733 31.4773 1 37 1V1Z" stroke="#1EB5FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 2C64.9704 2 69 6.0296 69 11C69 15.9704 64.9704 20 60 20C55.0296 20 51 15.9704 51 11C51 6.0296 55.0296 2 60 2V2Z" fill="#1EB5FF"/>
+<path d="M60 6.80002V15.2" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64.2 11H55.8" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81 2C85.9704 2 90 6.0296 90 11C90 15.9704 85.9704 20 81 20C76.0296 20 72 15.9704 72 11C72 6.0296 76.0296 2 81 2V2Z" fill="#1EB5FF"/>
+<path d="M85.2 11H76.8" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81 2C85.9704 2 90 6.0296 90 11C90 15.9704 85.9704 20 81 20C76.0296 20 72 15.9704 72 11C72 6.0296 76.0296 2 81 2V2Z" fill="#1EB5FF"/>
+<path d="M85.2 11H76.8" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M102 20C97.0293 20 93 15.9707 93 11C93 6.0293 97.0293 2 102 2C106.971 2 111 6.0293 111 11C111 15.9707 106.971 20 102 20ZM101.1 10.1V15.5H102.9V10.1H101.1ZM101.1 6.5V8.3H102.9V6.5H101.1Z" fill="black"/>
+</svg>

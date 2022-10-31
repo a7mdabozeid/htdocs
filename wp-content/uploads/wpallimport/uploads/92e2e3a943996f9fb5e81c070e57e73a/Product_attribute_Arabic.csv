@@ -1,0 +1,616 @@
+"Term ID","Term Name","Term Slug",Description,Count,"Attribute Name","Attribute Slug","Attribute Type","Attribute Order by","Attribute Enable archives?"
+124,أزرق,%d8%a3%d8%b2%d8%b1%d9%82,,,Color,color,select,menu_order,1
+135,رمادي,%d8%b1%d9%85%d8%a7%d8%af%d9%8a,,,Color,color,select,menu_order,1
+148,"لون أخضر",%d9%84%d9%88%d9%86-%d8%a3%d8%ae%d8%b6%d8%b1,,4,Color,color,select,menu_order,1
+151,أحمر,%d8%a3%d8%ad%d9%85%d8%b1,,5,Color,color,select,menu_order,1
+159,أسود,%d8%a3%d8%b3%d9%88%d8%af,,,Color,color,select,menu_order,1
+160,أصفر,%d8%a3%d8%b5%d9%81%d8%b1,,3,Color,color,select,menu_order,1
+240,بني,%d8%a8%d9%86%d9%8a,,,Color,color,select,menu_order,1
+241,كريم,%d9%83%d8%b1%d9%8a%d9%85,,1,Color,color,select,menu_order,1
+242,"أحمر غامق",%d8%a3%d8%ad%d9%85%d8%b1-%d8%ba%d8%a7%d9%85%d9%82,,3,Color,color,select,menu_order,1
+243,"أحمر فاتح",%d8%a3%d8%ad%d9%85%d8%b1-%d9%81%d8%a7%d8%aa%d8%ad,,3,Color,color,select,menu_order,1
+244,"ازروق نافي",%d8%a7%d8%b2%d8%b1%d9%88%d9%82-%d9%86%d8%a7%d9%81%d9%8a,,3,Color,color,select,menu_order,1
+245,زهري,%d8%b2%d9%87%d8%b1%d9%8a,,2,Color,color,select,menu_order,1
+246,أبيض,%d8%a3%d8%a8%d9%8a%d8%b6,,4,Color,color,select,menu_order,1
+247,رجالي,%d8%b1%d8%ac%d8%a7%d9%84%d9%8a,,1,Generation,generation,select,menu_order,1
+248,L,l-ar,,,Size,size,select,menu_order,1
+249,M,m-ar,,,Size,size,select,menu_order,1
+250,S,s-ar,,,Size,size,select,menu_order,1
+251,XL,xl-ar,,,Size,size,select,menu_order,1
+393,"7 - 8",7-8-ar,,,Size,size,select,menu_order,1
+394,"9 - 10",9-10-ar,,,Size,size,select,menu_order,1
+395,"11 - 12",11-12-ar,,,Size,size,select,menu_order,1
+396,"13 - 14",13-14-ar,,,Size,size,select,menu_order,1
+397,"15 - 16",15-16-ar,,,Size,size,select,menu_order,1
+398,18.5,18-5-ar,,,Size,size,select,menu_order,1
+399,21.5,21-5-ar,,,Size,size,select,menu_order,1
+400,19,19-ar-2,,,Size,size,select,menu_order,1
+401,19.5,19-5-ar-2,,,Size,size,select,menu_order,1
+402,20.5,20-5-ar-2,,,Size,size,select,menu_order,1
+403,21,21-ar-2,,,Size,size,select,menu_order,1
+404,22.5,22-5-ar-2,,,Size,size,select,menu_order,1
+405,23,23-ar-2,,,Size,size,select,menu_order,1
+406,23.5,23-5-ar-2,,,Size,size,select,menu_order,1
+407,32,32-ar-2,,,Size,size,select,menu_order,1
+408,32M,32m-ar-2,,128,Size,size,select,menu_order,1
+409,32S,32s-ar-2,,142,Size,size,select,menu_order,1
+410,34M,34m-ar-2,,115,Size,size,select,menu_order,1
+411,34S,34s-ar-2,,151,Size,size,select,menu_order,1
+412,35S,35s-ar-2,,127,Size,size,select,menu_order,1
+413,36M,36m-ar-2,,119,Size,size,select,menu_order,1
+414,36S,36s-ar-2,,126,Size,size,select,menu_order,1
+415,37M,37m-ar-2,,112,Size,size,select,menu_order,1
+416,37S,37s-ar-2,,130,Size,size,select,menu_order,1
+417,38,38-ar-2,,,Size,size,select,menu_order,1
+418,38M,38m-ar-2,,124,Size,size,select,menu_order,1
+419,38S,38s-ar-2,,121,Size,size,select,menu_order,1
+420,39M,39m-ar-2,,112,Size,size,select,menu_order,1
+421,39S,39s-ar-2,,128,Size,size,select,menu_order,1
+422,40,40-ar-2,,,Size,size,select,menu_order,1
+423,40,40-ar-3,,,Size,size,select,menu_order,1
+424,40M,40m-ar-2,,126,Size,size,select,menu_order,1
+425,40S,40s-ar-2,,129,Size,size,select,menu_order,1
+426,41M,41m-ar-2,,170,Size,size,select,menu_order,1
+427,41S,41s-ar-2,,162,Size,size,select,menu_order,1
+428,42,42-ar-3,,2,Size,size,select,menu_order,1
+429,42,42-ar,,,Size,size,select,menu_order,1
+430,42M,42m-ar-2,,166,Size,size,select,menu_order,1
+431,42S,42s-ar-2,,144,Size,size,select,menu_order,1
+432,43M,43m-ar-2,,187,Size,size,select,menu_order,1
+433,43S,43s-ar-2,,142,Size,size,select,menu_order,1
+434,44,44-ar-2,,,Size,size,select,menu_order,1
+435,44M,44m-ar-2,,174,Size,size,select,menu_order,1
+436,44S,44s-ar-2,,133,Size,size,select,menu_order,1
+437,45M,45m-ar-2,,207,Size,size,select,menu_order,1
+438,45S,45s-ar-2,,138,Size,size,select,menu_order,1
+439,46M,46m-ar-3,,184,Size,size,select,menu_order,1
+440,46M,46m-ar,,,Size,size,select,menu_order,1
+441,46S,46s-ar,,139,Size,size,select,menu_order,1
+442,47M,47m-ar,,193,Size,size,select,menu_order,1
+443,47S,47s-ar,,152,Size,size,select,menu_order,1
+444,48L,48l-ar,,92,Size,size,select,menu_order,1
+445,48M,48m-ar,,199,Size,size,select,menu_order,1
+446,48S,48s-ar,,148,Size,size,select,menu_order,1
+447,48XL,48xl-ar,,11,Size,size,select,menu_order,1
+448,49/5.5,49-5-5-ar,,,Size,size,select,menu_order,1
+449,49S,49s-ar,,154,Size,size,select,menu_order,1
+450,49XL,49xl-ar,,19,Size,size,select,menu_order,1
+451,50/5,50-5-ar,,,Size,size,select,menu_order,1
+452,50/5.5,50-5-5-ar,,,Size,size,select,menu_order,1
+453,55XL,55xl-ar,,141,Size,size,select,menu_order,1
+454,56L,56l-ar,,127,Size,size,select,menu_order,1
+455,56S,56s-ar,,164,Size,size,select,menu_order,1
+456,56XL,56xl-ar,,149,Size,size,select,menu_order,1
+457,56XXL,56xxl-ar,,133,Size,size,select,menu_order,1
+458,56XXXL,56xxxl-ar,,2,Size,size,select,menu_order,1
+459,57L,57l-ar,,136,Size,size,select,menu_order,1
+460,57M,57m-ar,,145,Size,size,select,menu_order,1
+461,57S,57s-ar,,178,Size,size,select,menu_order,1
+462,57XL,57xl-ar,,136,Size,size,select,menu_order,1
+463,57XXL,57xxl-ar,,139,Size,size,select,menu_order,1
+464,57XXXL,57xxxl-ar,,7,Size,size,select,menu_order,1
+465,58L,58l-ar,,132,Size,size,select,menu_order,1
+466,58M,58m-ar,,139,Size,size,select,menu_order,1
+467,58S,58s-ar,,160,Size,size,select,menu_order,1
+468,58XL,58xl-ar,,148,Size,size,select,menu_order,1
+469,58XXL,58xxl-ar,,142,Size,size,select,menu_order,1
+470,58XXXL,58xxxl-ar,,29,Size,size,select,menu_order,1
+471,59L,59l-ar,,135,Size,size,select,menu_order,1
+472,59M,59m-ar,,139,Size,size,select,menu_order,1
+473,62XXXL,62xxxl-ar,,124,Size,size,select,menu_order,1
+474,64L,64l-ar,,114,Size,size,select,menu_order,1
+475,64M,64m-ar,,,Size,size,select,menu_order,1
+476,F.S,f-s,,,Size,size,select,menu_order,1
+477,XXL,xxl-ar,,,Size,size,select,menu_order,1
+478,50L,50l-ar,,136,Size,size,select,menu_order,1
+479,50M,50m-ar,,191,Size,size,select,menu_order,1
+480,50S,50s-ar,,142,Size,size,select,menu_order,1
+481,50XL,50xl-ar,,32,Size,size,select,menu_order,1
+482,51/5,51-5-ar,,,Size,size,select,menu_order,1
+483,51/5.5,51-5-5-ar,,,Size,size,select,menu_order,1
+484,51S,51s-ar,,151,Size,size,select,menu_order,1
+485,51XL,51xl-ar,,28,Size,size,select,menu_order,1
+486,52/5,52-5-ar,,,Size,size,select,menu_order,1
+487,52/5.5,52-5-5-ar,,,Size,size,select,menu_order,1
+488,52/6,52-6-ar,,,Size,size,select,menu_order,1
+489,52L,52l-ar,,123,Size,size,select,menu_order,1
+490,52M,52m-ar,,161,Size,size,select,menu_order,1
+491,52S,52s-ar,,133,Size,size,select,menu_order,1
+492,53/5,53-5-ar,,,Size,size,select,menu_order,1
+493,53/5.5,53-5-5-ar,,,Size,size,select,menu_order,1
+494,53M,53m-ar,,160,Size,size,select,menu_order,1
+495,53S,53s-ar,,169,Size,size,select,menu_order,1
+496,53XL,53xl-ar,,135,Size,size,select,menu_order,1
+497,54/5.5,54-5-5-ar,,,Size,size,select,menu_order,1
+498,54L,54l-ar,,134,Size,size,select,menu_order,1
+499,54M,54m-ar,,146,Size,size,select,menu_order,1
+500,54S,54s-ar,,174,Size,size,select,menu_order,1
+501,54XL,54xl-ar,,140,Size,size,select,menu_order,1
+502,54XXL,54xxl-ar,,12,Size,size,select,menu_order,1
+503,55L,55l-ar,,131,Size,size,select,menu_order,1
+504,55S,55s-ar,,173,Size,size,select,menu_order,1
+505,59S,59s-ar,,164,Size,size,select,menu_order,1
+506,59XL,59xl,,149,Size,size,select,menu_order,1
+507,59XXL,59xxl-ar,,153,Size,size,select,menu_order,1
+508,59XXXL,59xxxl-ar,,7,Size,size,select,menu_order,1
+509,60,60-ar,,,Size,size,select,menu_order,1
+510,60L,60l-ar,,133,Size,size,select,menu_order,1
+511,60M,60m-ar,,139,Size,size,select,menu_order,1
+512,60S,60s-ar,,148,Size,size,select,menu_order,1
+513,60XXL,60xxl-ar,,142,Size,size,select,menu_order,1
+514,60XXXL,60xxxl-ar,,128,Size,size,select,menu_order,1
+515,60XXXXL,60xxxxl-ar,,10,Size,size,select,menu_order,1
+516,61L,61l-ar,,139,Size,size,select,menu_order,1
+517,61M,61m-ar,,138,Size,size,select,menu_order,1
+518,61XL,61xl-ar,,142,Size,size,select,menu_order,1
+519,61XXL,61xxl-ar,,141,Size,size,select,menu_order,1
+520,62,62-ar,,,Size,size,select,menu_order,1
+521,62L,62l-ar,,158,Size,size,select,menu_order,1
+522,62M,62m-ar,,59,Size,size,select,menu_order,1
+523,62XL,62xl-ar,,148,Size,size,select,menu_order,1
+524,62XXL,62xxl-ar,,140,Size,size,select,menu_order,1
+525,اطفال,boys-ar,,,Generation,generation,select,menu_order,1
+526,شباب,%d8%b4%d8%a8%d8%a7%d8%a8,,4,Generation,generation,select,menu_order,1
+571,"طوق الصين",%d8%b7%d9%88%d9%82-%d8%a7%d9%84%d8%b5%d9%8a%d9%86,,1,"Collar type",collar-type,select,menu_order,1
+573,شحنة,%d8%b4%d8%ad%d9%86%d8%a9,,,Consignment,consignment,select,menu_order,1
+574,"غير شحنة",%d8%ba%d9%8a%d8%b1-%d8%b4%d8%ad%d9%86%d8%a9,,5,Consignment,consignment,select,menu_order,1
+576,"الأكمام عادي",%d8%a7%d9%84%d8%a3%d9%83%d9%85%d8%a7%d9%85-%d8%b9%d8%a7%d8%af%d9%8a,,,"Sleeves type",sleeves-type,select,menu_order,1
+580,آحرون,%d8%a2%d8%ad%d8%b1%d9%88%d9%86,,,"Collar type",collar-type,select,menu_order,1
+595,آخر,%d8%a2%d8%ae%d8%b1,,,"Collar type",collar-type,select,menu_order,1
+982,Ramadan,ramadan-ar,,344,"Collection name",collection-name,select,menu_order,1
+983,Thobe,thobe-ar,,345,"Item type",item-type,select,menu_order,1
+984,Others,others-ar,,344,"Placket shape",placket-shape,select,menu_order,1
+985,Others,others-ar,,344,"Placket tpe",placket-tpe,select,menu_order,1
+986,Others,others-ar,,344,"Pocket shape",pocket-shape,select,menu_order,1
+987,2020,2020-ar,,1,"Prime style",prime-style,select,menu_order,1
+996,NA,na-ar,,4,"Collar type",collar-type,select,menu_order,1
+997,اخرى,%d8%a7%d8%ae%d8%b1%d9%89,,344,"Collar type",collar-type,select,menu_order,1
+998,فرنسي,semi-french-collar-ar,,1,"Collar type",collar-type,select,menu_order,1
+999,كريم,%d9%83%d8%b1%d9%8a%d9%85-ar,,27,Color,color,select,menu_order,1
+1000,"غير شحنة",%d8%ba%d9%8a%d8%b1-%d8%b4%d8%ad%d9%86%d8%a9-ar,,345,Consignment,consignment,select,menu_order,1
+1001,رجال,%d8%b1%d8%ac%d8%a7%d9%84,,223,Generation,generation,select,menu_order,1
+1002,شباب,%d8%b4%d8%a8%d8%a7%d8%a8-ar,,202,Generation,generation,select,menu_order,1
+1003,طفل,%d8%b7%d9%81%d9%84,,89,Generation,generation,select,menu_order,1
+1004,أولاد,%d8%a3%d9%88%d9%84%d8%a7%d8%af,,130,Generation,generation,select,menu_order,1
+1005,7695,7695-ar,,2,"Prime style",prime-style,select,menu_order,1
+1006,متنوع,%d9%85%d8%aa%d9%86%d9%88%d8%b9,,225,Color,color,select,menu_order,1
+1007,64XXL,64xxl-ar,,54,Size,size,select,menu_order,1
+1008,7693,7693-ar,,2,"Prime style",prime-style,select,menu_order,1
+1009,7694,7694-ar,,2,"Prime style",prime-style,select,menu_order,1
+1010,حمامة,%d8%ad%d9%85%d8%a7%d9%85%d8%a9,,9,Color,color,select,menu_order,1
+1011,"24 م",24-%d9%85,,61,Size,size,select,menu_order,1
+1012,"35 م",35-%d9%85,,59,Size,size,select,menu_order,1
+1013,"28 م",28-%d9%85,,46,Size,size,select,menu_order,1
+1014,7697,7697-ar,,1,"Prime style",prime-style,select,menu_order,1
+1015,44L,44-%d9%84%d8%aa%d8%b1,,33,Size,size,select,menu_order,1
+1016,"26 م",26-%d9%85,,55,Size,size,select,menu_order,1
+1017,7696,7696-ar,,2,"Prime style",prime-style,select,menu_order,1
+1018,"49 م",49-%d9%85,,101,Size,size,select,menu_order,1
+1019,"24 ثانية",24-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,22,Size,size,select,menu_order,1
+1020,"52 اكس ال",52-%d8%a7%d9%83%d8%b3-%d8%a7%d9%84,,35,Size,size,select,menu_order,1
+1021,"30 م",30-%d9%85,,43,Size,size,select,menu_order,1
+1022,"53 لتر",53-%d9%84%d8%aa%d8%b1,,72,Size,size,select,menu_order,1
+1023,"51 م",51-%d9%85,,87,Size,size,select,menu_order,1
+1024,62XXXXL,62xxxxl-ar,,4,Size,size,select,menu_order,1
+1025,رمادي,%d8%b1%d9%85%d8%a7%d8%af%d9%8a-ar,,10,Color,color,select,menu_order,1
+1026,آحرون,%d8%a2%d8%ad%d8%b1%d9%88%d9%86,,344,"Sleeves type",sleeves-type,select,menu_order,1
+1027,"55 م",55-%d9%85,,82,Size,size,select,menu_order,1
+1028,45L,45l-ar,,38,Size,size,select,menu_order,1
+1029,7687,7687-ar,,2,"Prime style",prime-style,select,menu_order,1
+1030,"51 لتر",51-%d9%84%d8%aa%d8%b1,,74,Size,size,select,menu_order,1
+1031,"أزرق فاتح",%d8%a3%d8%b2%d8%b1%d9%82-%d9%81%d8%a7%d8%aa%d8%ad,,8,Color,color,select,menu_order,1
+1032,"56 م",56-%d9%85,,78,Size,size,select,menu_order,1
+1033,"28 ثانية",28-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,6,Size,size,select,menu_order,1
+1034,"60 اكس ال",60-%d8%a7%d9%83%d8%b3-%d8%a7%d9%84,,78,Size,size,select,menu_order,1
+1035,7688,7688-ar,,2,"Prime style",prime-style,select,menu_order,1
+1036,49L,49-%d9%84%d8%aa%d8%b1,,44,Size,size,select,menu_order,1
+1037,"64 XXXXL",64-xxxxl,,17,Size,size,select,menu_order,1
+1038,7692,7692-ar,,2,"Prime style",prime-style,select,menu_order,1
+1039,"64 اكس ال",64-%d8%a7%d9%83%d8%b3-%d8%a7%d9%84,,63,Size,size,select,menu_order,1
+1040,7689,7689-ar,,2,"Prime style",prime-style,select,menu_order,1
+1041,55XXL,55xxl-ar,,20,Size,size,select,menu_order,1
+1042,"26 ثانية",26-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,9,Size,size,select,menu_order,1
+1043,46L,46-%d9%84%d8%aa%d8%b1,,39,Size,size,select,menu_order,1
+1044,"غير متوفر",%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%81%d8%b1,,4,"Placket shape",placket-shape,select,menu_order,1
+1045,"غير متوفر",%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%81%d8%b1,,4,"Placket tpe",placket-tpe,select,menu_order,1
+1046,7698,7698-ar,,2,"Prime style",prime-style,select,menu_order,1
+1047,"غير متوفر",%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%81%d8%b1,,4,"Pocket shape",pocket-shape,select,menu_order,1
+1048,أبيض,%d8%a3%d8%a8%d9%8a%d8%b6-ar,,73,Color,color,select,menu_order,1
+1049,47XL,47-%d8%a7%d9%83%d8%b3-%d8%a7%d9%84,,3,Size,size,select,menu_order,1
+1050,"47 لتر",47-%d9%84%d8%aa%d8%b1,,35,Size,size,select,menu_order,1
+1051,"30 ثانية",30-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,4,Size,size,select,menu_order,1
+1052,7691,7691-ar,,2,"Prime style",prime-style,select,menu_order,1
+1053,"غير متوفر",%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%81%d8%b1,,4,"Sleeves type",sleeves-type,select,menu_order,1
+1054,7686,7686-ar,,2,"Prime style",prime-style,select,menu_order,1
+1055,7685,7685-ar,,2,"Prime style",prime-style,select,menu_order,1
+1056,7684,7684-ar,,2,"Prime style",prime-style,select,menu_order,1
+1057,7683,7683-ar,,2,"Prime style",prime-style,select,menu_order,1
+1058,7682,7682-ar,,2,"Prime style",prime-style,select,menu_order,1
+1059,7681,7681-ar,,2,"Prime style",prime-style,select,menu_order,1
+1060,7680,7680-ar,,1,"Prime style",prime-style,select,menu_order,1
+1061,7679,7679-ar,,2,"Prime style",prime-style,select,menu_order,1
+1062,7678,7678-ar,,2,"Prime style",prime-style,select,menu_order,1
+1063,7676,7676-ar,,2,"Prime style",prime-style,select,menu_order,1
+1064,7674,7674-ar,,2,"Prime style",prime-style,select,menu_order,1
+1065,7675,7675-ar,,2,"Prime style",prime-style,select,menu_order,1
+1066,"اللون البيج",%d8%a7%d9%84%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac,,10,Color,color,select,menu_order,1
+1067,7673,7673-ar,,2,"Prime style",prime-style,select,menu_order,1
+1068,أزرق,%d8%a3%d8%b2%d8%b1%d9%82-ar,,5,Color,color,select,menu_order,1
+1069,7672,7672-ar,,3,"Prime style",prime-style,select,menu_order,1
+1070,7671,7671-ar,,2,"Prime style",prime-style,select,menu_order,1
+1071,7670,7670-ar,,2,"Prime style",prime-style,select,menu_order,1
+1072,7669,7669-ar,,2,"Prime style",prime-style,select,menu_order,1
+1073,7665,7665-ar,,1,"Prime style",prime-style,select,menu_order,1
+1074,7666,7666-ar,,2,"Prime style",prime-style,select,menu_order,1
+1075,7660,7660-ar,,2,"Prime style",prime-style,select,menu_order,1
+1076,7661,7661-ar,,2,"Prime style",prime-style,select,menu_order,1
+1077,7659,7659-ar,,2,"Prime style",prime-style,select,menu_order,1
+1078,7667,7667-ar,,1,"Prime style",prime-style,select,menu_order,1
+1079,7668,7668-ar,,2,"Prime style",prime-style,select,menu_order,1
+1080,7658,7658-ar,,1,"Prime style",prime-style,select,menu_order,1
+1081,7657,7657-ar,,1,"Prime style",prime-style,select,menu_order,1
+1082,7655,7655-ar,,2,"Prime style",prime-style,select,menu_order,1
+1083,7656,7656-ar,,2,"Prime style",prime-style,select,menu_order,1
+1084,7653,7653-ar,,2,"Prime style",prime-style,select,menu_order,1
+1085,7647,7647-ar,,2,"Prime style",prime-style,select,menu_order,1
+1086,7648,7648-ar,,1,"Prime style",prime-style,select,menu_order,1
+1087,7649,7649-ar,,2,"Prime style",prime-style,select,menu_order,1
+1088,يبني,%d9%8a%d8%a8%d9%86%d9%8a,,2,Color,color,select,menu_order,1
+1089,7654,7654-ar,,2,"Prime style",prime-style,select,menu_order,1
+1090,7652,7652-ar,,2,"Prime style",prime-style,select,menu_order,1
+1091,7650,7650-ar,,1,"Prime style",prime-style,select,menu_order,1
+1092,7651,7651-ar,,1,"Prime style",prime-style,select,menu_order,1
+1093,7644,7644-ar,,2,"Prime style",prime-style,select,menu_order,1
+1094,7645,7645-ar,,2,"Prime style",prime-style,select,menu_order,1
+1095,"حلم الظلام",%d8%ad%d9%84%d9%85-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%85,,5,Color,color,select,menu_order,1
+1096,7638,7638-ar,,5,"Prime style",prime-style,select,menu_order,1
+1097,7639,7639-ar,,2,"Prime style",prime-style,select,menu_order,1
+1098,7640,7640-ar,,1,"Prime style",prime-style,select,menu_order,1
+1099,7646,7646-ar,,1,"Prime style",prime-style,select,menu_order,1
+1100,7623,7623-ar,,4,"Prime style",prime-style,select,menu_order,1
+1101,7624,7624-ar,,1,"Prime style",prime-style,select,menu_order,1
+1102,7625,7625-ar,,1,"Prime style",prime-style,select,menu_order,1
+1103,7626,7626-ar,,2,"Prime style",prime-style,select,menu_order,1
+1104,"53 XXXXL",53-xxxxl,,6,Size,size,select,menu_order,1
+1105,"54 XXXXL",54-xxxxl,,4,Size,size,select,menu_order,1
+1106,7641,7641-ar,,1,"Prime style",prime-style,select,menu_order,1
+1107,7633,7633-ar,,2,"Prime style",prime-style,select,menu_order,1
+1108,7634,7634-ar,,1,"Prime style",prime-style,select,menu_order,1
+1109,7635,7635-ar,,2,"Prime style",prime-style,select,menu_order,1
+1110,7636,7636-ar,,1,"Prime style",prime-style,select,menu_order,1
+1111,53XXL,53xxl-ar,,4,Size,size,select,menu_order,1
+1112,7629,7629-ar,,2,"Prime style",prime-style,select,menu_order,1
+1113,7627,7627-ar,,1,"Prime style",prime-style,select,menu_order,1
+1114,7628,7628-ar,,2,"Prime style",prime-style,select,menu_order,1
+1115,7618,7618-ar,,1,"Prime style",prime-style,select,menu_order,1
+1116,7620,7620-ar,,2,"Prime style",prime-style,select,menu_order,1
+1117,7630,7630-ar,,2,"Prime style",prime-style,select,menu_order,1
+1118,7632,7632-ar,,1,"Prime style",prime-style,select,menu_order,1
+1119,7614,7614-ar,,2,"Prime style",prime-style,select,menu_order,1
+1120,7615,7615-ar,,2,"Prime style",prime-style,select,menu_order,1
+1121,7616,7616-ar,,2,"Prime style",prime-style,select,menu_order,1
+1122,7617,7617-ar,,1,"Prime style",prime-style,select,menu_order,1
+1123,7610,7610-ar,,4,"Prime style",prime-style,select,menu_order,1
+1124,7612,7612-ar,,2,"Prime style",prime-style,select,menu_order,1
+1125,رماد,%d8%b1%d9%85%d8%a7%d8%af,,1,Color,color,select,menu_order,1
+1126,7613,7613-ar,,2,"Prime style",prime-style,select,menu_order,1
+1127,7608,7608-ar,,2,"Prime style",prime-style,select,menu_order,1
+1128,7609,7609-ar,,2,"Prime style",prime-style,select,menu_order,1
+1129,7607,7607-ar,,1,"Prime style",prime-style,select,menu_order,1
+1130,7603,7603-ar,,2,"Prime style",prime-style,select,menu_order,1
+1131,7604,7604-ar,,1,"Prime style",prime-style,select,menu_order,1
+1132,7552,7552-ar,,1,"Prime style",prime-style,select,menu_order,1
+1133,6812,6812-ar,,1,"Prime style",prime-style,select,menu_order,1
+1134,"23 ثانية",23-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,2,Size,size,select,menu_order,1
+1135,"البحريه الزرقاء",%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87-%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7%d8%a1,,6,Color,color,select,menu_order,1
+1136,6811,6811-ar,,1,"Prime style",prime-style,select,menu_order,1
+1137,"25 م",25-%d9%85,,2,Size,size,select,menu_order,1
+1138,6810,6810-ar,,1,"Prime style",prime-style,select,menu_order,1
+1139,6809,6809-ar,,1,"Prime style",prime-style,select,menu_order,1
+1140,6807,6807-ar,,3,"Prime style",prime-style,select,menu_order,1
+1141,"23 م",23-%d9%85,,2,Size,size,select,menu_order,1
+1142,"31 ثانية",31-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,1,Size,size,select,menu_order,1
+1143,5200,5200-ar,,1,"Prime style",prime-style,select,menu_order,1
+1144,بني,%d8%a8%d9%86%d9%8a-ar,,8,Color,color,select,menu_order,1
+1145,2999,2999-ar,,1,"Prime style",prime-style,select,menu_order,1
+1146,7605,7605-ar,,1,"Prime style",prime-style,select,menu_order,1
+1147,7606,7606-ar,,2,"Prime style",prime-style,select,menu_order,1
+1148,7602,7602-ar,,2,"Prime style",prime-style,select,menu_order,1
+1149,7601,7601-ar,,2,"Prime style",prime-style,select,menu_order,1
+1150,"25 ثانية",25-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,1,Size,size,select,menu_order,1
+1151,6822,6822-ar,,1,"Prime style",prime-style,select,menu_order,1
+1152,7533,7533-ar,,1,"Prime style",prime-style,select,menu_order,1
+1153,2998,2998-ar,,1,"Prime style",prime-style,select,menu_order,1
+1154,أسود,%d8%a3%d8%b3%d9%88%d8%af-ar,,8,Color,color,select,menu_order,1
+1155,2997,2997-ar,,1,"Prime style",prime-style,select,menu_order,1
+1156,"آيفي جرين",%d8%a2%d9%8a%d9%81%d9%8a-%d8%ac%d8%b1%d9%8a%d9%86,,7,Color,color,select,menu_order,1
+1157,2996,2996-ar,,1,"Prime style",prime-style,select,menu_order,1
+1158,2995,2995-ar,,1,"Prime style",prime-style,select,menu_order,1
+1159,2993,2993-ar,,1,"Prime style",prime-style,select,menu_order,1
+1160,2989,2989-ar,,1,"Prime style",prime-style,select,menu_order,1
+1161,2990,2990-ar,,1,"Prime style",prime-style,select,menu_order,1
+1162,2991,2991-ar,,1,"Prime style",prime-style,select,menu_order,1
+1163,2988,2988-ar,,1,"Prime style",prime-style,select,menu_order,1
+1164,2987,2987-ar,,1,"Prime style",prime-style,select,menu_order,1
+1165,2980,2980-ar,,1,"Prime style",prime-style,select,menu_order,1
+1166,2979,2979-ar,,1,"Prime style",prime-style,select,menu_order,1
+1167,2977,2977-ar,,1,"Prime style",prime-style,select,menu_order,1
+1168,2978,2978-ar,,1,"Prime style",prime-style,select,menu_order,1
+1169,64XXXXL,64xxxxl-ar,,1,Size,size,select,menu_order,1
+1170,2974,2974-ar,,1,"Prime style",prime-style,select,menu_order,1
+1171,2986,2986-ar,,1,"Prime style",prime-style,select,menu_order,1
+1172,2985,2985-ar,,1,"Prime style",prime-style,select,menu_order,1
+1173,2983,2983-ar,,1,"Prime style",prime-style,select,menu_order,1
+1174,2982,2982-ar,,1,"Prime style",prime-style,select,menu_order,1
+1175,2981,2981-ar,,1,"Prime style",prime-style,select,menu_order,1
+1176,2976,2976-ar,,1,"Prime style",prime-style,select,menu_order,1
+1177,2975,2975-ar,,1,"Prime style",prime-style,select,menu_order,1
+1178,2972,2972-ar,,1,"Prime style",prime-style,select,menu_order,1
+1179,2971,2971-ar,,1,"Prime style",prime-style,select,menu_order,1
+1180,2970,2970-ar,,1,"Prime style",prime-style,select,menu_order,1
+1181,2969,2969-ar,,1,"Prime style",prime-style,select,menu_order,1
+1182,2967,2967-ar,,1,"Prime style",prime-style,select,menu_order,1
+1183,2966,2966-ar,,1,"Prime style",prime-style,select,menu_order,1
+1184,2965,2965-ar,,1,"Prime style",prime-style,select,menu_order,1
+1185,2964,2964-ar,,1,"Prime style",prime-style,select,menu_order,1
+1186,2963,2963-ar,,1,"Prime style",prime-style,select,menu_order,1
+1187,2962,2962-ar,,1,"Prime style",prime-style,select,menu_order,1
+1188,2961,2961-ar,,1,"Prime style",prime-style,select,menu_order,1
+1189,2960,2960-ar,,1,"Prime style",prime-style,select,menu_order,1
+1190,2959,2959-ar,,1,"Prime style",prime-style,select,menu_order,1
+1191,2950,2950-ar,,1,"Prime style",prime-style,select,menu_order,1
+1192,2951,2951-ar,,1,"Prime style",prime-style,select,menu_order,1
+1193,2952,2952-ar,,1,"Prime style",prime-style,select,menu_order,1
+1194,2953,2953-ar,,1,"Prime style",prime-style,select,menu_order,1
+1195,2948,2948-ar,,1,"Prime style",prime-style,select,menu_order,1
+1196,2958,2958-ar,,1,"Prime style",prime-style,select,menu_order,1
+1197,2957,2957-ar,,1,"Prime style",prime-style,select,menu_order,1
+1198,2955,2955-ar,,1,"Prime style",prime-style,select,menu_order,1
+1199,2954,2954-ar,,1,"Prime style",prime-style,select,menu_order,1
+1200,2949,2949-ar,,1,"Prime style",prime-style,select,menu_order,1
+1201,2947,2947-ar,,1,"Prime style",prime-style,select,menu_order,1
+1202,2945,2945-ar,,1,"Prime style",prime-style,select,menu_order,1
+1203,2944,2944-ar,,1,"Prime style",prime-style,select,menu_order,1
+1204,2943,2943-ar,,1,"Prime style",prime-style,select,menu_order,1
+1205,2942,2942-ar,,1,"Prime style",prime-style,select,menu_order,1
+1206,2940,2940-ar,,1,"Prime style",prime-style,select,menu_order,1
+1207,2941,2941-ar,,1,"Prime style",prime-style,select,menu_order,1
+1208,2933,2933-ar,,1,"Prime style",prime-style,select,menu_order,1
+1209,2939,2939-ar,,1,"Prime style",prime-style,select,menu_order,1
+1210,2937,2937-ar,,1,"Prime style",prime-style,select,menu_order,1
+1211,2935,2935-ar,,1,"Prime style",prime-style,select,menu_order,1
+1212,2932,2932-ar,,1,"Prime style",prime-style,select,menu_order,1
+1213,2929,2929-ar,,1,"Prime style",prime-style,select,menu_order,1
+1214,2909,2909-ar,,1,"Prime style",prime-style,select,menu_order,1
+1215,2907,2907-ar,,1,"Prime style",prime-style,select,menu_order,1
+1216,2903,2903-ar,,1,"Prime style",prime-style,select,menu_order,1
+1217,2922,2922-ar,,1,"Prime style",prime-style,select,menu_order,1
+1218,2924,2924-ar,,1,"Prime style",prime-style,select,menu_order,1
+1219,2927,2927-ar,,1,"Prime style",prime-style,select,menu_order,1
+1220,2928,2928-ar,,1,"Prime style",prime-style,select,menu_order,1
+1221,2893,2893-ar,,1,"Prime style",prime-style,select,menu_order,1
+1222,2897,2897-ar,,1,"Prime style",prime-style,select,menu_order,1
+1223,2898,2898-ar,,1,"Prime style",prime-style,select,menu_order,1
+1224,2899,2899-ar,,1,"Prime style",prime-style,select,menu_order,1
+1225,2901,2901-ar,,1,"Prime style",prime-style,select,menu_order,1
+1226,2889,2889-ar,,1,"Prime style",prime-style,select,menu_order,1
+1227,2885,2885-ar,,1,"Prime style",prime-style,select,menu_order,1
+1228,2859,2859-ar,,1,"Prime style",prime-style,select,menu_order,1
+1229,2851,2851-ar,,1,"Prime style",prime-style,select,menu_order,1
+1230,2858,2858-ar,,1,"Prime style",prime-style,select,menu_order,1
+1231,2848,2848-ar,,1,"Prime style",prime-style,select,menu_order,1
+1232,2835,2835-ar,,1,"Prime style",prime-style,select,menu_order,1
+1233,2829,2829-ar,,1,"Prime style",prime-style,select,menu_order,1
+1234,2818,2818-ar,,1,"Prime style",prime-style,select,menu_order,1
+1235,"33 ثانية",33-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9,,1,Size,size,select,menu_order,1
+1236,2808,2808-ar,,1,"Prime style",prime-style,select,menu_order,1
+1237,2807,2807-ar,,1,"Prime style",prime-style,select,menu_order,1
+1238,2805,2805-ar,,1,"Prime style",prime-style,select,menu_order,1
+1239,276,276-ar,,1,"Prime style",prime-style,select,menu_order,1
+1240,2555,2555-ar,,1,"Prime style",prime-style,select,menu_order,1
+1241,235,235-ar,,1,"Prime style",prime-style,select,menu_order,1
+1242,2551,2551-ar,,1,"Prime style",prime-style,select,menu_order,1
+1243,37,37-ar,,1,Size,size,select,menu_order,1
+1244,2552,2552-ar,,1,"Prime style",prime-style,select,menu_order,1
+1245,2553,2553-ar,,1,"Prime style",prime-style,select,menu_order,1
+1246,2554,2554-ar,,1,"Prime style",prime-style,select,menu_order,1
+1247,2311,2311-ar,,1,"Prime style",prime-style,select,menu_order,1
+1248,2310,2310-ar,,1,"Prime style",prime-style,select,menu_order,1
+1249,2307,2307-ar,,1,"Prime style",prime-style,select,menu_order,1
+1250,2306,2306-ar,,1,"Prime style",prime-style,select,menu_order,1
+1251,230,230-ar,,1,"Prime style",prime-style,select,menu_order,1
+1252,229,229-ar,,1,"Prime style",prime-style,select,menu_order,1
+1253,2290,2290-ar,,1,"Prime style",prime-style,select,menu_order,1
+1254,2289,2289-ar,,1,"Prime style",prime-style,select,menu_order,1
+1255,2288,2288-ar,,1,"Prime style",prime-style,select,menu_order,1
+1256,2287,2287-ar,,1,"Prime style",prime-style,select,menu_order,1
+1257,2282,2282-ar,,1,"Prime style",prime-style,select,menu_order,1
+1258,228,228-ar,,1,"Prime style",prime-style,select,menu_order,1
+1259,227,227-ar,,1,"Prime style",prime-style,select,menu_order,1
+1260,"خريف وشتاء",%d8%ae%d8%b1%d9%8a%d9%81-%d9%88%d8%b4%d8%aa%d8%a7%d8%a1,,3,"Collection name",collection-name,select,menu_order,1
+1261,226,226-ar,,2,"Prime style",prime-style,select,menu_order,1
+1262,61XXXXL,61xxxxl-ar,,3,Size,size,select,menu_order,1
+1263,"55 XXXXL",55-xxxxl,,1,Size,size,select,menu_order,1
+1264,225,225-ar,,2,"Prime style",prime-style,select,menu_order,1
+1265,220,220-ar,,1,"Prime style",prime-style,select,menu_order,1
+1266,222,222-ar,,1,"Prime style",prime-style,select,menu_order,1
+1267,223,223-ar,,1,"Prime style",prime-style,select,menu_order,1
+1268,224,224-ar,,1,"Prime style",prime-style,select,menu_order,1
+1269,2156,2156-ar,,1,"Prime style",prime-style,select,menu_order,1
+1270,2155,2155-ar,,1,"Prime style",prime-style,select,menu_order,1
+1271,2154,2154-ar,,1,"Prime style",prime-style,select,menu_order,1
+1272,2153,2153-ar,,1,"Prime style",prime-style,select,menu_order,1
+1273,215,215-ar,,1,"Prime style",prime-style,select,menu_order,1
+1274,2150,2150-ar,,1,"Prime style",prime-style,select,menu_order,1
+1275,2145,2145-ar,,1,"Prime style",prime-style,select,menu_order,1
+1276,2144,2144-ar,,,"Prime style",prime-style,select,menu_order,1
+1277,2149,2149-ar,,1,"Prime style",prime-style,select,menu_order,1
+1278,2148,2148-ar,,1,"Prime style",prime-style,select,menu_order,1
+1279,2147,2147-ar,,1,"Prime style",prime-style,select,menu_order,1
+1280,2146,2146-ar,,1,"Prime style",prime-style,select,menu_order,1
+1281,"الياقة شبه الفرنسية",%d8%a7%d9%84%d9%8a%d8%a7%d9%82%d8%a9-%d8%b4%d8%a8%d9%87-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9,,1,"Collection name",collection-name,select,menu_order,1
+1282,"ساحة بلاكيت",%d8%b3%d8%a7%d8%ad%d8%a9-%d8%a8%d9%84%d8%a7%d9%83%d9%8a%d8%aa,,1,"Placket shape",placket-shape,select,menu_order,1
+1283,"سحاب مخفي",%d8%b3%d8%ad%d8%a7%d8%a8-%d9%85%d8%ae%d9%81%d9%8a,,1,"Placket tpe",placket-tpe,select,menu_order,1
+1284,"الجيب المخفي",%d8%a7%d9%84%d8%ac%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d9%81%d9%8a,,1,"Pocket shape",pocket-shape,select,menu_order,1
+1285,2022,2022-ar,,1,"Prime style",prime-style,select,menu_order,1
+1286,"الأكمام الكفة الموضة",%d8%a7%d9%84%d8%a3%d9%83%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%83%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b6%d8%a9,,1,"Sleeves type",sleeves-type,select,menu_order,1
+1287,2021,2021-ar,,1,"Prime style",prime-style,select,menu_order,1
+1288,2019,2019-ar,,1,"Prime style",prime-style,select,menu_order,1
+1289,2018,2018-ar,,1,"Prime style",prime-style,select,menu_order,1
+1290,2017,2017-ar,,1,"Prime style",prime-style,select,menu_order,1
+1291,2139,2139-ar,,1,"Prime style",prime-style,select,menu_order,1
+1292,2138,2138-ar,,1,"Prime style",prime-style,select,menu_order,1
+1293,2137,2137-ar,,1,"Prime style",prime-style,select,menu_order,1
+1294,2136,2136-ar,,1,"Prime style",prime-style,select,menu_order,1
+1295,2135,2135-ar,,,"Prime style",prime-style,select,menu_order,1
+1297,2120,2120-ar,,1,"Prime style",prime-style,select,menu_order,1
+1298,2132,2132-ar,,1,"Prime style",prime-style,select,menu_order,1
+1299,2131,2131-ar,,1,"Prime style",prime-style,select,menu_order,1
+1300,2124,2124-ar,,1,"Prime style",prime-style,select,menu_order,1
+1301,2123,2123-ar,,1,"Prime style",prime-style,select,menu_order,1
+1302,2121,2121-ar,,1,"Prime style",prime-style,select,menu_order,1
+1305,32M,32m,,1,Size,size,select,menu_order,1
+1306,32S,32s,,1,Size,size,select,menu_order,1
+1307,34M,34m,,1,Size,size,select,menu_order,1
+1308,34S,34s,,1,Size,size,select,menu_order,1
+1309,36S,36s,,1,Size,size,select,menu_order,1
+1310,39S,39s,,1,Size,size,select,menu_order,1
+1311,41S,41s,,1,Size,size,select,menu_order,1
+1312,42M,42m,,1,Size,size,select,menu_order,1
+1313,42S,42s,,1,Size,size,select,menu_order,1
+1314,43M,43m,,1,Size,size,select,menu_order,1
+1315,44M,44m,,1,Size,size,select,menu_order,1
+1316,44S,44s,,1,Size,size,select,menu_order,1
+1317,45M,45m,,1,Size,size,select,menu_order,1
+1318,46M,46m,,1,Size,size,select,menu_order,1
+1319,47M,47m,,1,Size,size,select,menu_order,1
+1320,47S,47s,,1,Size,size,select,menu_order,1
+1321,48L,48l,,1,Size,size,select,menu_order,1
+1322,48M,48m,,1,Size,size,select,menu_order,1
+1323,48S,48s,,1,Size,size,select,menu_order,1
+1324,48XL,48xl,,1,Size,size,select,menu_order,1
+1325,49S,49s,,1,Size,size,select,menu_order,1
+1326,50L,50l,,1,Size,size,select,menu_order,1
+1327,50M,50m,,1,Size,size,select,menu_order,1
+1328,50S,50s,,1,Size,size,select,menu_order,1
+1329,51S,51s,,1,Size,size,select,menu_order,1
+1330,51XL,51xl,,1,Size,size,select,menu_order,1
+1331,52M,52m,,1,Size,size,select,menu_order,1
+1359,35S,35s,,1,Size,size,select,menu_order,1
+1360,36M,36m,,1,Size,size,select,menu_order,1
+1361,37S,37s,,1,Size,size,select,menu_order,1
+1362,38M,38m,,1,Size,size,select,menu_order,1
+1363,39M,39m,,1,Size,size,select,menu_order,1
+1369,59XXXL,59xxxl,,1,Size,size,select,menu_order,1
+1371,37M,37m,,1,Size,size,select,menu_order,1
+1372,38S,38s,,1,Size,size,select,menu_order,1
+1373,40M,40m,,1,Size,size,select,menu_order,1
+1374,40S,40s,,1,Size,size,select,menu_order,1
+1375,41M,41m,,1,Size,size,select,menu_order,1
+1376,43S,43s,,1,Size,size,select,menu_order,1
+1377,45S,45s,,1,Size,size,select,menu_order,1
+1378,46S,46s,,1,Size,size,select,menu_order,1
+1379,49XL,49xl,,1,Size,size,select,menu_order,1
+1380,52L,52l,,1,Size,size,select,menu_order,1
+1381,52S,52s,,1,Size,size,select,menu_order,1
+1382,53M,53m,,1,Size,size,select,menu_order,1
+1383,53S,53s,,1,Size,size,select,menu_order,1
+1384,53XL,53xl,,1,Size,size,select,menu_order,1
+1385,54L,54l,,1,Size,size,select,menu_order,1
+1386,54M,54m,,1,Size,size,select,menu_order,1
+1387,54S,54s,,1,Size,size,select,menu_order,1
+1388,54XL,54xl,,1,Size,size,select,menu_order,1
+1389,55L,55l,,1,Size,size,select,menu_order,1
+1390,55S,55s,,1,Size,size,select,menu_order,1
+1391,55XL,55xl,,1,Size,size,select,menu_order,1
+1392,56L,56l,,1,Size,size,select,menu_order,1
+1393,56S,56s,,1,Size,size,select,menu_order,1
+1394,56XL,56xl,,1,Size,size,select,menu_order,1
+1395,56XXL,56xxl,,1,Size,size,select,menu_order,1
+1396,57L,57l,,1,Size,size,select,menu_order,1
+1397,57M,57m,,1,Size,size,select,menu_order,1
+1398,57S,57s,,1,Size,size,select,menu_order,1
+1399,57XL,57xl,,1,Size,size,select,menu_order,1
+1400,57XXL,57xxl,,1,Size,size,select,menu_order,1
+1401,57XXXL,57xxxl,,1,Size,size,select,menu_order,1
+1402,58L,58l,,1,Size,size,select,menu_order,1
+1403,58M,58m,,1,Size,size,select,menu_order,1
+1404,58S,58s,,1,Size,size,select,menu_order,1
+1405,58XL,58xl,,1,Size,size,select,menu_order,1
+1406,58XXL,58xxl,,1,Size,size,select,menu_order,1
+1407,58XXXL,58xxxl,,1,Size,size,select,menu_order,1
+1408,59L,59l,,1,Size,size,select,menu_order,1
+1409,59M,59m,,1,Size,size,select,menu_order,1
+1410,59S,59s,,1,Size,size,select,menu_order,1
+1411,59XL,59xl-2,,1,Size,size,select,menu_order,1
+1412,59XXL,59xxl,,1,Size,size,select,menu_order,1
+1413,60L,60l,,1,Size,size,select,menu_order,1
+1414,60M,60m,,1,Size,size,select,menu_order,1
+1415,60S,60s,,1,Size,size,select,menu_order,1
+1416,60XXL,60xxl,,1,Size,size,select,menu_order,1
+1417,60XXXL,60xxxl,,1,Size,size,select,menu_order,1
+1418,60XXXXL,60xxxxl,,1,Size,size,select,menu_order,1
+1419,61L,61l,,1,Size,size,select,menu_order,1
+1420,61M,61m,,1,Size,size,select,menu_order,1
+1421,61XL,61xl,,1,Size,size,select,menu_order,1
+1422,61XXL,61xxl,,1,Size,size,select,menu_order,1
+1423,62L,62l,,1,Size,size,select,menu_order,1
+1424,62XL,62xl,,1,Size,size,select,menu_order,1
+1425,62XXL,62xxl,,1,Size,size,select,menu_order,1
+1426,62XXXL,62xxxl,,1,Size,size,select,menu_order,1
+1427,64L,64l,,1,Size,size,select,menu_order,1
+1485,62M,62m,,1,Size,size,select,menu_order,1
+1509,2001,2001-ar,,1,"Prime style",prime-style,select,menu_order,1
+1510,2002,2002-ar,,1,"Prime style",prime-style,select,menu_order,1
+1511,2006,2006-ar,,1,"Prime style",prime-style,select,menu_order,1
+1512,2005,2005-ar,,1,"Prime style",prime-style,select,menu_order,1
+1513,2007,2007-ar,,1,"Prime style",prime-style,select,menu_order,1
+1514,2008,2008-ar,,1,"Prime style",prime-style,select,menu_order,1
+1561,210,210-ar,,1,"Prime style",prime-style,select,menu_order,1
+1562,2115,2115-ar,,,"Prime style",prime-style,select,menu_order,1
+1563,2112,2112-ar,,,"Prime style",prime-style,select,menu_order,1
+1564,2111,2111-ar,,,"Prime style",prime-style,select,menu_order,1
+1565,2110,2110-ar,,,"Prime style",prime-style,select,menu_order,1
+1566,2108,2108-ar,,,"Prime style",prime-style,select,menu_order,1
+1567,2107,2107-ar,,,"Prime style",prime-style,select,menu_order,1
+1568,2106,2106-ar,,2,"Prime style",prime-style,select,menu_order,1
+1569,2104,2104-ar,,1,"Prime style",prime-style,select,menu_order,1
+1570,2103,2103-ar,,1,"Prime style",prime-style,select,menu_order,1
+1571,2102,2102-ar,,1,"Prime style",prime-style,select,menu_order,1
+1572,2032,2032-ar,,1,"Prime style",prime-style,select,menu_order,1
+1573,2023,2023-ar,,1,"Prime style",prime-style,select,menu_order,1
+1574,2016,2016-ar,,2,"Prime style",prime-style,select,menu_order,1
+1575,2015,2015-ar,,1,"Prime style",prime-style,select,menu_order,1
+1576,2014,2014-ar,,1,"Prime style",prime-style,select,menu_order,1
+1577,2011,2011-ar,,1,"Prime style",prime-style,select,menu_order,1
+1578,2012,2012-ar,,1,"Prime style",prime-style,select,menu_order,1
+1579,2013,2013-ar,,1,"Prime style",prime-style,select,menu_order,1
+1580,2010,2010-ar,,1,"Prime style",prime-style,select,menu_order,1
+1581,2009,2009-ar,,1,"Prime style",prime-style,select,menu_order,1
+1582,2284,2284-ar,,1,"Prime style",prime-style,select,menu_order,1
+1583,2285,2285-ar,,1,"Prime style",prime-style,select,menu_order,1
+1584,2286,2286-ar,,1,"Prime style",prime-style,select,menu_order,1
+1585,2309,2309-ar,,1,"Prime style",prime-style,select,menu_order,1
+1586,2717,2717-ar,,1,"Prime style",prime-style,select,menu_order,1
+1587,2819,2819-ar,,1,"Prime style",prime-style,select,menu_order,1
+1588,9902,9902-ar,,1,"Prime style",prime-style,select,menu_order,1
+1597,2283,2283-ar,,1,"Prime style",prime-style,select,menu_order,1
+1598,2281,2281-ar,,1,"Prime style",prime-style,select,menu_order,1
+1599,2278,2278-ar,,1,"Prime style",prime-style,select,menu_order,1
+1600,2263,2263-ar,,1,"Prime style",prime-style,select,menu_order,1
+1601,2220,2220-ar,,1,"Prime style",prime-style,select,menu_order,1
+1602,2219,2219-ar,,1,"Prime style",prime-style,select,menu_order,1
+1603,2218,2218-ar,,1,"Prime style",prime-style,select,menu_order,1
+1604,2196,2196-ar,,1,"Prime style",prime-style,select,menu_order,1
+1605,2165,2165-ar,,1,"Prime style",prime-style,select,menu_order,1
+1606,2143,2143-ar,,,"Prime style",prime-style,select,menu_order,1
+1607,2142,2142-ar,,,"Prime style",prime-style,select,menu_order,1
+1608,2141,2141-ar,,,"Prime style",prime-style,select,menu_order,1
+1609,2140,2140-ar,,,"Prime style",prime-style,select,menu_order,1
+1610,2135,2135-ar-2,,,"Prime style",prime-style,select,menu_order,1
+1611,2133,2133-ar,,,"Prime style",prime-style,select,menu_order,1
+1612,2130,2130-ar,,,"Prime style",prime-style,select,menu_order,1
+1613,2129,2129-ar,,,"Prime style",prime-style,select,menu_order,1
+1614,2127,2127-ar,,,"Prime style",prime-style,select,menu_order,1
+1615,2126,2126-ar,,,"Prime style",prime-style,select,menu_order,1
+1616,2125,2125-ar,,,"Prime style",prime-style,select,menu_order,1

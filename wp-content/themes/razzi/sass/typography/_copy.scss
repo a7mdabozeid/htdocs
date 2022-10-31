@@ -1,0 +1,74 @@
+p {
+	margin-bottom: 1.5em;
+}
+
+dfn, cite, em, i {
+	font-style: italic;
+}
+
+blockquote {
+	@include font-size(20/16);
+	line-height: (30/20);
+	color: var(--rz-color-dark);
+	padding: 20px 30px;
+	border-left: 3px solid var(--rz-color-primary);
+	margin-left: 35px;
+
+	p{
+		margin: 0 0 10px;
+	}
+
+	cite {
+		font-size: 14px;
+		display: block;
+		color: #838889;
+
+		a{
+			color: inherit;
+		}
+	}
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background-color: #eee;
+	font-family: var(--rz-font-family-pre);
+	font-size: 13px;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code, kbd, tt, var {
+	font-family: var(--rz-font-family-code);
+	font-size: 13px;
+}
+
+code{
+	padding: 2px 4px;
+    color: #c7254e;
+    background-color: #f9f2f4;
+}
+
+abbr, acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark, ins {
+	background-color: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+pre.wp-block-verse {
+	font-family: var(--rz-font-family-pre);
+}

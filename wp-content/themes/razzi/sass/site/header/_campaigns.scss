@@ -1,0 +1,40 @@
+.site-header .campaign-bar {
+	height: 50px;
+
+	> * {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}
+
+.site-header.transparent ~ .campaign-bar {
+	display: none;
+}
+
+.site-header.light ~ .campaign-bar {
+	padding-top: 0;
+}
+
+.campaign-bar__campaigns {
+	display: flex;
+	height: 100%;
+
+	.razzi-promotion {
+		flex: 1;
+		background-position: center center;
+		background-size: cover;
+		height: 100%;
+		padding: 5px 20px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-weight: 500;
+		font-size: 13px;
+		line-height: 19px;
+		letter-spacing: 0.02em;
+		text-transform: uppercase;
+		color: var( --rz-color-dark );
+	}
+}

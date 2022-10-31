@@ -1,0 +1,32 @@
+.wp-list-table .razzi_product_tab_type-default .check-column input[type="checkbox"] {
+	display: none;
+}
+
+.wp-list-table .razzi_product_tab_type-default .row-actions > *:not('.inline') {
+	display: none;
+}
+
+.post-type-razzi_product_tab .wp-list-table .column-date {
+	display: none;
+}
+
+.wp-list-table .inline-edit-razzi_product_tab .inline-edit-status,
+.wp-list-table .inline-edit-razzi_product_tab .inline-edit-date,
+.wp-list-table .inline-edit-razzi_product_tab .inline-edit-group {
+	display: none;
+}
+
+.razzi-product-tabs-settings .form-field > label {
+	min-width: 150px;
+	font-weight: 500;
+	display: inline-block;
+}
+
+.razzi-product-tabs-settings .razzi-product-tabs--type > label {
+	padding-right: 30px;
+}
+
+.razzi-product-tabs-settings .razzi-product-tabs--categories,
+.razzi-product-tabs-settings .razzi-product-tabs--product {
+	display: none;
+}

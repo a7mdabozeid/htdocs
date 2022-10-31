@@ -1,0 +1,776 @@
+# Copyright (C) 2022 Rymera Web Co
+# This file is distributed under the same license as the Advanced Gift Cards for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Gift Cards for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advanced-gift-"
+"cards-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-09 09:42+0800\n"
+"PO-Revision-Date: 2022-06-09 09:43+0800\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: advanced-gift-cards-for-woocommerce\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_html__\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .hg\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: js/lib\n"
+"X-Poedit-SearchPathExcluded-3: js/app\n"
+
+#: Helpers/Helper_Functions.php:326 REST_API/API_Advanced_Gift_Cards.php:185
+msgid "Sorry, you are not allowed access to this endpoint."
+msgstr "Vous n’êtes pas autorisé à accéder ce permalien."
+
+#: Models/Admin.php:152 Models/Script_Loader.php:246
+msgid "Advanced Gift Cards Redeem Form"
+msgstr "Formulaire d'échange de cartes cadeaux"
+
+#: Models/Admin.php:153 Models/Script_Loader.php:247
+msgid "Display the redeem form for advanced gift cards."
+msgstr "Affiche le formulaire d’échange d’Advanced gift cards."
+
+#: Models/Admin.php:158 Models/Redeem.php:360 Models/Script_Loader.php:249
+#: templates/checkout/agcfw-redeem-gift-card.php:4
+msgid "Redeem a gift card?"
+msgstr "Échanger une carte cadeau ?"
+
+#: Models/Admin.php:162 Models/Redeem.php:361 Models/Script_Loader.php:250
+#: templates/checkout/agcfw-redeem-gift-card.php:7
+msgid "Enter your gift card claim code."
+msgstr "Entrez le code de la carte cadeau."
+
+#: Models/Admin.php:166 Models/Redeem.php:363 Models/Script_Loader.php:251
+#: templates/checkout/agcfw-redeem-gift-card.php:13
+msgid "How do I find the claim code?"
+msgstr "Comment puis-je trouver le code d’échange?"
+
+#: Models/Admin.php:170 Models/Redeem.php:364 Models/Script_Loader.php:252
+#: templates/checkout/agcfw-redeem-gift-card.php:11
+msgid "Gift Card Claim Code"
+msgstr "Code d’échange de la carte"
+
+#: Models/Admin.php:174 Models/Redeem.php:365 Models/Script_Loader.php:253
+#: templates/checkout/agcfw-redeem-gift-card.php:12
+msgid ""
+"Your gift card claim code is found inside the email sent from the store when "
+"the gift card was purchased."
+msgstr ""
+"Le code d’échange de votre carte cadeau se trouve dans l’e‑mail envoyé par "
+"la boutique lors de l’achat de la carte cadeau."
+
+#: Models/Admin.php:178 Models/Redeem.php:366 Models/Script_Loader.php:254
+#: templates/checkout/agcfw-redeem-gift-card.php:17
+msgid "Enter code"
+msgstr "Entrez le code"
+
+#: Models/Admin.php:182 Models/Redeem.php:367 Models/Script_Loader.php:255
+#: templates/checkout/agcfw-redeem-gift-card.php:18
+msgid "Redeem"
+msgstr "Échanger"
+
+#: Models/Bootstrap.php:439
+#, fuzzy
+#| msgid "License Key:"
+msgid "Add license key"
+msgstr "Clé de licence:"
+
+#: Models/Emails.php:160
+msgid "Advanced Gift Cards email preview"
+msgstr "Prévisualisation de l’e‑mail des cartes cadeau"
+
+#: Models/Emails.php:179
+msgid "This is an example message"
+msgstr "Ceci est un message d’exemple"
+
+#: Models/Emails.php:204 Models/Redeem.php:302 Models/SLMW/Update.php:635
+msgid "Invalid AJAX call"
+msgstr "Appel AJAX invalide"
+
+#: Models/Emails.php:206 Models/Redeem.php:304 Models/SLMW/Update.php:637
+msgid "You are not allowed to do this"
+msgstr "Vous n’êtes pas autorisé à faire cela"
+
+#: Models/Emails.php:208
+msgid "Please enter a proper gift card value."
+msgstr "Veuillez entrez un montant de carte cadeau correct."
+
+#: Models/Product_Type.php:202 Objects/Email.php:22
+msgid "Advanced Gift Card"
+msgstr "Carte cadeau"
+
+#: Models/Product_Type.php:393
+msgid "Send to"
+msgstr "Envoyer à"
+
+#: Models/Product_Type.php:396 Models/Purchasing.php:183
+msgid "Recipient name"
+msgstr "Nom du destinataire"
+
+#: Models/Product_Type.php:399 Models/Purchasing.php:188
+msgid "Recipient email"
+msgstr "Adresse e‑mail du destinataire"
+
+#: Models/Product_Type.php:402 Models/Purchasing.php:194
+msgid "Short message"
+msgstr "Message court"
+
+#: Models/Product_Type.php:405
+msgid "Gift card code"
+msgstr "Code de la carte cadeau"
+
+#: Models/Product_Type.php:408
+msgid "Email sent"
+msgstr "E‑mail enoyé"
+
+#: Models/Product_Type.php:461
+#, fuzzy
+#| msgid "Gift card code"
+msgid "Gift card expire date"
+msgstr "Code de la carte cadeau"
+
+#: Models/Product_Type.php:462 views/view-gift-card-options-group.php:32
+msgid "No expiry"
+msgstr ""
+
+#: Models/Redeem.php:218
+msgid "The provided gift card doesn't exist or is invalid"
+msgstr "Le code de cade cadeau fourni n’existe pas ou est invalide"
+
+#: Models/Redeem.php:230
+msgid "The gift card has already expired"
+msgstr "La carte cadeau a déjà expiré"
+
+#: Models/Redeem.php:306
+msgid "Missing required post data"
+msgstr "Donnée post requise manquante"
+
+#: Models/Redeem.php:321
+msgid "Gift card was redeemed successfully!"
+msgstr "La carte cadeau a été échangée avec succès !"
+
+#: Models/SLMW/License.php:140
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">activate</a> your copy of Advanced Gift Cards For "
+"WooCommerce to get the latest updates and have access to support."
+msgstr ""
+"Veuillez <a href=\"%1$s\">activer</a> votre copie d'Advanced Gifts Cards For "
+"WooCommerce afin de bénéficier des dernières mises à jour et de l'accès à "
+"l'assistance."
+
+#: Models/SLMW/License.php:167 Models/SLMW/License.php:274
+#: Models/SLMW/License.php:301
+msgid "Invalid AJAX Operation"
+msgstr "Opération AJAX invalide"
+
+#: Models/SLMW/License.php:169
+msgid "Required parameters not supplied"
+msgstr "Paramètres requis non fournis"
+
+#: Models/SLMW/License.php:171
+msgid "Security check failed"
+msgstr "La vérification de sécurité a échoué"
+
+#: Models/SLMW/License.php:204
+msgid ""
+"Failed to activate license. Failed to connect to activation access point. "
+"Please contact plugin support."
+msgstr ""
+"Échec d’activation de la licence. Impossible de se connecter au point "
+"d’accès d’activation. Veuillez contacter le support de l’extension."
+
+#: Models/SLMW/License.php:210
+msgid ""
+"Failed to activate license. Activation access point return invalid response. "
+"Please contact plugin support."
+msgstr ""
+"Échec d’activation de la licence. Le point d’accès d’activation a retourné "
+"une réponse invalide. Veuillez contacter le support de l’extension."
+
+#: Models/SLMW/Settings.php:112 Models/SLMW/Settings.php:113
+msgid "Advanced Gift Cards License"
+msgstr "Licence d'Advanced Gift Cards"
+
+#: Models/SLMW/Settings.php:162
+msgid "License"
+msgstr "Licence:"
+
+#: Models/SLMW/Update.php:575
+msgid "Plugin update data has been refetched successfully."
+msgstr ""
+"Les données de mise à jour de l’extension ont été récupérées avec succès."
+
+#: Models/SLMW/Update.php:581
+msgid ""
+"Plugin updates transient is not yet present. Please visit Dashboard > "
+"Updates page and try again."
+msgstr ""
+"Le transient de mise à jour de l’extension n’est pas présent. Veuillez "
+"consulter la page Tableau de bord > Mises à jour puis réessayer."
+
+#: Models/SLMW/Update.php:588
+msgid ""
+"There was an issue trying to refetch the update data. Please make sure that "
+"there is an available update and that your license is activated."
+msgstr ""
+"Il y a eu un problème lors de la récupération des données de mise à jour. "
+"Veuillez vous assurer qu’il y a bien une mise à jour disponible et que votre "
+"licence est activée."
+
+#: Models/Script_Loader.php:129 Models/Script_Loader.php:171
+#: views/slmw/view-license-settings-page.php:51
+msgid "Activate Key"
+msgstr "Activer la clé"
+
+#: Models/Script_Loader.php:130
+msgid "Activating. Please wait..."
+msgstr "Activation en cours? Veuillez patienter…"
+
+#: Models/Script_Loader.php:131
+msgid "Please fill in activation email and license key"
+msgstr "Veuillez remplir l’e‑mail d’activation et la clé de licence"
+
+#: Models/Script_Loader.php:132
+msgid ""
+"Failed to activated license. Server error occurred on ajax request. Please "
+"contact support."
+msgstr ""
+"Échec d’activation de la licence. Une erreur du serveur s’est produite sur "
+"une requête ajax. Veuillez contacter le support technique."
+
+#: Models/Script_Loader.php:133 Models/Script_Loader.php:155
+#: views/slmw/view-license-settings-page.php:17
+msgid "License is Active"
+msgstr "Licence activée"
+
+#: Models/Script_Loader.php:134 Models/Script_Loader.php:156
+#: views/slmw/view-license-settings-page.php:19
+msgid "Not Activated Yet"
+msgstr "Pas encore activée"
+
+#: Models/Script_Loader.php:151 views/slmw/view-license-settings-page.php:6
+msgid "Advanced Gift Cards License Activation"
+msgstr "Activation de licence d'Advanced Gift Cards"
+
+#: Models/Script_Loader.php:152 views/slmw/view-license-settings-page.php:13
+msgid "Your current license for Advanced Gift Cards"
+msgstr "Votre licence actuelle d'Advanced Gift Cards"
+
+#: Models/Script_Loader.php:153 views/slmw/view-license-settings-page.php:26
+msgid ""
+"Advanced Gift Cards lets you sell redeemable digital gift cards on your "
+"WooCommerce store via a simple product listing. Gift Cards can then be "
+"redeemed for store credit that your customers can use towards orders. "
+"Activate your license key to enable continued support & updates for Advanced "
+"Gift Cards as well as access to premium features."
+msgstr ""
+"Advanced Gift Cards vous permet de vendre des cartes cadeaux échangeables "
+"sur votre boutique WooCommerce grâce à un simple produit. Les cartes cadeau "
+"peuvent être échangées contre un crédit botique que les clients peuvent "
+"utiliser pour leurs commandes.  Activez votre clé de licence pour bénéficier "
+"de l'assistance et des mises à jour d'Advanced Gift Cards ainsi que l'accès "
+"aux fonctionnalités premium."
+
+#: Models/Script_Loader.php:160 views/slmw/view-license-settings-page.php:30
+msgid "Plan"
+msgstr "Plan"
+
+#: Models/Script_Loader.php:161 views/slmw/view-license-settings-page.php:34
+msgid "Advanced Gift Cards"
+msgstr ""
+
+#: Models/Script_Loader.php:164 views/slmw/view-license-settings-page.php:31
+msgid "Version"
+msgstr "Version"
+
+#: Models/Script_Loader.php:169 views/slmw/view-license-settings-page.php:43
+msgid "License Key:"
+msgstr "Clé de licence:"
+
+#: Models/Script_Loader.php:170 views/slmw/view-license-settings-page.php:47
+msgid "Activation Email:"
+msgstr "E‑mail d’activation:"
+
+#: Models/Script_Loader.php:173
+msgid "Can’t find your key?"
+msgstr "Vous ne trouvez pas votre clé?"
+
+#: Models/Script_Loader.php:175
+msgid "Login to your account"
+msgstr "Connectez-vous à votre compte"
+
+#: Models/Script_Loader.php:258
+msgid "Main"
+msgstr "Principal"
+
+#: Models/Script_Loader.php:259
+msgid "Title"
+msgstr "Titre"
+
+#: Models/Script_Loader.php:260
+msgid "Description"
+msgstr "Description"
+
+#: Models/Script_Loader.php:261
+msgid "Tooltip content"
+msgstr "Contenu de la bulle d’aide"
+
+#: Models/Script_Loader.php:262
+msgid "Button/Link text"
+msgstr "Texte du lien/bouton"
+
+#: Models/Script_Loader.php:263
+msgid "Content"
+msgstr "Contenu"
+
+#: Models/Script_Loader.php:264
+msgid "Form fields"
+msgstr "Champs du formulaire"
+
+#: Models/Script_Loader.php:265
+msgid "Input placeholder"
+msgstr "Espace réservé"
+
+#: Models/Script_Loader.php:266
+msgid "Button text"
+msgstr "Texte du bouton"
+
+#: Objects/Advanced_Gift_Card.php:446
+msgid "There was an error trying to create the advanced gift card."
+msgstr ""
+"Une erreur est survenue lors de la tentative de création de la carte cadeau."
+
+#: Objects/Advanced_Gift_Card.php:506
+msgid "There was an error updating the advanced gift card."
+msgstr ""
+"Une erreur est survenue lors de la mise à jour création de la carte cadeau."
+
+#: Objects/Advanced_Gift_Card.php:532
+msgid ""
+"Unable to save the advanced gift card due to missing required parameters."
+msgstr ""
+"Impossible d’enregistrer la carte cadeau car des paramètres requis sont "
+"manquants."
+
+#: Objects/Advanced_Gift_Card.php:568
+msgid "The store credit entry requires a valid ID to proceed."
+msgstr "Le crédit boutique requiert un ID valide pour procéder."
+
+#: Objects/Advanced_Gift_Card.php:589
+msgid "There was an error deleting the store credit entry."
+msgstr ""
+"Une erreur est survenue lors de la suppression de l’entrée de crédit "
+"boutique."
+
+#: Objects/Email.php:23
+msgid ""
+"Advanced gift card emails are sent to the set recipient after the order has "
+"been paid."
+msgstr ""
+"Les e‑mails de carte cadeau sont envoyés au destinataire défini une fois la "
+"commande payée."
+
+#: Objects/Email.php:47
+msgid "[{site_title}]: You have received a gift card"
+msgstr "[{site_title}]: Vous avez reçu une carte cadeau"
+
+#: Objects/Email.php:265
+#, php-format
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: Objects/Email.php:268
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+#: Objects/Email.php:270
+msgid "Enable this email notification"
+msgstr "Activer cette notification par e‑mail"
+
+#: Objects/Email.php:274
+msgid "Subject"
+msgstr "Sujet"
+
+#: Objects/Email.php:282
+msgid "Email heading"
+msgstr "En-tête de l’e‑mail"
+
+#: Objects/Email.php:290
+msgid "Additional content"
+msgstr "Contenu additionnel"
+
+#: Objects/Email.php:291
+msgid "Text to appear below the main email content."
+msgstr "Texte qui s’affiche en dessous du contenu principal de l’e‑mail."
+
+#: Objects/Email.php:293
+msgid "N/A"
+msgstr "N/A"
+
+#: Objects/Email.php:299
+msgid "Email type"
+msgstr "Type d’e‑mail"
+
+#: Objects/Email.php:301
+msgid "Choose which format of email to send."
+msgstr "Choisissez quel format d’e‑mail envoyer."
+
+#: Objects/Product.php:76
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: Objects/Product.php:76
+msgid "Select options"
+msgstr "Sélectionnez des options"
+
+#: Objects/Product.php:92
+#, php-format
+msgid "Add &ldquo;%s&rdquo; to your cart"
+msgstr "Ajouter &ldquo;%s&rdquo; à votre panier"
+
+#: Objects/Product.php:92
+#, php-format
+msgid "Read more about &ldquo;%s&rdquo;"
+msgstr "En savoir plus sur &ldquo;%s&rdquo;"
+
+#: Objects/Report_Widgets/Gift_Cards_Claimed.php:32
+#: Objects/Report_Widgets/Gift_Cards_Claimed.php:34
+#, fuzzy
+#| msgid "Gift Card Claim Code"
+msgid "Gift Cards Claimed"
+msgstr "Code d’échange de la carte"
+
+#: Objects/Report_Widgets/Gift_Cards_Sold.php:32
+#: Objects/Report_Widgets/Gift_Cards_Sold.php:34
+#, fuzzy
+#| msgid "Gift card code"
+msgid "Gift Cards Sold"
+msgstr "Code de la carte cadeau"
+
+#: REST_API/API_Advanced_Gift_Cards.php:265
+msgid "Successfully created advanced gift card."
+msgstr "Carte cadeau créée avec succès."
+
+#: REST_API/API_Advanced_Gift_Cards.php:329
+msgid "Successfully updated advanced gift card."
+msgstr "Carte cadeau mise à jour avec succès."
+
+#: REST_API/API_Advanced_Gift_Cards.php:361
+msgid "Successfully deleted advanced gift card."
+msgstr "Carte cadeau effacée avec succès."
+
+#: REST_API/API_Advanced_Gift_Cards.php:421
+msgid "There was an error fetching the total count of advanced gift cards."
+msgstr ""
+"Une erreur est survenue lors de la récupération du compte total de cartes "
+"cadeau."
+
+#: REST_API/API_Advanced_Gift_Cards.php:461
+msgid "There was an error fetching the advanced gift cards."
+msgstr "Une erreur est survenue lors de la récupération des cartes cadeau."
+
+#: REST_API/API_Advanced_Gift_Cards.php:495
+msgid "Required parameters are missing"
+msgstr "Des paramètres requis sont manquants."
+
+#: REST_API/API_Advanced_Gift_Cards.php:505
+msgid "The provided ID is not a valid."
+msgstr "L’ID fourni est invalide."
+
+#: advanced-gift-cards-for-woocommerce.php:166
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Activate this plugin\">Click here to activate &rarr;"
+"</a>"
+msgstr ""
+"<a href=\"%1$s\"  title=\"Activer cette extension\">Cliquez ici pour activer "
+"&rarr;</a>"
+
+#: advanced-gift-cards-for-woocommerce.php:171
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Install this plugin\">Click here to install from "
+"WordPress.org repo &rarr;</a>"
+msgstr ""
+"<a href=\"%1$s\" title=\"Installer cette extension\">Cliquez ici pour "
+"l’installer depuis le dépôt WordPress.org &rarr;</a>"
+
+#: advanced-gift-cards-for-woocommerce.php:177
+#, php-format
+msgid ""
+"Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> "
+"plugin installed and activated.<br/>"
+msgstr ""
+"Veuillez vous assurer que l’extension <a href=\"%1$s\" target=\"_blank\">"
+"%2$s</a> est installée et activée.<br/></p>"
+
+#: advanced-gift-cards-for-woocommerce.php:186
+msgid "<b>Advanced Gift Cards for WooCommerce</b> plugin missing dependency."
+msgstr ""
+"Dépendance de l’extension<b>Advanced Gift Cards for WooCommerce</b> "
+"manquante."
+
+#: advanced-gift-cards-for-woocommerce.php:208
+#, php-format
+msgid "<a href=\"%1$s\">Click here to update %2$s &rarr;</a>"
+msgstr "<a href=\"%1$s\">Cliquez ici pour mettre à jour %2$s &rarr;</a>"
+
+#: advanced-gift-cards-for-woocommerce.php:214
+#, php-format
+msgid ""
+"Please ensure you have the latest version of <a href=\"%1$s\" target=\"_blank"
+"\">%2$s</a> plugin installed and activated.<br/>"
+msgstr ""
+"Veuillez vous assurer que la dernière version de l’extension <a href=\"%1$s"
+"\" target=\"_blank\">%2$s</a> est installée et activée.<br/>"
+
+#: advanced-gift-cards-for-woocommerce.php:223
+msgid ""
+"<b>Advanced Gift Cards for WooCommerce</b> plugin invalid dependency version."
+msgstr ""
+"Version invalide d’une dépendance de l’extension<b>Advanced Gift Cards for "
+"WooCommerce</b>."
+
+#: templates/agcfw-single-product/add-to-cart.php:40
+msgid "Send to friend"
+msgstr "Envoyer à un ami"
+
+#: templates/agcfw-single-product/add-to-cart.php:43
+msgid "How are gift cards sent?"
+msgstr "Comment sont envoyées les cartes cadeau ?"
+
+#: templates/agcfw-single-product/add-to-cart.php:44
+msgid ""
+"A gift card claim code will automatically be emailed to your recipient along "
+"with your short message and instructions on how to claim their gift."
+msgstr ""
+"Un code d’échange de votre carte cadeau sera automatiquement envoyé par "
+"e‑mail à votre destinataire avec votre court message et les instructions "
+"pour bénéficier de leur cadeau."
+
+#: templates/agcfw-single-product/add-to-cart.php:51
+msgid "Recipients Name*"
+msgstr "Nom du destinataire*"
+
+#: templates/agcfw-single-product/add-to-cart.php:55
+msgid "Recipients Email*"
+msgstr "Adresse e‑mail du destinataire*"
+
+#: templates/agcfw-single-product/add-to-cart.php:59
+msgid "Short message (optional)"
+msgstr "Message court (optionnel)"
+
+#: templates/agcfw-single-product/add-to-cart.php:67
+msgid "Send to me"
+msgstr "Me l’envoyer"
+
+#: templates/agcfw-single-product/add-to-cart.php:70
+msgid "Treat yourself!"
+msgstr "Faites vous plaisir!"
+
+#: templates/agcfw-single-product/add-to-cart.php:71
+msgid ""
+"Buying for yourself? A gift card claim code will automatically be emailed to "
+"you along with instructions on how to claim."
+msgstr ""
+"Vous l’achetez pour vous? Un code d’échange carte cadeau vous sera "
+"automatiquement envoyé par e‑mail avec les insctructions pour son "
+"utilisation."
+
+#: templates/agcfw-single-product/gift-card-value.php:23
+msgid "Gift Card Value:"
+msgstr "Montant de la carte cadeau :"
+
+#: templates/emails/email-advanced-gift-card.php:23
+#: templates/emails/plain/email-advanced-gift-card.php:16
+msgid "You have received a gift card!"
+msgstr "Vous avez reçu une carte cadeau !"
+
+#: templates/emails/email-advanced-gift-card.php:28
+msgid "Redemption code:"
+msgstr "Code d’échange :"
+
+#: templates/emails/email-advanced-gift-card.php:32
+#: templates/emails/plain/email-advanced-gift-card.php:24
+msgid "Message:"
+msgstr "Message :"
+
+#: templates/emails/email-advanced-gift-card.php:46
+#: templates/emails/plain/email-advanced-gift-card.php:34
+msgid "Visit The Store"
+msgstr "Voir la boutique"
+
+#: templates/emails/plain/email-advanced-gift-card.php:19
+msgid "Redemption Code:"
+msgstr "Code d’échange :"
+
+#: views/notices/view-getting-started-notice.php:6
+msgid "IMPORTANT INFORMATION"
+msgstr "INFORMATION IMPORTANTE"
+
+#: views/notices/view-getting-started-notice.php:8
+msgid ""
+"Thank you for purchasing Advanced Gift Cards! This plugin gives WooCommerce "
+"store owners the ability to sell gift card products on their store. Gift "
+"cards are then redeemable as store credit."
+msgstr ""
+"Merci d'avoir acheté Advanced Gift Cards! Cette extension offre aux "
+"possesseurs de boutique WooCommerce la capacité de vendre des produits carte "
+"cadeau sur leur boutique. Les cartes cadeau sont échangeables contre un "
+"crédit en boutique."
+
+#: views/notices/view-getting-started-notice.php:9
+msgid ""
+"Ready to get started? Read the guide below then head over and create a new "
+"Product with the brand new Gift Card type."
+msgstr ""
+"Prêt à démarrer? Lisez le guide ci-dessous puis lancez-vous et créez votre "
+"premier produit du tout nouveau type Carte Cadeau."
+
+#: views/notices/view-getting-started-notice.php:12
+msgid "Read The Getting Started Guide &rarr;"
+msgstr "Lire le Guide de démarrage &rarr;"
+
+#: views/notices/view-getting-started-notice.php:14
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: views/notices/view-getting-started-notice.php:16
+msgid "Dismiss this notice.."
+msgstr "Rejeter cette notification."
+
+#: views/slmw/view-license-settings-page.php:55
+#, php-format
+msgid ""
+"Can’t find your key? <a href=\"%s\" target=\"_blank\">Login to your account</"
+"a>."
+msgstr ""
+"Vous ne trouvez pas votre clé? <a href=\"%s\" target=\"_blank\">Connectez-"
+"vous à votre compte</a>."
+
+#: views/view-gift-card-options-group.php:7
+msgid "Gift Card"
+msgstr "Carte cadeau"
+
+#: views/view-gift-card-options-group.php:9
+msgid ""
+"When this gift card is purchased, a unique gift card code will be generated "
+"which will let the user redeem it for store credit."
+msgstr ""
+"Lorsque cette carte cadeau est achetée, un code unique de carte cadeau sera "
+"généré qui permettra à l’utilisateur de l’échanger contre du crédit boutique."
+
+#: views/view-gift-card-options-group.php:12
+msgid "Gift Card Value"
+msgstr "Montant de la carte cadeau"
+
+#: views/view-gift-card-options-group.php:14
+msgid ""
+"The value of the store credit that is added when this gift card is redeemed."
+msgstr ""
+"Le montant du crédit boutique qui est ajouté lorsque la carte cadeau est "
+"échangée."
+
+#: views/view-gift-card-options-group.php:18
+msgid "Giftable"
+msgstr "À offrir"
+
+#: views/view-gift-card-options-group.php:20
+msgid ""
+"Adds “Send To Friend” fields to the Single Product, Cart page, and Checkout "
+"page."
+msgstr ""
+"Ajoute les champs \"Envoyer à un ami\" sur la page produit, la page panier "
+"et la page de paiement."
+
+#: views/view-gift-card-options-group.php:21
+msgid ""
+"When checked, the “Send To Friend” settings will be added to the Single "
+"Product, Cart, and Checkout pages. An email containing the gift card will be "
+"sent to the recipient. If this setting is unchecked, the email will be sent "
+"to the purchaser instead."
+msgstr ""
+"Si cochée, les paramètres \"Envoyer à un ami\" seront ajoutés sur la page "
+"produit, la page panier et la page de paiement. Un e‑mail contenant la carte "
+"cadeau sera envoyé au destinataure. Si cette optino n’est pas cochée, "
+"l’e‑mail sera envoyé au client."
+
+#: views/view-gift-card-options-group.php:25
+#, fuzzy
+#| msgid "Gift Card"
+msgid "Gift Card Expiry"
+msgstr "Carte cadeau"
+
+#: views/view-gift-card-options-group.php:27
+msgid "5 years"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:28
+msgid "4 years"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:29
+msgid "3 years"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:30
+msgid "2 years"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:31
+msgid "1 year"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:33
+msgid "Custom days"
+msgstr ""
+
+#: views/view-gift-card-options-group.php:40
+msgid ""
+"Expiry is set to 5 years by default, which covers most countries. It is your "
+"responsibility to ensure you abide by your local gift card expiry laws."
+msgstr ""
+
+#: views/view-gift-card-options-group.php:44
+msgid "Gift Card Design"
+msgstr "Modèle de carte cadeau"
+
+#: views/view-gift-card-options-group.php:61
+msgid "Or, provide a custom gift card background:"
+msgstr "Ou fournissez un fond personnalisé pour la carte cadeau :"
+
+#: views/view-gift-card-options-group.php:64
+msgid "Select image"
+msgstr "Sélectionnez une image"
+
+#: views/view-gift-card-options-group.php:65
+msgid ""
+"Required image dimensions 500px x 300px. Accepted formats are .png, .jpg, ."
+"gif."
+msgstr ""
+"Dimensions d’image requises 500px x 300px. Les formats acceptés sont .png, ."
+"jpg et .gif."
+
+#: views/view-gift-card-options-group.php:73
+msgid "Remove image"
+msgstr "Supprimer l’image"
+
+#: views/view-gift-card-options-group.php:84
+msgid "Preview Gift Card Email"
+msgstr "Prévisualiser l’e‑mail de la carte cadeau"
+
+msgid ""
+"Advanced Gift Cards for WooCommerce that adheres to best coding practices."
+msgstr ""
+"Des cartes cadeaux pour WooCommerce qui suivent les meilleures pratiques de "
+"codage."

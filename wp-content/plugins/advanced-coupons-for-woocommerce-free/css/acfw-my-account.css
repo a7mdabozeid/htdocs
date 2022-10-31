@@ -1,0 +1,8 @@
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--acfw-store-credits a:before {
+    background: url(../images/store-credits-icon.svg) no-repeat;
+    content: '';
+    width: 18px;
+    height: 18px;
+    margin-top: 5px;
+    background-size: contain;
+}

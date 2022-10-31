@@ -1,0 +1,34 @@
+.page-header__title{
+    font-size: 28px;
+    padding: 0 0 10px;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.page-header {
+    .site-breadcrumb {
+        padding-bottom: 5px;
+        overflow: auto;
+        white-space: nowrap;
+
+        .delimiter {
+            margin: 0 5px;
+        }
+
+        a {
+            color: #909090;
+        }
+    }
+}
+
+.razzi-hide-on__breadcrumb {
+    .site-breadcrumb {
+        display: none;
+    }
+}
+
+.razzi-hide-on__title {
+    .page-header__title {
+        display: none;
+    }
+}

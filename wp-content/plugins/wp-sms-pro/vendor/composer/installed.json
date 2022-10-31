@@ -1,0 +1,343 @@
+[
+    {
+        "name": "apimatic/jsonmapper",
+        "version": "v1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/apimatic/jsonmapper.git",
+            "reference": "6925ede91d6a85a886d8e00819fe53e439d6e4c2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/apimatic/jsonmapper/zipball/6925ede91d6a85a886d8e00819fe53e439d6e4c2",
+            "reference": "6925ede91d6a85a886d8e00819fe53e439d6e4c2",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.2.*",
+            "squizlabs/php_codesniffer": "~1.5"
+        },
+        "time": "2017-01-24T12:48:47+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "apimatic\\jsonmapper\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "OSL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Christian Weiske",
+                "email": "christian.weiske@netresearch.de",
+                "homepage": "http://www.netresearch.de/",
+                "role": "Developer"
+            },
+            {
+                "name": "Mehdi Jaffery",
+                "email": "mehdi.jaffery@apimatic.io",
+                "homepage": "http://apimatic.io/",
+                "role": "Developer"
+            }
+        ],
+        "description": "Map nested JSON structures onto PHP classes"
+    },
+    {
+        "name": "clicksend/clicksend-php",
+        "version": "v4.0.4",
+        "version_normalized": "4.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ClickSend/clicksend-php.git",
+            "reference": "c6fdcee0d6778459681e372eb7b9771a04d44301"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ClickSend/clicksend-php/zipball/c6fdcee0d6778459681e372eb7b9771a04d44301",
+            "reference": "c6fdcee0d6778459681e372eb7b9771a04d44301",
+            "shasum": ""
+        },
+        "require": {
+            "apimatic/jsonmapper": "~1.0.0",
+            "ext-curl": "*",
+            "ext-json": "*",
+            "ext-mbstring": "*",
+            "mashape/unirest-php": "~3.0.1",
+            "php": ">=5.4.0"
+        },
+        "time": "2017-06-06T09:21:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ClickSendLib\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matthew Larner",
+                "email": "matt@clicksend.com",
+                "homepage": "https://www.clicksend.com",
+                "role": "Director"
+            }
+        ],
+        "description": "A PHP wrapper for ClickSend's API",
+        "homepage": "https://www.clicksend.com",
+        "keywords": [
+            "ClickSend",
+            "api",
+            "email",
+            "fax",
+            "post",
+            "sdk",
+            "sms",
+            "voice"
+        ]
+    },
+    {
+        "name": "mashape/unirest-php",
+        "version": "v3.0.4",
+        "version_normalized": "3.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Mashape/unirest-php.git",
+            "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Mashape/unirest-php/zipball/842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+            "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "codeclimate/php-test-reporter": "0.1.*",
+            "phpunit/phpunit": "~4.4"
+        },
+        "suggest": {
+            "ext-json": "Allows using JSON Bodies for sending and parsing requests"
+        },
+        "time": "2016-08-11T17:49:21+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Unirest\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Unirest PHP",
+        "homepage": "https://github.com/Mashape/unirest-php",
+        "keywords": [
+            "client",
+            "curl",
+            "http",
+            "https",
+            "rest"
+        ]
+    },
+    {
+        "name": "messagebird/php-rest-api",
+        "version": "v1.20.0",
+        "version_normalized": "1.20.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/messagebird/php-rest-api.git",
+            "reference": "f7c7ae490b0b2d9d228bac61b5d855c4623f7fad"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/messagebird/php-rest-api/zipball/f7c7ae490b0b2d9d228bac61b5d855c4623f7fad",
+            "reference": "f7c7ae490b0b2d9d228bac61b5d855c4623f7fad",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.0|^7.5"
+        },
+        "time": "2021-03-25T21:53:01+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "MessageBird\\": "src/MessageBird/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-2-Clause"
+        ],
+        "authors": [
+            {
+                "name": "MessageBird",
+                "email": "info@messagebird.com"
+            }
+        ],
+        "description": "MessageBird REST API client for PHP",
+        "homepage": "https://github.com/messagebird/php-rest-api"
+    },
+    {
+        "name": "twilio/sdk",
+        "version": "5.42.2",
+        "version_normalized": "5.42.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twilio/twilio-php.git",
+            "reference": "0cfcb871b18a9c427dd9e8f0ed7458d43009b48a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twilio/twilio-php/zipball/0cfcb871b18a9c427dd9e8f0ed7458d43009b48a",
+            "reference": "0cfcb871b18a9c427dd9e8f0ed7458d43009b48a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "require-dev": {
+            "apigen/apigen": "^4.1",
+            "guzzlehttp/guzzle": "^6.3",
+            "phpunit/phpunit": ">=4.5"
+        },
+        "suggest": {
+            "guzzlehttp/guzzle": "An HTTP client to execute the API requests"
+        },
+        "time": "2020-02-05T19:55:13+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Twilio\\": "src/Twilio/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Twilio API Team",
+                "email": "api@twilio.com"
+            }
+        ],
+        "description": "A PHP wrapper for Twilio's API",
+        "homepage": "http://github.com/twilio/twilio-php",
+        "keywords": [
+            "api",
+            "sms",
+            "twilio"
+        ]
+    },
+    {
+        "name": "veronalabs/updater",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/veronalabs/updater.git",
+            "reference": "833735acf02f54c7714b2fc72cc4efed798ecd65"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/veronalabs/updater/zipball/833735acf02f54c7714b2fc72cc4efed798ecd65",
+            "reference": "833735acf02f54c7714b2fc72cc4efed798ecd65",
+            "shasum": ""
+        },
+        "require": {
+            "yahnis-elsts/plugin-update-checker": "^4.11"
+        },
+        "time": "2021-09-27T11:58:14+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "VeronaLabs\\Updater\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mostafa Soufi",
+                "email": "mostafa@veronalabs.com"
+            }
+        ],
+        "description": "A custom update checker for WordPress plugins and themes based on yahnis-elsts/plugin-update-checker and own private license server updater.",
+        "support": {
+            "issues": "https://github.com/veronalabs/updater/issues",
+            "source": "https://github.com/veronalabs/updater/tree/1.1.1"
+        }
+    },
+    {
+        "name": "yahnis-elsts/plugin-update-checker",
+        "version": "v4.11",
+        "version_normalized": "4.11.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/YahnisElsts/plugin-update-checker.git",
+            "reference": "3155f2d3f1ca5e7ed3f25b256f020e370515af43"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/YahnisElsts/plugin-update-checker/zipball/3155f2d3f1ca5e7ed3f25b256f020e370515af43",
+            "reference": "3155f2d3f1ca5e7ed3f25b256f020e370515af43",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "php": ">=5.2.0"
+        },
+        "time": "2021-03-15T16:07:52+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "load-v4p11.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Yahnis Elsts",
+                "email": "whiteshadow@w-shadow.com",
+                "homepage": "http://w-shadow.com/",
+                "role": "Developer"
+            }
+        ],
+        "description": "A custom update checker for WordPress plugins and themes. Useful if you can't host your plugin in the official WP repository but still want it to support automatic updates.",
+        "homepage": "https://github.com/YahnisElsts/plugin-update-checker/",
+        "keywords": [
+            "automatic updates",
+            "plugin updates",
+            "theme updates",
+            "wordpress"
+        ],
+        "support": {
+            "issues": "https://github.com/YahnisElsts/plugin-update-checker/issues",
+            "source": "https://github.com/YahnisElsts/plugin-update-checker/tree/v4.11"
+        }
+    }
+]

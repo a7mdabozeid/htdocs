@@ -1,0 +1,50 @@
+.lpfw-setting-field-label {
+    display: inline-block;
+    max-width: calc(100% - 25px);
+}
+
+.point-calc-options,
+.actions-earn-points-options {
+    .option {
+        margin-bottom: 10px;
+        button,
+        .ant-typography {
+            margin-right: 10px;
+        }
+    }
+}
+
+.points-table-actions {
+    button {
+        background: transparent;
+        border: 0;
+        cursor: pointer;
+
+        &.delete {
+            color: red;
+        }
+
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+}
+
+.form-heading {
+    &.spacer {
+        padding-top: 30px;
+    }
+
+    h3 {
+        font-weight: bold;
+    }
+}
+
+.order-points-table {
+    .points {
+        width: 100px !important;
+    }
+    .points-table-actions {
+        width: 70px !important;
+    }
+}

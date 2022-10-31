@@ -1,0 +1,20 @@
+.razzi-history-products {
+    .recently-products  .product-list li .product-infor {
+        position: static;
+        display: block !important;
+        padding: 10px 0;
+        box-shadow: none;
+
+        .product-title {
+            white-space: normal;
+        }
+    }
+
+    .swiper-scrollbar {
+        margin-top: 20px;
+    }
+}
+
+.single-product .razzi-history-products .recently-header {
+    margin-bottom: 40px;
+}

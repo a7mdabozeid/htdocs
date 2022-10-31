@@ -1,0 +1,54 @@
+.wpdesk-tooltip-shadow {
+	background-color: #000;
+	z-index: 9000;
+	opacity: 0.3;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	display: none;
+}
+
+.wpdesk-tooltip-confirm {
+	background: #FFF;
+	padding: 20px;
+	border-radius: 5px;
+	border: 1px solid #DDD;
+	box-shadow: 0 0 10px #888;
+	width: 500px;
+	z-index: 9999;
+	display: none;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.wpdesk-tooltip-confirm ul {
+	padding: 10px;
+	margin: 10px;
+	list-style: inherit;
+}
+
+.wpdesk-tooltip-confirm .close-modal-button {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.wpdesk-tooltip-confirm .close-modal-button:hover {
+	color: #3875d7;
+}
+
+.confirm-buttons a {
+	display: inline-block;
+}
+.confirm-buttons a.confirm-url {
+	float: left;
+}
+.confirm-buttons a.close-confirm {
+	float: right;
+}

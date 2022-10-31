@@ -1,0 +1,48 @@
+.site-header .header-account {
+	.account-links {
+		box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+		background-color: var(--rz-background-color-light);
+		box-sizing: border-box;
+		min-width: 200px;
+		padding: 30px 0;
+		float: left;
+		position: absolute;
+		top: 100%;
+		right: -15px;
+		z-index: 99999;
+		transition: opacity .3s;
+		opacity: 0;
+		transform: scaleX(0);
+		pointer-events: none;
+
+		ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		li {
+			padding: 0 30px;
+			margin-bottom: 12px;
+			text-align: left;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+
+			a {
+				&:hover {
+					color: var( --rz-color-primary );
+				}
+			}
+		}
+	}
+
+	&:hover {
+		.account-links {
+			opacity: 1;
+			transform: scaleX(1);
+			pointer-events: initial;
+		}
+	}
+}

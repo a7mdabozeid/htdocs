@@ -1,0 +1,30 @@
+@import "back-to-top";
+@import "newsletter";
+@import "branding";
+@import "payments";
+@import "menu";
+@import "widgets";
+@import "extra";
+
+@import "main";
+@import "primary";
+
+.footer-right{
+    flex: 1;
+   text-align: right;
+   justify-content: flex-end;
+
+   > *{
+       margin-left: 40px;
+   }
+}
+
+.footer-left{
+   flex: 1;
+   text-align: left;
+   justify-content: flex-start;
+
+    > *{
+       margin-right: 40px;
+   }  
+}

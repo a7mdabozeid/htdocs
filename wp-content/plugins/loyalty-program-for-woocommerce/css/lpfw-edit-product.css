@@ -1,0 +1,23 @@
+.loyalty-program-product-fields h3 {
+  margin: 10px 0 0 10px;
+  font-size: 1.2em;
+}
+p.form-field.lpfw-toggled-field {
+  position: relative;
+}
+p.form-field.lpfw-toggled-field:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+  width: 100%;
+  height: 110%;
+  background: #fff;
+  opacity: 0.7;
+  visibility: visible;
+}
+p.form-field.lpfw-toggled-field.block:after {
+  display: block;
+}

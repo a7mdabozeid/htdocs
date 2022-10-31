@@ -1,0 +1,64 @@
+#send-sms-order-meta-box .inside {
+    margin: 0;
+}
+
+.wpsms_send_message {
+    overflow: hidden;
+    margin: 0;
+    zoom: 1;
+}
+
+.wpsms_send_message li.wide {
+    width: auto;
+    float: none;
+    clear: both;
+    padding: 6px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.wpsms_message {
+    width: 100%;
+    height: 120px;
+}
+
+.send_sms {
+    float: right;
+    margin-bottom: 5px !important;
+}
+
+.wpsms-overlay {
+    position: absolute;
+    display: none;
+    background-color: #ccc8c8;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    vertical-align: middle;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: .2;
+}
+
+.wpsms-spinner {
+    background: url(../images/spinner.gif) no-repeat;
+    display: none;
+    float: right;
+    vertical-align: middle;
+    filter: alpha(opacity=70);
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+/* RTL */
+.rtl .send_sms {
+    float: left;
+}

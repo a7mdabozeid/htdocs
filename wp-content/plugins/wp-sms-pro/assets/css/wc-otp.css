@@ -1,0 +1,80 @@
+.wps-otp-box {
+    margin: auto;
+    width: 100%;
+}
+
+@media (min-width: 1281px) {
+    .wps-otp-box {
+        width: 36%;
+    }
+}
+
+#wps-otp {
+    padding: 16px 0;
+    text-align: center;
+    width: 100%;
+}
+
+#wps-otp a {
+    text-decoration: none;
+}
+
+#wps-otp .loading_otp {
+    color: #5cb811;
+    display: none;
+    margin-top: -27px;
+    position: absolute;
+    width: inherit;
+}
+
+#wps-otp .otp-mobile-verification {
+    width: 90%;
+    margin: 30px auto;
+}
+
+#wps-otp .button {
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#wps-otp .button:active {
+    position: relative;
+    top: 1px;
+}
+
+#wps-otp .alert-box {
+    color: #000000;
+    font-family: Geneva, Arial, sans-serif;
+    font-size: 12px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#wps-otp .alert-box span {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#wps-otp .error {
+    background: #ffecec;
+    border: 1px solid #f5aca6;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+#wps-otp .success {
+    background: #e9ffd9;
+    border: 1px solid #a6ca8a;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+#wps-otp .retry {
+    display: inline-block;
+    margin-bottom: 0;
+}

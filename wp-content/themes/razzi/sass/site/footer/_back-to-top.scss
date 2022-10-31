@@ -1,0 +1,35 @@
+#gotop {
+    position: fixed;
+    bottom: 25px;
+    right: 10px;
+    z-index: 999;
+    display: flex;
+    width: 36px;
+    height: 36px;
+    background-color: #111;
+    color: #ffff;
+    box-shadow: 0 0 5px rgba(0,0,0,.17);
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    border-radius: 50%;
+    transform: translateX(100%) rotate(-90deg);
+    transition: all .25s ease;
+
+    &.show-scroll{
+        opacity: 1;
+        transform: translateX(0) rotate(-90deg);
+    }
+}
+
+.single-product--sticky-bottom{
+    #gotop {
+        bottom: 130px;
+    }
+}
+
+/*rtl:raw:
+#gotop.show-scroll {
+    transform: translateX(0) rotate(-90deg);
+}
+*/

@@ -1,0 +1,681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SMS-Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-27 12:06+0300\n"
+"PO-Revision-Date: 2021-10-27 12:06+0300\n"
+"Last-Translator: Robert Skiba <skiba@gmx.de>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: includes/admin/class-wpsms-pro-admin.php:44
+#, fuzzy
+#| msgid "Scheduled SMS"
+msgid "Scheduled"
+msgstr "geplante SMS"
+
+#: includes/admin/class-wpsms-pro-admin.php:70
+msgid "Number of items per page"
+msgstr ""
+
+#: includes/admin/class-wpsms-pro-admin.php:91
+#, fuzzy
+#| msgid "Scheduled SMS"
+msgid "Edit Scheduled"
+msgstr "geplante SMS"
+
+#: includes/admin/class-wpsms-pro-admin.php:108
+#, fuzzy, php-format
+#| msgid ""
+#| "Please Install/Active or Update <a href=\"%s\" class=\"thickbox\">WP-SMS</"
+#| "a> to run the WP-SMS-Pro plugin."
+msgid ""
+"Please Install/Active or Update <a href=\"%s\" class=\"thickbox\">WP-SMS</a> "
+"to run the WP-SMS-Pro plugin."
+msgstr ""
+"Bitte installiere oder aktualisiere WP-SMS, um die Funktionen von WP-SMS-"
+"Pro  aktivieren zu können "
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:47
+#, php-format
+msgid "%s <span class=\"wpsms-time\">Time: %s</span>"
+msgstr "%s <span class=\"wpsms-time\">Zeit: %s</span>"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:54
+msgid "Click to View more..."
+msgstr "Hier klicken, um mehr anzuzeigen..."
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:61
+msgid "On Queue"
+msgstr "In Warteschlage"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:63
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:65
+#, fuzzy
+#| msgid "Uknown"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:86
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:88
+#: includes/admin/scheduled/class-wpsms-scheduled.php:144
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:116
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:117
+msgid "Sender"
+msgstr "Absender"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:118
+#: includes/admin/scheduled/scheduled-edit.php:46
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:119
+msgid "Recipient"
+msgstr "Empfänger"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:120
+msgid "Media"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:121
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:168
+msgid "Items removed."
+msgstr "Artikel entfernt."
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:176
+msgid "Item removed."
+msgstr "Artikel entfernt."
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:190
+msgid "The SMS sent successfully."
+msgstr "Die SMS wurde erfolgreich versendet."
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:341
+msgid "Scheduled successfully updated."
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:17
+#: includes/integrations/woocommerce/metabox.php:21
+msgid "characters"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:40
+#, fuzzy
+#| msgid "Sender"
+msgid "Send from"
+msgstr "Absender"
+
+#: includes/admin/scheduled/scheduled-edit.php:52
+msgid "Set date"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:55
+msgid "Site's time zone"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:61
+msgid "Update"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled.php:4
+msgid "Scheduled SMS"
+msgstr "geplante SMS"
+
+#: includes/admin/scheduled/scheduled.php:8
+msgid "Search"
+msgstr "Suchen"
+
+#: includes/class-wpsms-scheduled.php:133
+msgid "WP-SMS Pro Scheduled SMS cron"
+msgstr "geplanter Cronjob von WP-SMS Pro"
+
+#: includes/gateways/class-wpsms-pro-gateway-_4jawaly.php:98
+#: includes/gateways/class-wpsms-pro-gateway-alfacell.php:125
+#: includes/gateways/class-wpsms-pro-gateway-aspsms.php:127
+#: includes/gateways/class-wpsms-pro-gateway-bandwidth.php:125
+#: includes/gateways/class-wpsms-pro-gateway-bulksms.php:135
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsbd.php:95
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsgateway.php:107
+#: includes/gateways/class-wpsms-pro-gateway-bulksmshyderabad.php:109
+#: includes/gateways/class-wpsms-pro-gateway-cellsynt.php:88
+#: includes/gateways/class-wpsms-pro-gateway-clickatell.php:116
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:105
+#: includes/gateways/class-wpsms-pro-gateway-clockworksms.php:103
+#: includes/gateways/class-wpsms-pro-gateway-cmtelecom.php:93
+#: includes/gateways/class-wpsms-pro-gateway-dsms.php:90
+#: includes/gateways/class-wpsms-pro-gateway-esms.php:113
+#: includes/gateways/class-wpsms-pro-gateway-hoiio.php:96
+#: includes/gateways/class-wpsms-pro-gateway-infobip.php:117
+#: includes/gateways/class-wpsms-pro-gateway-ismartsms.php:107
+#: includes/gateways/class-wpsms-pro-gateway-isms.php:91
+#: includes/gateways/class-wpsms-pro-gateway-jolis.php:89
+#: includes/gateways/class-wpsms-pro-gateway-livesms.php:88
+#: includes/gateways/class-wpsms-pro-gateway-makolar.php:114
+#: includes/gateways/class-wpsms-pro-gateway-messente.php:114
+#: includes/gateways/class-wpsms-pro-gateway-mobishastra.php:134
+#: includes/gateways/class-wpsms-pro-gateway-moceansms.php:121
+#: includes/gateways/class-wpsms-pro-gateway-msg360.php:89
+#: includes/gateways/class-wpsms-pro-gateway-nexmo.php:122
+#: includes/gateways/class-wpsms-pro-gateway-ooredoosms.php:105
+#: includes/gateways/class-wpsms-pro-gateway-ozioma.php:92
+#: includes/gateways/class-wpsms-pro-gateway-plivo.php:137
+#: includes/gateways/class-wpsms-pro-gateway-proovl.php:126
+#: includes/gateways/class-wpsms-pro-gateway-pswin.php:126
+#: includes/gateways/class-wpsms-pro-gateway-qsms.php:114
+#: includes/gateways/class-wpsms-pro-gateway-ra.php:89
+#: includes/gateways/class-wpsms-pro-gateway-routesms.php:121
+#: includes/gateways/class-wpsms-pro-gateway-sendhub.php:118
+#: includes/gateways/class-wpsms-pro-gateway-sendpulse.php:118
+#: includes/gateways/class-wpsms-pro-gateway-sendsms247.php:88
+#: includes/gateways/class-wpsms-pro-gateway-skebby.php:140
+#: includes/gateways/class-wpsms-pro-gateway-smsapicom.php:109
+#: includes/gateways/class-wpsms-pro-gateway-smscountry.php:110
+#: includes/gateways/class-wpsms-pro-gateway-smsfactor.php:123
+#: includes/gateways/class-wpsms-pro-gateway-smslive247.php:98
+#: includes/gateways/class-wpsms-pro-gateway-smsmessenger.php:134
+#: includes/gateways/class-wpsms-pro-gateway-smsmisr.php:113
+#: includes/gateways/class-wpsms-pro-gateway-smsru.php:118
+#: includes/gateways/class-wpsms-pro-gateway-smstrade.php:88
+#: includes/gateways/class-wpsms-pro-gateway-ssdindia.php:116
+#: includes/gateways/class-wpsms-pro-gateway-teletopiasms.php:119
+#: includes/gateways/class-wpsms-pro-gateway-textmagic.php:119
+#: includes/gateways/class-wpsms-pro-gateway-textmarketer.php:114
+#: includes/gateways/class-wpsms-pro-gateway-twilio.php:197
+#: includes/gateways/class-wpsms-pro-gateway-upsidewireless.php:143
+#: includes/gateways/class-wpsms-pro-gateway-vfirst.php:97
+#: includes/gateways/class-wpsms-pro-gateway-vsms.php:109
+#: includes/gateways/class-wpsms-pro-gateway-websms.php:140
+#: includes/gateways/class-wpsms-pro-gateway-yamamah.php:80
+#: includes/gateways/class-wpsms-pro-gateway-zipwhip.php:147
+#, fuzzy
+#| msgid "Username/Password does not set for this gateway"
+msgid "The username/password for this gateway is not set"
+msgstr "Benutzername und Passwort für SMS-Gateway ist nicht korrekt"
+
+#: includes/gateways/class-wpsms-pro-gateway-bandwidth.php:130
+#: includes/gateways/class-wpsms-pro-gateway-brqsms.php:119
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsnigeria.php:131
+#: includes/gateways/class-wpsms-pro-gateway-dianahost.php:115
+#: includes/gateways/class-wpsms-pro-gateway-gtxmessaging.php:119
+#: includes/gateways/class-wpsms-pro-gateway-htd.php:115
+#: includes/gateways/class-wpsms-pro-gateway-infobip.php:122
+#: includes/gateways/class-wpsms-pro-gateway-jusibe.php:112
+#: includes/gateways/class-wpsms-pro-gateway-kaleyra.php:95
+#: includes/gateways/class-wpsms-pro-gateway-kwtsms.php:116
+#: includes/gateways/class-wpsms-pro-gateway-messagebird.php:104
+#: includes/gateways/class-wpsms-pro-gateway-mimsms.php:115
+#: includes/gateways/class-wpsms-pro-gateway-orange.php:147
+#: includes/gateways/class-wpsms-pro-gateway-routesms.php:126
+#: includes/gateways/class-wpsms-pro-gateway-smsbharti.php:123
+#: includes/gateways/class-wpsms-pro-gateway-smsgateway.php:121
+#: includes/gateways/class-wpsms-pro-gateway-springedge.php:112
+#: includes/gateways/class-wpsms-pro-gateway-taqnyat.php:122
+#: includes/gateways/class-wpsms-pro-gateway-textlocal.php:112
+#: includes/gateways/class-wpsms-pro-gateway-txtlocal.php:112
+#, fuzzy
+#| msgid "API/Key does not set for this gateway"
+msgid "The API Key for this gateway is not set"
+msgstr "API/Key passt nicht zu diesem Gateway"
+
+#: includes/gateways/class-wpsms-pro-gateway-clickatell.php:120
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:109
+#: includes/gateways/class-wpsms-pro-gateway-moceansms.php:125
+#: includes/gateways/class-wpsms-pro-gateway-smsapicom.php:113
+#: includes/gateways/class-wpsms-pro-gateway-textmarketer.php:118
+msgid "CURL extension not found in your server. please enable curl extenstion."
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:113
+msgid "Please enable WP-SMS-Pro plugin."
+msgstr "Bitte das WP-SMS-Pro plugin aktivieren."
+
+#: includes/gateways/class-wpsms-pro-gateway-clockworksms.php:107
+msgid "Class DOMDocument not found in your php."
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-esms.php:117
+msgid "Function simplexml_load_string not found in your php."
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-ismartsms.php:111
+msgid "Class SoapClient not found. please enable php_soap in your php."
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-notify.php:124
+#, fuzzy
+#| msgid "API/Key does not set for this gateway"
+msgid "User ID/The API Key for this gateway is not set"
+msgstr "API/Key passt nicht zu diesem Gateway"
+
+#: includes/gateways/class-wpsms-pro-gateway-smsto.php:57
+msgid "You have exceeded the max limit of 480 characters"
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-smsto.php:164
+msgid "API not set"
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-twilio.php:201
+msgid "CURL extension not found in your server. please enable curl extension."
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-tyntec.php:120
+#, fuzzy
+#| msgid "API/Key does not set for this gateway"
+msgid "API Key required for this gateway"
+msgstr "API/Key passt nicht zu diesem Gateway"
+
+#: includes/integrations/class-wpsms-pro-buddypress.php:62
+#, fuzzy
+#| msgid "Your mobile number for get sms"
+msgid "Your mobile number to receive SMS updates"
+msgstr "Mobilfunknummer für SMS-Empfang konfigurieren"
+
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:48
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:50
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:74
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:84
+msgid "Mobile Number"
+msgstr "Mobilfunknummer"
+
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:49
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:59
+msgid "Please enter mobile number for get sms"
+msgstr "Eigene Mobilfunknummer eingeben, um SMS zu erhalten"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:120
+msgid "Login with mobile"
+msgstr "Login per SMS"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:160
+msgid "Username"
+msgstr "Benutzername"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:161
+msgid "Submit"
+msgstr "Absenden"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:162
+msgid "Please Wait ..."
+msgstr "Bitte warten ..."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:164
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:58
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:108
+#, fuzzy
+#| msgid "Error occured. please try again"
+msgid "Error occurred. please try again"
+msgstr "Ein Fehler ist aufgetreten. Bitte erneut versuchen... "
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:165
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:105
+msgid "Error"
+msgstr "Fehler!"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:166
+msgid "Code"
+msgstr "Code"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:167
+msgid "Submit code"
+msgstr "Code absenden"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:217
+msgid "Please Enter Username"
+msgstr "Bitte Benutzernamen eingeben"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:224
+msgid "User does not exist"
+msgstr "Benutzer existiert nicht"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:231
+msgid "Mobile number not found!"
+msgstr "Keine Mobilfunknummer hinterlegt"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:237
+msgid ""
+"Your mobile number is not verified. Please Login again to get the "
+"verification code."
+msgstr ""
+"Deine Mobilfunknummer ist noch nicht verifiziert. Bitte erneut einloggen, um "
+"den Verifizierungscode zu erhalten."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:266
+#, fuzzy
+#| msgid ""
+#| "Security code have beed send in your mobile. please enter the code for "
+#| "login to wordpress."
+msgid ""
+"Security code have been send to your mobile number. please enter the code to "
+"login to the WordPress."
+msgstr ""
+"Ein Sicherheitscode wurde an Mobiltelefon gesendet. Bitte Code eingeben, um "
+"in Wordpress einzuloggen."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:286
+msgid "Session error"
+msgstr ""
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:292
+msgid "Please Enter Code"
+msgstr "Bitte Code eingeben"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:305
+msgid "Security code is wrong"
+msgstr "Sicherheitscode ist falsch"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:332
+#: includes/templates/verify-sms-field.php:1
+msgid "Mobile status"
+msgstr "Mobilstatus"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:333
+msgid "Verification code"
+msgstr "Verifizierungscode"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:360
+#: includes/templates/verify-sms-field.php:5
+msgid "Verified"
+msgstr "Verifizierung erfolgreich"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:362
+msgid "Not verified!"
+msgstr "Nicht verifiziert!"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:401
+#, fuzzy
+#| msgid ""
+#| "Your mobile number is not verified. Please Login again to get the "
+#| "verification code."
+msgid ""
+"Your mobile number is not verified or mobile number empty. Please Login "
+"again to get the verification code and OTP working too."
+msgstr ""
+"Deine Mobilfunknummer ist noch nicht verifiziert. Bitte erneut einloggen, um "
+"den Verifizierungscode zu erhalten."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:437
+msgid ""
+"Your mobile number is not verified! Please enter verification code to verify "
+"your mobile number on the site."
+msgstr ""
+"Deine Mobilfunknummer ist nicht verifiziert! Bitte Verifizierungscode "
+"eingeben, um deine Mobilfunknummer auf dieser Website zu verifizieren."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:517
+#, php-format
+msgid "Verification code: %s"
+msgstr "Verifizierungscode %s"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:56
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:81
+#, php-format
+msgid "e.g. %s"
+msgstr "z.B. %s"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:60
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:85
+msgid "Mobile number"
+msgstr "Mobilfunknummer"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:102
+#, php-format
+msgid "<li>Mobile: %s</li>"
+msgstr "<li>Mobilnummer: %s</li>"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:31
+msgid "SMS"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:56
+msgid "Send SMS?"
+msgstr "SMS versenden?"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:57
+msgid "The SMS will be sent if the Note to the customer is select."
+msgstr ""
+"Die SMS wird versendet falls die Benachrichtigung an den Kunden aktiviert "
+"wurde."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:67
+msgid "Order ID does not find in the request, contact the support"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:87
+msgid "Can't resolve the customer mobile number."
+msgstr "Es konnte keine Mobilfunknummer des Kunden gefunden werden."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:94
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:117
+msgid "Please enter your SMS message."
+msgstr "Bitte SMS-Nachricht eingeben."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:109
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:138
+msgid "SMS Sent!"
+msgstr "SMS wurde versendet!"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:122
+msgid "Something wrong! please try again later."
+msgstr ""
+"Etwas scheint nicht funktioniert zu haben - Bitte versuche es später erneut."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:67
+#, fuzzy
+#| msgid "Please enter mobile number."
+msgid "Please verify your mobile number"
+msgstr "Mobilfunknummer eingeben."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:100
+#, fuzzy
+#| msgid ""
+#| "<h3>Mobile Verification</h3><h4>We send you a verification code.</h4>"
+msgid ""
+"<h3>Mobile Verification</h3><h4>You will receive a verification code on your "
+"mobile phone.</h4>"
+msgstr ""
+"<h3>Bestätigung über das Mobiltelefon</h3><h4>Wir senden dir einen "
+"Bestätigungscode.</h4>"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:101
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:102
+msgid "Processing, please wait a moment."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:103
+msgid "Enter Your number..."
+msgstr "Mobilfunknummer eingeben..."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:104
+#, fuzzy
+#| msgid "Verification code"
+msgid "Verification Code"
+msgstr "Verifizierungscode"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:106
+msgid "Verify"
+msgstr "Bestätigen"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:107
+msgid "Click Here"
+msgstr "Hier klicken"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:155
+msgid "Your number is empty or something went wrong!"
+msgstr ""
+"Entweder hast du keine gültige Mobilfunknummer eingetragen oder es ist ein "
+"anderer Fehler aufgetreten!"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:171
+msgid "Your number already exists, please use another number."
+msgstr ""
+"Diese Rufnummer wurde bereits registriert, bitte benutze eine andere "
+"Rufnummer."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:203
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:286
+#, php-format
+msgid "You have reached your limit.<br>Please retry after : %s."
+msgstr "Das definierte Limit wurde erreicht. Neuer Versuch möglich in %s."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:212
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:294
+msgid "You have reached your limit, Please Contact Website Administrator."
+msgstr ""
+"Das  definierte Limit wurde erreicht. Bitte kontaktiere den Administrator "
+"dieser Website."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:235
+msgid ""
+"Your verification code has been sent!<br>Complete the verification process "
+"by entering your OTP code."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:243
+#, fuzzy
+#| msgid "Verification code: %s"
+msgid "Verification code is empty!"
+msgstr "Verifizierungscode %s"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:262
+msgid "Mobile verified successfully!<br>Please checkout the order."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:266
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:272
+#, fuzzy
+#| msgid "OTP code is not valid, Please try again!"
+msgid "Verification code is not valid, Please try again!"
+msgstr "Ungültiges Einmalpasswort - Bitte erneut versuchen!"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:310
+#, fuzzy
+#| msgid "SMS Resent! Please Check Your Phone."
+msgid "The SMS has been sent! Please check it again."
+msgstr "SMS wurde erneut versendet! Bitte prüfe dein Mobiltelefon."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:338
+msgid ""
+"The mobile phone field is not match with the registered user phone number."
+msgstr ""
+"Das Feld \"Mobilfunknummer\" stimmt nicht mit der registrierten "
+"Mobilfunknummer überein."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:85
+msgid "Enter your mobile number to get any notifications about your order"
+msgstr ""
+"Geben Sie Ihre Mobilfunknummer ein, um Benachrichtigungen zu Ihrer "
+"Bestellung zu erhalten"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:98
+msgid "Please enter mobile number."
+msgstr "Mobilfunknummer eingeben."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:397
+msgid "Mobile:"
+msgstr "Mobifunknummer:"
+
+#: includes/integrations/woocommerce/metabox.php:4
+msgid "Send an sms to the customer."
+msgstr ""
+
+#: includes/integrations/woocommerce/metabox.php:11
+#, fuzzy
+#| msgid "Sender"
+msgid "Send"
+msgstr "Absender"
+
+#: includes/templates/otp-optional-field.php:3
+msgid "OTP"
+msgstr ""
+
+#: includes/templates/otp-optional-field.php:7
+msgid "Active"
+msgstr ""
+
+#: includes/templates/verify-sms-field-login.php:2
+msgid "Verify code"
+msgstr "Verifizierungs-Code"
+
+#: includes/templates/verify-sms-field.php:11
+msgid "Yes"
+msgstr "Ja"
+
+#~ msgid "Username/Password does not set for this gateway"
+#~ msgstr "Benutzername und Passwort für SMS-Gateway ist nicht korrekt"
+
+#~ msgid "API/Key does not set for this gateway"
+#~ msgstr "API/Key passt nicht zu diesem Gateway"
+
+#, fuzzy
+#~| msgid "API/Key does not set for this gateway"
+#~ msgid "API Key does not set for this gateway"
+#~ msgstr "API/Key passt nicht zu diesem Gateway"
+
+#, fuzzy
+#~| msgid "API/Key does not set for this gateway"
+#~ msgid "API does not set for this gateway"
+#~ msgstr "API/Key passt nicht zu diesem Gateway"
+
+#~ msgid "Complementary package for add new capability to WP SMS Plugin."
+#~ msgstr ""
+#~ "Kostenpflichtiges Paket, das neue Funktionen für das WP-SMS-Plugin zur "
+#~ "Verfügung stellt"
+
+#~ msgid "http://veronalabs.com/"
+#~ msgstr "http://veronalabs.com/"
+
+#~ msgid "http://wp-sms-pro.com/"
+#~ msgstr "http://wp-sms-pro.com/"
+
+#~ msgid "Loading..."
+#~ msgstr "wird geladen..."
+
+#~ msgid "OTP code is empty!"
+#~ msgstr "Kein Einmalpasswort eingegeben!"
+
+#~ msgid ""
+#~ "OTP Code sent to your number!<br>Now Enter your OTP code and Complete the "
+#~ "Verification."
+#~ msgstr ""
+#~ "Der Einmalpasswort-Code wurde an deine Mobilfunknummer gesendet. Bitte "
+#~ "gib den Code ein, um die Verifizierung erfolgreich abzuschließen. "
+
+#~ msgid "OTP code..."
+#~ msgstr "Einmalpasswort..."
+
+#~ msgid "OTP Verification completed.<br>Now You can place your order!"
+#~ msgstr "Verifizierung erfolgreich. Nun kannst du deine Bestellung absenden!"
+
+#~ msgid "Verona Labs"
+#~ msgstr "Verona Labs"
+
+#~ msgid "WP SMS - Professional Package"
+#~ msgstr "WP SMS - Professional"

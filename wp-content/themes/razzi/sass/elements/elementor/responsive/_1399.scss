@@ -1,0 +1,29 @@
+@media (min-width: 1400px){
+
+}
+
+@media (max-width: 1366px) {
+    .razzi-icons-box-carousel{
+
+        .rz-swiper-button-prev{
+            left: -50px;
+        }
+
+        .rz-swiper-button-next{
+            right: -50px;
+        }
+    }
+}
+
+@media (max-width: 1279px) {
+    .razzi-icons-box-carousel{
+
+        .rz-swiper-button-prev{
+            left: 0;
+        }
+
+        .rz-swiper-button-next{
+            right: 0;
+        }
+    }
+}

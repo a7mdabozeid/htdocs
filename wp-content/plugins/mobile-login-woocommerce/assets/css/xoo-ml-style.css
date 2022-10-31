@@ -1,0 +1,345 @@
+.xoo-ml-verified-success, .xoo-ml-verify-notice {
+    z-index: 99999999;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    left: 0;
+    right: 0;
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+
+.xoo-ml-verified-success span:last-of-type a {
+    text-decoration: underline;
+    color: #3c763d;
+    margin-left: 6px;
+}
+
+.xoo-ml-notice-error{
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+.xoo-ml-notice-success{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.xoo-ml-notice{
+    display: none;
+    margin: 5px 0;
+}
+
+
+.xoo-ml-notice-error , .xoo-ml-notice-success{
+    padding: 7px 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    display: block;
+    margin: 10px 0;
+}
+
+/* OTP */
+button.button.btn.xoo-ml-otp-submit-btn {
+    width: 100%;
+    max-width: 400px;
+    margin: 40px auto 0;
+    display: table;
+}
+
+.xoo-ml-otp-form .xoo-ml-otp-submit-btn{
+    background-color: #000;
+    color: #fff;
+    padding: 8px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px
+}
+
+.xoo-ml-otp-input-cont {
+    display: table;
+    margin: 0 auto;
+}
+
+form.xoo-ml-otp-form {
+    text-align: center;
+    display: none;
+    margin: 20px 0;
+}
+
+
+
+.xoo-ml-otp-sent-txt {
+    margin-bottom: 22px;
+    font-size: 20px;
+}
+
+span.xoo-ml-otp-no-change {
+    color: #0d81fe;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+form.xoo-ml-otp-form input.xoo-ml-otp-input:focus {
+    outline: 0;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #0d81fe;
+}
+
+form.xoo-ml-otp-form input.xoo-ml-otp-input {
+    max-width: 60px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: transparent;
+    color: #000;
+    font-weight: 600;
+    font-size: 23px;
+    border-bottom: 1px solid #000;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    box-shadow: 0 0 0;
+    display: inline-block;
+}
+
+.xoo-ml-otp-notice-cont {
+    height: 50px;
+}
+
+form.xoo-ml-otp-form .xoo-ml-notice {
+    display: table;
+    margin: 0 auto;
+}
+
+span.xoo-ml-reg-phone-change, span.xoo-ml-inline-verify, span.xoo-ml-otp-submit-btn {
+    position: absolute;
+    width: auto;
+    height: auto;
+    line-height: inherit;
+    z-index: 10;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    color: #528ff0;
+    font-weight: bold;
+    right: 20px;
+    top: 25%;
+}
+
+span.xoo-ml-reg-phone-change, span.xoo-ml-otp-submit-btn{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+span.xoo-ml-reg-phone-change{
+    display: none;
+}
+
+.xoo-ml-inline-verify{
+    display: inline-block;
+}
+
+a.xoo-ml-otp-resend-link {
+    color: #0d81fe;
+    text-decoration: none!important;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.xoo-ml-otp-resend {
+    margin-top: 10px;
+}
+
+a.xoo-ml-otp-resend-link.xoo-ml-disabled {
+    pointer-events: none!important;
+}
+
+.xoo-ml-has-cc {
+    display: flex;
+}
+
+.xoo-ml-has-cc select.xoo-ml-phone-cc, .xoo-ml-has-cc input.xoo-ml-phone-cc {
+    max-width: 100px;
+    margin-right: 10px;
+    align-self: flex-start;
+}
+
+.xoo-ml-regphin {
+    position: relative;
+    width: 100%;
+}
+
+.xoo-ml-regphin input.xoo-ml-phone-input{
+    width: 100%;
+}
+
+input#xoo-ml-reg-phone {
+    width: 100%;
+}
+
+span.xoo-ml-low-back {
+    color: #4a90e2;
+    text-decoration: underline;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+
+button.button.btn.xoo-ml-login-otp-btn {
+    margin-top: 13px;
+}
+.xoo-ml-processing{
+    pointer-events: none;
+    opacity: 0.7
+}
+.xoo-el-container .xoo-ml-notice{
+    width: calc(100% - 20px);
+}
+
+span.xoo-ml-or {
+    display: none;
+    margin: 20px 10px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid #333;
+    font-size: 14px;
+}
+
+
+.xoo-el-form-container .xoo-lwo-form{
+    padding-top: 15px;
+}
+
+.xoo-el-fields .xoo-ml-notice-error, .xoo-el-fields .xoo-ml-notice-success {
+    margin: 0;
+}
+
+
+button.button.btn.xoo-ml-low-back {
+    margin-top: 15px;
+}
+
+.xoo-el-form-container button.button.btn.xoo-ml-login-otp-btn {
+    margin: 0 0 10px 0;
+}
+
+.xoo-el-form-container .xoo-ml-notice{
+    width: calc(100% - 20px);
+}
+
+input.xoo-ml-inline-otp {
+    min-width: 100px;
+}
+.xoo-ml-inline-otp-cont{
+    margin-top: 15px;
+    display: none;
+    width: 100%;
+}
+
+span.xoo-ml-inline-verify.verified {
+    color: #4CAF50;
+    pointer-events: none;
+}
+
+span.xoo-ml-inline-verify.verified .dashicons {
+    vertical-align: middle;
+}
+
+.xoo-ml-inline-otp-cont .xoo-ml-otp-resend {
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.xoo-ml-inline-otp-cont .xoo-ml-notice {
+    width: 100%;
+    margin-top: 13px;
+}
+
+.xoo-ml-ioc-input {
+    position: relative;
+}
+
+.xoo-ml-ioc-input input.xoo-ml-otp-input {
+    width: 100%;
+    min-height: 40px;
+    min-width: 100%;
+}
+
+input[type=number].xoo-ml-otp-input::-webkit-inner-spin-button,
+input[type=number].xoo-ml-otp-input::-webkit-outer-spin-button {
+-webkit-appearance: textfield!important;
+display: none!important
+}
+
+
+form.xoo-lwo-form .xoo-ml-inline-verify {
+    display: none!important;
+}
+
+form.xoo-lwo-form {
+    margin-bottom: 20px;
+}
+
+.xoo-ml-inline-otp-cont .xoo-ml-otp-no-txt br {
+    display: none;
+}
+
+select.xoo-ml-phone-cc + .select2.select2-container {
+    min-width: 120px;
+    margin-right: 15px;
+}
+
+.xoo-ml-phone-cc + .select2 span.select2-selection__arrow {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.xoo-ml-phone-cc + .select2.select2-container .select2-selection__rendered, .xoo-ml-phone-cc + .select2 .selection, .xoo-ml-phone-cc + .select2 .select2-selection{
+    height: inherit;
+    line-height: inherit;
+    border-radius: 0;
+    padding: 0;
+}
+
+.xoo-ml-phone-cc + .select2 .select2-selection.select2-selection--single{
+    padding: 0 15px;
+}
+
+
+.xoo-ml-phone-cc + .select2-container *:focus {
+    outline: none;
+}
+
+
+.xoo-ml-inline-otp-cont span.xoo-ml-otp-no-txt {
+    color: green;
+    font-size: 13px;
+    display: block;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+.xoo-ml-notice-error .xoo-el-login-tgr {
+    text-decoration: underline;
+    margin-left: 4px;
+}
+
+.xoo-el-form-container select.xoo-ml-phone-cc + .select2.select2-container {
+    margin-right: inherit;
+}
+
+
+.theme-oceanwp form.woocommerce-form.woocommerce-form-register.register {
+    display: block!important;
+}

@@ -1,0 +1,34 @@
+.site-breadcrumb {
+    padding: 19px 0;
+	margin: 0;
+	font-size: 14px;
+	color: #909090;
+	/*rtl:raw:
+		display: flex;
+	*/
+
+	li{
+		list-style: none;
+		display: inline-block;
+	}
+
+	a{
+		color: inherit;
+
+		&:hover {
+			color: var(--rz-color-dark);
+		}
+	}
+
+	.delimiter{
+	    margin: 0 5px;
+	}
+
+	.razzi-svg-icon {
+		display: inline-block;
+
+		/*rtl:raw:
+			transform: rotateY(180deg);
+		*/
+	}
+}

@@ -1,0 +1,20 @@
+.br_ce_image_currency{
+    cursor: pointer;
+    display: inline-block;
+}
+.br_ce_image_currency input{
+    display: none;
+}
+.br_ce_image_currency img{
+    padding: 10%;
+}
+.br_ce_image_currency input:checked + img{
+    background-color: rgba(0,0,125, 0.5);
+}
+.br_mm_single_product_limitations {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.br_mm_single_product_limitations li {
+    margin-left: 15px;
+}

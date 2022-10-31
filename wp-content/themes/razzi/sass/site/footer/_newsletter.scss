@@ -1,0 +1,93 @@
+// Newsletter
+.footer-newsletter{
+    text-align: center;
+    --rz-button-bg-color: #525252;
+    --rz-button-color: #fff;
+    --rz-textbox-color: #A0A0A0;
+    --rz-textbox-bg-color: #303030;
+    --rz-textbox-border-color: transparent;
+    --rz-footer-newsletter-border-color: #2b2b2b;
+    --rz-footer-newsletter-top-spacing: 110px;
+    --rz-footer-newsletter-bottom-spacing: 41px;
+
+    .site-footer-dark &,
+    .site-footer-custom & {
+        padding-top: var( --rz-footer-newsletter-top-spacing );
+        padding-bottom: var( --rz-footer-newsletter-bottom-spacing );
+    }
+
+    .site-footer-light &,
+    .site-footer-gray & {
+        .footer-container {
+            padding-top: var( --rz-footer-newsletter-top-spacing );
+            padding-bottom: var( --rz-footer-newsletter-bottom-spacing );
+        }
+    }
+
+    &.has-divider{
+        .footer-container {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                height: 1px;
+                background-color: var( --rz-footer-newsletter-border-color );
+            }
+        }
+    }
+
+    .newsletter-title{
+        margin: 0 0 30px;
+    }
+
+    .mc4wp-form-fields{
+        display: flex;
+        max-width: 570px;
+        margin: auto;
+
+        input[type="email"]{
+            padding: 17px 30px;
+            width: 100%;
+            border: none;
+            background-color: var(--rz-textbox-bg-color);
+            color: var(--rz-color-lighter);
+            border: 1px solid var(--rz-textbox-border-color);
+
+            &::placeholder{
+                color: var(--rz-textbox-color);
+            }
+        }
+
+        input[type="submit"]{
+            margin-left: 5px;
+            padding: 0 35px;
+            background-color: var(--rz-button-bg-color);
+            color: var(--rz-button-color);
+        }
+    }
+
+    &.layout-v2 {
+        .mc4wp-form-fields {
+            input[type="email"] {
+                padding-left: 20px;
+                padding-right: 20px;
+                background-color: transparent;
+                border: none;
+                border-bottom: 1px solid var(--rz-textbox-bg-color);
+            }
+
+            input[type="submit"]{
+                margin-left: 0;
+                padding: 0 20px;
+                background-color: transparent;
+                color: var(--rz-button-color);
+                border: none;
+                border-bottom: 1px solid var(--rz-textbox-bg-color);
+            }
+        }
+
+    }
+}

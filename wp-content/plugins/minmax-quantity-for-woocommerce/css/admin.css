@@ -1,0 +1,10 @@
+.quantity_groups_group td {
+    padding: 0;
+}
+.berocket_text_input_message td input{width:100%;}
+.berocket_text_input_message th{max-width:200px;}
+.br_minmax_fix_duplicate_show th,
+.br_minmax_fix_duplicate_show td {
+    padding-top: 0;
+    padding-bottom: 0;
+}

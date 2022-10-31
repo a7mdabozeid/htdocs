@@ -1,0 +1,12 @@
+a {
+	outline: none;
+	transition: .5s;
+	color: var(--rz-color-dark);
+	text-decoration: none;
+
+	&:focus,
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}

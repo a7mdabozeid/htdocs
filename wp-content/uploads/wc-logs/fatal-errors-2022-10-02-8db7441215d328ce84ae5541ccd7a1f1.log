@@ -1,0 +1,48 @@
+2022-10-02T10:29:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php:11
+Stack trace:
+#0 /home/alshia5/public_html/wp-includes/template.php(772): require()
+#1 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#2 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#4 /home/alshia5/public_html/wp-includes/class-wp-hook.php(307): Razzi\WooCommerce\Modules\Mini_Cart->cart_modal('')
+#5 /home/alshia5/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/alshia5/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /home/alshia5/public_html/wp-includes/general-template.php(3058): do_action('wp_footer')
+#8 /home/al in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php on line 11
+
+2022-10-02T10:29:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php:11
+Stack trace:
+#0 /home/alshia5/public_html/wp-includes/template.php(772): require()
+#1 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#2 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#4 /home/alshia5/public_html/wp-includes/class-wp-hook.php(307): Razzi\WooCommerce\Modules\Mini_Cart->cart_modal('')
+#5 /home/alshia5/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/alshia5/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /home/alshia5/public_html/wp-includes/general-template.php(3058): do_action('wp_footer')
+#8 /home/al in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php on line 11
+
+2022-10-02T10:29:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php:11
+Stack trace:
+#0 /home/alshia5/public_html/wp-includes/template.php(772): require()
+#1 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#2 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#4 /home/alshia5/public_html/wp-includes/class-wp-hook.php(307): Razzi\WooCommerce\Modules\Mini_Cart->cart_modal('')
+#5 /home/alshia5/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/alshia5/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /home/alshia5/public_html/wp-includes/general-template.php(3058): do_action('wp_footer')
+#8 /home/al in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php on line 11
+
+2022-10-02T10:29:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php:11
+Stack trace:
+#0 /home/alshia5/public_html/wp-includes/template.php(772): require()
+#1 /home/alshia5/public_html/wp-includes/template.php(716): load_template('/home/alshia5/p...', false, Array)
+#2 /home/alshia5/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/alshia5/public_html/wp-content/themes/razzi/inc/woocommerce/class-razzi-woo-modules-mini-cart.php(97): get_template_part('template-parts/...')
+#4 /home/alshia5/public_html/wp-includes/class-wp-hook.php(307): Razzi\WooCommerce\Modules\Mini_Cart->cart_modal('')
+#5 /home/alshia5/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/alshia5/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /home/alshia5/public_html/wp-includes/general-template.php(3058): do_action('wp_footer')
+#8 /home/al in /home/alshia5/public_html/wp-content/themes/razzi/template-parts/modals/cart.php on line 11
+

@@ -1,0 +1,32 @@
+.wooqr_code {
+    width: 200px;
+    border: 1px solid #333;
+    margin: 20px 0;
+}
+
+.wooqr_product_details {
+    padding: 5px 10px;
+    font-size: 18px;
+    color: #333;
+    border-top: 1px solid #333;
+}
+
+h3.wooqr_product_title {
+    margin: 0;
+    font-size: 22px;
+}
+
+span.wooqr_product_price {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.product_qrcode img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+.wooqr_product_title span {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+}

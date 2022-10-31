@@ -1,0 +1,18 @@
+.page-header__title{
+    font-size: 32px;
+    margin: 0;
+    padding: 42px 0 19px;
+    text-align: center;
+}
+
+.page-header__hide-breadcrumb {
+    .site-breadcrumb {
+        display: none;
+    }
+}
+
+.page-header__hide-title {
+    .page-header__title {
+        display: none;
+    }
+}

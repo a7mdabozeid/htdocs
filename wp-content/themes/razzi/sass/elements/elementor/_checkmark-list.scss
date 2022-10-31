@@ -1,0 +1,30 @@
+ul.razzi-checkmark-lists{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li{
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 12px;
+        color: #111111;
+
+        &:before{
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin-right: 15px;
+            background-repeat: no-repeat;
+		    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTEiIHZpZXdCb3g9IjAgMCAxNCAxMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0xMyAxTDQuNzUgMTBMMSA1LjkwOTA5IiBzdHJva2U9IiNGRjZGNjEiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4NCjwvc3ZnPg0K);
+        }
+
+        &.wrong{
+            color: #767676;
+
+            &:before{
+		        background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAxMCAxMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik05IDFMMSA5TTEgMUw5IDkiIHN0cm9rZT0iIzkxOTE5MSIgc3Ryb2tlLXdpZHRoPSIxLjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPg0KPC9zdmc+DQo=);
+            }
+        }
+    }
+}

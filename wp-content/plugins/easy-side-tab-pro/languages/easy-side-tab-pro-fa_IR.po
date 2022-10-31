@@ -1,0 +1,1150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Side Tab PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-06 22:57+0430\n"
+"PO-Revision-Date: 2018-08-06 22:58+0430\n"
+"Last-Translator: سید احسان حسینی <ehsan-hosseini@hotmail.com>\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easy-side-tab-pro.php:103
+msgid "Please wait"
+msgstr "لطفا صبر کنید"
+
+#: easy-side-tab-pro.php:104
+msgid "Are you sure you want to remove this item ?"
+msgstr "آیا مطمئن هستید که میخواهید این آیتم را پاک کنید؟"
+
+#: easy-side-tab-pro.php:105 easy-side-tab-pro.php:1316
+#: inc/backend/boards/metaboxes/item.php:543
+msgid "Choose Terms"
+msgstr "انتخاب مقررات"
+
+#: easy-side-tab-pro.php:106
+msgid "Please choose a post type"
+msgstr "لطفا یک نوع پست انتخاب کنید"
+
+#: easy-side-tab-pro.php:170
+msgid "Template 1"
+msgstr "الگو 1"
+
+#: easy-side-tab-pro.php:175
+msgid "Template 2"
+msgstr "الگو 2"
+
+#: easy-side-tab-pro.php:180
+msgid "Template 3"
+msgstr "الگو 3"
+
+#: easy-side-tab-pro.php:185
+msgid "Template 4"
+msgstr "الگو 41"
+
+#: easy-side-tab-pro.php:190
+msgid "Template 5"
+msgstr "الگو 5"
+
+#: easy-side-tab-pro.php:195
+msgid "Template 6"
+msgstr "الگو 6"
+
+#: easy-side-tab-pro.php:200
+msgid "Template 7"
+msgstr "الگو 7"
+
+#: easy-side-tab-pro.php:205
+msgid "Template 8"
+msgstr "الگو 8"
+
+#: easy-side-tab-pro.php:210
+msgid "Template 9"
+msgstr "الگو 9"
+
+#: easy-side-tab-pro.php:215
+msgid "Template 10"
+msgstr "الگو 10"
+
+#: easy-side-tab-pro.php:222 easy-side-tab-pro.php:244
+#: easy-side-tab-pro.php:276 easy-side-tab-pro.php:303
+#: easy-side-tab-pro.php:330
+msgid "Layout 1"
+msgstr "طرح بندی 1"
+
+#: easy-side-tab-pro.php:227 easy-side-tab-pro.php:249
+#: easy-side-tab-pro.php:281 easy-side-tab-pro.php:308
+#: easy-side-tab-pro.php:335
+msgid "Layout 2"
+msgstr "طرح بندی 2"
+
+#: easy-side-tab-pro.php:232 easy-side-tab-pro.php:254
+#: easy-side-tab-pro.php:286 easy-side-tab-pro.php:313
+#: easy-side-tab-pro.php:340
+msgid "Layout 3"
+msgstr "طرح بندی 3"
+
+#: easy-side-tab-pro.php:237 easy-side-tab-pro.php:259
+#: easy-side-tab-pro.php:291 easy-side-tab-pro.php:318
+#: easy-side-tab-pro.php:345
+msgid "Layout 4"
+msgstr "طرح بندی 4"
+
+#: easy-side-tab-pro.php:264 easy-side-tab-pro.php:296
+#: easy-side-tab-pro.php:323 easy-side-tab-pro.php:350
+msgid "Layout 5"
+msgstr "طرح بندی 5"
+
+#: easy-side-tab-pro.php:269 easy-side-tab-pro.php:355
+msgid "Layout 6"
+msgstr "طرح بندی 6"
+
+#: easy-side-tab-pro.php:574 inc/backend/about.php:21
+#: inc/backend/import-export.php:47 inc/backend/main-page.php:25
+#: inc/backend/main-settings.php:18
+msgid "Easy Side Tab Pro"
+msgstr "ساید تب های شناور"
+
+#: easy-side-tab-pro.php:575 inc/backend/all-tabs-listing.php:10
+msgid "All Tabs"
+msgstr "همه تب ها"
+
+#: easy-side-tab-pro.php:577 inc/backend/main-page.php:23
+msgid "Edit Tab"
+msgstr "ویرایش تب"
+
+#: easy-side-tab-pro.php:578
+msgid "Side Tab Settings"
+msgstr "تنظیمات "
+
+#: easy-side-tab-pro.php:579 inc/backend/boards/metaboxes/item.php:173
+#: inc/backend/twitter-feed.php:9
+msgid "Twitter Feed"
+msgstr "خوراک توئیتر"
+
+#: easy-side-tab-pro.php:579 inc/backend/boards/metaboxes/item.php:188
+#: inc/backend/twitter-feed.php:58
+msgid "Twitter Feed Settings"
+msgstr "تنظیمات خوراک توئیتر"
+
+#: easy-side-tab-pro.php:580 inc/backend/subscribers-list.php:6
+msgid "Subscribers"
+msgstr "مشترکین"
+
+#: easy-side-tab-pro.php:581
+msgid "Import/Export"
+msgstr "درون ریزی / برون ریزی"
+
+#: easy-side-tab-pro.php:582
+msgid "About"
+msgstr "درباره ما"
+
+#: easy-side-tab-pro.php:583
+msgid "How to use"
+msgstr "نحوه استفاده"
+
+#: easy-side-tab-pro.php:747 easy-side-tab-pro.php:832
+msgid "Security Check"
+msgstr "بررسی امنیت"
+
+#: easy-side-tab-pro.php:767
+msgid "Easy Side Tab Configuration"
+msgstr "پیکربندی افزونه"
+
+#: easy-side-tab-pro.php:918
+msgid "Subscribed successfully!"
+msgstr "شما با موفقیت مشترک شدید."
+
+#: easy-side-tab-pro.php:921
+msgid "Something went wrong. Please try again later."
+msgstr "مشکلی پیش آمده است. لطفاً بعدا تلاش کنید."
+
+#: easy-side-tab-pro.php:925
+msgid "Email already subscribed."
+msgstr "ایمیل با این آدرس قبلا مشترک شده است"
+
+#: easy-side-tab-pro.php:1144
+msgid "Cache Deleted Successfull"
+msgstr "حافظه پنهان به صورت کامل پاک شد"
+
+#: easy-side-tab-pro.php:1146
+msgid "Sorry, something went wrong while trying to delete cache"
+msgstr "با عرض پوزش، در هنگام پاک کردن کش مشکلی پیش آمد."
+
+#: easy-side-tab-pro.php:1216 easy-side-tab-pro.php:1218
+msgid " year ago"
+msgstr "سال پیش"
+
+#: easy-side-tab-pro.php:1222
+msgid " day ago"
+msgstr "روز قبل"
+
+#: easy-side-tab-pro.php:1224
+msgid " days ago"
+msgstr "روزهای قبل"
+
+#: easy-side-tab-pro.php:1228
+msgid " hour ago"
+msgstr "ساعتی قبل"
+
+#: easy-side-tab-pro.php:1230
+msgid " hours ago"
+msgstr "ساعات قبل"
+
+#: easy-side-tab-pro.php:1233
+msgid " minutes ago"
+msgstr "دقایق پیش"
+
+#: easy-side-tab-pro.php:1235
+msgid "1 minute ago"
+msgstr "یک دقیقه قبل"
+
+#: easy-side-tab-pro.php:1296 inc/backend/boards/metaboxes/item.php:515
+msgid "Choose Taxonomy"
+msgstr "نوع طبقه بندی را انتخاب کنید"
+
+#: inc/backend/about.php:4
+msgid "About us"
+msgstr "درباره ما"
+
+#: inc/backend/about.php:6 inc/backend/about.php:45
+#: inc/backend/all-tabs-listing.php:12 inc/backend/how-to-use.php:10
+#: inc/backend/subscribers-list.php:8 inc/backend/twitter-feed.php:11
+msgid "AccessPress Social Icons"
+msgstr "آیکون شبکه های اجتماعی"
+
+#: inc/backend/about.php:15
+msgid "About Us"
+msgstr "درباره ما"
+
+#: inc/backend/about.php:17
+msgid "Easy Side Tab Pro - CTA Plugin for WordPress"
+msgstr "افزونه Easy Side Tab - پلاگین دکمه های CTA برای وردپرس"
+
+#: inc/backend/about.php:17
+msgid "- is a Free WordPress Plugin by AccessPress Themes."
+msgstr "- یک پلاگین  وردپرس رایگان توسط تم های AccessPress است."
+
+#: inc/backend/about.php:19
+msgid ""
+"AccessPress Themes is a venture of Access Keys - who has developed hundreds "
+"of Custom WordPress themes and plugins for its clients over the years. "
+msgstr ""
+"تم های AccessPress با استفاده از Access Keys است - که صدها تم سفارشی وردپرس "
+"و پلاگین برای مشتری های خد در طول سا لها توسعه داده است."
+
+#: inc/backend/about.php:21
+msgid ""
+" - is a Free WordPress Side Tab plugin packaged with 2 beautiful pre-"
+"designed templates. With this plugin, you can easily link to any page with "
+"the help of side tab. You can also set the slider content which pops out on "
+"tab click."
+msgstr ""
+"-یک پلاگین ساید تب رایگان همراه با 2 تمپلیت از پیش طراحی شده زیبا است. با "
+"این پلاگین شما می توانید به آسانی به هر صفحه ای با کمک ساید تب وصل شوید. "
+"همچنین شما می توانید محتوای اسلایدر را  که با کلیک روی تب ها نمایش داده می "
+"شود، تنظیم کنید.  "
+
+#: inc/backend/about.php:23
+msgid "Please visit our product page for more details here:"
+msgstr "برای اطلاعات بیشتر لطفاً به صفحه محصولات ما مراجعه کنید:"
+
+#: inc/backend/about.php:28
+msgid "Please visit our demo page here:"
+msgstr "لطفاً از دموی ما دیدن کنید:"
+
+#: inc/backend/about.php:34
+msgid "Plugin documentation can be found here:"
+msgstr "مستندات این افزونه را در این قسمت می توانید پیدا کنید:"
+
+#: inc/backend/about.php:39
+msgid "More from AccessPress themes"
+msgstr ""
+
+#: inc/backend/about.php:49
+msgid "WordPress Plugins"
+msgstr "پلاگین وردپرس"
+
+#: inc/backend/about.php:62
+msgid "WordPress Themes"
+msgstr "تم وردپرس"
+
+#: inc/backend/about.php:78
+msgid "WordPress Customization"
+msgstr "سفارشی سازی وردپرس"
+
+#: inc/backend/about.php:90
+msgid "Get in touch"
+msgstr "ما را دنبال کنید!"
+
+#: inc/backend/about.php:91
+msgid "If you have any question/feedback, please get in touch:"
+msgstr ""
+"در صورتی که هر گونه سوال ، نظر یا پیشنهادی دارید.لطفا از طریق راه های زیر با "
+"ما در ارتباط باشید:"
+
+#: inc/backend/about.php:93
+msgid "General enquiries:"
+msgstr "پرسش های عمومی:"
+
+#: inc/backend/about.php:94
+msgid "Support:"
+msgstr "پشتیبانی: "
+
+#: inc/backend/about.php:95
+msgid "Sales:"
+msgstr "حراجی:"
+
+#: inc/backend/about.php:103
+msgid "Get social"
+msgstr "شبکه های اجتماعی"
+
+#: inc/backend/about.php:104
+msgid ""
+"Get connected with us on social media. Facebook is the best place to find "
+"updates on our themes/plugins: "
+msgstr ""
+"در رسانه‌های اجتماعی با ما ارتباط برقرار کنید. فیسبوک بهترین مکان برای پیدا "
+"کردن به‌روز رسانی‌ قالب و افزونه های ما است:"
+
+#: inc/backend/about.php:106
+msgid "Like us on facebook:"
+msgstr "پسندیدن ما در فیسبوک:"
+
+#: inc/backend/all-tabs-listing.php:27
+msgid "Add Tab"
+msgstr "افزودن تب"
+
+#: inc/backend/all-tabs-listing.php:29
+msgid "Remove"
+msgstr "حذف"
+
+#: inc/backend/all-tabs-listing.php:37 inc/backend/all-tabs-listing.php:77
+#: inc/backend/subscribers-list.php:41
+msgid "S.N"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:38 inc/backend/all-tabs-listing.php:78
+msgid "Side Tab Name"
+msgstr "نام ساید تب"
+
+#: inc/backend/all-tabs-listing.php:39 inc/backend/all-tabs-listing.php:79
+msgid "Template Name"
+msgstr "نام الگو"
+
+#: inc/backend/all-tabs-listing.php:40 inc/backend/all-tabs-listing.php:80
+msgid "Action"
+msgstr "اقدام"
+
+#: inc/backend/boards/layout-settings.php:8
+msgid "Tab Layout"
+msgstr "طرح تب"
+
+#: inc/backend/boards/layout-settings.php:58
+msgid "Display Position"
+msgstr "نمایش موقعیت"
+
+#: inc/backend/boards/layout-settings.php:61
+msgid "Fixed"
+msgstr "ثابت"
+
+#: inc/backend/boards/layout-settings.php:64
+msgid "Absolute"
+msgstr "مطلق"
+
+#: inc/backend/boards/layout-settings.php:71
+msgid "Customize"
+msgstr "سفارشی سازی"
+
+#: inc/backend/boards/layout-settings.php:83
+msgid "Tab Color Customize"
+msgstr "سفارشی کردن رنگ تب"
+
+#: inc/backend/boards/layout-settings.php:88
+msgid "Background Color"
+msgstr "رنگ پس زمینه "
+
+#: inc/backend/boards/layout-settings.php:96
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: inc/backend/boards/layout-settings.php:104
+msgid "Background Hover Color"
+msgstr "رنگ حالت هاور پس زمینه"
+
+#: inc/backend/boards/layout-settings.php:112
+msgid "Text Hover Color"
+msgstr "رنگ متن در حالت هاور"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:4
+msgid "Category"
+msgstr "دسته بندی"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:5
+msgid "Latest Product"
+msgstr "اخرین محصول"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:6
+msgid "UpSell Product"
+msgstr "محصولات پر فروش"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:7
+msgid "Featured Product"
+msgstr "محصولات ویژه"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:8
+msgid "On Sale Product"
+msgstr "محصولات فروش ویژه"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:34
+#: inc/backend/boards/metaboxes/item.php:179
+msgid "WooCommerce Product"
+msgstr "محصولات ووکامرس"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:37
+#: inc/backend/boards/metaboxes/item.php:191
+#: inc/backend/boards/metaboxes/item.php:419
+#: inc/backend/boards/metaboxes/item.php:470
+#: inc/backend/boards/metaboxes/item.php:486
+msgid "Title Text"
+msgstr "عنوان متن"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:42
+msgid "Product Type"
+msgstr "نوع محصول"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:53
+msgid "Select Product Category"
+msgstr "انتخاب دسته بندی محصولات"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:64
+msgid "Show Price"
+msgstr "نمایش قیمت"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:73
+msgid "Show Add To Cart Button"
+msgstr "نمایش دکمه افزودن به سبد خرید"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:82
+msgid "Posts Per Page"
+msgstr "پست ها در هر برگه"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:88
+#: inc/backend/boards/metaboxes/item.php:570
+msgid "Order By"
+msgstr "سفارش توسط"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:91
+#: inc/backend/boards/metaboxes/item.php:577
+msgid "ID"
+msgstr "شناسه"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:92
+#: inc/backend/boards/metaboxes/item.php:585
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:93
+#: inc/backend/subscribers-list.php:44
+msgid "Name"
+msgstr "نام"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:94
+#: inc/backend/boards/metaboxes/item.php:597
+msgid "Date"
+msgstr "تاریخ"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:95
+msgid "Random Number"
+msgstr "شماره تصادفی"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:96
+msgid "Menu Order"
+msgstr "منو سفارشی"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:97
+#: inc/backend/boards/metaboxes/item.php:581
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:102
+#: inc/backend/boards/metaboxes/item.php:607
+msgid "Order"
+msgstr "سفارش"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:105
+msgid "Ascending Order"
+msgstr "ترتیب صعودی"
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:106
+msgid "Descending Order"
+msgstr "ترتیب نزولی"
+
+#: inc/backend/boards/metaboxes/item.php:20
+msgid "Your Title Here"
+msgstr "عنوان شما اینجاست"
+
+#: inc/backend/boards/metaboxes/item.php:36
+msgid "Text For Tab"
+msgstr "متن برای تب"
+
+#: inc/backend/boards/metaboxes/item.php:41
+msgid "Tool Tip"
+msgstr "راهنمای متنی"
+
+#: inc/backend/boards/metaboxes/item.php:46
+msgid "Choose Icon Type"
+msgstr "نوع آیکون را انتخاب کنید"
+
+#: inc/backend/boards/metaboxes/item.php:49
+#: inc/backend/boards/metaboxes/item.php:573
+#: inc/backend/boards/metaboxes/item.php:610 inc/backend/main-settings.php:109
+#: inc/backend/main-settings.php:189 inc/backend/main-settings.php:269
+#: inc/backend/main-settings.php:349
+msgid "None"
+msgstr "هیچ كدام"
+
+#: inc/backend/boards/metaboxes/item.php:50
+#: inc/backend/boards/metaboxes/item.php:58
+msgid "Available Icon"
+msgstr "آیکون های موجود"
+
+#: inc/backend/boards/metaboxes/item.php:51
+#: inc/backend/boards/metaboxes/item.php:70
+msgid "Upload Own Icon"
+msgstr "آیکون خود را آپلود کنید"
+
+#: inc/backend/boards/metaboxes/item.php:63
+#: inc/backend/boards/metaboxes/item.php:378
+#: inc/backend/boards/metaboxes/item.php:697
+msgid "Select Icon"
+msgstr "انتخاب آیکون"
+
+#: inc/backend/boards/metaboxes/item.php:74
+msgid "Upload Icon"
+msgstr "بارگذاری آیکون"
+
+#: inc/backend/boards/metaboxes/item.php:89
+msgid "Width/Height (px) "
+msgstr "عرض / ارتفاع (px)"
+
+#: inc/backend/boards/metaboxes/item.php:91
+msgid "Width"
+msgstr "عرض"
+
+#: inc/backend/boards/metaboxes/item.php:92
+msgid "Height"
+msgstr "عرض/ارتفاع (px)"
+
+#: inc/backend/boards/metaboxes/item.php:98
+msgid "Tab Type"
+msgstr "نوع تب"
+
+#: inc/backend/boards/metaboxes/item.php:101
+msgid "Internal"
+msgstr "داخلی"
+
+#: inc/backend/boards/metaboxes/item.php:105
+msgid "External"
+msgstr "خارجی"
+
+#: inc/backend/boards/metaboxes/item.php:109
+msgid "Content Slider"
+msgstr "اسلایدر محتوی"
+
+#: inc/backend/boards/metaboxes/item.php:116
+#: inc/backend/boards/metaboxes/item.php:138
+msgid "Target"
+msgstr "هدف"
+
+#: inc/backend/boards/metaboxes/item.php:119
+#: inc/backend/boards/metaboxes/item.php:140
+msgid "Select Target"
+msgstr "انتخاب هدف"
+
+#: inc/backend/boards/metaboxes/item.php:121
+#: inc/backend/boards/metaboxes/item.php:142
+msgid "_self"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:124
+#: inc/backend/boards/metaboxes/item.php:145
+msgid "_blank"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:130
+msgid "Tab URL"
+msgstr "آدرس (URL) تب"
+
+#: inc/backend/boards/metaboxes/item.php:151
+msgid "Redirect Page"
+msgstr "تغییر مسیر صفحه"
+
+#: inc/backend/boards/metaboxes/item.php:153
+msgid "Select Page"
+msgstr "انتخاب صفحه"
+
+#: inc/backend/boards/metaboxes/item.php:170
+msgid "Content Type"
+msgstr "نوع محتوا"
+
+#: inc/backend/boards/metaboxes/item.php:172
+#: inc/backend/boards/metaboxes/item.php:416
+msgid "Social Icons"
+msgstr "آیکون شبکه های اجتماعی"
+
+#: inc/backend/boards/metaboxes/item.php:174
+#: inc/backend/boards/metaboxes/item.php:475
+msgid "Custom Shortcode"
+msgstr "کد کوتاه دلخواه"
+
+#: inc/backend/boards/metaboxes/item.php:175
+#: inc/backend/boards/metaboxes/item.php:272
+msgid "Subscription Form"
+msgstr "فرم اشتراک"
+
+#: inc/backend/boards/metaboxes/item.php:176
+msgid "Recent Blogs"
+msgstr "آخرین پست های بلاگ"
+
+#: inc/backend/boards/metaboxes/item.php:182
+msgid "HTML Content"
+msgstr "محتوای HTML"
+
+#: inc/backend/boards/metaboxes/item.php:196
+msgid "Twitter Username"
+msgstr "نام کاربری توئیتر"
+
+#: inc/backend/boards/metaboxes/item.php:199
+msgid ""
+"Please enter the username of twitter account from which the feeds need to be "
+"fetched.For example:@apthemes"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:204
+msgid "Total no of Feed"
+msgstr "تعداد کل خوراک"
+
+#: inc/backend/boards/metaboxes/item.php:207
+msgid ""
+"Please enter the number of feeds to be fetched.Default number of feeds is 5."
+"And please don't forget to delete cache once you change the number of tweets "
+"using delete cache button below."
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:212
+msgid "Display Twitter Follow Button"
+msgstr "نمایش دکمه فالوور توئیتر"
+
+#: inc/backend/boards/metaboxes/item.php:215
+msgid ""
+"Check if you want to display twitter follow button at the end of the feeds"
+msgstr ""
+"بررسی کنید که آیا شما میخواهید دکمه پیغام توییتر را در انتهای فید نمایش دهید"
+
+#: inc/backend/boards/metaboxes/item.php:220
+msgid "Time Format"
+msgstr "قالب زمان"
+
+#: inc/backend/boards/metaboxes/item.php:223
+msgid "Full Date and Time: e.g Feb 10, 2018, 5:16 pm"
+msgstr "تاریخ و زمان کامل: به عنوان مثال 10 فوریه 2018، 5:16 بعد از ظهر"
+
+#: inc/backend/boards/metaboxes/item.php:227
+msgid "Full Date: e.g May 12, 2018"
+msgstr "تاریخ کامل: به عنوان مثال، 12 مه 2018"
+
+#: inc/backend/boards/metaboxes/item.php:232
+msgid "Elapsed Time: e.g 12 hours ago"
+msgstr "زمان گذشته: به عنوان مثال 12 ساعت پیش"
+
+#: inc/backend/boards/metaboxes/item.php:238
+msgid "Twitter Layout"
+msgstr "چیدمان توییتر"
+
+#: inc/backend/boards/metaboxes/item.php:276
+msgid "Name Label"
+msgstr "برچسب نام"
+
+#: inc/backend/boards/metaboxes/item.php:281
+msgid "Email Label"
+msgstr "برچسب ایمیل"
+
+#: inc/backend/boards/metaboxes/item.php:286
+msgid "Submit Label"
+msgstr "برچسب ارسال"
+
+#: inc/backend/boards/metaboxes/item.php:291
+msgid "Error Message"
+msgstr "پیام خطا"
+
+#: inc/backend/boards/metaboxes/item.php:296
+msgid "Success Message"
+msgstr "پیام موفقیت"
+
+#: inc/backend/boards/metaboxes/item.php:301
+msgid "Email already available message"
+msgstr "ایمیل در حال حاضر در دسترس پیام"
+
+#: inc/backend/boards/metaboxes/item.php:306
+msgid "Subscription Form Layout"
+msgstr "طرح فرم اشتراک"
+
+#: inc/backend/boards/metaboxes/item.php:337
+msgid "Subscription Title"
+msgstr "عنوان اشتراک"
+
+#: inc/backend/boards/metaboxes/item.php:342
+msgid "Subscription Description"
+msgstr "توضیح در مورد اشتراک"
+
+#: inc/backend/boards/metaboxes/item.php:372
+msgid "Subscribe Icon"
+msgstr "آیکون اشتراک"
+
+#: inc/backend/boards/metaboxes/item.php:424
+msgid "Social icons Layout"
+msgstr "چیدمان آیکون های اجتماعی"
+
+#: inc/backend/boards/metaboxes/item.php:460
+msgid "Tooltip Text"
+msgstr "متن راهنمای متنی"
+
+#: inc/backend/boards/metaboxes/item.php:477
+msgid "Shortcode copied to your clipboard."
+msgstr "کد کوتاه در حافظه ذخیره شد"
+
+#: inc/backend/boards/metaboxes/item.php:483
+msgid "Blog Posts"
+msgstr "پست های وبلاگ"
+
+#: inc/backend/boards/metaboxes/item.php:492
+#: inc/backend/boards/metaboxes/item.php:593
+msgid "Post Type"
+msgstr "نوع پست"
+
+#: inc/backend/boards/metaboxes/item.php:497
+msgid "Choose Post Type"
+msgstr "نوع پست را انتخاب کنید"
+
+#: inc/backend/boards/metaboxes/item.php:512
+msgid "Post Taxonomies"
+msgstr "طبقه بندی پست ها"
+
+#: inc/backend/boards/metaboxes/item.php:540
+msgid "Post Terms"
+msgstr "قوانین پست"
+
+#: inc/backend/boards/metaboxes/item.php:565
+msgid "Number of posts"
+msgstr "تعداد نوشته ها"
+
+#: inc/backend/boards/metaboxes/item.php:589
+msgid "Post Name"
+msgstr "نام پست"
+
+#: inc/backend/boards/metaboxes/item.php:601
+msgid "Last Modified Date"
+msgstr "تاریخ آخرین تغییرات"
+
+#: inc/backend/boards/metaboxes/item.php:612
+msgid "Ascending"
+msgstr "صعودی"
+
+#: inc/backend/boards/metaboxes/item.php:615
+msgid "Descending"
+msgstr "نزولی"
+
+#: inc/backend/boards/metaboxes/item.php:621
+msgid "Blogs Layout"
+msgstr "طرح بندی وبلاگ ها"
+
+#: inc/backend/boards/metaboxes/item.php:658
+msgid "Woocommerce Layout"
+msgstr "طرح فروشگاه ووکامرس"
+
+#: inc/backend/boards/metaboxes/item.php:691
+msgid "Woocommerce Icon"
+msgstr "آیکون فروشگاه ووکامرس"
+
+#: inc/backend/boards/metaboxes/item.php:705
+msgid "Content"
+msgstr ""
+"-یک پلاگین ساید تب رایگان همراه با 2 تمپلیت از پیش طراحی شده زیبا است. با "
+"این پلاگین شما می توانید به آسانی به هر صفحه ای با کمک ساید تب وصل شوید. "
+"همچنین شما می توانید محتوای اسلایدر را  که با کلیک روی تب ها نمایش داده می "
+"شود، تنظیم کنید.  "
+
+#: inc/backend/boards/tab-settings.php:4
+msgid "Tab Title"
+msgstr "عنوان تب"
+
+#: inc/backend/boards/tab-settings.php:10
+msgid "Tab Items"
+msgstr "آیتم های تب"
+
+#: inc/backend/boards/tab-settings.php:15
+msgid "Add Tab Item"
+msgstr "افزودن آیتم های تب"
+
+#: inc/backend/import-export.php:13
+msgid "Imported Successfully"
+msgstr "درون ریزی با موفقیت انجام شد"
+
+#: inc/backend/import-export.php:17
+msgid "Import Failed"
+msgstr "درون ریزی با مشکل مواجه شد"
+
+#: inc/backend/import-export.php:21
+msgid "Something went wrong. Please try again"
+msgstr "مشکلی پیش آمده است. لطفاً بعدا تلاش کنید."
+
+#: inc/backend/import-export.php:25
+msgid ""
+"Something went wrong. Please check the write permission of temp folder "
+"inside the plugin\\'s folder"
+msgstr ""
+"مشکلی پیش آمده است !  لطفا اجازه نوشتن  پوشه temp در پوشه plugin را بررسی "
+"کنید."
+
+#: inc/backend/import-export.php:29
+msgid "Invalid File Extension"
+msgstr "فرمت فایل نامعتبر است"
+
+#: inc/backend/import-export.php:33
+msgid "No Any Files Uploaded"
+msgstr "هیچ فایلی آپلود نشده است."
+
+#: inc/backend/import-export.php:45
+msgid "Import / Export Settings"
+msgstr "تنظیمات درون ریزی / برون ریزی"
+
+#: inc/backend/import-export.php:54 inc/backend/import-export.php:67
+msgid "Import"
+msgstr "درون ریزی"
+
+#: inc/backend/import-export.php:57
+msgid "Upload Import File"
+msgstr "آپلود فایل"
+
+#: inc/backend/import-export.php:61
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: inc/backend/import-export.php:71 inc/backend/import-export.php:88
+msgid "Export"
+msgstr "برون ریزی"
+
+#: inc/backend/import-export.php:74
+msgid "Choose File To Export"
+msgstr "انتخاب فایل برای گرفتن خروجی"
+
+#: inc/backend/import-export.php:77
+msgid "Select One"
+msgstr "انتخاب یکی"
+
+#: inc/backend/main-page.php:33
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: inc/backend/main-page.php:38
+msgid "Settings save failed."
+msgstr "ذخیره سازی شکست خورد"
+
+#: inc/backend/main-page.php:43
+msgid "Settings restored successfully."
+msgstr "تنظیما با موفقیت بازگردانی شد."
+
+#: inc/backend/main-page.php:48
+msgid "Settings can't be restored.Please try again later."
+msgstr "تنظیمات را نمی توان بازگرداند ! لطفا بعدا مجدد امتحان کنید."
+
+#: inc/backend/main-page.php:55
+msgid "Tab Setting"
+msgstr "تنظیمات تب"
+
+#: inc/backend/main-page.php:56
+msgid "Layout"
+msgstr "طرح بندی"
+
+#: inc/backend/main-page.php:71 inc/backend/main-page.php:72
+#: inc/backend/main-settings.php:369 inc/backend/twitter-feed.php:113
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: inc/backend/main-settings.php:16
+msgid "Sidebar Settings"
+msgstr "تنظیمات سایدبار"
+
+#: inc/backend/main-settings.php:26
+msgid "General Settings saved successfully."
+msgstr "تنظیمات عمومی با موفقیت ذخیره."
+
+#: inc/backend/main-settings.php:35
+msgid "General Settings save failed."
+msgstr "ذخیره تنظیمات عمومی با شکست مواجه شد."
+
+#: inc/backend/main-settings.php:41
+msgid "Restored General Settings Successfully"
+msgstr "تنظیمات عمومی با موفقیت بازیابی شد"
+
+#: inc/backend/main-settings.php:43
+msgid "Something Went Wrong While Restoring Default Settings"
+msgstr "در حال بازگرداندن تنظیمات پیشفرض اشتباهی رخ داده است"
+
+#: inc/backend/main-settings.php:53
+msgid "Left Middle Tab"
+msgstr "تب میانه سمت چپ"
+
+#: inc/backend/main-settings.php:58 inc/backend/main-settings.php:136
+#: inc/backend/main-settings.php:216 inc/backend/main-settings.php:296
+msgid "Enable Side Tab"
+msgstr "ساید تب را فعال کنید"
+
+#: inc/backend/main-settings.php:69 inc/backend/main-settings.php:148
+#: inc/backend/main-settings.php:228 inc/backend/main-settings.php:308
+msgid "Enable Side Tab For Mobile"
+msgstr "فعال کردن سایت تب برای موبایل"
+
+#: inc/backend/main-settings.php:80 inc/backend/main-settings.php:160
+#: inc/backend/main-settings.php:240 inc/backend/main-settings.php:320
+msgid "Enable Offset"
+msgstr "فعال کردن افست"
+
+#: inc/backend/main-settings.php:90 inc/backend/main-settings.php:170
+msgid "Position From Top (Px)"
+msgstr "موقعیت از بالا (Px)"
+
+#: inc/backend/main-settings.php:96 inc/backend/main-settings.php:176
+#: inc/backend/main-settings.php:256 inc/backend/main-settings.php:336
+msgid "Display Page"
+msgstr "صفحه نمایش"
+
+#: inc/backend/main-settings.php:98 inc/backend/main-settings.php:178
+#: inc/backend/main-settings.php:258 inc/backend/main-settings.php:338
+msgid "Select Display Page"
+msgstr "صفحه نمایش را انتخاب کنید"
+
+#: inc/backend/main-settings.php:99 inc/backend/main-settings.php:179
+#: inc/backend/main-settings.php:259 inc/backend/main-settings.php:339
+msgid "Show On All Pages"
+msgstr "نمایش در تمام صفحات"
+
+#: inc/backend/main-settings.php:100 inc/backend/main-settings.php:180
+#: inc/backend/main-settings.php:260 inc/backend/main-settings.php:340
+msgid "Show Only On Homepage"
+msgstr "نمایش تنها در صفحه اصلی"
+
+#: inc/backend/main-settings.php:105 inc/backend/main-settings.php:185
+#: inc/backend/main-settings.php:265 inc/backend/main-settings.php:345
+msgid "Selected Tab"
+msgstr "تب انتخاب شده"
+
+#: inc/backend/main-settings.php:119 inc/backend/main-settings.php:199
+#: inc/backend/main-settings.php:279 inc/backend/main-settings.php:359
+msgid "No Items Currently"
+msgstr "در حال حاضر هیچ آیتمی موجود نیست"
+
+#: inc/backend/main-settings.php:122 inc/backend/main-settings.php:202
+#: inc/backend/main-settings.php:282 inc/backend/main-settings.php:362
+msgid "There are no tabs to select.Please add new tab settings by clicking "
+msgstr ""
+"هیچ تبی برای انتخاب وجود ندارد. لطفا با کلیک تنظیمات تب جدید را اضافه کنید."
+
+#: inc/backend/main-settings.php:122 inc/backend/main-settings.php:202
+#: inc/backend/main-settings.php:282 inc/backend/main-settings.php:362
+msgid "Here"
+msgstr "اینجا"
+
+#: inc/backend/main-settings.php:131
+msgid "Right Middle Tab"
+msgstr "تب میانی راست"
+
+#: inc/backend/main-settings.php:211
+msgid "Bottom Left Tab"
+msgstr "تب سمت چپ پایین"
+
+#: inc/backend/main-settings.php:250
+msgid "Position From Left (Px)"
+msgstr "موقعیت از چپ (Px)"
+
+#: inc/backend/main-settings.php:291
+msgid "Bottom Right Tab"
+msgstr "تب پایین سمت راست"
+
+#: inc/backend/main-settings.php:330
+msgid "Position From Right (Px)"
+msgstr "موقعیت از راست (Px)"
+
+#: inc/backend/main-settings.php:371
+msgid "Do you really want to restore Default General Settings?"
+msgstr "آیا واقعا می خواهید تنظیمات پیش فرض عمومی را بازیابی کنید؟"
+
+#: inc/backend/main-settings.php:372
+msgid "Restore Main Default"
+msgstr "بازگشت به تنظیمات پیشفرض"
+
+#: inc/backend/metabox/configuration.php:5
+msgid "Left Middle"
+msgstr "میانه سمت چپ"
+
+#: inc/backend/metabox/configuration.php:7
+#: inc/backend/metabox/configuration.php:18
+#: inc/backend/metabox/configuration.php:29
+#: inc/backend/metabox/configuration.php:40
+msgid "Default"
+msgstr "پیش‌ فرض"
+
+#: inc/backend/metabox/configuration.php:11
+#: inc/backend/metabox/configuration.php:22
+#: inc/backend/metabox/configuration.php:33
+#: inc/backend/metabox/configuration.php:44
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: inc/backend/metabox/configuration.php:16
+msgid "Right Middle"
+msgstr "میانی راست"
+
+#: inc/backend/metabox/configuration.php:27
+msgid "Bottom Left"
+msgstr "پایین سمت چپ"
+
+#: inc/backend/metabox/configuration.php:38
+msgid "Bottom Right"
+msgstr "پایین سمت راست"
+
+#: inc/backend/subscribers-list.php:28
+msgid "Remove Subscribers"
+msgstr "حذف مشترکین"
+
+#: inc/backend/subscribers-list.php:28
+msgid "Are you sure you want to delete?"
+msgstr "آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟"
+
+#: inc/backend/subscribers-list.php:31
+msgid "Export as CSV"
+msgstr "برون ریزی با فرمت CSV"
+
+#: inc/backend/subscribers-list.php:47
+msgid "Email"
+msgstr "ایمیل"
+
+#: inc/backend/subscribers-list.php:80
+msgid "No Subscribers Found."
+msgstr "مشترکی پیدا نشد."
+
+#: inc/backend/twitter-feed.php:19
+msgid "Twitter Settings saved successfully."
+msgstr "تنظیمات توییتر با موفقیت ذخیره شد."
+
+#: inc/backend/twitter-feed.php:28
+msgid "Twitter Settings save failed."
+msgstr "تنظیمات Twitter ذخیره نشد"
+
+#: inc/backend/twitter-feed.php:35
+msgid "Twitter settings reset successfully"
+msgstr "تنظیمات توییتر با موفقیت انجام شد"
+
+#: inc/backend/twitter-feed.php:39
+msgid "Failed to reset twitter settings"
+msgstr "در ریست تنظیمات توئیتر مشکلی پیش آماده است . مجدد تلاش کنید."
+
+#: inc/backend/twitter-feed.php:61
+msgid "Twitter Consumer Key"
+msgstr "کلید کاربری توئیتر"
+
+#: inc/backend/twitter-feed.php:63 inc/backend/twitter-feed.php:72
+#: inc/backend/twitter-feed.php:81 inc/backend/twitter-feed.php:90
+msgid "Please create an app on Twitter through this link: "
+msgstr "لطفا از طریق این لینک یک برنامه در توییتر ایجاد کنید:"
+
+#: inc/backend/twitter-feed.php:65 inc/backend/twitter-feed.php:74
+#: inc/backend/twitter-feed.php:83 inc/backend/twitter-feed.php:92
+msgid " and get this information."
+msgstr "و این اطلاعات را دریافت کنید."
+
+#: inc/backend/twitter-feed.php:70
+msgid "Twitter Consumer Secret"
+msgstr "رمز کاربری توییتر"
+
+#: inc/backend/twitter-feed.php:79
+msgid "Twitter Access Token"
+msgstr "توکن دسترسی به توئیتر"
+
+#: inc/backend/twitter-feed.php:88
+msgid "Twitter Access Token Secret"
+msgstr "توکن محرمانه دسترسی به توئیتر"
+
+#: inc/backend/twitter-feed.php:97
+msgid "Cache period"
+msgstr "دوره زمانی حافظه پنهان (کش)"
+
+#: inc/backend/twitter-feed.php:100
+msgid ""
+"Please enter the time period in minutes in which the feeds should be fetched."
+"Default is 60 Minutes"
+msgstr ""
+"لطفا مدت زمانی را که در آن فید ها را باید به دست آورید، وارد کنید. مدت زمان "
+"60 دقیقه است."
+
+#: inc/backend/twitter-feed.php:105
+msgid "Disable Cache"
+msgstr "غیرفعال کردن کش"
+
+#: inc/backend/twitter-feed.php:108
+msgid ""
+"Check if you want to disable the caching of tweets and always want to fetch "
+"new tweets."
+msgstr ""
+"بررسی کنید که آیا میخواهید کلید ذخیره توییت را غیرفعال کنید و همیشه میخواهید "
+"توییتهای جدید را بیرون بیاورید."
+
+#: inc/backend/twitter-feed.php:115
+msgid "Do you really want restore twitter settings?"
+msgstr "آیا واقعا می خواهید تنظیمات توییتر را بازگردانید؟"
+
+#: inc/backend/twitter-feed.php:116
+msgid "Restore Twitter Settings"
+msgstr "آیا واقعا می خواهید تنظیمات توییتر را بازگردانید؟"
+
+#: inc/backend/twitter-feed.php:119
+msgid "Are you sure you want to delete cache?"
+msgstr "از پاک کردن حافظه پنهان (کش) مطمئن هستید؟"
+
+#: inc/backend/twitter-feed.php:120
+msgid "Delete Cache"
+msgstr "حذف کش"
+
+#: inc/frontend/blog-templates/template-6.php:12
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: inc/frontend/tabs/twitter-feed.php:14
+msgid "Something went wrong with the twitter."
+msgstr "مشکلی در ارتباط با توئیتر بوجود آمده است."
+
+#: inc/frontend/twitter-templates/template-1.php:82
+#: inc/frontend/twitter-templates/template-2.php:93
+#: inc/frontend/twitter-templates/template-3.php:84
+#: inc/frontend/twitter-templates/template-4.php:78
+msgid "Click here to read "
+msgstr "برای خواندن ادامه مطلب کلیک کنید"
+
+#: inc/frontend/woocommerce-templates/template-2.php:54
+msgid "Add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: inc/frontend/woocommerce-templates/template-4.php:33
+#: inc/frontend/woocommerce-templates/template-5.php:51
+#: inc/frontend/woocommerce-templates/template-6.php:50
+msgid "Add To Cart"
+msgstr "افزودن به سبد خرید"

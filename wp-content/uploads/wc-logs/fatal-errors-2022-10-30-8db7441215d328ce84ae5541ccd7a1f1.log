@@ -1,0 +1,10 @@
+2022-10-30T07:26:30+00:00 CRITICAL Uncaught Error: Call to a member function date() on null in /home/alshia5/public_html/wp-content/plugins/shiaka-addon/template_parts/invoice.php:124
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/shiaka-addon/inc/class-shiaka-print-invoice.php(70): include()
+#1 /home/alshia5/public_html/wp-includes/class-wp-hook.php(307): Shiaka\Print_Invoice->print_inv_ajax('')
+#2 /home/alshia5/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/alshia5/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/alshia5/public_html/wp-admin/admin-ajax.php(187): do_action('wp_ajax_print_i...')
+#5 {main}
+  thrown في /home/alshia5/public_html/wp-content/plugins/shiaka-addon/template_parts/invoice.php في السطر 124
+

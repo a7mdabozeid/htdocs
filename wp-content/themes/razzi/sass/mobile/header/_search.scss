@@ -1,0 +1,16 @@
+@import "site/header/search/search-modal";
+
+.site-header .header-search {
+	.search-icon {
+		color: var(--rz-color-lighter);
+		cursor: pointer;
+	}
+}
+
+.ra-search-form .search-results .result-title {
+	margin: 0 -20px;
+}
+
+.ra-search-modal .quick-links .label {
+	margin: 0 -20px 0 -20px;
+}

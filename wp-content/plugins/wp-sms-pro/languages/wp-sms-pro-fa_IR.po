@@ -1,0 +1,1778 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SMS-Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-27 12:06+0300\n"
+"PO-Revision-Date: 2021-10-27 12:06+0300\n"
+"Last-Translator: Mostafa Soufi <mostafa.soufi@hotmail.com>\n"
+"Language-Team: VeronaLabs\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: includes/admin/class-wpsms-pro-admin.php:44
+msgid "Scheduled"
+msgstr ""
+
+#: includes/admin/class-wpsms-pro-admin.php:70
+msgid "Number of items per page"
+msgstr ""
+
+#: includes/admin/class-wpsms-pro-admin.php:91
+msgid "Edit Scheduled"
+msgstr ""
+
+#: includes/admin/class-wpsms-pro-admin.php:108
+#, fuzzy, php-format
+#| msgid ""
+#| "Please Install/Active <a href=\"%s\" class=\"thickbox\">WP-SMS</a> to run "
+#| "the plugin."
+msgid ""
+"Please Install/Active or Update <a href=\"%s\" class=\"thickbox\">WP-SMS</a> "
+"to run the WP-SMS-Pro plugin."
+msgstr ""
+"برای ادامه، لطفأ پلاگین <a href=\"%s\" class=\"thickbox\">WP-SMS</a> را نصب/"
+"فعال کنید."
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:47
+#, php-format
+msgid "%s <span class=\"wpsms-time\">Time: %s</span>"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:54
+msgid "Click to View more..."
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:61
+msgid "On Queue"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:63
+msgid "Success"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:65
+msgid "Unknown"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:86
+msgid "Edit"
+msgstr "ویرایش"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:88
+#: includes/admin/scheduled/class-wpsms-scheduled.php:144
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:116
+#, fuzzy
+#| msgid "Post Date"
+msgid "Date"
+msgstr "تاریخ ارسال"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:117
+msgid "Sender"
+msgstr "ارسال کننده"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:118
+#: includes/admin/scheduled/scheduled-edit.php:46
+msgid "Message"
+msgstr "متن پیام"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:119
+msgid "Recipient"
+msgstr "دریافت کننده"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:120
+msgid "Media"
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:121
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:168
+msgid "Items removed."
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:176
+msgid "Item removed."
+msgstr ""
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:190
+msgid "The SMS sent successfully."
+msgstr "‫پیامک با موفقیت ارسال ش"
+
+#: includes/admin/scheduled/class-wpsms-scheduled.php:341
+msgid "Scheduled successfully updated."
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:17
+#: includes/integrations/woocommerce/metabox.php:21
+msgid "characters"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:40
+msgid "Send from"
+msgstr "ارسال از"
+
+#: includes/admin/scheduled/scheduled-edit.php:52
+#, fuzzy
+#| msgid "Comment date"
+msgid "Set date"
+msgstr "تاریخ ارسال دیدگاه"
+
+#: includes/admin/scheduled/scheduled-edit.php:55
+msgid "Site's time zone"
+msgstr ""
+
+#: includes/admin/scheduled/scheduled-edit.php:61
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+#: includes/admin/scheduled/scheduled.php:4
+#, fuzzy
+#| msgid "Send SMS"
+msgid "Scheduled SMS"
+msgstr "ارسال پیامک"
+
+#: includes/admin/scheduled/scheduled.php:8
+msgid "Search"
+msgstr ""
+
+#: includes/class-wpsms-scheduled.php:133
+msgid "WP-SMS Pro Scheduled SMS cron"
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-_4jawaly.php:98
+#: includes/gateways/class-wpsms-pro-gateway-alfacell.php:125
+#: includes/gateways/class-wpsms-pro-gateway-aspsms.php:127
+#: includes/gateways/class-wpsms-pro-gateway-bandwidth.php:125
+#: includes/gateways/class-wpsms-pro-gateway-bulksms.php:135
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsbd.php:95
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsgateway.php:107
+#: includes/gateways/class-wpsms-pro-gateway-bulksmshyderabad.php:109
+#: includes/gateways/class-wpsms-pro-gateway-cellsynt.php:88
+#: includes/gateways/class-wpsms-pro-gateway-clickatell.php:116
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:105
+#: includes/gateways/class-wpsms-pro-gateway-clockworksms.php:103
+#: includes/gateways/class-wpsms-pro-gateway-cmtelecom.php:93
+#: includes/gateways/class-wpsms-pro-gateway-dsms.php:90
+#: includes/gateways/class-wpsms-pro-gateway-esms.php:113
+#: includes/gateways/class-wpsms-pro-gateway-hoiio.php:96
+#: includes/gateways/class-wpsms-pro-gateway-infobip.php:117
+#: includes/gateways/class-wpsms-pro-gateway-ismartsms.php:107
+#: includes/gateways/class-wpsms-pro-gateway-isms.php:91
+#: includes/gateways/class-wpsms-pro-gateway-jolis.php:89
+#: includes/gateways/class-wpsms-pro-gateway-livesms.php:88
+#: includes/gateways/class-wpsms-pro-gateway-makolar.php:114
+#: includes/gateways/class-wpsms-pro-gateway-messente.php:114
+#: includes/gateways/class-wpsms-pro-gateway-mobishastra.php:134
+#: includes/gateways/class-wpsms-pro-gateway-moceansms.php:121
+#: includes/gateways/class-wpsms-pro-gateway-msg360.php:89
+#: includes/gateways/class-wpsms-pro-gateway-nexmo.php:122
+#: includes/gateways/class-wpsms-pro-gateway-ooredoosms.php:105
+#: includes/gateways/class-wpsms-pro-gateway-ozioma.php:92
+#: includes/gateways/class-wpsms-pro-gateway-plivo.php:137
+#: includes/gateways/class-wpsms-pro-gateway-proovl.php:126
+#: includes/gateways/class-wpsms-pro-gateway-pswin.php:126
+#: includes/gateways/class-wpsms-pro-gateway-qsms.php:114
+#: includes/gateways/class-wpsms-pro-gateway-ra.php:89
+#: includes/gateways/class-wpsms-pro-gateway-routesms.php:121
+#: includes/gateways/class-wpsms-pro-gateway-sendhub.php:118
+#: includes/gateways/class-wpsms-pro-gateway-sendpulse.php:118
+#: includes/gateways/class-wpsms-pro-gateway-sendsms247.php:88
+#: includes/gateways/class-wpsms-pro-gateway-skebby.php:140
+#: includes/gateways/class-wpsms-pro-gateway-smsapicom.php:109
+#: includes/gateways/class-wpsms-pro-gateway-smscountry.php:110
+#: includes/gateways/class-wpsms-pro-gateway-smsfactor.php:123
+#: includes/gateways/class-wpsms-pro-gateway-smslive247.php:98
+#: includes/gateways/class-wpsms-pro-gateway-smsmessenger.php:134
+#: includes/gateways/class-wpsms-pro-gateway-smsmisr.php:113
+#: includes/gateways/class-wpsms-pro-gateway-smsru.php:118
+#: includes/gateways/class-wpsms-pro-gateway-smstrade.php:88
+#: includes/gateways/class-wpsms-pro-gateway-ssdindia.php:116
+#: includes/gateways/class-wpsms-pro-gateway-teletopiasms.php:119
+#: includes/gateways/class-wpsms-pro-gateway-textmagic.php:119
+#: includes/gateways/class-wpsms-pro-gateway-textmarketer.php:114
+#: includes/gateways/class-wpsms-pro-gateway-twilio.php:197
+#: includes/gateways/class-wpsms-pro-gateway-upsidewireless.php:143
+#: includes/gateways/class-wpsms-pro-gateway-vfirst.php:97
+#: includes/gateways/class-wpsms-pro-gateway-vsms.php:109
+#: includes/gateways/class-wpsms-pro-gateway-websms.php:140
+#: includes/gateways/class-wpsms-pro-gateway-yamamah.php:80
+#: includes/gateways/class-wpsms-pro-gateway-zipwhip.php:147
+#, fuzzy
+#| msgid "Username/Password does not set for this gateway"
+msgid "The username/password for this gateway is not set"
+msgstr "نام کاربری/رمز عبور برای این درگاه تنظیم نشده است."
+
+#: includes/gateways/class-wpsms-pro-gateway-bandwidth.php:130
+#: includes/gateways/class-wpsms-pro-gateway-brqsms.php:119
+#: includes/gateways/class-wpsms-pro-gateway-bulksmsnigeria.php:131
+#: includes/gateways/class-wpsms-pro-gateway-dianahost.php:115
+#: includes/gateways/class-wpsms-pro-gateway-gtxmessaging.php:119
+#: includes/gateways/class-wpsms-pro-gateway-htd.php:115
+#: includes/gateways/class-wpsms-pro-gateway-infobip.php:122
+#: includes/gateways/class-wpsms-pro-gateway-jusibe.php:112
+#: includes/gateways/class-wpsms-pro-gateway-kaleyra.php:95
+#: includes/gateways/class-wpsms-pro-gateway-kwtsms.php:116
+#: includes/gateways/class-wpsms-pro-gateway-messagebird.php:104
+#: includes/gateways/class-wpsms-pro-gateway-mimsms.php:115
+#: includes/gateways/class-wpsms-pro-gateway-orange.php:147
+#: includes/gateways/class-wpsms-pro-gateway-routesms.php:126
+#: includes/gateways/class-wpsms-pro-gateway-smsbharti.php:123
+#: includes/gateways/class-wpsms-pro-gateway-smsgateway.php:121
+#: includes/gateways/class-wpsms-pro-gateway-springedge.php:112
+#: includes/gateways/class-wpsms-pro-gateway-taqnyat.php:122
+#: includes/gateways/class-wpsms-pro-gateway-textlocal.php:112
+#: includes/gateways/class-wpsms-pro-gateway-txtlocal.php:112
+#, fuzzy
+#| msgid "API Key does not set for this gateway"
+msgid "The API Key for this gateway is not set"
+msgstr "‏‫API Key برای این درگاه تنظیم نشده اس"
+
+#: includes/gateways/class-wpsms-pro-gateway-clickatell.php:120
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:109
+#: includes/gateways/class-wpsms-pro-gateway-moceansms.php:125
+#: includes/gateways/class-wpsms-pro-gateway-smsapicom.php:113
+#: includes/gateways/class-wpsms-pro-gateway-textmarketer.php:118
+msgid "CURL extension not found in your server. please enable curl extenstion."
+msgstr "اکستنشن CURL در سرور شما یافت نشد. لطفا آن را در سرور فعال کنید."
+
+#: includes/gateways/class-wpsms-pro-gateway-clicksend.php:113
+msgid "Please enable WP-SMS-Pro plugin."
+msgstr "لطفا افزونه WP-SMS-Pro را فعال کنید."
+
+#: includes/gateways/class-wpsms-pro-gateway-clockworksms.php:107
+msgid "Class DOMDocument not found in your php."
+msgstr "کلاس DOMDocument در php‌ شما یافت نشد."
+
+#: includes/gateways/class-wpsms-pro-gateway-esms.php:117
+msgid "Function simplexml_load_string not found in your php."
+msgstr "تابع simplexml_load_string در php شما یافت نشد."
+
+#: includes/gateways/class-wpsms-pro-gateway-ismartsms.php:111
+msgid "Class SoapClient not found. please enable php_soap in your php."
+msgstr "کلاس SoapClient یافت نشد. لطفا php_soap را در php خود فعال کنید."
+
+#: includes/gateways/class-wpsms-pro-gateway-notify.php:124
+#, fuzzy
+#| msgid "Username/Password does not set for this gateway"
+msgid "User ID/The API Key for this gateway is not set"
+msgstr "نام کاربری/رمز عبور برای این درگاه تنظیم نشده است."
+
+#: includes/gateways/class-wpsms-pro-gateway-smsto.php:57
+msgid "You have exceeded the max limit of 480 characters"
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-smsto.php:164
+msgid "API not set"
+msgstr ""
+
+#: includes/gateways/class-wpsms-pro-gateway-twilio.php:201
+msgid "CURL extension not found in your server. please enable curl extension."
+msgstr "اکستنشن CURL در سرور شما یافت نشد. لطفا آن را در سرور فعال کنید."
+
+#: includes/gateways/class-wpsms-pro-gateway-tyntec.php:120
+msgid "API Key required for this gateway"
+msgstr ""
+
+#: includes/integrations/class-wpsms-pro-buddypress.php:62
+#, fuzzy
+#| msgid "Your mobile number for get sms"
+msgid "Your mobile number to receive SMS updates"
+msgstr "شماره موبایل شما برای دریافت پیامک"
+
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:48
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:50
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:74
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:84
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:49
+#: includes/integrations/class-wpsms-pro-easy-digital-downloads.php:59
+msgid "Please enter mobile number for get sms"
+msgstr "لطفاً شماره موبایل دریافت کننده پیامک را وارد کنید"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:120
+msgid "Login with mobile"
+msgstr "ورود با موبایل"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:160
+msgid "Username"
+msgstr "نام‌کاربری"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:161
+msgid "Submit"
+msgstr "ثبت"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:162
+#, fuzzy
+#| msgid "Please select."
+msgid "Please Wait ..."
+msgstr "لطفا انتخاب کنید."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:164
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:58
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:108
+msgid "Error occurred. please try again"
+msgstr ""
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:165
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:105
+msgid "Error"
+msgstr "خطا"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:166
+msgid "Code"
+msgstr "کد"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:167
+msgid "Submit code"
+msgstr "ثبت کد"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:217
+#, fuzzy
+#| msgid "Please enter a message"
+msgid "Please Enter Username"
+msgstr "لطفا قسمت پیامک را وارد کنید"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:224
+msgid "User does not exist"
+msgstr "کاربر وجود ندارد"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:231
+msgid "Mobile number not found!"
+msgstr "شماره موبایل یافت نشد!"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:237
+msgid ""
+"Your mobile number is not verified. Please Login again to get the "
+"verification code."
+msgstr ""
+"شماره موبایل شما تایید نشده است. لطفاً دوباره ورود کنید تا کد تایید را دریافت "
+"کنید."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:266
+#, fuzzy
+#| msgid ""
+#| "Security code have beed send in your mobile. please enter the code for "
+#| "login to wordpress."
+msgid ""
+"Security code have been send to your mobile number. please enter the code to "
+"login to the WordPress."
+msgstr ""
+"کد امنیتی به شماره موبایل ارسال شد. لطفا برای ورود به وردپرس کد را وارد کنید."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:286
+msgid "Session error"
+msgstr ""
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:292
+#, fuzzy
+#| msgid "Please enter a message"
+msgid "Please Enter Code"
+msgstr "لطفا قسمت پیامک را وارد کنید"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:305
+msgid "Security code is wrong"
+msgstr "کد امنیتی اشتباه است"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:332
+#: includes/templates/verify-sms-field.php:1
+msgid "Mobile status"
+msgstr "وضعیت موبایل"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:333
+msgid "Verification code"
+msgstr "کدفعال سازی"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:360
+#: includes/templates/verify-sms-field.php:5
+msgid "Verified"
+msgstr "تأیید شده"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:362
+msgid "Not verified!"
+msgstr "تایید نشده است!"
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:401
+#, fuzzy
+#| msgid ""
+#| "Your mobile number is not verified. Please Login again to get the "
+#| "verification code."
+msgid ""
+"Your mobile number is not verified or mobile number empty. Please Login again "
+"to get the verification code and OTP working too."
+msgstr ""
+"شماره موبایل شما تایید نشده است. لطفاً دوباره ورود کنید تا کد تایید را دریافت "
+"کنید."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:437
+msgid ""
+"Your mobile number is not verified! Please enter verification code to verify "
+"your mobile number on the site."
+msgstr ""
+"شماره موبایل شما تایید نشده است. لطفاً کد تایید را را برای تایید شماره موبایل "
+"خود در سایت وارد کنید."
+
+#: includes/integrations/class-wpsms-pro-wordpress.php:517
+#, php-format
+msgid "Verification code: %s"
+msgstr "کدفعال سازی: %s"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:56
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:81
+#, php-format
+msgid "e.g. %s"
+msgstr "مثال: %s"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:60
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:85
+msgid "Mobile number"
+msgstr "شماره موبایل"
+
+#: includes/integrations/class-wpsms-pro-wp-job-manager.php:102
+#, php-format
+msgid "<li>Mobile: %s</li>"
+msgstr "<li>موبایل: %s</li>"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:31
+msgid "SMS"
+msgstr "پیامک"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:56
+msgid "Send SMS?"
+msgstr "ارسال پیامک؟"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:57
+msgid "The SMS will be sent if the Note to the customer is select."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:67
+msgid "Order ID does not find in the request, contact the support"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:87
+#, fuzzy
+#| msgid "Please enter mobile number."
+msgid "Can't resolve the customer mobile number."
+msgstr "لطفا شماره موبایل را وارد کنید."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:94
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:117
+#, fuzzy
+#| msgid "Please enter a message"
+msgid "Please enter your SMS message."
+msgstr "لطفا قسمت پیامک را وارد کنید"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:109
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:138
+#, fuzzy
+#| msgid "SMS Setting"
+msgid "SMS Sent!"
+msgstr "تنظیمات پیامک"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-metabox.php:122
+msgid "Something wrong! please try again later."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:67
+#, fuzzy
+#| msgid "Please enter mobile number."
+msgid "Please verify your mobile number"
+msgstr "لطفا شماره موبایل را وارد کنید."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:100
+msgid ""
+"<h3>Mobile Verification</h3><h4>You will receive a verification code on your "
+"mobile phone.</h4>"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:101
+msgid "Confirm"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:102
+msgid "Processing, please wait a moment."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:103
+#, fuzzy
+#| msgid "User mobile number."
+msgid "Enter Your number..."
+msgstr "شماره موبایل کاربر."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:104
+#, fuzzy
+#| msgid "Verification code"
+msgid "Verification Code"
+msgstr "کدفعال سازی"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:106
+#, fuzzy
+#| msgid "Verified"
+msgid "Verify"
+msgstr "تأیید شده"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:107
+msgid "Click Here"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:155
+msgid "Your number is empty or something went wrong!"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:171
+msgid "Your number already exists, please use another number."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:203
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:286
+#, php-format
+msgid "You have reached your limit.<br>Please retry after : %s."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:212
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:294
+msgid "You have reached your limit, Please Contact Website Administrator."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:235
+msgid ""
+"Your verification code has been sent!<br>Complete the verification process by "
+"entering your OTP code."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:243
+#, fuzzy
+#| msgid "Verification code: %s"
+msgid "Verification code is empty!"
+msgstr "کدفعال سازی: %s"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:262
+msgid "Mobile verified successfully!<br>Please checkout the order."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:266
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:272
+msgid "Verification code is not valid, Please try again!"
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:310
+msgid "The SMS has been sent! Please check it again."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce-otp.php:338
+msgid ""
+"The mobile phone field is not match with the registered user phone number."
+msgstr ""
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:85
+msgid "Enter your mobile number to get any notifications about your order"
+msgstr "برای دریافت اطلاعیه‌‌های سفارش، شماره موبایل خود را وارد کنید"
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:98
+msgid "Please enter mobile number."
+msgstr "لطفا شماره موبایل را وارد کنید."
+
+#: includes/integrations/woocommerce/class-wpsms-pro-woocommerce.php:397
+#, fuzzy
+#| msgid "Mobile field"
+msgid "Mobile:"
+msgstr "فیلد موبایل"
+
+#: includes/integrations/woocommerce/metabox.php:4
+#, fuzzy
+#| msgid "Send a sms to you When get new order."
+msgid "Send an sms to the customer."
+msgstr "ارسال پیامک به شما هنگام دریافت سفارش جدید."
+
+#: includes/integrations/woocommerce/metabox.php:11
+msgid "Send"
+msgstr "ارسال"
+
+#: includes/templates/otp-optional-field.php:3
+msgid "OTP"
+msgstr ""
+
+#: includes/templates/otp-optional-field.php:7
+msgid "Active"
+msgstr "فعال"
+
+#: includes/templates/verify-sms-field-login.php:2
+msgid "Verify code"
+msgstr "کدفعال سازی"
+
+#: includes/templates/verify-sms-field.php:11
+msgid "Yes"
+msgstr "بله"
+
+#~ msgid "Username/Password does not set for this gateway"
+#~ msgstr "نام کاربری/رمز عبور برای این درگاه تنظیم نشده است."
+
+#~ msgid "API/Key does not set for this gateway"
+#~ msgstr "‫API/Key برای این درگاه تنظیم نشده است."
+
+#, fuzzy
+#~| msgid "Username/Password does not set for this gateway"
+#~ msgid "API does not set for this gateway"
+#~ msgstr "نام کاربری/رمز عبور برای این درگاه تنظیم نشده است."
+
+#~ msgid "Your account does not credit for sending sms."
+#~ msgstr "حساب کاربری شما اعتبار کافی برای ارسال پیامک ندارد."
+
+#~ msgid "WP SMS - Professional Package"
+#~ msgstr "پیامک وردپرس - بسته حرفه ای"
+
+#~ msgid "Complementary package for add new capability to WP SMS Plugin."
+#~ msgstr "بسته مکمل برای افزایش قابلیت های جدید به افزونه پیامک وردپرس."
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Please enter mobile verification code"
+#~ msgstr "لطفا کدفعال سازی را وارد کنید"
+
+#~ msgid "Verify status"
+#~ msgstr "وضعیت تأییدیه"
+
+#~ msgid "Verified?"
+#~ msgstr "تأیید شده؟"
+
+#~ msgid "Yes!"
+#~ msgstr "بله!"
+
+#~ msgid "Pro Package"
+#~ msgstr "بسته حرفه ای"
+
+#~ msgid "Wordpress"
+#~ msgstr "وردپرس"
+
+#~ msgid "BuddyPress"
+#~ msgstr "بادی پرس"
+
+#~ msgid "Woocommerce"
+#~ msgstr "ووکامرس"
+
+#~ msgid "Gravityforms"
+#~ msgstr "گراویتی فرم"
+
+#~ msgid "Quform"
+#~ msgstr "کیوفرم"
+
+#~ msgid "Easy Digital Downloads"
+#~ msgstr "آسان دانلود دیجیتال"
+
+#~ msgid "Settings updated"
+#~ msgstr "تنظیمات به روز شد"
+
+#~ msgid "Enable"
+#~ msgstr "فعال"
+
+#~ msgid "Disable"
+#~ msgstr "غیرفعال"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "Notify for %s form"
+#~ msgstr "اطلاع رسانی برای فرم %s"
+
+#~ msgid "Send sms when this form get new message"
+#~ msgstr "ارسال پیامک هنگامی که این فرم پیغام جدید را دریافت کرد"
+
+#~ msgid "Message body"
+#~ msgstr "متن پیام"
+
+#~ msgid "Enter the contents of the sms message."
+#~ msgstr "محتوای متن ارسال پیامک را وارد کنید."
+
+#~ msgid "Form name: %s, IP: %s, Form url: %s, User agent: %s, Content form: %s"
+#~ msgstr ""
+#~ "نام فرم: %s, آی پی: %s, آدرس فرم: %s, مرورگر کاربر: %s, محتوای فرم: %s"
+
+#~ msgid "Send SMS to field"
+#~ msgstr "ارسال پیامک به فیلد"
+
+#~ msgid "Send sms to field value when this form get new message"
+#~ msgstr "ارسال پیامک به فیلد هنگامی که این فرم پیغام جدید را دریافت کرد"
+
+#~ msgid "Field form"
+#~ msgstr "فیلد فرم"
+
+#~ msgid "Please select the field of the form"
+#~ msgstr "لطفاً فیلد فرم را انتخاب کنید"
+
+#~ msgid "Not active"
+#~ msgstr "فعال نیست"
+
+#~ msgid "Gravityforms should be enable to run this tab"
+#~ msgstr "برای اجرای این زبانه، باید گراویتی فرم فعال باشد"
+
+#~ msgid "Form name: %s, Form url: %s, Referring url: %s"
+#~ msgstr "نام فرم: %s,  آدرس فرم: %s, ارجاع دهنده: %s"
+
+#~ msgid "Quform should be enable to run this tab"
+#~ msgstr "برای اجرای این زبانه، باید کیوفرم فعال باشد"
+
+#~ msgid "Login"
+#~ msgstr "ورود"
+
+#~ msgid "This option add login with sms in the auth form"
+#~ msgstr "این گزینه ورود با موبایل را به فرم ورود وردپرس اضافه می کند"
+
+#~ msgid "Fields"
+#~ msgstr "فیلدها"
+
+#~ msgid "Add mobile field to profile page"
+#~ msgstr "افزودن فیلد شماره موبایل به پروفایل کاربری"
+
+#~ msgid "Mentions"
+#~ msgstr "اشاره"
+
+#~ msgid "Send SMS to user when someone mentioned. for example @admin"
+#~ msgstr ""
+#~ "ارسال پیامک به کاربر وقتی کسی به آن اشاره کرد، برای مثال <span dir=\"ltr"
+#~ "\">@admin</span>"
+
+#~ msgid ""
+#~ "Posted user display name: %s, User profile permalink: %s, Time: %s, "
+#~ "Message: %s, Receiver user display name: %s"
+#~ msgstr ""
+#~ "نام کاربر ارسال کننده: %s، پروفایل کاربر: %s، زمان: %s، پیغام: %s، نام "
+#~ "کاربر اشاره شده: %s"
+
+#~ msgid "Comments"
+#~ msgstr "دیدگاه ها"
+
+#~ msgid "Send sms to user when the user get a reply on comment"
+#~ msgstr "ارسال پیامک به کاربر هنگامی که کاربر پاسخ در دیدگاه دریافت کرد"
+
+#~ msgid ""
+#~ "Posted user display name: %s, Comment content: %s, Receiver user display "
+#~ "name: %s"
+#~ msgstr ""
+#~ "نام کاربر ارسال کننده: %s، متن دیدگاه: %s، نام کاربر دریافت کننده: %s"
+
+#~ msgid "Add mobile field to checkout page"
+#~ msgstr "افزودن فیلد شماره موبایل به صفحه تکمیل سفارش"
+
+#~ msgid "Notify for new product"
+#~ msgstr "اطلاع برای محصول جدید"
+
+#~ msgid "Send sms when publish new a product"
+#~ msgstr "ارسال پیامک هنگامی که محصول جدید منتشر شد"
+
+#~ msgid "SMS receiver"
+#~ msgstr "دریافت کننده پیامک"
+
+#~ msgid "Subscribe users"
+#~ msgstr "کاربران خبرنامه"
+
+#~ msgid "Customers (Users)"
+#~ msgstr "مشتریان (کاربران)"
+
+#~ msgid "Please select the receiver of sms"
+#~ msgstr "لطفاً گیرنده پیامک را انتخاب کنید"
+
+#~ msgid "Subscribe group"
+#~ msgstr "گروه مشترکین"
+
+#~ msgid "If you select the Subscribe users, can select the group for send sms"
+#~ msgstr ""
+#~ "اگر مشترکین خبرنامه را انتخاب کردید، میتوانید گروهی که پیامک به آن ارسال "
+#~ "شود را انتخاب کنید"
+
+#~ msgid ""
+#~ "Product title: %s, Product url: %s, Product date: %s, Product price: %s"
+#~ msgstr ""
+#~ "عنوان محصول: %s, آدرس محصول: %s, تاریخ اضافه شدن محصول: %s, قیمت محصول: %s"
+
+#~ msgid "Notify for new order"
+#~ msgstr "اطلاع برای سفارش جدید"
+
+#~ msgid "Send sms when submit new order"
+#~ msgstr "ارسال پیامک هنگامی که سفارش جدید ثبت شد"
+
+#~ msgid "Order id: %s, Order status: %s"
+#~ msgstr "شناسه سفارش: %s, وضعیت سفارش: %s"
+
+#~ msgid "Notify to customer order"
+#~ msgstr "اطلاع به سفارش مشتری"
+
+#~ msgid "Send sms to customer when submit the order"
+#~ msgstr "ارسال پیامک به مشتری بعد از ثبت سفارش"
+
+#~ msgid ""
+#~ "Order id: %s, Order status: %s, Customer name: %s, Customer family: %s"
+#~ msgstr "شناسه سفارش: %s, وضعیت سفارش: %s, نام مشتری: %s, فامیلی مشتری: %s"
+
+#~ msgid "Notify of stock"
+#~ msgstr "اطلاع برای موجودی"
+
+#~ msgid "Send sms when stock is low"
+#~ msgstr "ارسال پیامک هنگامی که موجودی یک محصول کم بود"
+
+#~ msgid "Product id: %s, Product name: %s"
+#~ msgstr "شناسه محصول: %s, نام محصول: %s"
+
+#~ msgid "Send sms to customer when status is changed"
+#~ msgstr "ارسال پیامک به مشتری وقتی وضعیت سفارش تغییر کرد"
+
+#~ msgid ""
+#~ "Order status: %s, Order number: %s, Customer name: %s, Customer family: %s"
+#~ msgstr "وضعیت سفارش: %s, شناسه سفارش: %s, نام مشتری: %s, فامیلی مشتری: %s"
+
+#~ msgid "Email: %s, First name: %s, Last name: %s"
+#~ msgstr "آدرس ایمیل: %s, نام: %s, فامیلی: %s"
+
+#~ msgid "Upload File"
+#~ msgstr "بارگزاری فایل"
+
+#~ msgid "Professional Package WP SMS"
+#~ msgstr "بسته حرفه ای پیامک وردپرس"
+
+#~ msgid "Premium list"
+#~ msgstr "لیست پرمیوم"
+
+#~ msgid "Form name: %s, Form url: %s, Referring url: %s, Content form: %s"
+#~ msgstr "نام فرم: %s,  آدرس فرم: %s, ارجاع دهنده: %s, محتوای فرم: %s"
+
+#~ msgid "Form %s"
+#~ msgstr "فرم %s"
+
+#~ msgid "Nobody"
+#~ msgstr "هیچ کس"
+
+#~ msgid "New products"
+#~ msgstr "محصول جدید"
+
+#~ msgid "Notifications"
+#~ msgstr "اطلاع رسانی"
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#, fuzzy
+#~ msgid "Page title"
+#~ msgstr "نام محصول"
+
+#~ msgid "Registration"
+#~ msgstr "ثبت نام"
+
+#~ msgid "SMS confirmations for registration"
+#~ msgstr "تأییدیه پیامکی برای ثبت نام"
+
+#~ msgid "This option completes registration with SMS confirmations"
+#~ msgstr "این گزینه تکمیل ثبت نام را با تأییدیه انجام می دهد"
+
+#~ msgid ""
+#~ "Send a SMS via WordPress, Subscribe for sms newsletter and send an SMS to "
+#~ "the subscriber newsletter."
+#~ msgstr ""
+#~ "ارسال پیامک از طریق وردپرس، عضویت در خبرنامه پیامکی و ارسال پیامک به "
+#~ "مشترکین خبرنامه."
+
+#~ msgid "Access denied!"
+#~ msgstr "دسترسی غیرمجاز!"
+
+#~ msgid "Hi %s, the %s post suggested to you by %s. url: %s"
+#~ msgstr "سلام %s, مطلب %s از طرف %s به شما پیشنهاد شده است. آدرس: %s"
+
+#~ msgid "Please enter a valid mobile number"
+#~ msgstr "شماره موبایل معتبر نیست"
+
+#~ msgid "Please complete all fields"
+#~ msgstr "لطفا تمامی فیلدها را کامل کنید"
+
+#~ msgid "<strong>ERROR</strong>: You must include a mobile number."
+#~ msgstr "<strong>خطا</strong>: شماره موبایل خود را بنویسید."
+
+#~ msgid "Your subscription was successful!"
+#~ msgstr "عضویت شما انجام شد!"
+
+#~ msgid "Your mobile number is low!"
+#~ msgstr "شماره موبایل وارد شده کم است!"
+
+#~ msgid "Phone number is repeated"
+#~ msgstr "شماره موبایل تکراری است"
+
+#~ msgid ""
+#~ "Service provider is not available for send activate key to your mobile. "
+#~ "Please contact with site."
+#~ msgstr ""
+#~ "سرویس‌هنده برای ارسال کد فعال سازی به موبایل شما در دسترس نیست. لطفاً با "
+#~ "مدیریت سایت تماس بگیرید."
+
+#~ msgid "Your activation code"
+#~ msgstr "کدفعال سازی شما"
+
+#~ msgid "SMS not delivered. Please contact with site."
+#~ msgstr "پیامک ارسال نشد. لطفاً با مدیریت سایت تماس بگیرید."
+
+#~ msgid "You will join the newsletter, Activation code sent to your mobile."
+#~ msgstr "اشتراک شما انجام شد. کد فعال سازی به موبایل شما ارسال شد."
+
+#~ msgid "You will join the newsletter"
+#~ msgstr "شما عضو خبرنامه شدید"
+
+#~ msgid "Not found!"
+#~ msgstr "یافت نشد!"
+
+#~ msgid "Your subscription was canceled."
+#~ msgstr "عضویت شما لغو شد."
+
+#~ msgid "Are you sure?"
+#~ msgstr "آیا مطمئن هستید؟"
+
+#~ msgid "Posted SMS"
+#~ msgstr "پیامک ارسال شده"
+
+#~ msgid "Not Found!"
+#~ msgstr "چیزی یافت نشد!"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "کارهای دسته جمعی"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Apply"
+#~ msgstr "اجرا"
+
+#~ msgid "Page"
+#~ msgstr "صفحه"
+
+#~ msgid "From"
+#~ msgstr "از"
+
+#~ msgid "Send to"
+#~ msgstr "ارسال به"
+
+#~ msgid "Wordpress Users"
+#~ msgstr "کاربرهای وردپرس"
+
+#~ msgid "Number(s)"
+#~ msgstr "شماره(ها)"
+
+#~ msgid "All (%s subscribers active)"
+#~ msgstr "همه (%s مشترک فعال)"
+
+#~ msgid "<b>%s</b> Users have mobile number."
+#~ msgstr "<b>%s</b> کاربر شماره موبایل دارند."
+
+#~ msgid "For example: <code>%s</code>"
+#~ msgstr "برای مثال: <code>%s</code>"
+
+#~ msgid "The remaining words"
+#~ msgstr "کلمات باقی‌مانده"
+
+#~ msgid "Your credit"
+#~ msgstr "اعتبار شما"
+
+#~ msgid "Send a Flash"
+#~ msgstr "ارسال یه‌صورت فلش"
+
+#~ msgid "Flash is possible to send messages without being asked, opens"
+#~ msgstr "ارسال فلش امکانی است که پیام را بدون درخواست گیرند، باز می کند"
+
+#~ msgid "WP SMS Pro V%s"
+#~ msgstr "افزونه پیامک حرفه‌ای وردپرس نگارش %s"
+
+#~ msgid ""
+#~ "Premium version from Wordpress SMS Plugin with feature and new web "
+#~ "services."
+#~ msgstr ""
+#~ "نگارش حرفه‌ای از افزونه پیامک وردپرس با قابلیت ها و وب سرویس های جدید."
+
+#~ msgid "SMS Gateway"
+#~ msgstr "درگاه پیامک"
+
+#~ msgid "Dont have a sms gateway? we recommend to you the following gateways"
+#~ msgstr "آیا درگاه پیامک ندارید؟ ما به شما درگاه‌های زیر را پیشنهاد می‌کنیم"
+
+#~ msgid "Support"
+#~ msgstr "پشتیبانی"
+
+#~ msgid "Do you have a problem?"
+#~ msgstr "آیا مشکلی دارید؟"
+
+#~ msgid "Please contact with email %s"
+#~ msgstr "با ایمیل %s تماس بگیرید"
+
+#~ msgid "You want add your gateway to this plugin?"
+#~ msgstr "آیا می‌خواهید وب‌سرویس خود را به افزونه اضافه کنید؟"
+
+#~ msgid "Go to the link %s"
+#~ msgstr "به لینک %s مراجعه کنید"
+
+#~ msgid "Are you a translator?"
+#~ msgstr "آیا مترجم هستید؟"
+
+#~ msgid "Suggested post by SMS"
+#~ msgstr "پیشنهاد نوشته از طریق پیامک"
+
+#~ msgid "Add Mobile Field to Checkout form"
+#~ msgstr "افزودن فیلد شماره موبایل به فرم سفارش"
+
+#~ msgid "Add Mobile number to Checkout WooCommerce form."
+#~ msgstr "افزودن فیلد شماره موبایل به فیلد سفارش ووکامرس."
+
+#~ msgid "Verified subscribe with the activation code"
+#~ msgstr "تأیید اشتراک به همراه کد فعال سازی"
+
+#~ msgid "First you should have select a web service and activate it!"
+#~ msgstr "ابتدا باید یک وب‌سرویس را انتخاب و فعال کنید!"
+
+#~ msgid "Send a sms to subscriber when register."
+#~ msgstr "ارسال پیامک به مشترک وقتی که در خبرنامه عضو شد."
+
+#~ msgid "Text template"
+#~ msgstr "قالب متن"
+
+#~ msgid "Input data:"
+#~ msgstr "داده‌های ورودی:"
+
+#~ msgid "Subscribe name"
+#~ msgstr "نام مشترک"
+
+#~ msgid "Subscribe mobile"
+#~ msgstr "موبایل مشترک"
+
+#~ msgid "Calling jQuery in Wordpress"
+#~ msgstr "فراخوانی جی‌کوئری در وردپرس"
+
+#~ msgid "Enable this option with JQuery is called in the theme"
+#~ msgstr "با فعال کردن این گزینه جی کوئری در پوسته فراخوانی میشود"
+
+#~ msgid "Mobile Number terms"
+#~ msgstr "قوانین شماره موبایل"
+
+#~ msgid "Define rules for mobile number input field."
+#~ msgstr "تعریف قوانین برای فیلد ورود شماره موبایل"
+
+#~ msgid "Placeholder field"
+#~ msgstr "دارنده‌متن فیلد"
+
+#~ msgid "Define text for mobile number field."
+#~ msgstr "تعریف دارنده‌متن برای فیلد شماره موبایل."
+
+#~ msgid "Max Mobile number"
+#~ msgstr "حداکثر رقم‌ شماره موبایل"
+
+#~ msgid "Define maximum number mobile number."
+#~ msgstr "تعریف حداکثر رقم برای شماره موبایل."
+
+#~ msgid "Min Mobile number"
+#~ msgstr "حداقل رقم شماره موبایل"
+
+#~ msgid "Define minimum number mobile number."
+#~ msgstr "تعریف حداقل رقم برای شماره موبایل."
+
+#~ msgid "Published new posts"
+#~ msgstr "انتشار نوشته‌ی تازه"
+
+#~ msgid "Send a sms to subscribers When published new posts."
+#~ msgstr "ارسال پیامک به مشترکین خبرنامه هنگام انتشار نوشته‌ی تازه."
+
+#~ msgid "Title post"
+#~ msgstr "عنوان نوشته"
+
+#~ msgid "URL post"
+#~ msgstr "آدرس نوشته"
+
+#~ msgid "Date post"
+#~ msgstr "تاریخ نوشته"
+
+#~ msgid "The new release of WordPress"
+#~ msgstr "انتشار نگارش تازه وردپرس"
+
+#~ msgid "Send a sms to you When the new release of WordPress."
+#~ msgstr "ارسال پیامک به شما هنگام انتشار نگارش تازه‌ی وردپرس."
+
+#~ msgid "Register a new user"
+#~ msgstr "نام‌نویسی کاربر جدید"
+
+#~ msgid "Send a sms to you and user when register on wordpress."
+#~ msgstr "ارسال پیامک به شما و خود کاربر هنگام نام‌نویسی در وردپرس."
+
+#~ msgid "For user:"
+#~ msgstr "برای کاربر:"
+
+#~ msgid "User email"
+#~ msgstr "پست‌الکترونیک کاربر"
+
+#~ msgid "Date register"
+#~ msgstr "تاریخ نام‌نویسی"
+
+#~ msgid "For admin:"
+#~ msgstr "برای مدیر:"
+
+#~ msgid "New comment"
+#~ msgstr "دیدگاه تازه"
+
+#~ msgid "Send a sms to you When get a new comment."
+#~ msgstr "ارسال پیامک به شما هنگام دریافت دیدگاه تازه."
+
+#~ msgid "Comment author"
+#~ msgstr "نویسنده‌ی دیدگاه"
+
+#~ msgid "Comment author email"
+#~ msgstr "رایان‌نامه‌ی نویسنده دیدگاه"
+
+#~ msgid "Comment author url"
+#~ msgstr "نشانی نویسنده دیدگاه"
+
+#~ msgid "Comment author IP"
+#~ msgstr "آی‌پی نویسنده دیدگاه"
+
+#~ msgid "Comment content"
+#~ msgstr "متن دیدگاه"
+
+#~ msgid "User login"
+#~ msgstr "ورود کاربر"
+
+#~ msgid "Display name"
+#~ msgstr "نام نمایشی"
+
+#~ msgid "SMS meta box"
+#~ msgstr "جعبه اطلاعات پیامک"
+
+#~ msgid ""
+#~ "Added Wordpress SMS meta box to Contact form 7 plugin when enable this "
+#~ "option."
+#~ msgstr ""
+#~ "با فعال کردن این گزینه جعبه اطلاعات پیامک وردپرس به افزونه فرم تماس 7 "
+#~ "اضافه میشود."
+
+#~ msgid "Product URL"
+#~ msgstr "آدرس محصول"
+
+#~ msgid "Product date"
+#~ msgstr "تاریخ محصول"
+
+#~ msgid "Product price"
+#~ msgstr "قیمت محصول"
+
+#~ msgid "New order"
+#~ msgstr "سفارش جدید"
+
+#~ msgid "Order ID"
+#~ msgstr "شماره سفارش"
+
+#~ msgid "Order Status"
+#~ msgstr "وضعیت سفارش"
+
+#~ msgid "Order Name"
+#~ msgstr "نام سفارش"
+
+#~ msgid "Stock is low"
+#~ msgstr "موجودی کم است"
+
+#~ msgid "Send a sms to you When Stock of a product is low."
+#~ msgstr "ارسال پیامک به شما هنگامی که موجودی یک محصول کم است."
+
+#~ msgid "Product ID"
+#~ msgstr "شناسه محصول"
+
+#~ msgid "Product Name"
+#~ msgstr "نام محصول"
+
+#~ msgid "Order Status changed"
+#~ msgstr "وضعیت سفارش تغییر کرد"
+
+#~ msgid ""
+#~ "First you should active <a href=\"%s\">Add Mobile Field option to "
+#~ "woocommerce.</a>"
+#~ msgstr ""
+#~ "ابتدا شما باید <a href=\"%s\">گزینه افزودن شماره موبایل</a> را به ووکامرس "
+#~ "فعال کنید."
+
+#~ msgid "Customer first name"
+#~ msgstr "نام مشتری"
+
+#~ msgid "New Message"
+#~ msgstr "پیغام جدید"
+
+#~ msgid "Send a sms to you When get new message from contact form."
+#~ msgstr "ارسال پیامک به شما هنگام دریافت پیغام جدید از فرم تماس."
+
+#~ msgid "Send a sms to you When get new message from Gravity form."
+#~ msgstr "ارسال پیامک به شما هنگام دریافت پیغام جدید از فرم Gravity."
+
+#~ msgid "User ip"
+#~ msgstr "آی‌پی کاربر"
+
+#~ msgid "URL form"
+#~ msgstr "آدرس فرم"
+
+#~ msgid "User agent"
+#~ msgstr "مرورگر کاربر"
+
+#~ msgid "Content form"
+#~ msgstr "محتوای فرم"
+
+#~ msgid "User notification"
+#~ msgstr "اطلاع رسانی کاربر"
+
+#~ msgid "Send sms to user when the ticked have been answered."
+#~ msgstr "ارسال پیامک به کاربر هنگامی که به تیکت او پاسخ داده شده است."
+
+#~ msgid "Ticked id"
+#~ msgstr "شناسه تیکت"
+
+#~ msgid "User Nickname"
+#~ msgstr "نام نمایشی"
+
+#~ msgid "Admin notification (New Ticked)"
+#~ msgstr "اطلاع رسانی مدیر (تیکت جدید)"
+
+#~ msgid "Send sms to you when the user open a new ticked."
+#~ msgstr "ارسال پیامک به شما هنگامی که تیکت جدیدی باز شده است."
+
+#~ msgid "Admin notification"
+#~ msgstr "اطلاع رسانی مدیر"
+
+#~ msgid "Send sms to you when the ticked have been answered."
+#~ msgstr "ارسال پیامک به شما هنگامی که به تیکتی پاسخ داده شده است."
+
+#~ msgid "Your Mobile Number"
+#~ msgstr "شماره موبایل شما"
+
+#~ msgid ""
+#~ "Enter your mobile number for get sms from plugin. Your mobile should like "
+#~ "<code>%s</code>"
+#~ msgstr ""
+#~ "شماره موبایل خود را برای دریافت پیامک از افزونه وارد کنید. شماره موبایل "
+#~ "شما باید شبیه <code>%s</code> باشد."
+
+#~ msgid "Your mobile country code"
+#~ msgstr "کد موبایل کشور شما"
+
+#~ msgid "Enter your mobile country code."
+#~ msgstr "کد موبایل کشور خود را وارد کنید."
+
+#~ msgid "Show Credit in Admin menu"
+#~ msgstr "نمایش اعتبار در نوار ابزار مدیریت"
+
+#~ msgid "Show your credit account in admin menu."
+#~ msgstr "نمایش اعتبار حساب شما در نوار ابزار مدیریت."
+
+#~ msgid "Newsletter"
+#~ msgstr "خبرنامه"
+
+#~ msgid "Features"
+#~ msgstr "امکانات"
+
+#~ msgid "About"
+#~ msgstr "درباره"
+
+#~ msgid "Your Web service data will be deleted. Are you sure?"
+#~ msgstr "اطلاعات وب‌سرویس حذف خواهد شد. آیا مطمئن هستید؟"
+
+#~ msgid "Web Service"
+#~ msgstr "وب سرویس"
+
+#~ msgid "Select your Web Service"
+#~ msgstr "وب‌سرویس خود را انتخاب کنید"
+
+#~ msgid "Iran"
+#~ msgstr "ایران"
+
+#~ msgid "Spania"
+#~ msgstr "اسپانیا"
+
+#~ msgid "German"
+#~ msgstr "آلمان"
+
+#~ msgid "New Zealand"
+#~ msgstr "نیوزلند"
+
+#~ msgid "Austria"
+#~ msgstr "اتریش"
+
+#~ msgid "Pakistan"
+#~ msgstr "پاکستان"
+
+#~ msgid "Indian"
+#~ msgstr "هند"
+
+#~ msgid "Italian"
+#~ msgstr "ایتالیا"
+
+#~ msgid "Global"
+#~ msgstr "عمومی"
+
+#~ msgid "For more information about adding Web Service"
+#~ msgstr "اطلاعات بیشتر در مورد اضافه کردن وب سرویس"
+
+#~ msgid "Reset"
+#~ msgstr "ریست"
+
+#~ msgid ""
+#~ "If your Web service is not on the top list, <a href=\"%s\">click here.</a>"
+#~ msgstr ""
+#~ "اگر وب سرویس شما در لیست بالا نیست،<a href=\"%s\">اینجا را</a> کلیک کنید."
+
+#~ msgid "If you do not have a web service, <a href=\"%s\">click here.</a>"
+#~ msgstr ""
+#~ "اگر شما وب سرویس پیامک ندارید، <a href=\"%s\">اینجا را</a> کلیک کنید."
+
+#~ msgid "Your username in <a href=\"%s\">%s</a>"
+#~ msgstr "نام‌کاربری شما در <a href=\"%s\">%s</a>"
+
+#~ msgid "Password"
+#~ msgstr "رمزعبور"
+
+#~ msgid "Your password in <a href=\"%s\">%s</a>"
+#~ msgstr "رمزعبور شما در <a href=\"%s\">%s</a>"
+
+#~ msgid "API/Key"
+#~ msgstr "API/Key"
+
+#~ msgid "Your API Key in <a href=\"%s\">%s</a>"
+#~ msgstr "کلید API شما در <a href=\"%s\">%s</a>"
+
+#~ msgid "Number"
+#~ msgstr "شماره"
+
+#~ msgid "Your SMS sender number in <a href=\"%s\">%s</a>"
+#~ msgstr "شماره ارسال کننده پیامک شما در <a href=\"%s\">%s</a>"
+
+#~ msgid "Credit"
+#~ msgstr "اعتبار"
+
+#~ msgid "Export"
+#~ msgstr "برون‌بری"
+
+#~ msgid "Export To"
+#~ msgstr "برون‌بری به"
+
+#~ msgid "Select the output file type."
+#~ msgstr "لطفاً نوع فایل خروجی را انتخاب کنید."
+
+#~ msgid "Back"
+#~ msgstr "بازگشت"
+
+#~ msgid "Import"
+#~ msgstr "درون‌ریزی"
+
+#~ msgid ""
+#~ "<code>.xls</code> is the only acceptable format. Please see <a href=\"%s"
+#~ "\">this image</a> to show a standard xls import file."
+#~ msgstr ""
+#~ "فرمت <code dir=\"ltr\">.xls</code> تنها فرمت قابل قبول برای درون‌ریزی است. "
+#~ "<a href=\"%s\">این تصویر</a> را برای ساختار استاندارد درون‌ریزی مشاهده کنید."
+
+#~ msgid "Group"
+#~ msgstr "گروه"
+
+#~ msgid "Outset Create group to better manage the subscribers."
+#~ msgstr "ابتدا گروه جدید بسازید تا مشترکین را بهتر مدیریت کنید."
+
+#~ msgid "Members Newsletter"
+#~ msgstr "مشترکین خبرنامه"
+
+#~ msgid "Search result for %s"
+#~ msgstr "نتیجه جستجو برای %s"
+
+#~ msgid "Search subscribers"
+#~ msgstr "جستجوی مشترک"
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Add new subscribe:"
+#~ msgstr "افزودن مشترک جدید:"
+
+#~ msgid "Add"
+#~ msgstr "افزودن"
+
+#~ msgid "Add new Group:"
+#~ msgstr "افزودن گروه جدید:"
+
+#~ msgid "Group name"
+#~ msgstr "نام گروه"
+
+#~ msgid "Edit subscribe:"
+#~ msgstr "ویرایش مشترک:"
+
+#~ msgid "Send this post to subscribers?"
+#~ msgstr "ارسال این نوشته به کاربران خبرنامه؟"
+
+#~ msgid "Loading..."
+#~ msgstr "بارگزاری..."
+
+#~ msgid "Subscribe"
+#~ msgstr "اشتراک"
+
+#~ msgid "Activation"
+#~ msgstr "فعال سازی"
+
+#~ msgid "Your name"
+#~ msgstr "نام شما"
+
+#~ msgid "Your mobile"
+#~ msgstr "موبایل شما"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "لغو اشتراک"
+
+#~ msgid "Subscribe is Deactive!"
+#~ msgstr "خبرنامه غیرفعال است!"
+
+#~ msgid "Suggested by SMS"
+#~ msgstr "پیشنهاد از طریق پیامک"
+
+#~ msgid "Your friend name"
+#~ msgstr "نام دوست شما"
+
+#~ msgid "Your friend mobile"
+#~ msgstr "موبایل دوست شما"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "HTML code is valid."
+#~ msgstr "کد HTML معتبر است."
+
+#~ msgid "After submit form you can send a sms message to number"
+#~ msgstr "می‌توانید بعد از ثبت شدن فرم، یک پیامک به شماره مورد نظر ارسال کنید."
+
+#~ msgid "<b>Note:</b> Use %% Instead of [], for example: %your-name%"
+#~ msgstr "<b>نکته:</b> استفاده کنید %% به جای [], به‌عنوان مثال: %your-name%"
+
+#~ msgid "Subscribe SMS"
+#~ msgstr "اشتراک پیامک"
+
+#~ msgid "WordPress %s is available! Please update now"
+#~ msgstr "وردپرس %s در دسترس است! لطفا به‌روز رسانی کنید"
+
+#~ msgid "Subscribe SMS Form"
+#~ msgstr "فرم اشتراک پیامک"
+
+#~ msgid "Subscribe SMS Widget"
+#~ msgstr "ابزارک اشتراک پیامک"
+
+#~ msgid "Wordpress SMS (Premium version)"
+#~ msgstr "پیامک وردپرس (نسخه حرفه‌ای)"
+
+#~ msgid "Posted"
+#~ msgstr "ارسالی‌ها"
+
+#~ msgid "Enter your information for SMS Subscribe"
+#~ msgstr "برای عضویت در خبرنامه پیامکی، اطلاعات خود را وارد کنید"
+
+#~ msgid "Newsletter Subscriber"
+#~ msgstr "مشترک خبرنامه"
+
+#~ msgid "%s Subscriber"
+#~ msgstr "%s مشترک"
+
+#~ msgid "%s SMS Credit"
+#~ msgstr "%s اعتبار پیامک"
+
+#~ msgid ""
+#~ "For Activate WP SMS Plugin, please enable your <a href=\"%s\">SMS gateway</"
+#~ "a>."
+#~ msgstr ""
+#~ "برای فعال کردن افزونه پیامک وردپرس، لطفاً <a href=\"%s\">درگاه پیامک</a> "
+#~ "خود را فعال کنید."
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "شما مجوز کافی برای دیدن این برگه را ندارید"
+
+#~ msgid "Please check the <a href=\"%s\">SMS credit</a> the settings"
+#~ msgstr "لطفاً تنظیمات <a href=\"%s\">اعتباری پیامک</a> را بررسی کنید."
+
+#~ msgid "With success was removed"
+#~ msgstr "باموفقیت حذف شد"
+
+#~ msgid "Not Found"
+#~ msgstr "چیزی یافت نشد"
+
+#~ msgid "User is active."
+#~ msgstr "کابر فعال شد."
+
+#~ msgid "User is Deactive.."
+#~ msgstr "کابر فعال شد."
+
+#~ msgid "username <strong>%s</strong> was added successfully."
+#~ msgstr "کاربر <strong>%s</strong> با موفقیت اضافه شد."
+
+#~ msgid "Group <strong>%s</strong> was added successfully."
+#~ msgstr "گروه <strong>%s</strong> با موفقیت اضافه شد."
+
+#~ msgid "Group name is repeated"
+#~ msgstr "نام گروه تکراری است"
+
+#~ msgid "Please complete field"
+#~ msgstr "لطفا فیلد را کامل کنید"
+
+#~ msgid "Group <strong>%s</strong> was successfully removed."
+#~ msgstr "گروه <strong>%s</strong> با موفقیت حذف شد."
+
+#~ msgid "Nothing found!"
+#~ msgstr "چیزی یافت نشد!"
+
+#~ msgid "username <strong>%s</strong> was update successfully."
+#~ msgstr "کاربر <strong>%s</strong> با موفقیت به‌روز  شد."
+
+#~ msgid "<strong>%s</strong> items was successfully added."
+#~ msgstr "تعداد <strong>%s</strong> آیتم با موفقیت اضافه شد."
+
+#~ msgid "<strong>%s</strong> Mobile numbers Was repeated."
+#~ msgstr "تعداد  <strong>%s</strong> شماره موبایل تکراری بود."
+
+#~ msgid "Dont have a sms gateway?"
+#~ msgstr "آیا درگاه پیامک ندارید؟"
+
+#, fuzzy
+#~ msgid "Gateway"
+#~ msgstr "درگاه پیامک"
+
+#~ msgid "Australia"
+#~ msgstr "استرالیا"
+
+#~ msgid "Enter enter mobile number to receive message."
+#~ msgstr "برای دریافت پیغام، شماره موبایل را وارد کنید."
+
+#~ msgid "You will join the newsletter!"
+#~ msgstr "شما عضو خبرنامه شدید!"
+
+#~ msgid "Your membership in the complete newsletter!"
+#~ msgstr "ثبت نام شما در خبرنامه کامل شد!"
+
+#~ msgid "Wordpress Notifications"
+#~ msgstr "اطلاع رسانی‌های وردپرس"
+
+#~ msgid "Your Credit: %s %s"
+#~ msgstr "اعتبار شما: %s %s"
+
+#~ msgid "Subscribe to SMS"
+#~ msgstr "اشتراک در پیامک"
+
+#~ msgid ""
+#~ "If you do not have a username for this service <a href=\"%s\">click here.."
+#~ "</a>"
+#~ msgstr ""
+#~ "درصورتی که نام‌کاربری این سرویس را ندارید <a href=\"%s\">اینجا را</a> کلیک "
+#~ "کنید."
+
+#~ msgid ""
+#~ "If you do not have a password for this service <a href=\"%s\">click here.."
+#~ "</a>"
+#~ msgstr ""
+#~ "درصورتی که رمزعبور این سرویس را ندارید <a href=\"%s\">اینجا را</a> کلیک "
+#~ "کنید."
+
+#~ msgid "Contact form 7 plugin"
+#~ msgstr "افزونه Contact form 7"
+
+#~ msgid "About Plugin"
+#~ msgstr "درباره پلاگین"
+
+#~ msgid "Plugin base: %s"
+#~ msgstr "افزونه پایه: %s"
+
+#~ msgid "Premium Version: %s"
+#~ msgstr "نگارش پرمیوم: %s"
+
+#~ msgid "This plugin created by %s from %s gorup"
+#~ msgstr "این افزونه توسط %s از گروه %s ساخته شده است."
+
+#~ msgid "if you have you can tell your problem in <a href=\"%s\">forum</a>."
+#~ msgstr ""
+#~ "اگر در رابطه با افزونه مشکلی دارید، در <a href=\"%s\">انجمن</a> مطرح کنید."
+
+#~ msgid "please send your translation to %s."
+#~ msgstr "فایل‌های زبان را به %s ارسال کنید."
+
+#~ msgid "Register?"
+#~ msgstr "نام‌نویسی؟"
+
+#~ msgid "Newsletter subscribers"
+#~ msgstr "مشترکین خبرنامه"
+
+#~ msgid "Rial"
+#~ msgstr "ریال"
+
+#~ msgid "Web Service (%s)"
+#~ msgstr "وب سرویس (%s)"
+
+#~ msgid "Version plugin: %s"
+#~ msgstr "نگارش افزونه: %s"
+
+#~ msgid ""
+#~ "The first free WordPress Iranian plugin that works on Web service messages."
+#~ msgstr ""
+#~ "اولین افزونه رایگان ایرانی برای وردپرس است که بر روی وب سرویس های پیامک "
+#~ "کار میکند."
+
+#~ msgid "Donate in plugin."
+#~ msgstr "حمایت مالی به افزونه"
+
+#~ msgid "Donate"
+#~ msgstr "حمایت"
+
+#~ msgid "Send a sms when register a new subscribe."
+#~ msgstr "ارسال پیامک هنگام نام‌نویسی مشترک جدید."
+
+#~ msgid "Send activation code via SMS?"
+#~ msgstr "ارسال کدفعال سازی از طریق پیامک؟"
+
+#~ msgid "Send SMS to subscriber?"
+#~ msgstr "ارسال پیامک به مشترک؟"
+
+#~ msgid "Error communicating with the database!"
+#~ msgstr "خطای در ارتباط با پایگاه داده!"
+
+#, fuzzy
+#~ msgid "username deactived."
+#~ msgstr "کاربر غیرفعال شد."
+
+#~ msgid "Add SMS meta box to contact form 7?"
+#~ msgstr "اضافه کردن جعبه اطلاعات پیامک در فرم تماس 7؟"
+
+#~ msgid "Send a sms to you When get new order from Easy Digital Downloads."
+#~ msgstr "ارسال پیامک به شما هنگام دریافت سفارش جدید از Easy Digital Downloads"
+
+#~ msgid ""
+#~ "Enable this option with When a new version of WordPress was ready, will be "
+#~ "informed via SMS for you."
+#~ msgstr ""
+#~ "با فعال کردن این گزینه وقتی نسخه جدید وردپرس آماده شد، از طریق پیامک به "
+#~ "شما اطلاع داده می شود."
+
+#~ msgid "Posts sent to subscribers?"
+#~ msgstr "ارسال نوشته‌ها به مشترکین؟"
+
+#~ msgid "Other Features"
+#~ msgstr "سایر ویژگی‌ها"
+
+#~ msgid "Post Suggestion"
+#~ msgstr "پیشنهاد نوشته"
+
+#~ msgid "Notification SMS of a new wordPress version?"
+#~ msgstr "اطلاع رسانی با پیامک در صورت انتشار نسخه جدید وردپرس؟"
+
+#~ msgid "Select"
+#~ msgstr "انتخاب"
+
+#~ msgid "Credit SMS Setting"
+#~ msgstr "تنظیمات اعتبار پیامک"
+
+#~ msgid "A message was received from the Contact Form 7: "
+#~ msgstr "یک پیام از فرم تماس 7 دریافت شد: "
+
+#~ msgid "(SMS wordpress plugin)"
+#~ msgstr "(افزونه پیامک وردپرس)"
+
+#~ msgid "Notification SMS when messages received from Contact Form 7 plugin?"
+#~ msgstr "اطلاع رسانی با پیامک در صورت دریافت پیغام از افزونه فرم تماس 7؟"
+
+#~ msgid ""
+#~ "Enable this option with When a new message received of Contact Form 7 "
+#~ "plugin, will be informed via SMS"
+#~ msgstr ""
+#~ "با فعال کردن این گزینه پیغام جدید از فرم تماس 7 دریافت شد، از طریق پیامک "
+#~ "اطلاع داده می شود"
+
+#~ msgid "Subscribe users (%s) active"
+#~ msgstr "مشترکین خبرنامه (%s) فعال"
+
+#~ msgid "Groups"
+#~ msgstr "گروه‌ها"
+
+#~ msgid "First create a new group!"
+#~ msgstr "ابتدا یک گروه جدید بسازید!"
+
+#~ msgid "Subscribes list"
+#~ msgstr "لیست مشترک‌ها"
+
+#~ msgid "ID"
+#~ msgstr "شماره"
+
+#~ msgid "SMS Panel (%s)"
+#~ msgstr "سامانه پیامک (%s)"
+
+#~ msgid "Enable or disable this feature"
+#~ msgstr "کد موبایل"
+
+#~ msgid "Click for more information"
+#~ msgstr "برای اطلاعات بیشتر کلیک کنید"
+
+#~ msgid "Paniz SMS (panizsms.ir)"
+#~ msgstr "سامانه پیامک پانیز (panizsms.ir)"
+
+#~ msgid "Parand Host (%s)"
+#~ msgstr "پرند هاست (%s)"
+
+#~ msgid "Iransmspanel (%s)"
+#~ msgstr "سامانه پیامک ایران اس‌ام‌اس پنل (%s)"
+
+#~ msgid "Host Iran (%s)"
+#~ msgstr "سامانه پیامک هاست ایران (%s)"
+
+#~ msgid "Webstudio (%s)"
+#~ msgstr "سامانه پیامک وب استودیو (%s)"
+
+#~ msgid "Payame Avval (payameavval.com)"
+#~ msgstr "سامانه پیام کوتاه پیام اول (payameavval.com)"
+
+#~ msgid "Number with success was added"
+#~ msgstr "با موفقیت اضافه شد"
+
+#~ msgid "parsasms (parsasms.com)"
+#~ msgstr "سامانه پیامک پارس اس‌ام‌اس (parssms.com)"
+
+#~ msgid "Peaple"
+#~ msgstr "نفر"
+
+#~ msgid "Orange SMS (orangesms.net)"
+#~ msgstr "سامانه پیامک اورنگ (orangesms.net)"
+
+#~ msgid "The main server"
+#~ msgstr "سرویس‌دهنده‌ اصلی"
+
+#~ msgid "Programming by"
+#~ msgstr "برنامه نویسی توسط"
+
+#~ msgid "About WP-SMS Plugin"
+#~ msgstr "درباره پلاگین پیامک"
+
+#~ msgid "Your username in sms.webstudio.ir"
+#~ msgstr "نام کاربری شما در sms.webstudio.ir"
+
+#~ msgid "To receive a username and password to visit:"
+#~ msgstr "برای دریافت نام‌کاربری و رمزعبور، مراجعه کنید به:"
+
+#~ msgid "Minimum words"
+#~ msgstr "حداقل کلمات"
+
+#~ msgid "Words"
+#~ msgstr "کلمات"
+
+#~ msgid "Dollar"
+#~ msgstr "دلار"
+
+#~ msgid "Unit Money"
+#~ msgstr "واحد پول"
+
+#~ msgid "Error! Please Credit check settings"
+#~ msgstr "خطا! لطفا تنظیمات اعتباری را بررسی کنید"
+
+#~ msgid "Dolar"
+#~ msgstr "دلار"

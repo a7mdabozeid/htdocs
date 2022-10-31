@@ -1,0 +1,273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCBoost - Variation Swatches\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-08 11:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: wcboost-variation-swatches"
+
+#. Description of the plugin
+msgid ""
+"A WooCommerce extension that converts default variation dropdowns to "
+"beatiful and user-friendly swatches."
+msgstr ""
+
+#: includes/admin/product-data.php:489
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/product-data.php:91
+msgid "Add new"
+msgstr ""
+
+#: includes/admin/product-data.php:457
+msgid "Add New Term"
+msgstr ""
+
+#: includes/admin/product-data.php:426
+msgid "Added successfully"
+msgstr ""
+
+#: includes/admin/backup.php:91
+msgid "All attribute types have been restored."
+msgstr ""
+
+#: includes/admin/backup.php:241 includes/admin/backup.php:255
+msgid "Attributes Swatches"
+msgstr ""
+
+#: includes/admin/term-meta.php:97
+msgid "Button"
+msgstr ""
+
+#: includes/admin/product-data.php:152
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/admin/product-data.php:454
+msgid "Close dialog"
+msgstr ""
+
+#: includes/admin/term-meta.php:94 includes/admin/product-data.php:468
+msgid "Color"
+msgstr ""
+
+#: includes/customizer/customizer.php:123
+msgid "Convert default dropdowns to buttons"
+msgstr ""
+
+#: includes/admin/product-data.php:195
+msgid "Custom"
+msgstr ""
+
+#: includes/admin/product-data.php:166 includes/admin/product-data.php:180
+#: includes/admin/product-data.php:194
+msgid "Default"
+msgstr ""
+
+#: includes/admin/product-data.php:475
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/product-data.php:318
+msgid "Delete Image"
+msgstr ""
+
+#: includes/admin/product-data.php:316
+msgid "Edit"
+msgstr ""
+
+#: includes/customizer/customizer.php:103
+msgid "Enable tooltip"
+msgstr ""
+
+#: includes/admin/backup.php:78
+#, php-format
+msgid ""
+"Found a backup of your attributes type. This backup was generated at %s."
+msgstr ""
+
+#: includes/admin/product-data.php:202
+msgid "Height"
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"https://wcboost.com/?utm_source=wp-plugins&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://wcboost.com/plugin/product-variation-swatches/?utm_source=wp-"
+"plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr ""
+
+#: includes/admin/backup.php:82
+msgid "Ignore"
+msgstr ""
+
+#: includes/admin/term-meta.php:95 includes/admin/product-data.php:472
+msgid "Image"
+msgstr ""
+
+#: includes/admin/term-meta.php:96 includes/admin/product-data.php:479
+msgid "Label"
+msgstr ""
+
+#: includes/admin/product-data.php:461
+msgid "Name"
+msgstr ""
+
+#. %s: image URL
+#: includes/admin/backup.php:520
+#, php-format
+msgid "Not able to attach \"%s\"."
+msgstr ""
+
+#: includes/admin/product-data.php:406
+msgid "Not enough data"
+msgstr ""
+
+#: includes/admin/term-meta.php:216 includes/admin/product-data.php:319
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/backup.php:81
+msgid "Restore attributes"
+msgstr ""
+
+#: includes/admin/settings.php:131
+msgid "Round"
+msgstr ""
+
+#: includes/admin/settings.php:132
+msgid "Rounded"
+msgstr ""
+
+#: includes/admin/product-data.php:89
+msgid "Select all"
+msgstr ""
+
+#: includes/admin/product-data.php:90
+msgid "Select none"
+msgstr ""
+
+#: includes/admin/product-data.php:72
+msgid "Select terms"
+msgstr ""
+
+#: includes/admin/product-data.php:177
+msgid "Shape"
+msgstr ""
+
+#: includes/customizer/customizer.php:143
+msgid "Show the selected attribute's label"
+msgstr ""
+
+#: includes/admin/product-data.php:191
+msgid "Size"
+msgstr ""
+
+#: includes/customizer/customizer.php:38
+msgid "Some of these options can be overidden in product data settings."
+msgstr ""
+
+#: includes/admin/settings.php:133
+msgid "Square"
+msgstr ""
+
+#: includes/admin/product-data.php:105
+msgid "Swatches"
+msgstr ""
+
+#: includes/admin/term-meta.php:174
+msgid "Swatches Color"
+msgstr ""
+
+#: includes/admin/term-meta.php:175 includes/admin/term-meta.php:211
+msgid "Swatches Image"
+msgstr ""
+
+#: includes/admin/term-meta.php:176
+msgid "Swatches Label"
+msgstr ""
+
+#: includes/customizer/customizer.php:82
+msgid "Swatches Size"
+msgstr ""
+
+#: includes/admin/product-data.php:414
+msgid "Taxonomy is not exists"
+msgstr ""
+
+#: includes/admin/product-data.php:178
+#, php-format
+msgid "The default shape is: %s"
+msgstr ""
+
+#: includes/admin/product-data.php:164
+#, php-format
+msgid "The default type is: %s"
+msgstr ""
+
+#: includes/admin/settings.php:140
+msgid "Theme Default"
+msgstr ""
+
+#: includes/admin/term-meta.php:133 includes/admin/term-meta.php:159
+msgid "This data will be used for variation swatches of variable products."
+msgstr ""
+
+#: includes/admin/product-data.php:418
+msgid "This term is already exists"
+msgstr ""
+
+#: includes/admin/product-data.php:163
+msgid "Type"
+msgstr ""
+
+#. %s: image URL
+#: includes/admin/backup.php:529
+#, php-format
+msgid "Unable to use image \"%s\"."
+msgstr ""
+
+#: includes/admin/term-meta.php:214 includes/admin/product-data.php:474
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/term-meta.php:212
+msgid "Use image"
+msgstr ""
+
+#: includes/customizer/customizer.php:37 includes/admin/backup.php:240
+#: includes/admin/backup.php:254
+msgid "Variation Swatches"
+msgstr ""
+
+#. Author of the plugin
+msgid "WCBoost"
+msgstr ""
+
+#. Name of the plugin
+msgid "WCBoost - Variation Swatches"
+msgstr ""
+
+#: includes/admin/product-data.php:201
+msgid "Width"
+msgstr ""
+
+#: includes/admin/product-data.php:402
+msgid "Wrong request"
+msgstr ""

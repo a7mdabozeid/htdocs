@@ -1,0 +1,125 @@
+.header-transparent {
+	.site-header {
+		position: absolute;
+		left: 0;
+		right: 0;
+		z-index: 999;
+		padding-top: 0;
+		padding-bottom: 0;
+
+		--rz-header-background-color-light: transparent;
+		--rz-header-background-color-dark: transparent;
+	}
+
+	.razzi-header-minimized {
+		display: none;
+	}
+
+	.campaign-bar {
+		display: none;
+	}
+
+	.header-department {
+		border-color: var( --rz-border-color-light );
+	}
+
+	.header-search.form-type-boxed .search-field {
+		background-color: transparent;
+	}
+
+	&.header-v6 {
+		.site-header {
+			position: static;
+		}
+
+		.header-bottom {
+			position: absolute;
+			left: 335px;
+			right: 0;
+		}
+	}
+
+	&.header-v3 .header-bottom .main-navigation > ul > li > a {
+		--rz-header-color-dark: #fff;
+	}
+
+	// Header Transparent Text Light
+	&.header-transparent-text-light {
+		.site-header {
+			--rz-header-color-dark: #fff;
+			--rz-header-color-darker: #fff;
+			--rz-header-text-color-gray: #fff;
+			--rz-color-placeholder: #fff;
+			--rz-border-color-darker: #fff;
+
+			.logo-light {
+				position: static;
+				opacity: 1;
+			}
+
+			.logo-dark {
+				opacity: 0;
+				position: absolute;
+				left: 0;
+				top: 0;
+			}
+
+		}
+
+		.header-search{
+			--rz-border-color-dark: #fff;
+			&.form-type-boxed {
+				.search-field {
+					border: 1px solid var( --rz-border-color-light );
+				}
+			}
+
+		}
+
+		&.header-v6 {
+			.header-main {
+				--rz-header-color-dark: #111;
+			}
+
+			.site-header {
+				.logo-light {
+					opacity: 0;
+				}
+
+				.logo-dark {
+					opacity: 1;
+				}
+			}
+		}
+	}
+
+	// Header Transparent Text Dark
+	&.header-transparent-text-dark {
+		.site-header {
+			--rz-header-text-color-gray: #111;
+			--rz-header-color-light: #111;
+			--rz-color-placeholder: #111;
+		}
+
+		.header-search{
+			--rz-border-color-light: #111;
+			&.form-type-boxed {
+				.search-field {
+					border: 1px solid var( --rz-border-color-dark );
+				}
+			}
+
+			&.search-form-type {
+				--rz-border-color-light: transparent;
+			}
+		}
+
+		.header-department {
+			border-color: var( --rz-border-color-dark );
+		}
+
+		&.header-v2 {
+			--rz-border-color-gray: #111;
+		}
+	}
+}

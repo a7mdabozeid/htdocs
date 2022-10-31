@@ -1,0 +1,49 @@
+@import "items";
+@import "primary";
+
+.topbar-left-items {
+    > * {
+        margin-right: 50px;
+        
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+.topbar-right-items{
+ 	flex: 1;
+    text-align: right;
+    justify-content: flex-end;
+
+    > *{
+        margin-left: 72px;
+        height: inherit;
+        display: flex;
+        align-items: center;
+
+        > * {
+            height: inherit;
+            display: flex;
+            align-items: center;
+        }
+    
+        &:first-child {
+            margin-left: 0;
+        }
+    }
+}
+
+.topbar-left-items {
+    .razzi-currency,
+    .razzi-language{
+        margin-right: 0;
+    }
+}
+
+.topbar-right-items {
+    .razzi-currency,
+    .razzi-language{
+        margin-left: 0;
+    }
+}

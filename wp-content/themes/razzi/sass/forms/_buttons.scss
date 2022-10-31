@@ -1,0 +1,130 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	@include razzi-button();
+	cursor: pointer;
+	border: none;
+
+	&:focus {
+		outline: none;
+	}
+}
+
+.razzi-button{
+	@include razzi-button();
+
+	.razzi-svg-icon {
+		vertical-align: middle;
+		margin-left: 10px;
+		font-size: 13px;
+		transition: ease .3s;
+		display: inline-block;
+		/*rtl:raw:
+			transform: rotateY(180deg);
+		*/
+	}
+
+	&.button-smaller{
+		font-size: 15px;
+		line-height: 42px;
+		padding: 0 25px;
+	}
+
+	&.button-medium{
+		line-height: 46px;
+		padding: 0 31px;
+	}
+
+	&.button-larger{
+		line-height: 54px;
+		padding: 0 43px;
+	}
+
+	&.button-big{
+		line-height: 70px;
+		display: block;
+	}
+
+	&.button-outline,
+	&.button-normal{
+		color: var(--rz-color-dark);
+		background-color: transparent;
+
+		.razzi-svg-icon {
+			color: inherit;
+		}
+	}
+
+	&.button-outline{
+		border: 1px solid;
+	}
+
+	&.button-normal{
+		padding: 0;
+		line-height: inherit;
+	}
+
+	&:not(.button-outline):not(.button-normal){
+		&.button-light{
+			background-color: var( --rz-background-color-light );
+			color: var(--rz-color-dark);
+
+			.razzi-svg-icon {
+				color: var(--rz-color-dark);
+			}
+		}
+	}
+
+	&:hover{
+		.razzi-svg-icon {
+			transform: translateX(3px);
+			/*rtl:raw:
+				transform: translateX(-3px) rotateY(180deg);
+			*/
+		}
+	}
+}
+
+.btn-primary{
+	&:not(.button-outline):not(.button-normal){
+		background-color: var(--rz-background-color-primary);
+		color: var(--rz-background-text-color-primary);
+	}
+
+	&.button-outline{
+		border-color: var(--rz-border-color-primary);
+	}
+}
+
+.razzi-button--underlined{
+	font-weight: 500;
+	font-size: 16px;
+	line-height: (23/16);
+    background-color: transparent;
+	color: var(--rz-color-dark);
+	padding: 0 15px 3px;
+	display: inline-block;
+    position: relative;
+
+	&:after{
+		content: '';
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		border-bottom: 1px solid;
+		transform-origin: left center;
+		transition: all .2s ease-in-out;
+		transition-property: transform;
+	}
+
+    &:hover{
+		color: var(--rz-color-dark);
+
+    	&:after {
+			transform-origin: right center;
+			transform: scaleX(0);
+		}
+    }
+}

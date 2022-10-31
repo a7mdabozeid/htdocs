@@ -1,0 +1,11 @@
+.clear:before,
+.clear:after,
+.clearfix:before,
+.clearfix:after {
+	@include clearfix;
+}
+
+.clear:after,
+.clearfix:after {
+	@include clearfix-after;
+}

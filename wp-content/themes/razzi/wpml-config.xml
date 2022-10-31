@@ -1,0 +1,99 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">rz_header_layout</custom-field>
+		<custom-field action="copy">rz_header_background</custom-field>
+		<custom-field action="copy">rz_header_text_color</custom-field>
+		<custom-field action="copy">rz_hide_header_border</custom-field>
+		<custom-field action="copy">rz_header_bottom_spacing_bottom</custom-field>
+		<custom-field action="copy">rz_hide_page_header</custom-field>
+		<custom-field action="copy">rz_hide_title</custom-field>
+		<custom-field action="copy">rz_hide_breadcrumb</custom-field>
+		<custom-field action="copy">rz_page_header_spacing</custom-field>
+		<custom-field action="copy">rz_page_header_top_padding</custom-field>
+		<custom-field action="copy">rz_page_header_bottom_padding</custom-field>
+		<custom-field action="copy">rz_content_width</custom-field>
+		<custom-field action="copy">rz_content_top_spacing</custom-field>
+		<custom-field action="copy">rz_content_top_padding</custom-field>
+		<custom-field action="copy">rz_content_bottom_spacing</custom-field>
+		<custom-field action="copy">rz_content_bottom_padding</custom-field>
+		<custom-field action="copy">rz_disable_page_boxed</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_color</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_image</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_horizontal</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_vertical</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_repeat</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_attachment</custom-field>
+		<custom-field action="copy">rz_page_boxed_bg_size</custom-field>
+		<custom-field action="copy">rz_hide_footer_section</custom-field>
+		<custom-field action="copy">rz_footer_section_border_top</custom-field>
+		<custom-field action="copy">rz_footer_section_border_color</custom-field>
+		<custom-field action="copy">rz_footer_section_custom_border_color</custom-field>
+		<custom-field action="translate">custom_badges_text</custom-field>
+		<custom-field action="copy">custom_badges_bg</custom-field>
+		<custom-field action="copy">custom_badges_color</custom-field>
+		<custom-field action="copy">_is_new</custom-field>
+	</custom-fields>
+
+	<admin-texts>
+		<key name="theme_mods_razzi">
+			<key name="newsletter_popup_form" />
+			<key name="header_search_text" />
+			<key name="header_search_placeholder" />
+			<key name="header_wishlist_link" />
+			<key name="header_department_text" />
+			<key name="blog_view_more_text" />
+			<key name="blog_cats_view_all" />
+			<key name="related_posts_title" />
+			<key name="footer_copyright" />
+			<key name="footer_main_text" />
+			<key name="footer_newsletter_text" />
+			<key name="footer_newsletter_form" />
+			<key name="recently_viewed_title" />
+			<key name="recently_viewed_button_text" />
+			<key name="added_to_cart_notice_products_title" />
+			<key name="product_cross_sells_title" />
+			<key name="product_upsells_title" />
+			<key name="product_related_title" />
+			<key name="product_sharing_whatsapp_number">
+			<key name="shop_badge_sale_text">
+			<key name="shop_badge_new_text">
+			<key name="shop_badge_featured_text">
+			<key name="shop_badge_soldout_text">
+			<key name="catalog_toolbar_tabs_categories">
+			<key name="header_search_links">
+                <key name="0">
+                    <key name="text"/>
+					<key name="url"/>
+                </key>
+                <key name="1">
+                  	<key name="text"/>
+					<key name="url"/>
+                </key>
+				  <key name="2">
+                  	<key name="text"/>
+					<key name="url"/>
+                </key>
+				  <key name="3">
+                  	<key name="text"/>
+					<key name="url"/>
+                </key>
+				  <key name="4">
+                  	<key name="text"/>
+					<key name="url"/>
+                </key>
+				  <key name="5">
+                  	<key name="text"/>
+					<key name="url"/>
+                </key>
+            </key>
+			<key name="campaign_items">
+                <key name="0">
+                    <key name="text"/>
+                </key>
+                <key name="1">
+                  	<key name="text"/>
+                </key>
+            </key>
+		</key>
+	</admin-texts>
+</wpml-config>

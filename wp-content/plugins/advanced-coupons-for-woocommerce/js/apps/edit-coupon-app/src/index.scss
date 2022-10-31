@@ -1,0 +1,36 @@
+#acfw-virtual-coupon {
+  #virtual-coupons-app {
+    position: relative;
+
+    &:after {
+      content: '';
+      position:absolute;
+      display: none;
+      bottom: 0;
+      left: 0;
+      z-index: 2;
+      width: 100%;
+      height: calc(100% + 1px);
+      background: #fff;
+      opacity : 0.7;
+    }
+  }
+
+  .disabled #virtual-coupons-app:after {
+    display: block;
+  }
+}
+
+.ant-modal-mask {
+  z-index: 10001;
+}
+.ant-modal-wrap,
+.ant-picker-dropdown,
+.ant-select-dropdown,
+.ant-popover {
+  z-index: 10002;
+}
+
+.ant-message {
+  z-index: 1000002;
+}

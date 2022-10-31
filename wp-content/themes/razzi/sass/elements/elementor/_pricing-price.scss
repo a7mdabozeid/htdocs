@@ -1,0 +1,79 @@
+.razzi-pricing-table{
+    background-color: #f5f5f5;
+    margin: auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.02);
+}
+
+.razzi-pricing-table__header{
+    text-align: center;
+    padding: 29px 30px 31px;
+    border-bottom: 1px solid #e2e2e2;
+    position: relative;
+
+    .pricing-title{
+        font-size: 28px;
+        margin: 0 0 15px;
+    }
+
+    .pricing-badges{
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.2px;
+        text-transform: uppercase;
+        padding: 3px 11px;
+        background-color: var(--rz-background-color-primary);
+        color: #fff;
+        position: absolute;
+        top: 20px;
+        left: 0;
+    }
+
+    .pricing-price{
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 1;
+    }
+
+    .pricing-afprice{
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .pricing-header__price{
+        display: inline-flex;
+        align-items: flex-end;
+        color: #111111;
+    }
+}
+
+.razzi-pricing-table__content{
+    padding: 36px 43px 51px;
+
+    .pricing-desc{
+        margin-bottom: 43px;
+
+        p{
+            margin-top: 0;
+        }
+
+        > *:not(:last-child){
+            margin-bottom: 24px;
+        }
+    }
+
+    .button-link{
+        display: block;
+        text-align: center;
+    }
+
+    .button-text{
+        line-height: 1.5;
+        padding: 11px 34px;
+        font-size: 15px;
+
+        &:hover{
+            background-color: var(--rz-background-color-primary);
+            color: #ffffff;
+        }
+    }
+}

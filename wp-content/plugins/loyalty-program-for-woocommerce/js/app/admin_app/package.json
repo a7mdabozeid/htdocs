@@ -1,0 +1,42 @@
+{
+    "name": "lpfw_admin_app",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {
+        "@types/node-sass": "^4.11.2",
+        "@types/react": "^17.0.19",
+        "axios": "^0.21.1",
+        "cross-env": "^7.0.3",
+        "cross-fetch": "^3.1.4",
+        "css-loader": "^6.2.0",
+        "css-minimizer-webpack-plugin": "^4.0.0",
+        "mini-css-extract-plugin": "^2.2.1",
+        "react": "^17.0.2",
+        "redux-devtools-extension": "^2.13.9",
+        "sass": "^1.38.2",
+        "sass-loader": "^12.1.0",
+        "ts-loader": "^9.2.5",
+        "typescript": "^4.4.2",
+        "webpack": "^5.51.1",
+        "webpack-cli": "^4.8.0"
+    },
+    "scripts": {
+        "build": "cross-env NODE_ENV=production webpack",
+        "start": "cross-env NODE_ENV=development webpack"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

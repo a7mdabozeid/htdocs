@@ -1,0 +1,167 @@
+.fr-request-form div.field-row {
+	margin: 0 0 1em;
+}
+
+.fr-request-form div.field-row label {
+	display: block;
+	position: relative;
+}
+
+.fr-required-field-notice {
+	color: #ff0b0b;
+	font-size: 12px;
+	display: block;
+}
+
+.fr-request-form div.field-type-checkbox label,
+.fr-request-form div.field-type-radio label {
+	display: inline-block;
+}
+
+.theme-storefront .my_account_orders .button.refund::after {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 1;
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	line-height: inherit;
+	vertical-align: baseline;
+	content: "\f2f5";
+	margin-left: .5407911001em;
+}
+
+.fr-cancel-request-description {
+	margin: 0 0 1.41575em;
+}
+
+.fr-cancel-request-description .button {
+	cursor: pointer;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-weight: 600;
+	text-shadow: none;
+	display: inline-block;
+	background-color: #EEE;
+	color: #333;
+	border-radius: 3px;
+	border: 1px solid #DDD;
+	margin-right: 3px;
+}
+
+.fr-cancel-request-description .button.cf-button {
+	background-color: #55bd2b;
+	border-color: #459a23;
+	color: #FFF;
+}
+
+.fr-cancel-request-description .button.cf-button:hover {
+	background-color: #459a23;
+	border-color: #316e18;
+	color: #FFF;
+}
+
+.fr-cancel-request-description .button.ds-button {
+	background-color: #ff0b0b;
+	border-color: #d00808;
+	color: #FFF;
+}
+
+.fr-cancel-request-description .button.ds-button:hover {
+	background-color: #d00808;
+	border-color: #b00606;
+	color: #FFF;
+}
+
+input[type="number"].qty-input {
+	width: 3.706325903em;
+	padding: .326em;
+}
+
+.fr-cancel-order-section {
+	padding: 20px;
+	border: 1px solid #EEE;
+}
+
+table.woocommerce-table-refund-details {
+	border: 1px solid #EEE;
+	border-collapse: collapse;
+}
+
+table.woocommerce-table-refund-details tbody tr td {
+	background-color: #FFF;
+	border: 1px solid #EEE;
+	padding: 1em;
+	vertical-align: middle;
+}
+
+table.woocommerce-table-refund-details thead th {
+	padding: 1em;
+	vertical-align: middle;
+}
+
+
+
+
+
+table.fr-dark {
+	border: 1px solid #2c3338;
+	border-collapse: collapse;
+	background-color: #2c3338;
+}
+
+table.fr-dark tbody tr td {
+	background-color: #2c3338;
+	color: #EEE;
+	border: 1px solid #505c65;
+	padding: 1em;
+	vertical-align: middle;
+}
+
+table.fr-dark thead th {
+	padding: 1em;
+	vertical-align: middle;
+}
+
+
+table.fr-dark:not(.has-background) tbody tr:nth-child(2n) td {
+	background-color: #3c464d;
+}
+
+table.fr-dark th {
+	background-color: #2c3338;
+	color: #EEE;
+}
+
+
+.check-all-button {
+	text-align: right;
+}
+.check-all-button button {
+	border-radius: 3px;
+	font-size: 16px;
+	border: 1px solid #e0e0e0;
+	background-color: #F8F8F8;
+	box-shadow: none;
+}
+
+.check-all-button button:active,
+.check-all-button button:focus,
+.check-all-button button:hover {
+	box-shadow: none;
+	outline: none;
+}
+
+.check-all-button button:hover {
+	background-color: #eef5ff;
+	border: 1px solid #b9c8de;
+}
+
+.multiselect {
+	width: 80%;
+	height: auto;
+	line-height: 2;
+}

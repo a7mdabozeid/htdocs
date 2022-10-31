@@ -1,0 +1,8 @@
+.wp-block-columns .wp-block-column > *:first-child{
+	margin-top: 0;
+}
+
+.wp-block-columns.alignfull .wp-block-column p:not(.has-background), .wp-block-columns.alignfull .wp-block-column h1:not(.has-background), .wp-block-columns.alignfull .wp-block-column h2:not(.has-background), .wp-block-columns.alignfull .wp-block-column h3:not(.has-background), .wp-block-columns.alignfull .wp-block-column h4:not(.has-background), .wp-block-columns.alignfull .wp-block-column h5:not(.has-background), .wp-block-columns.alignfull .wp-block-column h6:not(.has-background) {
+    padding-left: 15px;
+    padding-right:  15px;
+}

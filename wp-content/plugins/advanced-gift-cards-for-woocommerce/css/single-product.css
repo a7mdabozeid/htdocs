@@ -1,0 +1,66 @@
+.agcfw-single-product-fields .agcfw-send-option {
+  margin-bottom: 1em;
+}
+.agcfw-single-product-fields .agcfw-send-option label {
+  cursor: pointer;
+}
+.agcfw-single-product-fields .agcfw-send-option input {
+  margin-right: 0.5em;
+}
+.agcfw-single-product-fields .agcfw-send-option span {
+  font-weight: bold;
+}
+.agcfw-single-product-fields .agcfw-form-field {
+  margin-bottom: 0.5em;
+}
+.agcfw-single-product-fields .agcfw-form-field label {
+  display: block;
+  font-size: 0.9em;
+}
+.agcfw-single-product-fields .agcfw-form-field input, 
+.agcfw-single-product-fields .agcfw-form-field textarea {
+  font-size: 0.9em;
+}
+.agcfw-single-product-fields .agcfw-form-field textarea {
+  max-width: 300px;
+}
+.agcfw-tooltip {
+  position: relative;
+  top: -5px;
+}
+.agcfw-tooltip img {
+  display: inline-block;
+}
+
+.webui-popover {
+  border-radius: 0;
+  border: 0;
+  -webkit-box-shadow: 0 2px 10px rgb(0 0 0 / 20%);
+  box-shadow: 0 2px 10px rgb(0 0 0 / 20%);
+}
+.webui-popover .webui-popover-title {
+  font-size: 1em;
+  color: inherit;
+  padding: 0.7em 1em 0.7em 2em;
+  background: url(../images/info.svg) no-repeat 0.7em center;
+}
+.webui-popover .webui-popover-content {
+  font-size: 0.9em;
+  padding: 0.7em 1em;
+}
+.webui-popover.bottom-right .webui-arrow {
+  border-bottom-color: rgb(0 0 0 / 7%);
+}
+
+.single-product div.product.product-type-advanced_gift_card p.price {
+  margin-bottom: 0.3em;
+}
+
+.single-product div.product.product-type-advanced_gift_card p.agcfw-gift-card-value {
+  margin-bottom: 1.41575em;
+}
+
+/* Elementor add to cart layout fix */
+.woocommerce.single-product div.product.product-type-advanced_gift_card form.cart:not(.grouped_form):not(.variations_form) {
+  display: block;
+}

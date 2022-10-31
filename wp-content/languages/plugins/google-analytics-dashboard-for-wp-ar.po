@@ -1,0 +1,86 @@
+# Translation of Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-16 23:21:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release)\n"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:324
+msgid "Other"
+msgstr "أخرى"
+
+#: languages/gutenberg.php:339 lite/includes/admin/metaboxes.php:103
+#: lite/includes/admin/metaboxes.php:165
+msgid "Page Views"
+msgstr "مشاهدات الصفحة"
+
+#: languages/gutenberg.php:327 languages/vue.php:1326
+#: lite/includes/admin/metaboxes.php:65 lite/includes/admin/metaboxes.php:127
+msgid "Bounce Rate"
+msgstr "نسبة القفز"
+
+#: includes/admin/admin.php:34 includes/admin/admin.php:42
+#: includes/admin/admin.php:230 languages/vue.php:554
+msgid "Settings"
+msgstr "الاعدادات"
+
+#: languages/vue.php:526
+msgid "Real-Time"
+msgstr "الوقت الحقيقي"
+
+#. Description of the plugin
+msgid "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+msgstr ""
+"يظهر تقارير احصائيات كوكل واحصائيات الوقت الحي في لوحة الادارة خاصتك.\n"
+"تلقائيا يضيف كود التعقب في كل صفحات موقعك."
+
+#: languages/vue.php:1292
+msgid "Sessions"
+msgstr "الجلسات"
+
+#: languages/vue.php:741
+msgid "Events Tracking"
+msgstr "تعقب الافعال"
+
+#: languages/vue.php:1077
+msgid "Advanced Tracking"
+msgstr "تتبع متطور"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:961
+msgid "video"
+msgstr "الڤيديو"
+
+#: languages/vue.php:1420
+msgid "Google Analytics"
+msgstr "أحصائيات كوكل"
+
+#: languages/vue.php:97
+msgid "Today"
+msgstr "اليوم"
+
+#: languages/vue.php:2377
+msgid "Permissions"
+msgstr "الاذونات"
+
+#: languages/vue.php:367
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: languages/gutenberg.php:324 languages/vue.php:100
+#: lite/includes/admin/metaboxes.php:51
+msgid "Yesterday"
+msgstr "الأمس"
+
+#: languages/vue.php:2340
+msgid "Automatic Updates"
+msgstr "التحديثات التلقائية"
+
+#: languages/vue.php:469
+msgid "Analytics"
+msgstr "التحليلات"

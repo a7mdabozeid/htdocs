@@ -1,0 +1,40 @@
+.razzi-countdown{
+    display: flex;
+
+    .timer{
+        padding: 0 23px;
+        position: relative;
+        color: var(--rz-color-dark);
+        text-align: center;
+
+        &:first-child{
+            padding-left: 0 ! important;
+        }
+
+        &:last-child{
+            padding-right: 0 ! important;
+        }
+
+        .text{
+            display: block;
+            text-transform: uppercase;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        .divider{
+            position: absolute;
+            top: 15px;
+            right: -8px;
+            font-size: 37px;
+            line-height: 1;
+            font-weight: 600;
+        }
+    }
+
+    .digits{
+        font-size: 44px;
+        font-weight: 600;
+        display: block;
+    }
+}

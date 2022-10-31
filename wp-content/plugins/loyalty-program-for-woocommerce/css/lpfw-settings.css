@@ -1,0 +1,59 @@
+table.breakpoints-data {
+    max-width: 400px; 
+ }
+ 
+ 
+ table.within-order-range-data {
+     max-width: 600px;
+ }
+ table.within-order-range-data .start-range,
+ table.within-order-range-data .end-range {
+     width: 30% !important;
+ }
+ table.within-order-range-data .points-earned {
+     width: 20% !important;
+ }
+ table.within-order-range-data .actions {
+     width: 40px;
+ }
+ table.within-order-range-data td .wrapper {
+     width: 200px;
+ }
+ table.within-order-range-data td input.start-date,
+ table.within-order-range-data td input.end-date {
+     width: 105px !important;
+ }
+ table.within-order-range-data td input.start-time,
+ table.within-order-range-data td input.end-time {
+     width: 90px !important;
+ }
+ table.within-order-range-data .points-earned input {
+     width: 100px !important;
+ }
+ 
+ table.breakpoints-data th,
+ table.within-order-range-data th {
+     text-align: center;
+ }
+ table.breakpoints-data td.actions .remove,
+ table.within-order-range-data td.actions .remove {
+     color: #cc0000;
+ }
+ table.breakpoints-data td.actions .remove:hover,
+ table.within-order-range-data td.actions .remove:hover {
+     opacity: 0.7;
+ }
+ table.breakpoints-data tfoot tr.blank-form,
+ table.within-order-range-data tfoot tr.blank-form {
+     display: none;
+ }
+ 
+ 
+ ul.ui-timepicker-viewport li.ui-menu-item {
+     padding: 0
+ }
+ ul.ui-timepicker-viewport li.ui-menu-item a {
+     font-size: 12px;
+     padding: 5px 3px;
+     text-align: left;
+ }

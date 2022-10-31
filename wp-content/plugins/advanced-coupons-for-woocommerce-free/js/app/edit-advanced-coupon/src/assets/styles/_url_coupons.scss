@@ -1,0 +1,23 @@
+._acfw_coupon_url_field {
+
+  button.copy-coupon-url {
+    margin: 1px 0 0 -32px;
+    padding: 6.5px 7.5px;
+    line-height: 0;
+    border: 0;
+    background: #fff;
+    border-left: 1px solid #ccc;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    
+    &:focus, &:hover {
+      background: #f6f6f6;
+    }
+  }
+
+  span.coupon-url-copied {
+    position: relative;
+    top: -4px;
+    margin-left: 5px;
+  }
+}

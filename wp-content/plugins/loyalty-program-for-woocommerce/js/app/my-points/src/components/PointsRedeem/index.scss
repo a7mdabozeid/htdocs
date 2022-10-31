@@ -1,0 +1,47 @@
+#lpfw_my_points_app {
+    .points-redeem {
+        max-width: 550px;
+        .form-wrap {
+            max-width: 500px;
+            margin: 20px 0;
+
+            label {
+                display: block;
+            }
+
+            .ant-input-number {
+                width: 100%;
+                margin-bottom: 15px;
+
+                .ant-input-number-input {
+                    font-size: 15px;
+                }
+            }
+
+            .ant-input-number-out-of-range {
+
+                input {
+                    color: inherit;
+                }
+            }
+
+            .equal-sign {
+                display: block;
+                position: relative;
+                text-align: center;
+                margin-top: 23px;
+                font-weight: bold;
+                font-size: 20px;
+            }
+        }
+
+        .view-redeemed-link {
+            margin-left: 10px;
+        }
+
+        p.expiry-note {
+            font-size: 13px;
+            font-style: italic;
+        }
+    }
+}

@@ -1,0 +1,51 @@
+@import "site/header/main";
+@import "site/header/logo";
+@import "mobile/header/search";
+@import "mobile/header/account";
+@import "site/header/wishlist";
+@import "mobile/header/cart";
+@import "site/header/hamburger";
+@import "mobile/header/menu";
+@import "site/header/campaigns";
+@import "site/header/currencies";
+@import "site/header/languages";
+@import "site/header/transparent";
+@import "site/header/sticky";
+@import "mobile/header/layout";
+
+.admin-bar {
+	&.sticky-minimized {
+		.rz-modal {
+			top: 0;
+		}
+	}
+
+	&.header-sticky .site-header.minimized {
+		top: 0;
+	}
+
+	.rz-modal {
+		top: 0;
+		height: 100%;
+
+		&.quick-view-modal {
+			top: 0;
+		}
+	}
+
+}
+
+.header-sticky.header-transparent .site-header {
+	position: absolute;
+}
+
+.razzi-history-back {
+	font-size: 24px;
+    line-height: 1;
+	margin-top: 4px;
+	color: var(--rz-header-color-dark);
+
+	.razzi-svg-icon {
+		display: block;
+	}
+}

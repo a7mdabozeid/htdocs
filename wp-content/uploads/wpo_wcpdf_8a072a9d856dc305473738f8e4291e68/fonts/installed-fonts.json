@@ -1,0 +1,42 @@
+{
+    "open sans": {
+        "normal": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/Segoe-Normal",
+        "bold": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/Segoe-Bold",
+        "italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/currencies",
+        "bold": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/currencies",
+        "italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/currencies",
+        "bold_italic": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/currencies"
+    },
+    "droid arabic kufi": {
+        "normal": "\/home\/alshia6\/public_html\/wp-content\/uploads\/wpo_wcpdf_8a072a9d856dc305473738f8e4291e68\/fonts\/droid_arabic_kufi_normal_388924581109e64fe84479eaa151bf92",
+        "bold": "droid_arabic_kufi_bold_a9146909d1490c85dd9df647fd8cb588"
+    },
+    "tajawal": {
+        "normal": "tajawal_normal_bde6fe98369c187b4a8e5d020e51e52c"
+    },
+    "figtree": {
+        "normal": "figtree_normal_54d3ebd61c3ff9ad4f99a2f2155fa8ed"
+    },
+    "noto kufi arabic": {
+        "normal": "noto_kufi_arabic_normal_f8ca4c74cacdc235a4323e7948a28a22"
+    },
+    "amiri": {
+        "bold": "amiri_bold_e30051d840c49d6e1b24e9becf421f56"
+    }
+}

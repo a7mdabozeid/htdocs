@@ -1,0 +1,140 @@
+.razzi-products-showcase {
+    display: flex;
+    padding: 0 85px;
+
+    &:not(.show-category) {
+        .meta-cat {
+            display: none !important;
+        }
+    }
+
+    &:not(.show-rating) {
+        .star-rating {
+            display: none !important;
+        }
+    }
+
+    &:not(.show-quickview) {
+        .quick-view-button {
+            display: none !important;
+        }
+    }
+
+    &:not(.show-addtocart) {
+        .rz-loop_atc_button {
+            display: none !important;
+        }
+    }
+
+    &:not(.show-wishlist) {
+        .product-wishlist {
+            display: none !important;
+        }
+    }
+
+    &:not(.show-badges) {
+        .woocommerce-badges {
+            display: none !important;
+        }
+    }
+
+    .showcase-image {
+        width: 56%;
+    }
+
+    .showcase-box {
+        width: 44%;
+        padding-left: 85px;
+    }
+
+    .razzi-box-title {
+        text-align: center;
+    }
+
+    .razzi-shortcode-title {
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 44px;
+        margin-bottom: 60px;
+    }
+
+    ul.swiper-wrapper {
+        flex-wrap: nowrap;
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        box-sizing: border-box;
+
+        li {
+            clear: none;
+            padding-left: 0;
+            padding-right: 0;
+            margin-bottom: 0;
+        }
+    }
+
+    .rz-swiper-button {
+        font-size: 36px;
+    }
+
+    .swiper-pagination {
+        position: static;
+        margin-top: 35px;
+    }
+
+    ul.products {
+        li.product {
+            width: 100%;
+            margin-bottom: 0;
+
+            .product-thumbnail {
+                .product-wishlist {
+                    position: absolute;
+                    top: 20px;
+                    right: 20px;
+
+                    .rz-loop_button {
+                        opacity: 1;
+                        transform: translateY(0);
+
+                        &:hover {
+                            background-color: var( --rz-background-color-light );
+                            color: var( --rz-color-dark );
+                        }
+
+                        &:not(.loading):before {
+                            right: 54px;
+                            left: auto;
+                            top: 50%;
+                            transform: translateY(-50%);
+                        }
+
+                        &:not(.loading):after {
+                            left: auto;
+                            right: 44px;
+                            top: 50%;
+                            transform: translateY(-50%) rotate(-90deg);
+                        }
+                    }
+
+                    .loop_button-text {
+                        display: none;
+                    }
+                }
+            }
+
+            .product-summary {
+                text-align: center;
+            }
+
+            .star-rating {
+                margin: 5px auto;
+            }
+
+            .woocommerce-loop-product__title {
+                font-size: 18px;
+                margin: 0 0 5px;
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+/**
+ * Cart page
+ */
+ @import "shop/cart";
+
+.woocommerce-cart {
+    .form-row {
+        width: 100%;
+    }
+    
+    .woocommerce-cart-form {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .cart-collaterals {
+        width: 100%;
+        
+        .cart_totals {
+            padding: 5px 20px;
+            margin-top: 30px;
+        }
+        
+        table.shop_table {
+            tbody {
+                tr {
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 10px;
+                    padding-bottom: 10px;
+                    
+                    &:last-child {
+                        margin-bottom: 0;
+                        padding-bottom: 0;
+                    }
+                }
+                
+                th {
+                    display: inline-block;
+                }
+                
+                td {
+                    padding: 10px 0;
+                }
+            }
+            
+            tr.woocommerce-shipping-totals {
+                td {
+                    width: 100%;
+                }
+            }
+        }
+    }
+    
+    table.shop_table {
+        tr {
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            
+            &:last-child {
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+        }
+        
+        td.product-thumbnail {
+            max-width: 90px;
+            width: auto;
+            padding: 0;
+            
+            img {
+                min-width: auto;
+            }
+        }
+        
+        td.product-content {
+            padding: 0 0 0 20px;
+            flex: 1;
+            min-height: auto;
+        }
+        
+        .coupon-form {
+            td {
+                width: 100%;
+                padding: 10px 0;
+            }
+            .coupon {
+                width: inherit;
+                
+                .coupon-row {
+                    display: flex;
+                }
+                
+                input {
+                    width: 100%;
+                    min-width: auto;
+                }
+            }
+            
+            .actions > button {
+                width: inherit;
+                margin-top: 20px;
+            }
+        }
+    }
+    
+    .cross-sells {
+        > h2 {
+            margin-bottom: 30px;
+        }
+        
+        .swiper-scrollbar {
+            margin-top: 20px;
+        }
+    }
+    
+    .cart-collaterals .wc-proceed-to-checkout .continue-button {
+        margin-top: 15px;
+        border: 1px solid var(--rz-color-dark);
+        width: 100%;
+    }
+}

@@ -1,0 +1,47 @@
+/*--------------------------------------------------------------
+# Elementor
+--------------------------------------------------------------*/
+@import "elements/elementor/elements";
+
+.razzi-map .mapboxgl-ctrl-top-right {
+    top: 10px;
+	transform: none;
+}
+
+.razzi-map__has-tab {
+    flex-wrap: wrap;
+    margin-top: 0;
+}
+
+.razzi-map__has-tab .razzi-map__table {
+    max-width: 100%;
+    flex-basis: 100%;
+    overflow-x: auto;
+    margin-right: 0;
+}
+
+.razzi-map .box-item {
+    padding: 30px 15px;
+
+	&:first-child {
+		padding-top: 0;
+	}
+}
+
+.razzi-map .map-title {
+	margin-bottom: 10px;
+}
+
+.swiper-pagination {
+    margin-top: 20px;
+}
+
+ul.products li.product .woocommerce-loop-product__title {
+    font-size: 14px;
+}
+
+input[type="text"] {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0;
+}

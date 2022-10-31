@@ -1,0 +1,292 @@
+.main-navigation {
+	height: 100%;
+
+	ul {
+		display: none;
+		list-style: none;
+		margin: 0;
+		padding-left: 0;
+
+		ul {
+			box-shadow: 0 0 30px 0 rgba(0,0,0,.1);
+            background-color: var( --rz-background-color-light );
+			box-sizing: border-box;
+			min-width: 200px;
+			padding: 18px 0;
+			float: left;
+			position: absolute;
+			top: 100%;
+			left: 0;
+			margin-top: -1px;
+			z-index: 99999;
+			transition: opacity .3s;
+			opacity: 0;
+			transform: scaleX(0);
+			pointer-events: none;
+
+			ul {
+				left: 100%;
+				top: 0;
+				transform: scaleX(1);
+			}
+
+			li {
+				padding: 6px 30px;
+				text-align: left;
+
+				&:hover > ul,
+				&.focus > ul {
+					left: 100%;
+				}
+
+				&:last-child {
+					margin-bottom: 0;
+				}
+
+				&.menu-item-has-children {
+					.toggle-menu-children {
+						margin-top: 2px;
+						.razzi-svg-icon {
+							transform: rotate( -90deg );
+						}
+					}
+				}
+			}
+
+			a {
+				font-size: 15px;
+				line-height: 1.5;
+				text-transform: initial;
+                color: var(--rz-color-dark);
+				transition: .5s;
+				font-weight: 400;
+				cursor: pointer;
+				white-space: nowrap;
+			}
+		}
+
+	}
+
+	.menu-item-has-children {
+		.toggle-menu-children {
+			position: absolute;
+			right: 0;
+			top: calc( 50% );
+			transform: translateY(-50%);
+			line-height: 1;
+			font-size: 14px;
+			cursor: pointer;
+			transition: .3s transform;
+			margin-top: 1px;
+		}
+	}
+
+	.nav-menu {
+		height: 100%;
+		width: 100%;
+		display: flex;
+		align-items: center;
+
+		> li {
+			display: flex;
+			align-items: center;
+			padding-top: 8px;
+			padding-bottom: 8px;
+
+			> a {
+				padding: 3px;
+				white-space: nowrap;
+				position: relative;
+
+				&:after {
+					content: '';
+					position: absolute;
+					bottom: -2px;
+					left: 0;
+					right: 0;
+					width: 0;
+					height: 1px;
+					background-color: var(--rz-color-hover-primary);
+					transition: .5s;
+					opacity: 0;
+				}
+
+				.toggle-menu-children {
+					.razzi-svg-icon {
+						transition: none;
+						display: block;
+					}
+				}
+			}
+
+			&.primary-color {
+				> a {
+					color: var(--rz-color-hover-primary);
+				}
+			}
+
+			&.menu-item-has-children {
+				> a {
+					position: relative;
+					padding-right: 20px;
+				}
+			}
+
+			&:hover,
+			&.focus {
+				> a{
+					color: var(--rz-color-hover-primary);
+
+					&:after {
+						opacity: 1;
+						width: 100%;
+					}
+
+				}
+			}
+
+			&:first-child {
+				padding-left: 0;
+			}
+
+			&:last-child {
+				padding-right: 0;
+			}
+		}
+
+		li {
+			height: 100%;
+			width: 100%;
+
+			&:hover {
+				> ul {
+					opacity: 1;
+					transform: scaleX(1);
+					pointer-events: initial;
+				}
+			}
+		}
+
+		ul {
+			li {
+				a {
+					&:after {
+						bottom: 7px;
+					}
+				}
+			}
+
+			> .menu-item-has-children {
+				> a{
+					position: relative;
+				}
+			}
+		}
+	}
+
+	&:not(.main-menu-current-color) {
+		.nav-menu {
+			& > li {
+				&.current-menu-parent,
+				&.current_page_parent {
+					> a{
+						color: var(--rz-color-hover-primary);
+
+						&:after {
+							opacity: 1;
+							width: 100%;
+						}
+
+					}
+				}
+			}
+		}
+	}
+
+	li {
+		float: left;
+		position: relative;
+		padding: 0 14px;
+		outline: none;
+	}
+
+	a {
+		display: block;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 16px;
+		text-decoration: none;
+		line-height: 1;
+		color: var(--rz-header-color-dark);
+		outline: none;
+		transition: .5s;
+
+		&:hover,
+		&.focus {
+			color: var(--rz-color-primary);
+		}
+	}
+}
+
+.primary-navigation:not(.has-arrow) {
+	.nav-menu > li {
+		&.menu-item-has-children > a {
+			padding-right: 3px;
+		}
+	}
+}
+
+.secondary-navigation {
+	.nav-menu > li {
+		& > a {
+			text-transform: uppercase;
+		}
+
+		&.menu-item-has-children > a {
+			padding-right: 3px;
+		}
+	}
+}
+
+.logo-center .header-center-items {
+	> .main-navigation .nav-menu {
+		justify-content: flex-end;
+	}
+
+	.site-branding + .main-navigation .nav-menu {
+		justify-content: flex-start;
+	}
+}
+
+/* Small menu. */
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+}
+
+@media screen and (min-width: 37.5em) {
+	.menu-toggle {
+		display: none;
+	}
+	.main-navigation ul {
+		display: block;
+	}
+}
+
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+	margin: 0 0 1.5em;
+	overflow: hidden;
+
+	.nav-previous {
+		float: left;
+		width: 50%;
+	}
+
+	.nav-next {
+		float: right;
+		text-align: right;
+		width: 50%;
+	}
+}

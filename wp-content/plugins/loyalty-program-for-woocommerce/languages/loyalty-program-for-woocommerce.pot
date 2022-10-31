@@ -1,0 +1,1306 @@
+# Copyright (C) 2022 Rymera Web Co
+# This file is distributed under the same license as the Loyalty Program for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Loyalty Program for WooCommerce 1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/loyalty-program-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-05T03:28:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: loyalty-program-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#. Description of the plugin
+msgid "Loyalty Program for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://rymera.com.au/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rymera Web Co"
+msgstr ""
+
+#: Helpers/Helper_Functions.php:318
+#: Models/REST_API/API_Customers.php:225
+#: Models/REST_API/API_Dashboard.php:199
+#: Models/REST_API/API_My_Points.php:222
+#: Models/REST_API/API_Settings.php:217
+msgid "Sorry, you are not allowed access to this endpoint."
+msgstr ""
+
+#: Helpers/Helper_Functions.php:375
+#: Models/My_Points.php:127
+#: Models/My_Points.php:185
+#: Models/Script_Loader.php:476
+#: views/admin/view-points-review-order-metabox.php:44
+msgid "Points"
+msgstr ""
+
+#: loyalty-program-for-woocommerce.php:177
+msgid "<a class=\"action-button\" href=\"%1$s\" title=\"Activate this plugin\">Click here to activate &rarr;</a><span><em>Plugin Detected</em></span>"
+msgstr ""
+
+#: loyalty-program-for-woocommerce.php:182
+msgid "<a class=\"action-button\" href=\"%1$s\" title=\"Install this plugin\">Click here to install from WordPress.org repo &rarr;</a>"
+msgstr ""
+
+#: loyalty-program-for-woocommerce.php:188
+msgid "Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> plugin installed and activated.<br/>"
+msgstr ""
+
+#: loyalty-program-for-woocommerce.php:226
+msgid "<a href=\"%1$s\">Click here to update %2$s &rarr;</a>"
+msgstr ""
+
+#: loyalty-program-for-woocommerce.php:232
+msgid "Please ensure you have the latest version of <a href=\"%1$s\" target=\"_blank\">%2$s</a> plugin installed and activated.<br/>"
+msgstr ""
+
+#: Models/Admin.php:150
+#: Models/Admin.php:196
+#: Models/Admin.php:208
+#: Models/Script_Loader.php:454
+#: views/admin/view-loyalty-program-add-product-category-fields.php:8
+#: views/admin/view-loyalty-program-edit-product-category-fields.php:9
+#: views/admin/view-loyalty-program-product-fields.php:7
+msgid "Loyalty Program"
+msgstr ""
+
+#: Models/Admin.php:227
+msgid "Used"
+msgstr ""
+
+#: Models/Admin.php:227
+msgid "Not yet used"
+msgstr ""
+
+#: Models/Admin.php:276
+msgid "Loyalty Program: undo revoking points"
+msgstr ""
+
+#: Models/Admin.php:278
+msgid "Loyalty Program: revoke points"
+msgstr ""
+
+#: Models/Admin.php:280
+msgid "Loyalty Program: Approve pending points"
+msgstr ""
+
+#: Models/Admin.php:281
+msgid "Loyalty Program: Cancel pending points"
+msgstr ""
+
+#: Models/Bootstrap.php:432
+#: Models/Script_Loader.php:466
+msgid "Settings"
+msgstr ""
+
+#: Models/Entries.php:160
+msgid "The point entry requires a valid ID to be updated."
+msgstr ""
+
+#: Models/Entries.php:249
+msgid "Failed to decrease customer's points: insufficient points."
+msgstr ""
+
+#: Models/Messages.php:430
+#: Models/REST_API/API_Settings.php:706
+#: Models/REST_API/API_Settings.php:714
+msgid "This order will earn %s points."
+msgstr ""
+
+#: Models/My_Points.php:132
+#: Models/My_Points.php:187
+msgid "My %s"
+msgstr ""
+
+#: Models/My_Points.php:241
+#: Models/SLMW/Update.php:590
+#: Models/User_Points.php:566
+msgid "Invalid AJAX call"
+msgstr ""
+
+#: Models/My_Points.php:243
+#: Models/SLMW/Update.php:592
+#: Models/User_Points.php:568
+msgid "You are not allowed to do this"
+msgstr ""
+
+#: Models/My_Points.php:248
+msgid "Points is valid until %s. Redeem or earn more points to extend validity."
+msgstr ""
+
+#: Models/My_Points.php:252
+msgid "User points will expire on <strong>%s</strong>."
+msgstr ""
+
+#: Models/REST_API/API_Customers.php:349
+msgid "Failed adjusting points for customer."
+msgstr ""
+
+#: Models/REST_API/API_Customers.php:363
+msgid "Successfully adjusted points for customer."
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:440
+msgid "There was an error loading the total count of point entries."
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:477
+msgid "There was an error loading the point entries data."
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:515
+msgid "Total Points (All Time)"
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:520
+msgid "Unclaimed Points"
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:525
+msgid "Pending Points"
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:530
+msgid "Claimed Points"
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:535
+msgid "Expired Points"
+msgstr ""
+
+#: Models/REST_API/API_Dashboard.php:540
+msgid "Deducted"
+msgstr ""
+
+#: Models/REST_API/API_My_Points.php:338
+msgid "Insufficient or invalid points for redemption."
+msgstr ""
+
+#: Models/REST_API/API_My_Points.php:362
+msgid "Points redeemed successfully!"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:174
+msgid "Unique identified for the settings option"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:370
+msgid "General"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:375
+msgid "Points Earning"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:380
+#: Models/REST_API/API_Settings.php:695
+msgid "Messages"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:385
+#: Models/REST_API/API_Settings.php:784
+msgid "Redemption & Expiry"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:390
+#: Models/REST_API/API_Settings.php:858
+msgid "Role Restrictions"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:400
+msgid "Help"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:446
+msgid "Price to points earned ratio (global)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:448
+#: views/admin/view-loyalty-program-add-product-category-fields.php:18
+#: views/admin/view-loyalty-program-edit-product-category-fields.php:29
+msgid "Define the ratio of points earned for each %s spent. Example: Setting a ratio of 1 means 1 point is earned for every %s spent. Setting a ratio 5 means 5 points are earned for every %s spent."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:453
+msgid "Points to price redeemed ratio"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:455
+msgid "Define the worth of each point. Example: Setting a points to price redeemed ratio of 1 means 1 point is worth %s. Setting a ratio of 10 means 10 points is worth %s."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:461
+msgid "Points name"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:463
+msgid "By default, points are called “Points” throughout the store. You can override the name of your points here."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:468
+msgid "Default category for redeemed coupon "
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:470
+msgid "The default category that is assigned for coupons redeemed by customers."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:473
+#: Models/REST_API/API_Settings.php:482
+msgid "Select category"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:477
+msgid "Default category for used coupons"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:479
+msgid "The default category that is assigned to redeemed coupons after being used in an order."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:485
+msgid "Disallow earning points when a loyalty discount is applied on cart"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:487
+msgid "When checked, the customer will not earn any points when they have applied a loyalty coupon discount on their cart."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:507
+#: Models/Types.php:122
+msgid "Purchasing products"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:512
+#: Models/REST_API/API_Settings.php:629
+#: Models/Types.php:133
+msgid "Leaving a product review"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:517
+#: Models/REST_API/API_Settings.php:637
+msgid "Commenting on a blog post"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:522
+#: Models/REST_API/API_Settings.php:645
+#: Models/Types.php:155
+msgid "Registering as a user/customer"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:527
+#: Models/REST_API/API_Settings.php:654
+#: Models/Types.php:165
+msgid "After completing first order"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:532
+msgid "Spending over a certain amount (breakpoints)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:537
+#: Models/Types.php:187
+msgid "Extra points during a period"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:562
+msgid "Points Calculation"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:566
+msgid "Points calculation options"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:573
+msgid "Discounts"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:575
+msgid "If this option is checked, points will be calculated on orders with the discount amount included as part of the calculation."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:579
+msgid "Tax"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:581
+msgid "If this option is checked, points will be calculated on orders with the tax amount included as part of the calculation."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:585
+msgid "Shipping"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:587
+msgid "If this option is checked, points will be calculated on orders with the shipping amount included as part of the calculation."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:591
+msgid "Fees"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:593
+msgid "If this option is checked, points will be calculated on orders with the fee amount included as part of the calculation."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:598
+msgid "Minimum threshold to earn points"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:600
+msgid "Set a minimum spend for a customer to be eligible to accumulate points for an order. Once an order is eligible, the customer will receive points for the entire subtotal."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:605
+msgid "Order related points waiting period"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:608
+msgid "Number of days for order related points to be redeemable by customers."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:613
+msgid "Always use regular price"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:616
+msgid "When calculating points earned for each product purchased, always ensure the Regular Price is used and ignore the Sale Price if present."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:619
+msgid "Point Amounts"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:623
+msgid "Actions that earn points"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:632
+msgid "Points earned when leaving a product review"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:640
+msgid "Points earned when commenting on a blog post."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:648
+msgid "Points earned after registering as a user/customer."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:657
+msgid "Points earned after completing the first order."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:664
+msgid "Spending over a threshold (breakpoints)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:667
+msgid "An extra amount of points that will be given on top of the regular amount given for an order which total amount (after discounts) exceeds the set amount breakpoint."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:673
+msgid "Extra points to earn during period"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:676
+msgid "An extra amount of points that will be given on top of the regular amount given for an order during the promotional period defined."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:699
+msgid "For logged-in users"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:703
+msgid "Points to earn message in cart"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:705
+msgid "Shows a message on the cart page indicating how many points the current order will earn. Use {points} placeholder in your message for displaying the points amount. Leave blank to disable."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:710
+#: Models/REST_API/API_Settings.php:712
+msgid "Points to earn message in checkout"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:713
+msgid "Shows a message on the checkout page indicating how many points the current order will earn. Use {points} placeholder in your message for displaying the points amount. Leave blank to disable."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:718
+msgid "Points to earn message in product"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:720
+msgid "Shows a message on the single product page indicating how many points this particular product will earn. Use the {points} placeholder in your message for displaying the points amount. Leave blank to disable."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:724
+msgid "For Guests"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:728
+msgid "Hide points to earn messages for guests"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:730
+msgid "When checked, the points to earn messages shown in product, cart and checkout pages will not be shown for guest users."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:735
+msgid "Points to earn message in cart (guest)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:737
+msgid "Alternative message to show for guest users on the cart page indicating how many points the current order will earn. When left blank, the same message set for logged-in users will be used instead. Use {points} placeholder in your message for displaying the points amount."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:743
+msgid "Points to earn message in checkout (guest)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:745
+msgid "Alternative message to show for guest users on the checkout page indicating how many points the current order will earn. When left blank, the same message set for logged-in users will be used instead. Use {points} placeholder in your message for displaying the points amount."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:751
+msgid "Points to earn message in product (guest)"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:753
+msgid "Alternative message to show for guest users on the single product page indicating how many points this particular product will earn. When left blank, the same message set for logged-in users will be used instead. Use the {points} placeholder in your message for displaying the points amount."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:759
+msgid "Custom Labels"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:763
+msgid "Coupon Label"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:765
+msgid "Modify the coupon label displayed on cart and checkout totals for applied loyalty coupons. Use the {coupon_code} placeholder to display the coupon code."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:767
+msgid "Coupon: {coupon_code}"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:788
+msgid "Minimum points allowed for redemption"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:790
+msgid "Set the minimum number of points allowed to be redeemed as a discount a coupon."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:795
+msgid "Maximum points allowed for each coupon redemption"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:797
+msgid "Set the maximum points allowed when redeeming points as a coupon."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:802
+msgid "Points expire after days inactivity"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:804
+msgid "Number of days for a user's points will expire after being inactive."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:810
+msgid "Redeemed coupon expiry days"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:812
+msgid "Number of days a coupon should be a valid after redeeming."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:818
+msgid "Points expiry message"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:820
+msgid "Shows a message on the user's My Points page indicating when their points will expire after being inactive. Use the {date_expire} placeholder in your message for displaying the expiry date. Leave blank to disable."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:822
+#: Models/Script_Loader.php:327
+msgid "Points are valid until {date_expire}. Redeem or earn more points to extend validity."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:825
+msgid "Points redemption additional info"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:827
+msgid "Shows a message at the bottom of the points redemption form to provide additional information to customers. You can use the following placeholders to replace with them with its equivalent setting values: {date_expire}, {min_points}, {max_points}, {inactive_expiry_days} and {coupon_expiry_days}"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:829
+#: Models/Script_Loader.php:308
+msgid "This action will redeem %s for a coupon that you can use on a future order. Once redeemed you will have <strong>{coupon_expiry_days} days</strong> to use this coupon."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:832
+msgid "Hide Checkout Form If Points Don't Meet Minimum Threshold For Redemption"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:834
+msgid "If the user's loyalty points don't exceed the minimum threshold for redemption, hide the checkout page form."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:862
+msgid "Disallow points accumulations for roles"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:864
+msgid "Choose which roles should NOT accumulate points for purchases. If users with those roles make a purchase, they will not accumulate points, nor will they see the points section on their My Account or Checkout pages."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:885
+msgid "Refetch Update Data"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:887
+msgid "This will refetch plugin update data. Useful for debugging failed plugin update operations."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:892
+msgid "Clean up plugin options on un-installation"
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:894
+msgid "If checked, removes all plugin options when this plugin is uninstalled. <b>Warning:</b> This process is irreversible."
+msgstr ""
+
+#: Models/REST_API/API_Settings.php:967
+msgid "The provided setting id is not valid."
+msgstr ""
+
+#: Models/Script_Loader.php:216
+msgid "Activate License"
+msgstr ""
+
+#: Models/Script_Loader.php:217
+msgid "Activating. Please wait..."
+msgstr ""
+
+#: Models/Script_Loader.php:218
+msgid "Please fill in activation email and license key"
+msgstr ""
+
+#: Models/Script_Loader.php:219
+msgid "Failed to activated license. Server error occurred on ajax request. Please contact support."
+msgstr ""
+
+#: Models/Script_Loader.php:220
+#: Models/Script_Loader.php:588
+#: views/slmw/view-license-settings-page.php:20
+msgid "License is Active"
+msgstr ""
+
+#: Models/Script_Loader.php:221
+#: Models/Script_Loader.php:589
+#: views/slmw/view-license-settings-page.php:22
+msgid "Not Activated Yet"
+msgstr ""
+
+#: Models/Script_Loader.php:329
+msgid "Apply"
+msgstr ""
+
+#: Models/Script_Loader.php:330
+msgid "%s Balance"
+msgstr ""
+
+#: Models/Script_Loader.php:331
+msgid "%s History"
+msgstr ""
+
+#: Models/Script_Loader.php:332
+msgid "Redeem %s"
+msgstr ""
+
+#: Models/Script_Loader.php:333
+msgid "You have <strong>{p}</strong> %s (worth <strong>{w}</strong>)."
+msgstr ""
+
+#: Models/Script_Loader.php:334
+msgid "Reward Coupons"
+msgstr ""
+
+#: Models/Script_Loader.php:335
+msgid "You don’t have any reward coupons yet."
+msgstr ""
+
+#: Models/Script_Loader.php:336
+msgid "Click here to redeem %s."
+msgstr ""
+
+#: Models/Script_Loader.php:337
+msgid "View redeemed coupons."
+msgstr ""
+
+#: Models/Script_Loader.php:338
+msgid "Coupon Code"
+msgstr ""
+
+#: Models/Script_Loader.php:339
+msgid "Amount"
+msgstr ""
+
+#: Models/Script_Loader.php:340
+msgid "Redeemed Date"
+msgstr ""
+
+#: Models/Script_Loader.php:341
+msgid "Expires"
+msgstr ""
+
+#: Models/Script_Loader.php:342
+msgid "Action"
+msgstr ""
+
+#: Models/Script_Loader.php:343
+msgid "Apply Coupon"
+msgstr ""
+
+#: Models/Script_Loader.php:344
+#: Models/Script_Loader.php:481
+msgid "Date"
+msgstr ""
+
+#: Models/Script_Loader.php:345
+#: Models/Script_Loader.php:479
+msgid "Customer"
+msgstr ""
+
+#: Models/Script_Loader.php:346
+#: Models/Script_Loader.php:482
+#: views/admin/view-points-review-order-metabox.php:43
+msgid "Activity"
+msgstr ""
+
+#: Models/Script_Loader.php:348
+#: Models/Script_Loader.php:483
+msgid "Related"
+msgstr ""
+
+#: Models/Script_Loader.php:349
+msgid "Redeem %s for a coupon. How much would you like to redeem?"
+msgstr ""
+
+#: Models/Script_Loader.php:350
+msgid "Enter %s"
+msgstr ""
+
+#: Models/Script_Loader.php:351
+msgid "Enter Amount"
+msgstr ""
+
+#: Models/Script_Loader.php:352
+msgid "Redeem %s For Coupon"
+msgstr ""
+
+#: Models/Script_Loader.php:458
+msgid "Dashboard"
+msgstr ""
+
+#: Models/Script_Loader.php:462
+msgid "Customers"
+msgstr ""
+
+#: Models/Script_Loader.php:467
+msgid "Adjust the settings options for your store’s Loyalty Program."
+msgstr ""
+
+#: Models/Script_Loader.php:471
+msgid "Points Status"
+msgstr ""
+
+#: Models/Script_Loader.php:472
+msgid "Points Sources"
+msgstr ""
+
+#: Models/Script_Loader.php:473
+msgid "Points History"
+msgstr ""
+
+#: Models/Script_Loader.php:474
+msgid "Top Earning Customers"
+msgstr ""
+
+#: Models/Script_Loader.php:475
+msgid "Information"
+msgstr ""
+
+#: Models/Script_Loader.php:477
+msgid "Value"
+msgstr ""
+
+#: Models/Script_Loader.php:478
+msgid "Source"
+msgstr ""
+
+#: Models/Script_Loader.php:480
+#: views/settings/view-settings-earn-breakpoints-field.php:15
+msgid "Breakpoint"
+msgstr ""
+
+#: Models/Script_Loader.php:484
+#: views/settings/view-settings-earn-breakpoints-field.php:19
+#: views/settings/view-settings-earn-orders-period-table-field.php:18
+msgid "Points Earned"
+msgstr ""
+
+#: Models/Script_Loader.php:485
+#: Models/Script_Loader.php:486
+#: views/settings/view-settings-earn-orders-period-table-field.php:10
+msgid "Start Date/Time"
+msgstr ""
+
+#: Models/Script_Loader.php:487
+msgid "Date/Time Range"
+msgstr ""
+
+#: Models/Script_Loader.php:488
+msgid "Search Customers"
+msgstr ""
+
+#: Models/Script_Loader.php:489
+msgid "Search by name or email"
+msgstr ""
+
+#: Models/Script_Loader.php:490
+msgid "Adjust Points"
+msgstr ""
+
+#: Models/Script_Loader.php:491
+msgid "Adjust points for this user"
+msgstr ""
+
+#: Models/Script_Loader.php:492
+msgid "Adjust"
+msgstr ""
+
+#: Models/Script_Loader.php:493
+msgid "Increase Points"
+msgstr ""
+
+#: Models/Script_Loader.php:494
+msgid "Decrease Points"
+msgstr ""
+
+#: Models/Script_Loader.php:495
+msgid "Proceed"
+msgstr ""
+
+#: Models/Script_Loader.php:496
+msgid "Cancel"
+msgstr ""
+
+#: Models/Script_Loader.php:497
+msgid "INCREASE"
+msgstr ""
+
+#: Models/Script_Loader.php:498
+msgid "DECREASE"
+msgstr ""
+
+#: Models/Script_Loader.php:499
+msgid "Please provide a valid points value."
+msgstr ""
+
+#: Models/Script_Loader.php:500
+msgid "Please provide points equal or lesser than %s"
+msgstr ""
+
+#: Models/Script_Loader.php:501
+msgid "This adjustments will %s this users points by %s."
+msgstr ""
+
+#: Models/Script_Loader.php:502
+msgid "Customers List"
+msgstr ""
+
+#: Models/Script_Loader.php:503
+msgid "Name"
+msgstr ""
+
+#: Models/Script_Loader.php:504
+msgid "Email"
+msgstr ""
+
+#: Models/Script_Loader.php:505
+msgid "Points expiration date"
+msgstr ""
+
+#: Models/Script_Loader.php:506
+msgid "Customer Info"
+msgstr ""
+
+#: Models/Script_Loader.php:510
+msgid "Week to Date"
+msgstr ""
+
+#: Models/Script_Loader.php:514
+msgid "Month to Date"
+msgstr ""
+
+#: Models/Script_Loader.php:518
+msgid "Quarter to Date"
+msgstr ""
+
+#: Models/Script_Loader.php:522
+msgid "Year to Date"
+msgstr ""
+
+#: Models/Script_Loader.php:526
+msgid "Last Week"
+msgstr ""
+
+#: Models/Script_Loader.php:530
+msgid "Last Month"
+msgstr ""
+
+#: Models/Script_Loader.php:534
+msgid "Last Quarter"
+msgstr ""
+
+#: Models/Script_Loader.php:538
+msgid "Last Year"
+msgstr ""
+
+#: Models/Script_Loader.php:542
+msgid "Custom Range"
+msgstr ""
+
+#: Models/Script_Loader.php:556
+#: Models/SLMW/Settings.php:163
+#: Models/SLMW/Settings.php:186
+msgid "License"
+msgstr ""
+
+#: Models/Script_Loader.php:557
+msgid "Loyalty Program license activation settings."
+msgstr ""
+
+#: Models/Script_Loader.php:561
+msgid "Please enter a valid price amount."
+msgstr ""
+
+#: Models/Script_Loader.php:562
+msgid "Please enter valid breakpoint amounts and/or points."
+msgstr ""
+
+#: Models/Script_Loader.php:587
+#: views/slmw/view-license-settings-page.php:16
+msgid "Your current license for Loyalty Program:"
+msgstr ""
+
+#: Models/Script_Loader.php:590
+#: views/slmw/view-license-settings-page.php:30
+msgid "You are currently using Loyalty Program for WooCommerce by Advanced Coupons. In order to get future updates, bug fixes, and security patches automatically you will need to activate your license. This also allows you to claim support from our support team. Please enter your license details and activate your key."
+msgstr ""
+
+#: Models/Script_Loader.php:591
+#: views/slmw/view-license-settings-page.php:34
+msgid "Version"
+msgstr ""
+
+#: Models/Script_Loader.php:593
+#: views/slmw/view-license-settings-page.php:45
+msgid "License Key:"
+msgstr ""
+
+#: Models/Script_Loader.php:594
+#: views/slmw/view-license-settings-page.php:49
+msgid "Activation Email:"
+msgstr ""
+
+#: Models/Script_Loader.php:595
+#: views/slmw/view-license-settings-page.php:53
+msgid "Activate Key"
+msgstr ""
+
+#: Models/Script_Loader.php:597
+msgid "Can’t find your key?"
+msgstr ""
+
+#: Models/Script_Loader.php:599
+msgid "Login to your account"
+msgstr ""
+
+#: Models/SLMW/License.php:144
+msgid "Please <a href=\"%1$s\">activate</a> your copy of Loyalty Program for WooCommerce to get the latest updates and have access to support."
+msgstr ""
+
+#: Models/SLMW/License.php:171
+#: Models/SLMW/License.php:282
+#: Models/SLMW/License.php:311
+msgid "Invalid AJAX Operation"
+msgstr ""
+
+#: Models/SLMW/License.php:173
+msgid "Required parameters not supplied"
+msgstr ""
+
+#: Models/SLMW/License.php:175
+msgid "Security check failed"
+msgstr ""
+
+#: Models/SLMW/License.php:208
+msgid "Failed to activate license. Failed to connect to activation access point. Please contact plugin support."
+msgstr ""
+
+#: Models/SLMW/License.php:214
+msgid "Failed to activate license. Activation access point return invalid response. Please contact plugin support."
+msgstr ""
+
+#: Models/SLMW/Settings.php:112
+#: Models/SLMW/Settings.php:113
+msgid "Loyalty Program License"
+msgstr ""
+
+#: Models/SLMW/Settings.php:188
+msgid "Enter the activation email and the license key given to you after purchasing Loyalty Program for WooCommerce. You can find this information by logging into your <a href=\"%1$s\" target=\"_blank\">My Account</a> on our website or in the purchase confirmation email sent to your email address."
+msgstr ""
+
+#: Models/SLMW/Settings.php:193
+msgid "Activation Email"
+msgstr ""
+
+#: Models/SLMW/Settings.php:199
+msgid "License Key"
+msgstr ""
+
+#: Models/SLMW/Update.php:558
+msgid "Plugin update data has been refetched successfully."
+msgstr ""
+
+#: Models/SLMW/Update.php:564
+msgid "Plugin updates transient is not yet present. Please visit Dashboard > Updates page and try again."
+msgstr ""
+
+#: Models/SLMW/Update.php:571
+msgid "There was an issue trying to refetch the update data. Please make sure that there is an available update and that your license is activated."
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:119
+msgid "Loyalty Program: Points name"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:125
+msgid "Loyalty Program: Points to earn message in cart"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:131
+msgid "Loyalty Program: Points to earn message in checkout"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:137
+msgid "Loyalty Program: Points to earn message in single product page"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:143
+msgid "Loyalty Program: Points expiry message"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:149
+msgid "Loyalty Program: Points to earn message in cart (guest)"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:155
+msgid "Loyalty Program: Points to earn message in checkout (guest)"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:161
+msgid "Loyalty Program: Points to earn message in single product page (guest)"
+msgstr ""
+
+#: Models/Third_Party_Integrations/WPML_Support.php:167
+msgid "Loyalty Program: Points redemption additional info"
+msgstr ""
+
+#: Models/Types.php:126
+#: Models/Types.php:127
+#: Models/Types.php:169
+#: Models/Types.php:170
+#: Models/Types.php:180
+#: Models/Types.php:181
+#: Models/Types.php:191
+#: Models/Types.php:192
+#: Models/Types.php:265
+#: Models/Types.php:266
+msgid "View Order"
+msgstr ""
+
+#: Models/Types.php:137
+#: Models/Types.php:138
+msgid "View Review"
+msgstr ""
+
+#: Models/Types.php:144
+msgid "Leaving a blog comment"
+msgstr ""
+
+#: Models/Types.php:148
+#: Models/Types.php:149
+msgid "View Comment"
+msgstr ""
+
+#: Models/Types.php:159
+msgid "View User"
+msgstr ""
+
+#: Models/Types.php:176
+msgid "Spending over a certain amount"
+msgstr ""
+
+#: Models/Types.php:198
+msgid "Admin Adjustment (increase)"
+msgstr ""
+
+#: Models/Types.php:202
+#: Models/Types.php:255
+msgid "Admin: %s"
+msgstr ""
+
+#: Models/Types.php:237
+msgid "Redeem Coupon"
+msgstr ""
+
+#: Models/Types.php:241
+msgid "View Coupon"
+msgstr ""
+
+#: Models/Types.php:242
+msgid "Coupon: %s"
+msgstr ""
+
+#: Models/Types.php:247
+msgid "Points expired"
+msgstr ""
+
+#: Models/Types.php:251
+msgid "Admin Adjustment (decrease)"
+msgstr ""
+
+#: Models/Types.php:261
+msgid "Points revoked"
+msgstr ""
+
+#: Models/Types.php:312
+msgid "(pending)"
+msgstr ""
+
+#: Models/User_Points.php:228
+msgid "Redeemed"
+msgstr ""
+
+#: Models/User_Points.php:580
+msgid "Points successfully redeemed."
+msgstr ""
+
+#: Models/User_Points.php:597
+msgid "Redemption failed. Please make sure that you have sufficient points or that the points redeemed is above the set minimum."
+msgstr ""
+
+#: Objects/Point_Entry.php:440
+msgid "There was an error trying to increase points for user."
+msgstr ""
+
+#: Objects/Point_Entry.php:495
+msgid "There was an error updating the point entry."
+msgstr ""
+
+#: Objects/Point_Entry.php:521
+msgid "The earn/redeem action provided is invalid."
+msgstr ""
+
+#: Objects/Point_Entry.php:555
+msgid "The point entry requires a valid ID to proceed."
+msgstr ""
+
+#: Objects/Point_Entry.php:576
+msgid "There was an error deleting the point entry."
+msgstr ""
+
+#: Objects/Report_Widgets/Loyalty_Points_Earned.php:32
+#: Objects/Report_Widgets/Loyalty_Points_Earned.php:34
+msgid "Loyalty Points Earned"
+msgstr ""
+
+#: Objects/Report_Widgets/Loyalty_Points_Used.php:32
+#: Objects/Report_Widgets/Loyalty_Points_Used.php:34
+msgid "Loyalty Points Used"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:9
+msgid "Apply Loyalty Discounts"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:15
+msgid "Redeem points as a coupon"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:19
+msgid "You have <strong>%s</strong> %s (worth <strong>%s</strong>)"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:20
+msgid "You may redeem up to %s points to get a discount for your order."
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:23
+msgid "Enter points"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:24
+msgid "Redeem"
+msgstr ""
+
+#: templates/checkout/lpfw-redeem-points.php:34
+msgid "Apply your recently redeemed coupons"
+msgstr ""
+
+#: views/admin/view-loyalty-program-add-product-category-fields.php:11
+#: views/admin/view-loyalty-program-edit-product-category-fields.php:15
+#: views/admin/view-loyalty-program-product-fields.php:10
+msgid "Allow earning points"
+msgstr ""
+
+#: views/admin/view-loyalty-program-add-product-category-fields.php:12
+#: views/admin/view-loyalty-program-edit-product-category-fields.php:19
+msgid "When checked, the customer will earn loyalty points after purchasing the products under this category."
+msgstr ""
+
+#: views/admin/view-loyalty-program-add-product-category-fields.php:16
+#: views/admin/view-loyalty-program-edit-product-category-fields.php:25
+msgid "Price to points earned ratio"
+msgstr ""
+
+#: views/admin/view-loyalty-program-product-fields.php:12
+msgid "When checked, the customer will earn loyalty points after purchasing this product."
+msgstr ""
+
+#: views/admin/view-loyalty-program-product-fields.php:16
+msgid "Loyalty points"
+msgstr ""
+
+#: views/admin/view-loyalty-program-product-fields.php:18
+msgid "The amount of points earned for each quantity purchased of this product. When this value is not set, the points will be calculated based on the price of the product and the <strong>\"Price to points earned ratio\"</strong> setting."
+msgstr ""
+
+#: views/admin/view-loyalty-programs-metabox.php:5
+msgid "User:"
+msgstr ""
+
+#: views/admin/view-loyalty-programs-metabox.php:8
+msgid "Points:"
+msgstr ""
+
+#: views/admin/view-loyalty-programs-metabox.php:11
+msgid "Status:"
+msgstr ""
+
+#: views/admin/view-points-review-order-metabox.php:34
+msgid "The customer has the following <em>pending</em> points for this order:"
+msgstr ""
+
+#: views/admin/view-points-review-order-metabox.php:37
+msgid "The customer has earned the following points for this order:"
+msgstr ""
+
+#: views/admin/view-points-review-order-metabox.php:56
+msgid "Total"
+msgstr ""
+
+#: views/admin/view-points-review-order-metabox.php:61
+msgid "Points can be revoked or unrevoked in the <strong>Order Actions</strong> form above."
+msgstr ""
+
+#: views/admin/view-points-review-order-metabox.php:64
+msgid "There are no points earned for this order"
+msgstr ""
+
+#: views/notices/view-lpfw-failed-dependancy-notice.php:60
+#: views/notices/view-plugin-dependency-version-notice.php:75
+msgid "Action required"
+msgstr ""
+
+#: views/notices/view-lpfw-failed-dependancy-notice.php:62
+msgid "<b>Loyalty Program for WooCommerce</b> plugin missing dependency."
+msgstr ""
+
+#: views/notices/view-plugin-dependency-version-notice.php:59
+msgid "Important - please update Advanced Coupons free plugin"
+msgstr ""
+
+#: views/notices/view-plugin-dependency-version-notice.php:61
+msgid "Thanks for installing the Loyalty Program add-on for Advanced Coupons. We know you’ll love it!"
+msgstr ""
+
+#: views/notices/view-plugin-dependency-version-notice.php:62
+msgid "As this feature is now an add-on you’ll also need to ensure that you have updated Advanced Coupons Premium to the latest version. Please click update below."
+msgstr ""
+
+#: views/notices/view-plugin-dependency-version-notice.php:65
+msgid "Update Plugin"
+msgstr ""
+
+#: views/notices/view-plugin-dependency-version-notice.php:77
+msgid "<b>Loyalty Program for WooCommerce</b> plugin invalid dependency version."
+msgstr ""
+
+#: views/settings/view-settings-earn-breakpoints-field.php:16
+msgid "Describes the total amount required for an order to earn the extra points."
+msgstr ""
+
+#: views/settings/view-settings-earn-breakpoints-field.php:59
+#: views/settings/view-settings-earn-orders-period-table-field.php:75
+msgid "Add Row"
+msgstr ""
+
+#: views/settings/view-settings-earn-orders-period-table-field.php:11
+msgid "Describes when the promotional period should start. Orders within this period will get an extra amount of points given on top of the regular amount given."
+msgstr ""
+
+#: views/settings/view-settings-earn-orders-period-table-field.php:14
+msgid "End Date/Time"
+msgstr ""
+
+#: views/settings/view-settings-earn-orders-period-table-field.php:15
+msgid "Describes when the promotional period should end. Orders within this period will get an extra amount of points given on top of the regular amount given."
+msgstr ""
+
+#: views/settings/view-settings-earn-orders-period-table-field.php:282
+msgid "End time cannot be the same or lower than the set start time when start and end date values are the same. Field value will be reset."
+msgstr ""
+
+#: views/slmw/view-license-settings-page.php:9
+msgid "Loyalty Programs for WooCommerce License Activation"
+msgstr ""
+
+#: views/slmw/view-license-settings-page.php:29
+msgid "Premium Version"
+msgstr ""
+
+#: views/slmw/view-license-settings-page.php:57
+msgid "Can’t find your key? <a href=\"%s\" target=\"_blank\">Login to your account</a>."
+msgstr ""

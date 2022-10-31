@@ -1,0 +1,70 @@
+.customer-search {
+  margin-bottom: 15px;
+
+  .ant-input-search {
+    width: 500px;
+    margin-left: 15px;
+    margin-top: -2px;
+  }
+
+  .ant-input-affix-wrapper {
+    padding: 0 11px;
+  }
+}
+
+.customers-list-table {
+  
+  .ant-btn {
+    margin-right: 5px;
+  }
+}
+
+.adjust-store-credits {
+
+  .description,
+  .current-balance,
+  .new-balance {
+    margin-bottom: 15px;
+  }
+
+  .description {
+    font-size: 1.1em;
+    line-height: 1.3em;
+    color: #303030;
+  }
+
+  .new-balance {
+    span {
+      color: #00aa8b;
+    }
+  }
+
+  .make-adjustment-btn {
+    padding: 6.4px 30px;
+    background: #333333;
+    border-color: #333333;
+  }
+}
+
+.adjust-store-credits-form {
+  margin-bottom: 15px;
+
+  .ant-select {
+    width: calc(50% - 5px);
+    margin-right: 10px;
+  }
+
+  .ant-input-group-wrapper {
+    position: relative;
+    padding: 0;
+    width: calc(50% - 5px);
+
+    .ant-input {
+      height: 30px;
+    }
+  }
+
+  .ant-input-affix-wrapper {
+    padding: 0 11px;
+  }
+}

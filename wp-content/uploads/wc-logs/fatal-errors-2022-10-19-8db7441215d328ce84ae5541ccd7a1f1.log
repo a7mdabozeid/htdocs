@@ -1,0 +1,2 @@
+2022-10-19T11:37:18+00:00 CRITICAL Cannot declare class qrstr, because the name is already in use in /home/alshia5/public_html/wp-content/plugins/shiaka-addon/lib/qrcode/qrconst.php on line 50
+

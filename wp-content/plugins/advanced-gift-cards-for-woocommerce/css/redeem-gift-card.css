@@ -1,0 +1,62 @@
+#agcfw-redeem-gift-card.agcfw-checkout-redeem {
+  margin-bottom: 2.5em;
+}
+#agcfw-redeem-gift-card.agcfw-checkout-redeem h3 {
+  padding: 1em 1.2em;
+  margin: 0;
+  background: #f8f8f8;
+  font-size:  1em;
+  font-weight: bold;
+}
+#agcfw-redeem-gift-card.agcfw-toggle-redeem-form h3 {
+  cursor: pointer;
+}
+#agcfw-redeem-gift-card.agcfw-toggle-redeem-form h3 .caret {
+  position: relative;
+  top: -2px;
+  margin-left: 5px;
+}
+#agcfw-redeem-gift-card.agcfw-toggle-redeem-form.show h3 .caret img {
+  transform: rotate(0deg);
+}
+#agcfw-redeem-gift-card.agcfw-checkout-redeem h3 .caret img {
+  display: inline-block;
+  transition: transform 0.5s ease;
+  transform: rotate(-90deg);
+}
+#agcfw-redeem-gift-card.agcfw-toggle-redeem-form .agcfw-inner {
+  height: 0;
+  max-height: 111px;
+  overflow: hidden;
+  transition: height 0.5s ease;
+}
+#agcfw-redeem-gift-card.agcfw-toggle-redeem-form.show .agcfw-inner {
+  height: 500px;
+}
+#agcfw-redeem-gift-card.agcfw-checkout-redeem .agcfw-inner-content {
+  background: #fafafa;
+  padding: 1em 1.2em;
+}
+#agcfw-redeem-gift-card.agcfw-checkout-redeem .agcfw-inner p {
+  margin-bottom: 0.5em;
+}
+
+.webui-popover {
+  border-radius: 0;
+  border: 0;
+  -webkit-box-shadow: 0 2px 10px rgb(0 0 0 / 20%);
+  box-shadow: 0 2px 10px rgb(0 0 0 / 20%);
+}
+.webui-popover .webui-popover-title {
+  font-size: 1em;
+  color: inherit;
+  padding: 0.7em 1em 0.7em 2em;
+  background: url(../images/question.svg) no-repeat 0.7em center;
+}
+.webui-popover .webui-popover-content {
+  font-size: 0.9em;
+  padding: 0.7em 1em;
+}
+.webui-popover.bottom-right .webui-arrow {
+  border-bottom-color: rgb(0 0 0 / 7%);
+}

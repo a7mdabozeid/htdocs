@@ -1,0 +1,16 @@
+.wp-block-cover-image.has-background-dim::before, .wp-block-cover.has-background-dim::before {
+	background-color: rgba(0, 0, 0, 0.5);
+	opacity: 1;
+}
+
+.wp-block-cover{
+	margin-bottom: 32px;
+
+	&:last-child{
+		margin-bottom: 0;
+	}
+
+	p:not(.has-text-color) {
+	    color: #fff;
+	}
+}

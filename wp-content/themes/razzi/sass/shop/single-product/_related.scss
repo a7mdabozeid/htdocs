@@ -1,0 +1,46 @@
+.single-product {
+	div.product {
+		section.products {
+			margin-top: 50px;
+
+			&:nth-child(2) {
+				margin-top: 100px;
+			}
+
+			> h2 {
+				font-size: 28px;
+				text-align: center;
+				margin: 0 0 60px;
+			}
+
+			.swiper-container-initialized ul.products {
+				flex-wrap: nowrap;
+				box-sizing: border-box;
+				margin: 0;
+				width: 100%;
+
+				li {
+					clear: none;
+					padding: 0;
+					margin-bottom: 0;
+				}
+			}
+
+			.swiper-scrollbar {
+				max-width: 570px;
+				background-color: #e5e5e5;
+				cursor: pointer;
+				height: 4px;
+				border-radius: 0;
+				position: static;
+				width: 100%;
+				margin: 40px auto 0;
+			}
+
+			.swiper-scrollbar-drag {
+				background-color: var(--rz-background-color-primary);
+				cursor: pointer;
+			}
+		}
+	}
+}

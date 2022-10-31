@@ -1,0 +1,88 @@
+.virtual-coupons-modal {
+
+  .bulkactions-col,
+  .nav-col {
+    text-align: right;
+  }
+
+  .ant-modal-body:after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+
+  .ant-pagination {
+    float: left;
+    margin-top: 1em;
+    margin-right: 1em;
+  }
+
+  .total-text {
+    float: right;
+    margin-top: 1em;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+  .virtual-coupons-table {
+
+    tr {
+
+      > .ant-table-selection-column {
+        width: 32px;
+      }
+
+      > .vc-coupon-code {
+        min-width: 170px;
+
+        input.ant-input {
+          min-width: 110px;
+        }
+      }
+
+      > .vc-main-code {
+        width: 150px;
+      }
+
+      > .vc-status {
+        width: 150px;
+      }
+
+      .vc-date-created,
+      > .vc-date-expire {
+        min-width: 160px;
+
+        .ant-picker {
+          min-width: 120px;
+        }
+      }
+
+      > .vc-user {
+        min-width: 160px;
+      }
+
+      > .vc-actions {
+        width: 160px;
+      }
+    }
+  }
+}
+
+.ant-btn.delete-vc {
+
+  &:hover {
+    color: #ff4d4f;
+    border-color: #ff4d4f;
+  }
+
+  &:focus {
+    color: #ff7875;
+    border-color: #ff7875;
+  }
+}
+
+.vc-actions {
+  .ant-btn {
+    margin-right: 5px;
+  }
+}

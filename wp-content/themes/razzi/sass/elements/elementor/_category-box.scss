@@ -1,0 +1,56 @@
+.razzi-category-box{
+    background-color: #fff;
+    display: flex;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.02);
+}
+
+.razzi-category-box__img{
+    max-width: 47%;
+
+    img{
+        display: block;
+    }
+}
+
+.razzi-category-box__content{
+    padding: 44px 50px 30px;
+
+    a {
+        color: inherit;
+    }
+
+    .category-title{
+        margin: 0 0 21px;
+    }
+
+    .sub-cats{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        line-height: 1.48;
+
+        li:not(:last-child){
+            margin-bottom: 10px;
+        }
+
+        .razzi-icon{
+            font-size: 11px;
+            opacity: 0;
+            padding-left: 0;
+            transition: .3s;
+        }
+
+        li:hover{
+            .razzi-icon{
+                padding-left: 8px;
+                opacity: 1;
+            }
+        }
+    }
+}
+
+.razzi-position-next-image {
+    .razzi-category-box {
+        align-items: center;
+    }
+}

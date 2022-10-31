@@ -1,0 +1,24 @@
+.topbar-mobile {
+	.topbar-menu {
+		margin-left: -8px;
+		margin-right: -8px;
+		
+		li a {
+			padding: 0 8px;
+		}
+	}
+	
+	p {
+		margin: 0;
+	}
+}
+
+.mobile-topbar-items {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.razzi-topbar__text span:not(.razzi-svg-icon) {
+	margin-right: 0 !important;
+}

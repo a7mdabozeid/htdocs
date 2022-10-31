@@ -1,0 +1,1129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2018-08-08 16:53+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: easy-side-tab-pro.php:103
+msgid "Please wait"
+msgstr ""
+
+#: easy-side-tab-pro.php:104
+msgid "Are you sure you want to remove this item ?"
+msgstr ""
+
+#: easy-side-tab-pro.php:105 easy-side-tab-pro.php:1316
+#: inc/backend/boards/metaboxes/item.php:543
+msgid "Choose Terms"
+msgstr ""
+
+#: easy-side-tab-pro.php:106
+msgid "Please choose a post type"
+msgstr ""
+
+#: easy-side-tab-pro.php:170
+msgid "Template 1"
+msgstr ""
+
+#: easy-side-tab-pro.php:175
+msgid "Template 2"
+msgstr ""
+
+#: easy-side-tab-pro.php:180
+msgid "Template 3"
+msgstr ""
+
+#: easy-side-tab-pro.php:185
+msgid "Template 4"
+msgstr ""
+
+#: easy-side-tab-pro.php:190
+msgid "Template 5"
+msgstr ""
+
+#: easy-side-tab-pro.php:195
+msgid "Template 6"
+msgstr ""
+
+#: easy-side-tab-pro.php:200
+msgid "Template 7"
+msgstr ""
+
+#: easy-side-tab-pro.php:205
+msgid "Template 8"
+msgstr ""
+
+#: easy-side-tab-pro.php:210
+msgid "Template 9"
+msgstr ""
+
+#: easy-side-tab-pro.php:215
+msgid "Template 10"
+msgstr ""
+
+#: easy-side-tab-pro.php:222 easy-side-tab-pro.php:244
+#: easy-side-tab-pro.php:276 easy-side-tab-pro.php:303
+#: easy-side-tab-pro.php:330
+msgid "Layout 1"
+msgstr ""
+
+#: easy-side-tab-pro.php:227 easy-side-tab-pro.php:249
+#: easy-side-tab-pro.php:281 easy-side-tab-pro.php:308
+#: easy-side-tab-pro.php:335
+msgid "Layout 2"
+msgstr ""
+
+#: easy-side-tab-pro.php:232 easy-side-tab-pro.php:254
+#: easy-side-tab-pro.php:286 easy-side-tab-pro.php:313
+#: easy-side-tab-pro.php:340
+msgid "Layout 3"
+msgstr ""
+
+#: easy-side-tab-pro.php:237 easy-side-tab-pro.php:259
+#: easy-side-tab-pro.php:291 easy-side-tab-pro.php:318
+#: easy-side-tab-pro.php:345
+msgid "Layout 4"
+msgstr ""
+
+#: easy-side-tab-pro.php:264 easy-side-tab-pro.php:296
+#: easy-side-tab-pro.php:323 easy-side-tab-pro.php:350
+msgid "Layout 5"
+msgstr ""
+
+#: easy-side-tab-pro.php:269 easy-side-tab-pro.php:355
+msgid "Layout 6"
+msgstr ""
+
+#: easy-side-tab-pro.php:574 inc/backend/about.php:21
+#: inc/backend/import-export.php:47 inc/backend/main-page.php:25
+#: inc/backend/main-settings.php:18
+msgid "Easy Side Tab Pro"
+msgstr ""
+
+#: easy-side-tab-pro.php:575 inc/backend/all-tabs-listing.php:10
+msgid "All Tabs"
+msgstr ""
+
+#: easy-side-tab-pro.php:577 inc/backend/main-page.php:23
+msgid "Edit Tab"
+msgstr ""
+
+#: easy-side-tab-pro.php:578
+msgid "Side Tab Settings"
+msgstr ""
+
+#: easy-side-tab-pro.php:579 inc/backend/twitter-feed.php:9
+#: inc/backend/boards/metaboxes/item.php:173
+msgid "Twitter Feed"
+msgstr ""
+
+#: easy-side-tab-pro.php:579 inc/backend/twitter-feed.php:58
+#: inc/backend/boards/metaboxes/item.php:188
+msgid "Twitter Feed Settings"
+msgstr ""
+
+#: easy-side-tab-pro.php:580 inc/backend/subscribers-list.php:6
+msgid "Subscribers"
+msgstr ""
+
+#: easy-side-tab-pro.php:581
+msgid "Import/Export"
+msgstr ""
+
+#: easy-side-tab-pro.php:582
+msgid "About"
+msgstr ""
+
+#: easy-side-tab-pro.php:583
+msgid "How to use"
+msgstr ""
+
+#: easy-side-tab-pro.php:747 easy-side-tab-pro.php:832
+msgid "Security Check"
+msgstr ""
+
+#: easy-side-tab-pro.php:767
+msgid "Easy Side Tab Configuration"
+msgstr ""
+
+#: easy-side-tab-pro.php:918
+msgid "Subscribed successfully!"
+msgstr ""
+
+#: easy-side-tab-pro.php:921
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+#: easy-side-tab-pro.php:925
+msgid "Email already subscribed."
+msgstr ""
+
+#: easy-side-tab-pro.php:1144
+msgid "Cache Deleted Successfull"
+msgstr ""
+
+#: easy-side-tab-pro.php:1146
+msgid "Sorry, something went wrong while trying to delete cache"
+msgstr ""
+
+#: easy-side-tab-pro.php:1216 easy-side-tab-pro.php:1218
+msgid " year ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1222
+msgid " day ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1224
+msgid " days ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1228
+msgid " hour ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1230
+msgid " hours ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1233
+msgid " minutes ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1235
+msgid "1 minute ago"
+msgstr ""
+
+#: easy-side-tab-pro.php:1296 inc/backend/boards/metaboxes/item.php:515
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: inc/backend/about.php:4
+msgid "About us"
+msgstr ""
+
+#: inc/backend/about.php:6 inc/backend/about.php:45
+#: inc/backend/all-tabs-listing.php:12 inc/backend/how-to-use.php:10
+#: inc/backend/subscribers-list.php:8 inc/backend/twitter-feed.php:11
+msgid "AccessPress Social Icons"
+msgstr ""
+
+#: inc/backend/about.php:15
+msgid "About Us"
+msgstr ""
+
+#: inc/backend/about.php:17
+msgid "Easy Side Tab Pro - CTA Plugin for WordPress"
+msgstr ""
+
+#: inc/backend/about.php:17
+msgid "- is a Free WordPress Plugin by AccessPress Themes."
+msgstr ""
+
+#: inc/backend/about.php:19
+msgid ""
+"AccessPress Themes is a venture of Access Keys - who has developed hundreds "
+"of Custom WordPress themes and plugins for its clients over the years. "
+msgstr ""
+
+#: inc/backend/about.php:21
+msgid ""
+" - is a Free WordPress Side Tab plugin packaged with 2 beautiful pre-"
+"designed templates. With this plugin, you can easily link to any page with "
+"the help of side tab. You can also set the slider content which pops out on "
+"tab click."
+msgstr ""
+
+#: inc/backend/about.php:23
+msgid "Please visit our product page for more details here:"
+msgstr ""
+
+#: inc/backend/about.php:28
+msgid "Please visit our demo page here:"
+msgstr ""
+
+#: inc/backend/about.php:34
+msgid "Plugin documentation can be found here:"
+msgstr ""
+
+#: inc/backend/about.php:39
+msgid "More from AccessPress themes"
+msgstr ""
+
+#: inc/backend/about.php:49
+msgid "WordPress Plugins"
+msgstr ""
+
+#: inc/backend/about.php:62
+msgid "WordPress Themes"
+msgstr ""
+
+#: inc/backend/about.php:78
+msgid "WordPress Customization"
+msgstr ""
+
+#: inc/backend/about.php:90
+msgid "Get in touch"
+msgstr ""
+
+#: inc/backend/about.php:91
+msgid "If you have any question/feedback, please get in touch:"
+msgstr ""
+
+#: inc/backend/about.php:93
+msgid "General enquiries:"
+msgstr ""
+
+#: inc/backend/about.php:94
+msgid "Support:"
+msgstr ""
+
+#: inc/backend/about.php:95
+msgid "Sales:"
+msgstr ""
+
+#: inc/backend/about.php:103
+msgid "Get social"
+msgstr ""
+
+#: inc/backend/about.php:104
+msgid ""
+"Get connected with us on social media. Facebook is the best place to find "
+"updates on our themes/plugins: "
+msgstr ""
+
+#: inc/backend/about.php:106
+msgid "Like us on facebook:"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:27
+msgid "Add Tab"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:29
+msgid "Remove"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:37 inc/backend/all-tabs-listing.php:77
+#: inc/backend/subscribers-list.php:41
+msgid "S.N"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:38 inc/backend/all-tabs-listing.php:78
+msgid "Side Tab Name"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:39 inc/backend/all-tabs-listing.php:79
+msgid "Template Name"
+msgstr ""
+
+#: inc/backend/all-tabs-listing.php:40 inc/backend/all-tabs-listing.php:80
+msgid "Action"
+msgstr ""
+
+#: inc/backend/import-export.php:13
+msgid "Imported Successfully"
+msgstr ""
+
+#: inc/backend/import-export.php:17
+msgid "Import Failed"
+msgstr ""
+
+#: inc/backend/import-export.php:21
+msgid "Something went wrong. Please try again"
+msgstr ""
+
+#: inc/backend/import-export.php:25
+msgid ""
+"Something went wrong. Please check the write permission of temp folder "
+"inside the plugin\\'s folder"
+msgstr ""
+
+#: inc/backend/import-export.php:29
+msgid "Invalid File Extension"
+msgstr ""
+
+#: inc/backend/import-export.php:33
+msgid "No Any Files Uploaded"
+msgstr ""
+
+#: inc/backend/import-export.php:45
+msgid "Import / Export Settings"
+msgstr ""
+
+#: inc/backend/import-export.php:54 inc/backend/import-export.php:67
+msgid "Import"
+msgstr ""
+
+#: inc/backend/import-export.php:57
+msgid "Upload Import File"
+msgstr ""
+
+#: inc/backend/import-export.php:61
+msgid "Upload"
+msgstr ""
+
+#: inc/backend/import-export.php:71 inc/backend/import-export.php:88
+msgid "Export"
+msgstr ""
+
+#: inc/backend/import-export.php:74
+msgid "Choose File To Export"
+msgstr ""
+
+#: inc/backend/import-export.php:77
+msgid "Select One"
+msgstr ""
+
+#: inc/backend/main-page.php:33
+msgid "Settings saved successfully."
+msgstr ""
+
+#: inc/backend/main-page.php:38
+msgid "Settings save failed."
+msgstr ""
+
+#: inc/backend/main-page.php:43
+msgid "Settings restored successfully."
+msgstr ""
+
+#: inc/backend/main-page.php:48
+msgid "Settings can't be restored.Please try again later."
+msgstr ""
+
+#: inc/backend/main-page.php:55
+msgid "Tab Setting"
+msgstr ""
+
+#: inc/backend/main-page.php:56
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/main-page.php:71 inc/backend/main-page.php:72
+#: inc/backend/main-settings.php:369 inc/backend/twitter-feed.php:113
+msgid "Save Settings"
+msgstr ""
+
+#: inc/backend/main-settings.php:16
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/backend/main-settings.php:26
+msgid "General Settings saved successfully."
+msgstr ""
+
+#: inc/backend/main-settings.php:35
+msgid "General Settings save failed."
+msgstr ""
+
+#: inc/backend/main-settings.php:41
+msgid "Restored General Settings Successfully"
+msgstr ""
+
+#: inc/backend/main-settings.php:43
+msgid "Something Went Wrong While Restoring Default Settings"
+msgstr ""
+
+#: inc/backend/main-settings.php:53
+msgid "Left Middle Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:58 inc/backend/main-settings.php:136
+#: inc/backend/main-settings.php:216 inc/backend/main-settings.php:296
+msgid "Enable Side Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:69 inc/backend/main-settings.php:148
+#: inc/backend/main-settings.php:228 inc/backend/main-settings.php:308
+msgid "Enable Side Tab For Mobile"
+msgstr ""
+
+#: inc/backend/main-settings.php:80 inc/backend/main-settings.php:160
+#: inc/backend/main-settings.php:240 inc/backend/main-settings.php:320
+msgid "Enable Offset"
+msgstr ""
+
+#: inc/backend/main-settings.php:90 inc/backend/main-settings.php:170
+msgid "Position From Top (Px)"
+msgstr ""
+
+#: inc/backend/main-settings.php:96 inc/backend/main-settings.php:176
+#: inc/backend/main-settings.php:256 inc/backend/main-settings.php:336
+msgid "Display Page"
+msgstr ""
+
+#: inc/backend/main-settings.php:98 inc/backend/main-settings.php:178
+#: inc/backend/main-settings.php:258 inc/backend/main-settings.php:338
+msgid "Select Display Page"
+msgstr ""
+
+#: inc/backend/main-settings.php:99 inc/backend/main-settings.php:179
+#: inc/backend/main-settings.php:259 inc/backend/main-settings.php:339
+msgid "Show On All Pages"
+msgstr ""
+
+#: inc/backend/main-settings.php:100 inc/backend/main-settings.php:180
+#: inc/backend/main-settings.php:260 inc/backend/main-settings.php:340
+msgid "Show Only On Homepage"
+msgstr ""
+
+#: inc/backend/main-settings.php:105 inc/backend/main-settings.php:185
+#: inc/backend/main-settings.php:265 inc/backend/main-settings.php:345
+msgid "Selected Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:109 inc/backend/main-settings.php:189
+#: inc/backend/main-settings.php:269 inc/backend/main-settings.php:349
+#: inc/backend/boards/metaboxes/item.php:49
+#: inc/backend/boards/metaboxes/item.php:573
+#: inc/backend/boards/metaboxes/item.php:610
+msgid "None"
+msgstr ""
+
+#: inc/backend/main-settings.php:119 inc/backend/main-settings.php:199
+#: inc/backend/main-settings.php:279 inc/backend/main-settings.php:359
+msgid "No Items Currently"
+msgstr ""
+
+#: inc/backend/main-settings.php:122 inc/backend/main-settings.php:202
+#: inc/backend/main-settings.php:282 inc/backend/main-settings.php:362
+msgid "There are no tabs to select.Please add new tab settings by clicking "
+msgstr ""
+
+#: inc/backend/main-settings.php:122 inc/backend/main-settings.php:202
+#: inc/backend/main-settings.php:282 inc/backend/main-settings.php:362
+msgid "Here"
+msgstr ""
+
+#: inc/backend/main-settings.php:131
+msgid "Right Middle Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:211
+msgid "Bottom Left Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:250
+msgid "Position From Left (Px)"
+msgstr ""
+
+#: inc/backend/main-settings.php:291
+msgid "Bottom Right Tab"
+msgstr ""
+
+#: inc/backend/main-settings.php:330
+msgid "Position From Right (Px)"
+msgstr ""
+
+#: inc/backend/main-settings.php:371
+msgid "Do you really want to restore Default General Settings?"
+msgstr ""
+
+#: inc/backend/main-settings.php:372
+msgid "Restore Main Default"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:28
+msgid "Remove Subscribers"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:28
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:31
+msgid "Export as CSV"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:44
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:93
+msgid "Name"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:47
+msgid "Email"
+msgstr ""
+
+#: inc/backend/subscribers-list.php:80
+msgid "No Subscribers Found."
+msgstr ""
+
+#: inc/backend/twitter-feed.php:19
+msgid "Twitter Settings saved successfully."
+msgstr ""
+
+#: inc/backend/twitter-feed.php:28
+msgid "Twitter Settings save failed."
+msgstr ""
+
+#: inc/backend/twitter-feed.php:35
+msgid "Twitter settings reset successfully"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:39
+msgid "Failed to reset twitter settings"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:61
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:63 inc/backend/twitter-feed.php:72
+#: inc/backend/twitter-feed.php:81 inc/backend/twitter-feed.php:90
+msgid "Please create an app on Twitter through this link: "
+msgstr ""
+
+#: inc/backend/twitter-feed.php:65 inc/backend/twitter-feed.php:74
+#: inc/backend/twitter-feed.php:83 inc/backend/twitter-feed.php:92
+msgid " and get this information."
+msgstr ""
+
+#: inc/backend/twitter-feed.php:70
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:79
+msgid "Twitter Access Token"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:88
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:97
+msgid "Cache period"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:100
+msgid ""
+"Please enter the time period in minutes in which the feeds should be fetched."
+"Default is 60 Minutes"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:105
+msgid "Disable Cache"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:108
+msgid ""
+"Check if you want to disable the caching of tweets and always want to fetch "
+"new tweets."
+msgstr ""
+
+#: inc/backend/twitter-feed.php:115
+msgid "Do you really want restore twitter settings?"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:116
+msgid "Restore Twitter Settings"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:119
+msgid "Are you sure you want to delete cache?"
+msgstr ""
+
+#: inc/backend/twitter-feed.php:120
+msgid "Delete Cache"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:8
+msgid "Tab Layout"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:58
+msgid "Display Position"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:61
+msgid "Fixed"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:64
+msgid "Absolute"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:71
+msgid "Customize"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:83
+msgid "Tab Color Customize"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:88
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:96
+msgid "Text Color"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:104
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/backend/boards/layout-settings.php:112
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/backend/boards/tab-settings.php:4
+msgid "Tab Title"
+msgstr ""
+
+#: inc/backend/boards/tab-settings.php:10
+msgid "Tab Items"
+msgstr ""
+
+#: inc/backend/boards/tab-settings.php:15
+msgid "Add Tab Item"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:20
+msgid "Your Title Here"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:36
+msgid "Text For Tab"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:41
+msgid "Tool Tip"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:46
+msgid "Choose Icon Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:50
+#: inc/backend/boards/metaboxes/item.php:58
+msgid "Available Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:51
+#: inc/backend/boards/metaboxes/item.php:70
+msgid "Upload Own Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:63
+#: inc/backend/boards/metaboxes/item.php:378
+#: inc/backend/boards/metaboxes/item.php:697
+msgid "Select Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:74
+msgid "Upload Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:89
+msgid "Width/Height (px) "
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:91
+msgid "Width"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:92
+msgid "Height"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:98
+msgid "Tab Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:101
+msgid "Internal"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:105
+msgid "External"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:109
+msgid "Content Slider"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:116
+#: inc/backend/boards/metaboxes/item.php:138
+msgid "Target"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:119
+#: inc/backend/boards/metaboxes/item.php:140
+msgid "Select Target"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:121
+#: inc/backend/boards/metaboxes/item.php:142
+msgid "_self"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:124
+#: inc/backend/boards/metaboxes/item.php:145
+msgid "_blank"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:130
+msgid "Tab URL"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:151
+msgid "Redirect Page"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:153
+msgid "Select Page"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:170
+msgid "Content Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:172
+#: inc/backend/boards/metaboxes/item.php:416
+msgid "Social Icons"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:174
+#: inc/backend/boards/metaboxes/item.php:475
+msgid "Custom Shortcode"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:175
+#: inc/backend/boards/metaboxes/item.php:272
+msgid "Subscription Form"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:176
+msgid "Recent Blogs"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:179
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:34
+msgid "WooCommerce Product"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:182
+msgid "HTML Content"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:191
+#: inc/backend/boards/metaboxes/item.php:419
+#: inc/backend/boards/metaboxes/item.php:470
+#: inc/backend/boards/metaboxes/item.php:486
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:37
+msgid "Title Text"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:196
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:199
+msgid ""
+"Please enter the username of twitter account from which the feeds need to be "
+"fetched.For example:@apthemes"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:204
+msgid "Total no of Feed"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:207
+msgid ""
+"Please enter the number of feeds to be fetched.Default number of feeds is 5."
+"And please don't forget to delete cache once you change the number of tweets "
+"using delete cache button below."
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:212
+msgid "Display Twitter Follow Button"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:215
+msgid ""
+"Check if you want to display twitter follow button at the end of the feeds"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:220
+msgid "Time Format"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:223
+msgid "Full Date and Time: e.g Feb 10, 2018, 5:16 pm"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:227
+msgid "Full Date: e.g May 12, 2018"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:232
+msgid "Elapsed Time: e.g 12 hours ago"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:238
+msgid "Twitter Layout"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:276
+msgid "Name Label"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:281
+msgid "Email Label"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:286
+msgid "Submit Label"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:291
+msgid "Error Message"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:296
+msgid "Success Message"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:301
+msgid "Email already available message"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:306
+msgid "Subscription Form Layout"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:337
+msgid "Subscription Title"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:342
+msgid "Subscription Description"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:372
+msgid "Subscribe Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:424
+msgid "Social icons Layout"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:460
+msgid "Tooltip Text"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:477
+msgid "Shortcode copied to your clipboard."
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:483
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:492
+#: inc/backend/boards/metaboxes/item.php:593
+msgid "Post Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:497
+msgid "Choose Post Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:512
+msgid "Post Taxonomies"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:540
+msgid "Post Terms"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:565
+msgid "Number of posts"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:570
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:88
+msgid "Order By"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:577
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:91
+msgid "ID"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:581
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:97
+msgid "Author"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:585
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:92
+msgid "Title"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:589
+msgid "Post Name"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:597
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:94
+msgid "Date"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:601
+msgid "Last Modified Date"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:607
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:102
+msgid "Order"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:612
+msgid "Ascending"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:615
+msgid "Descending"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:621
+msgid "Blogs Layout"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:658
+msgid "Woocommerce Layout"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:691
+msgid "Woocommerce Icon"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/item.php:705
+msgid "Content"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:4
+msgid "Category"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:5
+msgid "Latest Product"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:6
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:7
+msgid "Featured Product"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:8
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:42
+msgid "Product Type"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:53
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:64
+msgid "Show Price"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:73
+msgid "Show Add To Cart Button"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:82
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:95
+msgid "Random Number"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:96
+msgid "Menu Order"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:105
+msgid "Ascending Order"
+msgstr ""
+
+#: inc/backend/boards/metaboxes/includes/wooproducts.php:106
+msgid "Descending Order"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:5
+msgid "Left Middle"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:7
+#: inc/backend/metabox/configuration.php:18
+#: inc/backend/metabox/configuration.php:29
+#: inc/backend/metabox/configuration.php:40
+msgid "Default"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:11
+#: inc/backend/metabox/configuration.php:22
+#: inc/backend/metabox/configuration.php:33
+#: inc/backend/metabox/configuration.php:44
+msgid "Disable"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:16
+msgid "Right Middle"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:27
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/backend/metabox/configuration.php:38
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/frontend/blog-templates/template-6.php:12
+msgid "Read More"
+msgstr ""
+
+#: inc/frontend/tabs/twitter-feed.php:14
+msgid "Something went wrong with the twitter."
+msgstr ""
+
+#: inc/frontend/twitter-templates/template-1.php:82
+#: inc/frontend/twitter-templates/template-2.php:93
+#: inc/frontend/twitter-templates/template-3.php:84
+#: inc/frontend/twitter-templates/template-4.php:78
+msgid "Click here to read "
+msgstr ""
+
+#: inc/frontend/woocommerce-templates/template-2.php:54
+msgid "Add to cart"
+msgstr ""
+
+#: inc/frontend/woocommerce-templates/template-4.php:33
+#: inc/frontend/woocommerce-templates/template-5.php:51
+#: inc/frontend/woocommerce-templates/template-6.php:50
+msgid "Add To Cart"
+msgstr ""

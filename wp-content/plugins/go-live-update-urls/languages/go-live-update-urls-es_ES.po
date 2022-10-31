@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Go Live Update Urls\n"
+"POT-Creation-Date: 2021-09-16 15:31-0400\n"
+"PO-Revision-Date: 2021-09-16 15:31-0400\n"
+"Last-Translator: Mat Lipe <support@onpointplugins.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: go-live-update-urls.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: go-live-update-urls.php:91
+#, php-format
+msgctxt "{<a>}{</a>}"
+msgid ""
+"Go Live Update Urls requires %1$sGo Live Update Urls PRO %3$s+%2$s. Please "
+"update or deactivate the PRO version."
+msgstr ""
+"Go Live Update Urls requiere %1$sGo Live Update Urls PRO %3$s+%2$s. "
+"Actualice o desactive la versión PRO."
+
+#: src/Admin.php:44
+msgid "Ouch! That hurt! You should not be here!"
+msgstr "¡Ay! ¡Eso duele! ¡No deberías estar aquí!"
+
+#: src/Admin.php:78
+msgid "The urls in the checked tables have been updated."
+msgstr "Las URL en las tablas comprobadas se han actualizado."
+
+#: src/Admin.php:97
+msgid ""
+"You must select tables and fill out both the Old URL and New URL to update "
+"urls!"
+msgstr ""
+"Debe seleccionar tablas y rellenar tanto la URL antigua como la nueva URL "
+"para actualizar las URL!"
+
+#. Plugin Name of the plugin/theme
+#: src/Admin.php:137
+msgid "Go Live Update Urls"
+msgstr "Go Live Update Urls"
+
+#: src/Admin.php:142
+msgid ""
+"Replaces all occurrences in the entire database of the Old URL with a New "
+"URL."
+msgstr ""
+"Reemplaza todas las apariciones de toda la base de datos de la dirección URL "
+"antigua por una nueva dirección URL."
+
+#: src/Admin.php:156
+msgid "WordPress core tables"
+msgstr "Tablas principales de WordPress"
+
+#: src/Admin.php:161
+msgid "These tables are safe to update."
+msgstr "Todas las tablas son seguras para actualizar."
+
+#: src/Admin.php:171 src/Admin.php:201
+msgid "Only the checked tables will be updated."
+msgstr "Solo las tablas comprobadas serán actualizadas."
+
+#: src/Admin.php:185
+msgid "Tables created by plugins"
+msgstr "Tablas creadas por plugins"
+
+#: src/Admin.php:192
+#, php-format
+msgctxt "{<br />}{<a>}{</a>}"
+msgid ""
+"These tables are not safe to update with the basic version of this plugin! "
+"%1$sTo update tables created by plugins, use the %2$sPRO version%3$s."
+msgstr ""
+"Estas tablas no son seguras para actualizar con la versión básica de este "
+"plugin! %1$sPara actualizar tablas creadas por plugins, utilice la versión "
+"%2$sPRO%3$s."
+
+#: src/Admin.php:221 src/Admin.php:231
+msgid "Old URL"
+msgstr "URL antigua"
+
+#: src/Admin.php:237 src/Admin.php:247
+msgid "New URL"
+msgstr "Nueva URL"
+
+#: src/Admin.php:262
+#, php-format
+msgctxt "{<a>}{</a>}"
+msgid "Use the %1$sPRO version%2$s to test URL updates before making them."
+msgstr ""
+"Utilice %1$sPRO versión%2$s para probar las actualizaciones de URL antes de "
+"realizarlas."
+
+#: src/Admin.php:270
+msgid "Update Urls"
+msgstr "Actualizar Urls"
+
+#: src/Updaters/Updaters_Abstract.php:104
+msgid "You must implement apply_rule_to_url with an override"
+msgstr "Debe implementar apply_rule_to_url con una invalidación"
+
+#. Plugin URI of the plugin/theme
+msgid "https://onpointplugins.com/go-live-update-urls/"
+msgstr "https://onpointplugins.com/go-live-update-urls/"
+
+#. Description of the plugin/theme
+msgid ""
+"Updates all the Urls in the database to point to a new URL when making your "
+"site live or changing domains."
+msgstr ""
+"Actualiza todas las URL en la base de datos para apuntar a una nueva URL al "
+"hacer que su sitio esté activo o cambiar de dominio."
+
+#. Author of the plugin/theme
+msgid "OnPoint Plugins"
+msgstr "OnPoint Plugins"
+
+#. Author URI of the plugin/theme
+msgid "https://onpointplugins.com/"
+msgstr "https://onpointplugins.com/"
+
+#~ msgid ""
+#~ "Like any other database updating tool, you should always perform a backup "
+#~ "before running."
+#~ msgstr ""
+#~ "Al igual que cualquier otra herramienta de actualización de base de "
+#~ "datos, siempre debe realizar una copia de seguridad antes de ejecutar."
+
+#~ msgid ""
+#~ "OnPoint Plugins Author URI: https://onpointplugins.com/ Version: 5.3.0 "
+#~ "Text Domain:"
+#~ msgstr ""
+#~ "OnPoint Plugins Author URI: https://onpointplugins.com/ Version: 5.3.0 "
+#~ "Text Domain:"
+
+#~ msgid "https://onpointplugins.com/ Version: 5.3.0 Text Domain:"
+#~ msgstr "https://onpointplugins.com/ Version: 5.3.0 Text Domain:"
+
+#~ msgid "Serialized"
+#~ msgstr "Serializado"
+
+#, php-format
+#~ msgctxt "{<a>}{</a>}"
+#~ msgid ""
+#~ "To test this change before running it, use %1$sPro Version 2.0.0+%2$s."
+#~ msgstr ""
+#~ "Para probar este cambio antes de ejecutarlo, use%1$sPro Versión 2.0.0+"
+#~ "%2$s."

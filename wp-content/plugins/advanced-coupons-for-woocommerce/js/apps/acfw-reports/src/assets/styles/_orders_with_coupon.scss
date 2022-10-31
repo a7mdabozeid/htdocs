@@ -1,0 +1,97 @@
+.orders-with-coupons-report {
+
+    .table-filter-form {
+        padding: 5px 0 10px;
+
+        &:after {
+            content: '';
+            display: table;
+            clear: both;
+        }
+
+        .form-field {
+            float: left;
+            margin-right: 5px;
+        }
+
+        .limit-field {
+            margin-right: 15px;
+        }
+
+        .search-field {
+            width: 250px;
+
+            input {
+                padding: 5px;
+                width: 100%;
+            }
+        }
+
+        .statuses-field {
+            width: 250px;
+
+            select , .select2-container {
+                width: 100%;
+            }
+
+            * {
+                font-size: 10px;
+            }
+        }
+    }
+
+    .pagination-wrap {
+        text-align: center;
+
+        .pagination {
+            margin: 10px auto 0;
+            display: inline-block;
+
+            .button {
+                float: left;
+                margin: 0 3px;
+            }
+
+            .separator {
+                float: left;
+                margin: 0 10px;
+            }
+
+            &:after {
+                content : '';
+                display: table;
+                clear: both;
+            }
+        }
+    }
+}
+
+.order-with-coupons-table {
+    width: 100%;
+    min-width: 1600px;
+    border-bottom: 1px solid #ddd;
+    border-spacing: 0;
+    border-collapse: separate;
+
+    thead {
+        th {
+            text-align: left;
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+        }
+    }
+
+    tbody {
+
+        tr {
+
+            td {
+                padding: 5px 8px;
+            }
+
+            &:nth-child(2n) td {
+                background: #f9f9f9;
+            }
+        }
+    }
+}

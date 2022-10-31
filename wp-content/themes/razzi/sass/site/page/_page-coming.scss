@@ -1,0 +1,12 @@
+.maintenance-page{
+    #site-header,
+    .site-header,
+    #topbar-mobile,
+    #site-footer{
+      display: none;
+    }
+
+    .site-content {
+      padding: 0 15px;
+    }
+}

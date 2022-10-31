@@ -1,0 +1,30 @@
+.site-header {
+	--rz-header-color-light: #ffffff;
+	--rz-header-color-dark: #111111;
+	--rz-header-color-darker: #1f1f1f;
+	--rz-header-text-color-gray: #767676;
+
+	--rz-header-background-color-light: #ffffff;
+	--rz-header-background-color-dark: #1F1F1F;
+
+	.razzi-header-container {
+		display: flex;
+		align-items: center;
+		height: 100%;
+		position: relative;
+	}
+
+	.submenu__arrow {
+		position: absolute;
+		width: 12px;
+		height: 12px;
+		border: 1px solid transparent;
+		border-bottom-color: #d7d7d7;
+		border-left-color: #d7d7d7;
+		top: -6px;
+		left: 50%;
+		background-color: var (--rz-background-color-light);
+		z-index: 99;
+		transform: translateX(-50%) rotate(135deg);
+	}
+}

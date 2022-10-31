@@ -1,0 +1,27 @@
+.razzi-button {
+	border-radius:6px;
+}
+
+.text-uppercase {
+	text-transform:uppercase;
+}
+
+.razzi-product-category-tabs ul.tabs li a:hover, .razzi-product-category-tabs ul.tabs li a.active,
+.razzi-products-tabs ul.tabs li a:hover, .razzi-products-tabs ul.tabs li a.active{
+	color: #2768b1;
+    background: #2768b11c;
+
+}
+.razzi-product-category-tabs ul.tabs li a, .razzi-products-tabs ul.tabs li a {
+	color: #373737;
+    border: 1px solid #e6e6e7;
+    padding: 10px 40px 10px 40px;
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+.razzi-product-category-tabs ul.tabs li a:after , .razzi-products-tabs ul.tabs li a:after{
+	content:unset !important;
+}
+ul.products li.product .product-thumbnail .woocommerce-loop-product__link img{
+	border-radius:6px;
+}

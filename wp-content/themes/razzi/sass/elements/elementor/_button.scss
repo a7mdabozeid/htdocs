@@ -1,0 +1,40 @@
+.razzi-button {
+	.razzi-align-icon-left {
+		/*rtl:ignore:
+		margin-left: 0;
+		margin-right: 10px;
+		*/
+	}
+
+	&.button-underline {
+		line-height: 1;
+		background-color: transparent;
+		color: var(--rz-color-dark);
+		padding: 0 15px 5px;
+		position: relative;
+		&:after{
+			content: '';
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			border-bottom: 1px solid;
+			transform-origin: left center;
+			transition: all .2s ease-in-out;
+			transition-property: transform;
+		}
+
+		&:hover{
+			color: var(--rz-color-dark);
+
+			&:after {
+				transform-origin: right center;
+				transform: scaleX(0);
+			}
+		}
+	}
+}
+
+.elementor-align-justify .razzi-button {
+	width: 100%;
+}

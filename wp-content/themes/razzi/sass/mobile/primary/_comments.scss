@@ -1,0 +1,30 @@
+@import "site/primary/comments";
+
+.comment {
+	.comment-metadata {
+		display: block;
+		padding-left: 0;
+		margin-bottom: 20px;
+
+		.fn {
+			display: block;
+		}
+	}
+
+	.avatar {
+		max-width: 50px;
+	}
+
+	.comment-content {
+		margin-left: 70px;
+	}
+}
+
+.comment-list .children {
+	margin-left: 0;
+}
+
+.comment-respond .comment-form-author,
+.comment-respond .comment-form-email {
+	width: 100%;
+}

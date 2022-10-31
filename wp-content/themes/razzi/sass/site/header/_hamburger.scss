@@ -1,0 +1,160 @@
+.site-header .header-hamburger {
+	color: var( --rz-header-color-dark );
+	> span {
+		cursor: pointer;
+	}
+}
+
+.ra-hamburger-modal {
+	.hamburger-panel-content {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		overflow-y: auto;
+
+		&::-webkit-scrollbar {
+			width: 0;
+		}
+
+		&:hover::-webkit-scrollbar {
+			width: 0;
+		}
+	}
+
+	.modal-header {
+		border: none;
+	}
+
+	.modal-content {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		padding-right: 10px;
+	}
+
+	.modal-footer {
+		padding: 40px 30px;
+	}
+
+	.hamburger-navigation {
+		width: 100%;
+		padding-right: 20px;
+	}
+
+	ul.nav-menu {
+		padding: 0;
+		margin: 0;
+
+		a {
+			font-weight: 500;
+			font-size: 36px;
+			line-height: 52px;
+			position: relative;
+			display: block;
+		}
+
+		> li {
+			margin-bottom: 10px;
+
+			.razzi-svg-icon {
+				font-size: 24px;
+			}
+		}
+
+		ul {
+			padding: 10px 0 0 0;
+			margin: 0;
+			display: none;
+
+			li {
+				padding: 6px 0;
+
+				a {
+					font-size: 18px;
+					line-height: 27px;
+					font-weight: 400;
+				}
+			}
+		}
+
+		li {
+			&.current-menu-parent,
+			&.current_page_parent,
+			&.current-menu-item,
+			&.current_page_item,
+			&:hover {
+				> a {
+					color: var( --rz-color-primary );
+				}
+
+				.razzi-svg-icon {
+					transition: .5s;
+				}
+			}
+
+			&.active {
+				> a .toggle-menu-children{
+					.razzi-svg-icon {
+						-webkit-transform: rotate(180deg);
+						-moz-transform: rotate(180deg);
+						-o-transform: rotate(180deg);
+						-ms-transform: rotate(180deg);
+						transform: rotate(180deg);
+					}
+				}
+			}
+
+			&.menu-item-has-children {
+				.toggle-menu-children {
+					position: absolute;
+					right: 0;
+					top: 55%;
+					transform: translateY(-50%);
+					display: none;
+					line-height: 1;
+					font-size: 14px;
+					cursor: pointer;
+
+					.razzi-svg-icon {
+						transition: none;
+					}
+				}
+
+				> a {
+					font-weight: 500;
+				}
+			}
+		}
+
+		&.active-arrow {
+			li.menu-item-has-children .toggle-menu-children {
+				display: block;
+			}
+		}
+	}
+
+	ul {
+		list-style-type: none;
+	}
+
+	.socials-menu {
+		li {
+			padding: 0 5px;
+
+			a {
+				color: #a0a0a0;
+
+				&:hover {
+					color: var( --rz-color-dark );
+				}
+			}
+		}
+	}
+
+	.menu-copyright {
+		font-size: 13px;
+		line-height: 19px;
+		color: #919191;
+		margin-top: 15px;
+	}
+}

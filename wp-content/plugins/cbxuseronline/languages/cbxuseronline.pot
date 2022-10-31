@@ -1,0 +1,627 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX User Online & Last Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-17 10:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: includes/class-cbxuseronline-helper.php:880
+#: includes/class-cbxuseronline-settings.php:692
+msgid " <strong>%</strong> bot"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:880
+#: includes/class-cbxuseronline-settings.php:692
+msgid " <strong>%</strong> bots"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:867
+#: includes/class-cbxuseronline-settings.php:681
+msgid " <strong>%</strong> guest"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:867
+#: includes/class-cbxuseronline-settings.php:681
+msgid " <strong>%</strong> guests"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:851
+#: includes/class-cbxuseronline-settings.php:669
+msgid " <strong>%</strong> member"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:851
+#: includes/class-cbxuseronline-settings.php:669
+msgid " <strong>%</strong> members"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:884
+#: includes/class-cbxuseronline-settings.php:695
+msgid " including"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:890
+#: includes/class-cbxuseronline-settings.php:701
+msgid " on this page"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:888
+#: includes/class-cbxuseronline-settings.php:699
+msgid " online"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:905
+#: includes/class-cbxuseronline-helper.php:907
+#: includes/class-cbxuseronline-settings.php:714
+#: includes/class-cbxuseronline-settings.php:716
+#, php-format
+msgid "%s @ %s"
+msgstr ""
+
+#. %s template
+#: includes/cbxuseronline-tpl-loader.php:74
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:365
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: templates/dashboard-doc.php:162
+msgid "Access our Premium Support"
+msgstr ""
+
+#: public/class-cbxuseronline-public.php:103
+msgid "Admin"
+msgstr ""
+
+#: public/class-cbxuseronline-public.php:109
+msgid "Archive"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:378
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:180
+#: admin/class-cbxuseronline-admin.php:311
+msgid "Basic Settings"
+msgstr ""
+
+#: templates/dashboard-doc.php:96
+msgid "BBpress"
+msgstr ""
+
+#: templates/dashboard-doc.php:82
+msgid "Buddpress"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:649
+msgid "Buy Pro"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:87
+msgid "CBX Online User "
+msgstr ""
+
+#: public/class-cbxuseronline-public.php:289
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:30
+msgid "CBX User Online"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX User Online & Last Login"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:735
+#, php-format
+msgid ""
+"CBX User Online & Last Login <a target=\"_blank\" href=\"%s\">Pro Addon V "
+"%s</a> installed and activated  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:737
+#, php-format
+msgid ""
+"CBX User Online & Last Login Pro Addon has extended features and more "
+"controls, <a target=\"_blank\" href=\"%s\">try it</a>  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:401
+msgid "CBX Useronline"
+msgstr ""
+
+#: templates/dashboard-doc.php:18
+msgid "CBX Useronline - Helps & Updates"
+msgstr ""
+
+#: templates/dashboard-settings.php:24
+msgid "CBX Useronline - Settings"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:407
+msgid "CBX Useronline Helps & Updates"
+msgstr ""
+
+#: templates/dashboard-doc.php:182
+msgid "CBX Useronline Plugin Information"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:400
+msgid "CBX Useronline Settings"
+msgstr ""
+
+#: widgets/classic-widget/cbxonline-widget.php:31
+msgid "CBX: Online Users"
+msgstr ""
+
+#: templates/dashboard-doc.php:209
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:692
+#: admin/class-cbxuseronline-admin.php:705
+#, php-format
+msgid ""
+"Check <a href=\"%s\">Plugin Setting</a> | <a href=\"%s\" target=\"_blank\">"
+"<span class=\"dashicons dashicons-external\"></span> Documentation</a>"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:787
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#9c27b0 !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:576
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:630
+msgid "Click to Refresh"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:261
+msgid "Click to show hide"
+msgstr ""
+
+#. Author of the plugin
+msgid "codeboxr"
+msgstr ""
+
+#: templates/dashboard-doc.php:272
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:176
+#: admin/class-cbxuseronline-admin.php:291
+#: admin/class-cbxuseronline-admin.php:297
+msgid "Current Online Users"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:735
+#: includes/class-cbxuseronline-settings.php:775
+msgid "Current Page"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:304
+#: admin/class-cbxuseronline-admin.php:326
+msgid "Delete all login log records"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:365
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:748
+msgid "Desktop/Large"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:365
+msgid ""
+"Details table information is <a href=\"#cbxuseronline_plg_gfig_info\">"
+"here</a>"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:732
+#: includes/class-cbxuseronline-settings.php:772
+msgid "Device"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:653
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:251
+msgid "Following database tables will be reset/deleted and then re-created."
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:210
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"WordPress core option table"
+msgstr ""
+
+#: templates/dashboard-doc.php:34
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: templates/dashboard-doc.php:22
+msgid "Go to Settings"
+msgstr ""
+
+#: public/class-cbxuseronline-public.php:171
+msgid "Guest"
+msgstr ""
+
+#: templates/dashboard-doc.php:150
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:408
+msgid "Helps & Updates"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:97
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:108
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:119
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:130
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:141
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:152
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:163
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:174
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:185
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:196
+msgid "Hide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-user-online-for-wordpress"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:184
+msgid "Integration"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:335
+msgid "Integration Settings"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:733
+#: includes/class-cbxuseronline-settings.php:773
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:734
+#: includes/class-cbxuseronline-settings.php:774
+msgid "Last Login"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:525
+msgid "Last login"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:105
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:45
+#: widgets/classic-widget/views/admin.php:31
+msgid "Link user to author page"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:748
+msgid "Mobile"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:912
+#: includes/class-cbxuseronline-settings.php:721
+#, php-format
+msgid "Most users ever online were <strong>%d</strong>, on %s"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:731
+#: includes/class-cbxuseronline-settings.php:771
+msgid "Name"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:369
+#: widgets/classic-widget/views/admin.php:26
+#: widgets/classic-widget/views/admin.php:35
+#: widgets/classic-widget/views/admin.php:45
+#: widgets/classic-widget/views/admin.php:53
+#: widgets/classic-widget/views/admin.php:62
+#: widgets/classic-widget/views/admin.php:70
+#: widgets/classic-widget/views/admin.php:78
+#: widgets/classic-widget/views/admin.php:86
+#: widgets/classic-widget/views/admin.php:94
+#: widgets/classic-widget/views/admin.php:102
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:364
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:25
+msgid "Online User"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:38
+msgid "Online user"
+msgstr ""
+
+#: widgets/classic-widget/cbxonline-widget.php:78
+#: widgets/classic-widget/cbxonline-widget.php:176
+msgid "Online Users"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:220
+#: admin/class-cbxuseronline-admin.php:243
+msgid "Option ID"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:219
+#: admin/class-cbxuseronline-admin.php:242
+msgid "Option Name"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:221
+#: admin/class-cbxuseronline-admin.php:244
+msgid "Option Value"
+msgstr ""
+
+#: templates/dashboard-doc.php:104
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:138
+#: includes/class-cbxuseronline-settings.php:445
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:647
+msgid "Pro Support"
+msgstr ""
+
+#: templates/dashboard-doc.php:173
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/dashboard-doc.php:200
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/dashboard-doc.php:192
+msgid "Read the CBX Useronline User Guide"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:348
+msgid "Record Second last login"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:341
+msgid "Record user last login"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:303
+#: admin/class-cbxuseronline-admin.php:325
+msgid "Refresh Now"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:317
+msgid "Refresh Time"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:376
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:377
+#, php-format
+msgid ""
+"Reset option values and all tables created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: includes/class-cbxuseronline-settings.php:945
+#: templates/dashboard-settings.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:141
+msgid "Select Media"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:623
+msgid "Settings"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:96
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:107
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:118
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:129
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:140
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:151
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:162
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:173
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:184
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:195
+msgid "Show"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:160
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:95
+#: widgets/classic-widget/views/admin.php:75
+msgid "Show bot count"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:171
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:105
+#: widgets/classic-widget/views/admin.php:83
+msgid "Show for current page"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:149
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:85
+#: widgets/classic-widget/views/admin.php:67
+msgid "Show guest count"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:127
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:65
+#: widgets/classic-widget/views/admin.php:50
+msgid "Show individual count"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:138
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:75
+#: widgets/classic-widget/views/admin.php:59
+msgid "Show member count"
+msgstr ""
+
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:35
+#: widgets/classic-widget/views/admin.php:22
+msgid "Show Memberlist"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:193
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:125
+#: widgets/classic-widget/views/admin.php:99
+msgid "Show mobile or desktop logged in status"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:182
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:115
+#: widgets/classic-widget/views/admin.php:91
+msgid "Show most user online"
+msgstr ""
+
+#: widgets/elementor-widget/class-cbxonline-elementor-widget.php:116
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:55
+#: widgets/classic-widget/views/admin.php:41
+msgid "Show online count"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:206
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:256
+#: admin/class-cbxuseronline-admin.php:277
+msgid "Table Name"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:257
+#: admin/class-cbxuseronline-admin.php:278
+msgid "Table Name in DB"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:691
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX User Online & Last "
+"Login</strong> V%s - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:704
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX User Online & Last Login</strong> V%s , "
+"enjoy the new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: templates/dashboard-doc.php:66
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:349
+msgid "This feature is useful to detect interval for last two login time."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin shows WordPress online users and records last login"
+msgstr ""
+
+#: widgets/classic-widget/cbxonline-widget.php:34
+#: widgets/vc-widget/class-cbxonline-wpb-widget.php:26
+msgid "This widget shows online users based on widget setting"
+msgstr ""
+
+#: widgets/classic-widget/views/admin.php:11
+msgid "Title:"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:188
+msgid "Tools"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:358
+msgid "Tools Settings"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:836
+#: includes/class-cbxuseronline-settings.php:656
+msgid "Total <strong>%</strong> user"
+msgstr ""
+
+#: includes/class-cbxuseronline-helper.php:836
+#: includes/class-cbxuseronline-settings.php:656
+msgid "Total <strong>%</strong> users"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:140
+msgid "Upload"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:462
+msgid "User login record log purged failed."
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:460
+msgid "User login record log purged successfully."
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:318
+msgid "User visit log purge time or refresh time"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:342
+msgid ""
+"When user login it will record and will show as extra col in admin user "
+"listing"
+msgstr ""
+
+#: admin/class-cbxuseronline-admin.php:368
+#: widgets/classic-widget/views/admin.php:25
+#: widgets/classic-widget/views/admin.php:34
+#: widgets/classic-widget/views/admin.php:44
+#: widgets/classic-widget/views/admin.php:52
+#: widgets/classic-widget/views/admin.php:61
+#: widgets/classic-widget/views/admin.php:69
+#: widgets/classic-widget/views/admin.php:77
+#: widgets/classic-widget/views/admin.php:85
+#: widgets/classic-widget/views/admin.php:93
+#: widgets/classic-widget/views/admin.php:101
+msgid "Yes"
+msgstr ""

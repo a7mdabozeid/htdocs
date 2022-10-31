@@ -1,0 +1,14 @@
+.virtual-coupons-filter {
+  margin-bottom: 1em;
+
+  > * {
+    margin-right: 0.8em !important;
+  }
+
+  .search-filter {
+    width: 300px;
+  }
+  .status-filter {
+    width: 200px;
+  }
+}

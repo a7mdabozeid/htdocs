@@ -1,0 +1,181 @@
+.site-content {
+	padding-top: 80px;
+	padding-bottom: 80px;
+
+	&:after {
+		clear: both;
+		display: block;
+		content: "";
+	}
+
+	&.no-top-spacing {
+		padding-top: 0 !important;
+	}
+
+	&.no-bottom-spacing {
+		padding-bottom: 0 !important;
+	}
+
+	.razzi-bottom-no-spacing {
+		margin-bottom: 0;
+	}
+}
+
+.page:not(.elementor-page) {
+	.site-content {
+		display: flex;
+	}
+}
+
+.page {
+	&.full-content:not(.elementor-page) {
+		.site-content {
+			max-width: 1200px;
+			float: none;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 15px;
+			padding-right: 15px;
+			display: block;
+		}
+	}
+
+	.site {
+		max-width: 1920px;
+		margin: 0 auto;
+	}
+}
+
+.razzi-container {
+	max-width: 1903px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0;
+	padding-right: 0;
+
+	> :not(.mega-menu-container) {
+		&.container {
+			width: 100%;
+		}
+	}
+}
+
+@media (min-width: 768px) {
+	.container {
+		width: 750px;
+	}
+}
+
+@media (min-width: 992px) {
+	.container {
+		width: 970px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container {
+		width: 1170px;
+	}
+}
+
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+@media (max-width: 767px) {
+	.hidden-xs {
+		display: none !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.hidden-sm {
+		display: none !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.hidden-md {
+		display: none !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.hidden-lg {
+		display: none !important;
+	}
+}
+
+.single-post .site-content {
+	padding-top: 30px;
+}
+
+.single-product .site-content {
+	padding-top: 0;
+}
+
+.razzi-catalog-page {
+	&.sidebar-content {
+		.primary-sidebar {
+			padding-right: 45px;
+		}
+	}
+
+	&.content-sidebar {
+		.primary-sidebar {
+			padding-left: 45px;
+		}
+	}
+
+	&.sidebar-content,
+	&.content-sidebar {
+		.content-area {
+			width: 75%;
+		}
+
+		.primary-sidebar {
+			width: 25%;
+		}
+	}
+	.site-content {
+		padding-top: 60px;
+	}
+}
+
+.razzi-blog-page {
+	.page-header + .site-content {
+		padding-top: 5px;
+	}
+
+	&:not(.full-content) {
+		.page-header + .site-content {
+			padding-top: 20px;
+		}
+	}
+}
+
+// Boxed Layout
+.razzi-boxed-layout {
+	.site {
+		max-width: 1200px;
+		margin: 0 auto;
+		background-color: #fff;
+	}
+
+	.site-header {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+}
+
+.site-header__border {
+	border-bottom: 1px solid var(--rz-border-color-light);
+}

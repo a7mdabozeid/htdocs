@@ -1,0 +1,19 @@
+.wp-block-table td,
+.wp-block-table th{
+	padding: 10px 20px;
+    border-color: var(--rz-border-color-gray);
+}
+
+p:empty:before{
+    display: none;
+}
+
+@import "button";
+@import "quote";
+@import "image";
+@import "widget";
+@import "cover";
+@import "columns";
+@import "embeds";
+@import "layout-el";
+@import "responsive";

@@ -1,0 +1,134 @@
+.acfw-report {
+    position: relative;
+    background:#fff;
+    min-height: 300px;
+    border: 1px solid #dedede;
+    
+    .stats-range {
+        position: relative;
+        background: #f7f7f7;
+
+        &:after {
+            content: '';
+            display: table;
+            position: absolute;
+            z-index: 1;
+            bottom: -1px;
+            border-top: 1px solid #ccc;
+            width: 100%;
+            height: 1px;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+
+            &:after {
+                content: '';
+                display: block;
+                clear: both;
+            }
+            
+            li {
+                float: left;
+                position: relative;
+                margin: 0;
+
+                a , > span {
+                    position:relative;
+                    z-index: 2;
+                    display: block;
+                    padding: 15px 10px;
+                    font-weight: bold;
+                    font-size: 14px;
+                    text-decoration: none;
+                    border-right: 1px solid #dedede;
+                    border-bottom: 1px solid transparent;
+                }
+
+                &.current a {
+                    background:#fff;
+                    border-bottom-color: #fff;
+                    color: #555 !important;
+                }
+
+                &.custom-range {
+                    width: 400px;
+
+                    &:after {
+                        content: '';
+                        display: table;
+                        clear: both;
+                    }
+
+                    span {
+                        display: block;
+                        float: left;
+                        color: #555;
+                        border-right: 0;
+                    }
+                }
+
+                &.export-csv-button {
+                    position: relative;
+                    float: right;
+                    overflow: hidden;
+
+                    a {
+                        font-weight: normal;
+                        border-right: 0;
+                        border-left: 1px solid #dedede;
+                    }
+                }
+            }
+        }
+    }
+
+    
+}
+
+#custom-date-range {
+    margin-top: 10px;
+
+    .range_datepicker {
+        float: left;
+        width: 100px;
+        text-align: center;
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+        -moz-box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+
+    span {
+        display: block;
+        float: left;
+        margin-top: 3px;
+    }
+}
+
+.acfw-report-wrap {
+    position: relative;
+    margin: 15px;
+
+    .overlay {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 5000px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-color: rgba(255, 255, 255, 0.64);
+        width: 100%;
+        height: 1000px;
+        z-index: 10;
+    }
+
+    .responsive-table {
+        overflow-x: auto;
+    }
+}
+
+@import 'orders_with_coupon';

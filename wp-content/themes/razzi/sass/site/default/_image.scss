@@ -1,0 +1,19 @@
+figure {
+	&.is-resized{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	&.alignleft,
+	&.alignright {
+		margin-top: 0;
+	}
+}
+
+img.alignright {
+	clear: both;
+}
+
+.aligncenter {
+	text-align: center;
+}

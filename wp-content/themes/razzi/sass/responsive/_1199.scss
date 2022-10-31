@@ -1,0 +1,71 @@
+@media (max-width: 1199px) and ( min-width: 992px) {
+	.header-v9 .main-navigation .nav-menu > li {
+		padding: 0 14px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.razzi-container,
+	.container {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.header-v6 .site-footer .razzi-container {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.page-header .featured-image{
+	    background-position: center;
+	}
+
+	// Header Account
+	.header-account {
+		.account-links {
+			display: none;
+		}
+	}
+
+	// Header Cart
+	.header-cart {
+		.mini-cart-content {
+			display: none;
+		}
+	}
+
+}
+
+@media (min-width: 1220px){
+	.razzi-boxed-layout {
+		.site-footer {
+			width: 1170px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+
+    .single-post{
+        &.full-content{
+            .entry-footer,
+            .entry-header{
+                text-align: center;
+            }
+
+            .post-wrapper .entry-content,
+			.comments-area {
+                max-width: 780px;
+                float: none;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+	}
+
+	body.full-content .entry-content .rz-alignwide{
+			max-width: 1170px;
+			width: 1170px;
+			margin-left: calc(-1170px/2 + 100%/2);
+			margin-right: calc(-1170px/2 + 100%/2);
+	}
+}

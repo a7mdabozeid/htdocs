@@ -1,0 +1,28 @@
+.preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 99999999;
+	background: #fff;
+
+	.preloader-icon {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		display: block;
+	}
+
+	.spinner {
+		width: 40px;
+		height: 40px;
+		margin: -20px 0 0 -20px;
+		transform: none;
+	}
+}
+
+.no-js .preloader {
+	display: none;
+}

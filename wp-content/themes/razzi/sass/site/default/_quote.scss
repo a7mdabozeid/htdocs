@@ -1,0 +1,133 @@
+blockquote cite,
+blockquote .wp-block-quote__citation,
+.wp-block-quote cite {
+    margin-top: 26px;
+}
+
+.wp-block-quote.is-large,
+.wp-block-quote.is-style-large,
+.wp-block-quote{
+	padding: 20px 30px;
+	border-left: 3px solid var(--rz-color-primary);
+}
+
+.wp-block-quote{
+	&.has-text-align-right{
+		padding: 20px 30px;
+		border-right: 3px solid var(--rz-color-primary);
+	}
+
+	cite{
+		font-style: italic;
+		color: #838889;
+		font-size: 14px;
+	}
+}
+
+.wp-block-pullquote p {
+	font-size: 28px;
+}
+
+.wp-block-pullquote.is-style-solid-color blockquote p {
+	font-size: 32px;
+}
+
+.wp-block-quote.is-large cite,
+.wp-block-quote.is-large .wp-block-quote__citation,
+.wp-block-quote.is-style-large cite,
+.wp-block-quote.is-style-large .wp-block-quote__citation {
+    font-size: 18px;
+    text-align: left;
+}
+
+hr.wp-block-separator {
+	background-color: #bbb;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+
+.wp-block-pullquote:not(.is-style-solid-color){
+	background-color: #f7f7f7;
+}
+
+.wp-block-pullquote {
+	background-color: #f7f7f7;
+	border-left: none;
+	font-size: 20px;
+	padding: 0;
+    color: var(--rz-color-dark);
+
+	blockquote{
+		border: none;
+		margin: 0;
+		padding: 40px 30px;
+	}
+
+	cite{
+		color: #838889;
+		text-transform: capitalize;
+		font-size: 14px;
+		font-style: italic;
+	}
+
+	&.alignleft{
+		text-align: left;
+	}
+
+	&.alignright{
+		text-align: right;
+	}
+
+	&.aligncenter{
+	    text-align: center;
+	}
+
+	&.is-style-solid-color blockquote{
+	    background-color: transparent;
+		max-width: 100%;
+		padding: 40px 30px;
+
+		cite{
+			font-style: italic;
+		}
+	}
+}
+
+.wp-block-pullquote.is-style-solid-color{
+
+	blockquote {
+		background-color: transparent;
+		max-width: 100%;
+	}
+}
+
+.wp-block-pullquote.alignleft p,
+.wp-block-pullquote.alignright p,
+.wp-block-pullquote.alignleft blockquote > .editor-rich-text p,
+.wp-block-pullquote.alignright blockquote > .editor-rich-text p {
+    font-size: 20px;
+}
+
+.wp-block-pullquote cite,
+.wp-block-pullquote footer,
+.wp-block-pullquote__citation {
+    margin-top: 1em;
+}
+
+.wp-block-pullquote .wp-block-pullquote__citation {
+    color: #40464d;
+}
+
+.wp-block-code{
+	color: var(--rz-color-darker) ;
+
+	code {
+		background: transparent;
+	}
+}
+
+.has-large-font-size {
+	font-size: 36px;
+}

@@ -1,0 +1,39 @@
+.error404{
+    .site-content{
+        padding: 110px 15px;
+    }
+
+    .content-area {
+        width: 100%;
+    }
+    
+    .error-404{
+        max-width: 440px;
+        margin: auto;
+        text-align: center;
+
+        .page-title{
+            font-size: 36px;
+            margin: 0 0 19px;
+        }
+
+        .page-content{
+            margin: 0 0 37px;
+            font-size: 18px;
+            line-height: (27/18);
+        }
+
+        .razzi-button{
+            padding: 0 34px;
+        }
+    }
+
+    .error-404__svg{
+        margin-bottom: 27px;
+
+        svg{
+            width: 54px;
+            height: 54px;
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "editor.wordWrapColumn": 120,
+  "editor.rulers": [120],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4
+  },
+  "phpfmt.enable_auto_align": true,
+  "phpfmt.yoda": true,
+  "intelephense.environment.documentRoot": "/var/www/acfw.test/index.php",
+  "intelephense.environment.phpVersion": "7.4.3"
+}

@@ -1,0 +1,21 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">badge_status</custom-field>
+        <custom-field action="copy">badge_label_options</custom-field>
+        <custom-field action="copy">badge_style_options</custom-field>
+        <custom-field action="copy">badge_timer_options</custom-field>
+        <custom-field action="copy">badge_position_options</custom-field>
+        <custom-field action="copy">badge_preview_options</custom-field>
+        <custom-field action="copy">badge_use_pschedule</custom-field>
+        <custom-field action="copy">badge_selected_list</custom-field>
+        <custom-field action="copy">badge_advance_options</custom-field>
+        <custom-field action="copy">badge_timing_end_date</custom-field>
+        <custom-field action="copy">badge_timing_start_date</custom-field>
+        <custom-field action="copy">badge_schedules</custom-field>
+        <custom-field action="copy">badge_product_list</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">acoplw_badges</custom-type>
+        <custom-type translate="1">acoplw_prod_list</custom-type>
+    </custom-types>
+</wpml-config>

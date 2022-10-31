@@ -1,0 +1,16 @@
+@import "account-links";
+@import "account-modal";
+
+.site-header .header-account {
+	height: inherit;
+
+	.account-icon {
+		font-size: 18px;
+		display: flex;
+		align-items: center;
+		height: inherit;
+		position: relative;
+		top: -2px;
+		color: var(--rz-header-color-dark);
+	}
+}

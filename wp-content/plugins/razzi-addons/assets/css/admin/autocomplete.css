@@ -1,0 +1,181 @@
+/*****************
+* Spin Animation *
+*****************/
+@keyframes spin-fast {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+    }
+    50% {
+        -webkit-transform: rotate(900deg);
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+    }
+    to {
+        -webkit-transform: rotate(1800deg);
+        transform: rotate(1800deg)
+    }
+}
+
+@-webkit-keyframes spin-fast {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+    }
+    50% {
+        -webkit-transform: rotate(900deg);
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+    }
+    to {
+        -webkit-transform: rotate(1800deg);
+        transform: rotate(1800deg)
+    }
+}
+
+@-o-keyframes spin-fast {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+    }
+    50% {
+        -webkit-transform: rotate(900deg);
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+    }
+    to {
+        -webkit-transform: rotate(1800deg);
+        transform: rotate(1800deg)
+    }
+}
+
+@-ms-keyframes spin-fast {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+    }
+    50% {
+        -webkit-transform: rotate(900deg);
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+    }
+    to {
+        -webkit-transform: rotate(1800deg);
+        transform: rotate(1800deg)
+    }
+}
+
+/***************
+* Autocomplete *
+***************/
+
+ul.ra_autocomplete {
+    border: 1px solid #d5dadf;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+ul.ra_autocomplete .ra_autocomplete-input {
+    margin-bottom: 5px;
+    position: relative;
+}
+
+ul.ra_autocomplete .ra_autocomplete-input span {
+    position: absolute;
+    top: 7px;
+    right: 13px;
+}
+
+ul.ra_autocomplete .ra_autocomplete-input span:after {
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: none;
+    z-index: 999;
+    color: transparent !important;
+    font-size: 0;
+    border-width: 1px;
+    border-color: #ccc #ccc #ccc transparent;
+    -webkit-border-radius: 50%;
+    border-style: solid;
+    -webkit-animation: spin-fast 1.5s linear infinite;
+    animation: spin-fast 1.5s linear infinite;
+    content: "";
+    width: 10px;
+    height: 10px;
+    opacity: 0;
+}
+
+ul.ra_autocomplete.loading .ra_autocomplete-input span:after {
+    opacity: 1;
+}
+
+ul.ra_autocomplete .ra_autocomplete_param {
+    border: 0;
+    background-color: #f2f2f2;
+}
+
+ul.ra_autocomplete .ra_autocomplete-label {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 3px;
+    background-color: #4078a1;
+    margin-bottom: 4px;
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+ul.ra_autocomplete .ra_autocomplete-label.hidden {
+    display: none;
+}
+
+ul.ra_autocomplete .ra_autocomplete-label .ra_autocomplete-data {
+    word-break: break-word;
+    line-height: 1.2;
+}
+
+ul.ra_autocomplete .ra_autocomplete-label a {
+    color: #fff;
+    font-size: 17px;
+}
+
+.fm-autocomplete-menu .ui-menu-item {
+    word-break: break-word;
+}
+
+ul.ra_autocomplete .ra_autocomplete-loading {
+    position: relative;
+    height: 30px;
+    background-color: #4078a1;
+    margin-bottom: 4px;
+    border-radius: 2px;
+}
+
+ul.ra_autocomplete .ra_autocomplete-loading span:after {
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: none;
+    z-index: 999;
+    color: #ccc;
+    font-size: 0;
+    border-width: 1px;
+    border-color: #fff #fff #fff transparent;
+    -webkit-border-radius: 50%;
+    border-style: solid;
+    -webkit-animation: spin-fast 1.5s linear infinite;
+    animation: spin-fast 1.5s linear infinite;
+    content: "";
+    width: 12px;
+    height: 12px;
+    margin-top: -5px;
+}

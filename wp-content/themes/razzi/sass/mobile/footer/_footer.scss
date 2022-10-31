@@ -1,0 +1,117 @@
+@import "site/footer/back-to-top";
+@import "site/footer/newsletter";
+@import "site/footer/branding";
+@import "site/footer/payments";
+@import "site/footer/menu";
+@import "site/footer/widgets";
+@import "site/footer/extra";
+
+@import "site/footer/main";
+@import "site/footer/primary";
+
+.site-footer {
+    background-repeat: no-repeat;
+    background-position: center center;
+    clear: both;
+
+    .footer-newsletter {
+        --rz-footer-newsletter-top-spacing: 30px;
+        --rz-footer-newsletter-bottom-spacing: 40px;
+    }
+
+    .footer-widgets {
+        --rz-footer-widget-top-spacing: 30px;
+        --rz-footer-widget-bottom-spacing: 40px;
+    }
+
+    .footer-extra {
+        --rz-footer-extra-top-spacing: 30px;
+        --rz-footer-extra-bottom-spacing: 40px;
+    }
+}
+
+.footer-main .footer-items {
+    padding: 5px 0;
+}
+
+.footer-widgets {
+    .footer-widgets-area {
+        width: 100%;
+    }
+
+    .widget {
+        .widget-title {
+            display: flex;
+            justify-content: space-between;
+
+            padding-bottom: 0;
+            line-height: 1;
+
+            .razzi-svg-icon {
+                display: inline-flex;
+                font-size: 18px;
+            }
+
+            &.active {
+                .razzi-svg-icon {
+                    transform: rotate(-180deg);
+                }
+            }
+        }
+
+        .clicked {
+            display: none;
+            margin-top: 15px;
+        }
+
+        &.dropdown {
+            border-bottom: 1px solid #444;
+            padding-bottom: 17px;
+            margin-bottom: 0;
+        }
+
+        &:not(.dropdown) {
+            margin-top: 17px;
+        }
+    }
+
+    .footer-widgets-area-diff .diff-row > * {
+        margin-bottom: 21px;
+        width: 100%;
+    }
+
+    .footer-widgets-area:not(.footer-widgets-area-diff) {
+        margin-bottom: 20px;
+    }
+}
+
+.footer-newsletter:not(.layout-v2) .mc4wp-form-fields,
+.razzi-newsletter:not(.layout-v2) .mc4wp-form-fields{
+    display: block;
+
+    input[type="submit"],
+    input[type="email"]{
+        width: 100%;
+        text-align: center;
+    }
+
+    input[type="submit"]{
+        margin: 10px 0 0 0;
+    }
+}
+
+.footer-extra__inner > *:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.footer-main {
+    .footer-container {
+        display: block;
+    }
+
+    .footer-items {
+        text-align: center;
+        display: block;
+        padding: 5px 0;
+    }
+}

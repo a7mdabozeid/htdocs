@@ -1,0 +1,574 @@
+/* Create Color variables here
+ * follow this link for Color name
+ * https://chir.ag/projects/name-that-color/
+ * and use $c prefix.
+ * use lowercase for color code and variable name 
+ * i.e $c-black: #000000; */
+/* Create Typo variables here
+ * use $ff prefix for font family
+ * use $fs for font size
+ i.e $ff-roboto-b: Roboto-bold;
+ * $fs-large: 40px; */
+/* Placeholders */
+/* Mixins */
+/* SCSS Functions */
+/* Enter Your Global CSS here */
+* {
+  box-sizing: border-box;
+}
+*:after, *:before {
+  box-sizing: border-box;
+}
+
+/* Enter Button Global CSS Here */
+/* Header CSS */
+/* Footer CSS */
+/* Navigation CSS */
+/* Sidebar CSS */
+/* About page css */
+/* Home Page CSS */
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.wps_order_msg_history_container .wps_reload_messages .reload-icon {
+  margin-left: 10px;
+  width: 25px;
+}
+
+.wps_order_msg_sub_container {
+  padding: 30px;
+  border: solid #ccc 1px;
+  overflow-y: auto;
+  min-height: 200px;
+  max-height: 400px;
+}
+
+/* Order Refund Request Form */
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.wps-rma-form__wrapper textarea, .wps-rma-form__wrapper input[type=text],
+.wps-rma-form__wrapper input[type=number],
+.wps-rma-form__wrapper input[type=email], .wps-rma-form__wrapper input[type=tel],
+.wps-rma-form__wrapper input[type=url], .wps-rma-form__wrapper input[type=password],
+.wps-rma-form__wrapper input[type=search], .wps-rma-form__wrapper .input-text {
+  background-color: transparent !important;
+  border: 1px solid #ccc !important;
+  box-shadow: none !important;
+  padding: 10px 14px;
+}
+
+.wps-rma-form__wrapper input[type=text]:focus,
+.wps-rma-form__wrapper input[type=number]:focus,
+.wps-rma-form__wrapper input[type=email]:focus,
+.wps-rma-form__wrapper input[type=tel]:focus,
+.wps-rma-form__wrapper input[type=url]:focus,
+.wps_order_msg_sub_container input[type=password]:focus,
+.wps-rma-form__wrapper input[type=search]:focus,
+.wps-rma-form__wrapper textarea:focus,
+.wps-rma-form__wrapper a:focus,
+.input-text:focus {
+  outline: none !important;
+}
+
+.wps-rma-form__wrapper label {
+  margin-bottom: 8px;
+  display: inline-block !important;
+  line-height: 1.2;
+}
+
+.wps-rma-form__wrapper h4 {
+  font-size: 18px !important;
+}
+
+.wps-rma-form__wrapper .wps_rma_flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wps-rma-form__wrapper select {
+  padding: 10px 14px;
+}
+
+.wps_rma_refund_form_wrapper input[type=text]:focus,
+.wps_rma_refund_form_wrapper input[type=number]:focus,
+.wps_rma_refund_form_wrapper input[type=email]:focus,
+.wps_rma_refund_form_wrapper input[type=tel]:focus,
+.wps_rma_refund_form_wrapper input[type=url]:focus,
+.wps_rma_refund_form_wrapper input[type=password]:focus,
+.wps_rma_refund_form_wrapper input[type=search]:focus,
+.wps_rma_refund_form_wrapper textarea:focus,
+.wps_rma_refund_form_wrapper .input-text:focus {
+  background-color: transparent;
+}
+
+.wps_rma_refund_form_wrapper .wps-rma-subject__dropdown select {
+  padding: 5px 105px 5px 5px;
+  border-radius: 0;
+  width: 100%;
+}
+
+.wps_rma_refund_form_wrapper .wps_rma_other_subject input {
+  width: 100%;
+}
+
+.wps-rma-product__table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 665px;
+}
+
+.wps-rma-form__wrapper h2.woocommerce-column__title {
+  font-weight: 600;
+}
+
+.wps_rma_refund_form_wrapper select#wps_rma_return_request_subject:focus-visible {
+  outline: none;
+}
+
+.wps_rma_refund_form_wrapper select#wps_rma_return_request_subject option {
+  box-shadow: none;
+}
+
+.wps-rma-product__table-wrapper {
+  overflow-x: auto;
+  padding: 0 15px;
+}
+
+.wps_rma_refund_form_wrapper .wps_rma_product_title {
+  padding: 0 15px;
+}
+
+.wps_rma_refund_form_wrapper .wps_rma_refund_request__row {
+  justify-content: space-between;
+}
+
+.wps_rma_refund_form_wrapper .wps_rma__column {
+  width: 100%;
+}
+
+.wps-rma-form__wrapper.wps-rma-form__wrapper {
+  border: 1px solid #333333;
+}
+
+.wps-rma-form__wrapper .wps-rma-form__header {
+  background-color: #333333;
+}
+
+.wps-rma-form__wrapper .wps-rma-form__heading {
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 10px 15px;
+  margin-top: 0;
+}
+
+.wps-rma-form__wrapper td,
+.wps-rma-form__wrapper th {
+  border: 1px solid #cccccc;
+  text-align: center;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+.wps-rma-form__wrapper th {
+  color: #333333;
+}
+
+.wps-rma-form__wrapper .wps-rma-product__wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wps-rma-form__wrapper .wps-rma__product-title {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.wps-rma-product__table tbody td {
+  background-color: #ffffff;
+}
+
+table.wps-rma-product__table:not(.has-background) tbody td {
+  background-color: #ffffff;
+}
+
+table.wps-rma-product__table:not(.has-background) tbody tr:nth-child(2n) td, table.wps-rma-product__table:not(.has-background) fieldset, table.wps-rma-product__table:not(.has-background) fieldset legend {
+  background-color: #ffffff;
+}
+
+.wps-rma-form__wrapper .wps-rma-row__pd {
+  padding: 0 15px;
+}
+
+.wps-rma-form__wrapper .wps-rma-col {
+  width: 100%;
+}
+
+.wps-rma-form__wrapper .wps-rma-col.wps_rma_flex {
+  justify-content: flex-start;
+}
+
+.wps-rma-form__wrapper .wps_rma_other_subject {
+  margin: 25px 0;
+}
+
+.wps_rma_attach_files {
+  margin-top: 10px;
+}
+
+.wps-rma-subject__dropdown {
+  margin-top: 25px;
+}
+
+.wps-rma-form__wrapper textarea {
+  width: 100%;
+}
+
+.wps-rma-form__wrapper .product-quantity input {
+  height: 48px;
+  margin: 0 auto;
+  width: 197px;
+}
+
+.wps-rma-form__wrapper th:last-child,
+.wps-rma-form__wrapper td:last-child {
+  padding-right: 15px;
+}
+
+.wps-rma-form__wrapper td.product-total {
+  text-align: center;
+}
+
+/* View Order Messages */
+.wps-order-msg-attachment-wrapper {
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wps-order-attachment input#wps_order_msg_attachment {
+  max-width: 230px;
+}
+
+#wps_order_msg_submit {
+  background: #374585;
+  border: 1px solid #374585;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0;
+  padding: 6px 30px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+form#wps_order_new_msg_form {
+  margin-bottom: 40px;
+}
+
+.wps_rma_order_msg_wrapper .wps-order-msg-attachment-wrapper label {
+  color: #000000;
+}
+
+.wps_rma_order_msg_wrapper h4.wps-order-heading.wps_rma_flex {
+  align-items: center;
+}
+
+.wps_rma_order_msg_wrapper h4.wps-order-heading.wps_rma_flex a {
+  margin-left: 20px;
+  width: 18px;
+}
+
+.wps-order-msg__row {
+  padding: 30px 30px 30px 0;
+  margin-bottom: 30px;
+  border: 1px solid #dddddd;
+  background-color: #ffffff;
+  width: auto;
+  word-wrap: break-word;
+}
+
+.wps_order_msg_sender {
+  font-weight: 600;
+  font-size: 18px;
+  background-color: #4f62b9;
+  color: #fff;
+  padding: 8px 52px 8px 30px;
+  position: relative;
+  line-height: 1.8;
+  display: inline-block;
+}
+
+span.wps_order_msg_sender:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  height: 100%;
+  background-color: transparent;
+  border-top: 24px solid #ffffff;
+  border-left: 24px solid transparent;
+  border-right: 24px solid transparent;
+  transform: rotate(90deg);
+  width: 0;
+}
+
+.wps_order_msg_date {
+  display: block;
+  margin-top: 10px;
+  padding-left: 30px;
+  color: #1f1f1f;
+}
+
+.wps_order_msg_attach_container {
+  padding-left: 30px;
+}
+
+.wps_order_msg_detail_container {
+  padding: 20px 0 20px 30px;
+}
+
+img.wps_order_msg_attachment_thumbnail {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.wps_rma_order_msg_wrapper h4 {
+  background-color: #dadada;
+  padding: 7px 15px;
+  font-weight: 600 !important;
+  color: #1f1f1f !important;
+  line-height: 1.6;
+}
+
+.wps-order-attachment input:focus {
+  outline: none;
+}
+
+.wps-order-msg__row {
+  border-color: #dddddd;
+}
+
+.wps-order-msg__row:last-child {
+  margin-bottom: 0;
+}
+
+.wps_order_msg_sender_details.wps_rma_flex {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wps_order_msg_notice_wrapper {
+  color: #fff;
+  border-radius: 5px;
+  display: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 5px 15px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.wps_order_msg_notice_wrapper p {
+  margin-bottom: 0;
+  color: #fff;
+}
+
+a.wps_order_send_msg_dismiss {
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.wps_order_msg_sent_notice {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.wps-loader-icon {
+  -webkit-animation: spin 1s infinite linear;
+          animation: spin 1s infinite linear;
+  transition: all 0.3s;
+  transition-timing-function: ease-in;
+}
+
+.wps_order_msg_sub_container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wps-order-msg__row {
+  width: 100%;
+}
+
+.wmb-order-admin__msg-container .wps_order_msg_sender {
+  background-color: #71b02f;
+}
+
+.wps_rma_order_msg_wrapper textarea {
+  width: 100%;
+}
+
+/*media-query*/
+div.wps_order_msg_single_attachment a .wps_order_msg_attachment_thumbnail {
+  border: 1px solid black;
+  border-radius: 3px;
+  max-width: 60px;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+div.wps_order_msg_single_attachment a .wps_order_msg_attachment_thumbnail {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.wps_rma_return_notification > img {
+  left: 48%;
+  position: absolute;
+  top: 45%;
+  width: 5%;
+}
+
+.wps_rma_return_notification, .wps_rma_exchange_notification {
+  display: none;
+  color: green;
+}
+
+.wps_rma_return_notification > img, .wps_rma_exchange_notification > img {
+  left: 48%;
+  position: absolute;
+  top: 45%;
+  width: 5%;
+}
+
+.wps_rma_return_notification, .wps_rma_exchange_notification {
+  background-color: #000000;
+  bottom: 0;
+  height: 100%;
+  opacity: 0.5;
+  padding: 0;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  z-index: 99999;
+}
+
+.wps_rma_return_notification_checkbox::after {
+  background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+.wps_rma_return_notification_checkbox img {
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 99999999;
+}
+
+.wps_rma_return_notification_checkbox {
+  display: none;
+}
+
+.return, .view_msg {
+  margin-top: 4px;
+}
+
+.wps_rma_refund_request__row {
+  padding: 0 15px;
+}
+
+.wps_rma_customer_detail {
+  padding: 30px 15px;
+  overflow: hidden;
+}
+
+.wps_field_mendatory {
+  color: red;
+}
+
+@media only screen and (max-width: 820px) {
+  .wps-order-msg__row {
+    max-width: 100%;
+  }
+
+  .wps-order-msg__row:nth-child(2n-1),
+.wps-order-msg__row:nth-child(2n) {
+    margin-right: 0;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .wps-rma-refund-request__row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+  .wps-rma-form__wrapper .wps-rma-col:nth-child(2) {
+    padding-left: 30px;
+    width: 60%;
+  }
+
+  .wps_rma_refund_form_wrapper .wps_rma__column-right {
+    margin-left: 40px;
+    max-width: calc(40% - 40px);
+    justify-content: flex-end;
+  }
+
+  .wps-rma-form__wrapper .wps-rma-col:nth-child(2) p {
+    max-width: 220px;
+    margin-left: auto;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .wps_order_msg_sub_container {
+    padding: 15px;
+  }
+
+  .wps-order-msg__row {
+    padding: 15px 15px 15px 0;
+  }
+
+  .wps_order_msg_attach_container {
+    padding-left: 15px;
+  }
+
+  .wps_order_msg_detail_container {
+    padding: 15px 0 15px 15px;
+  }
+
+  .wps_order_msg_attach_container {
+    padding-left: 15px;
+  }
+
+  .wps-rma-form__wrapper textarea {
+    height: 150px !important;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .wps-order-msg-attachment-wrapper.wps_rma_flex {
+    display: block;
+  }
+}

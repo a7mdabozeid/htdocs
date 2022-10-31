@@ -1,0 +1,151 @@
+@import 
+    'base/base',
+    'components/components',
+    'layout/layout',
+    'pages/page';
+
+
+
+#add_more_rma_policies_clone {
+    display: none;
+}
+/*wps form group breaker css*/
+.wps-form-group__breaker {
+    padding: 15px 0 15px 30px;
+    background-color: #e5f4fe;
+    margin-left: -32px;
+    margin-right: -32px;
+    color: #2196f3;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+/*save_policies_setting_form*/
+#save_policies_setting_form select, 
+#save_policies_setting_form input{
+    margin-left: 0;
+}
+#save_policies_setting_form input[type=date],
+#save_policies_setting_form input[type=datetime-local],
+#save_policies_setting_form input[type=datetime],
+#save_policies_setting_form input[type=email],
+#save_policies_setting_form input[type=month],
+#save_policies_setting_form input[type=number],
+#save_policies_setting_form input[type=password],
+#save_policies_setting_form input[type=search],
+#save_policies_setting_form input[type=tel],
+#save_policies_setting_form input[type=text],
+#save_policies_setting_form input[type=time],
+#save_policies_setting_form input[type=url],
+#save_policies_setting_form input[type=week]{
+    padding: 10px 15px 10px 15px;
+    max-height: 50px;
+}
+#save_policies_setting_form select {
+    min-height: 50px;
+    max-height: 50px;
+}
+#save_policies_setting_form .add_more_rma_policies {
+    padding-bottom: 20px;
+}
+#save_policies_setting_form .add_more_rma_policies:last-child {
+    padding-bottom: 0;
+}
+.add_more_rma_policies select,
+.add_more_rma_policies label, 
+.add_more_rma_policies input,
+.add_more_rma_policies select + span{
+    margin-right: 30px;
+}
+.admin-bar #save_policies_setting_form #wps_rma_add_more,
+.admin-bar #save_policies_setting_form .wps_rma_save_settings{
+    font-size: 14px;
+    padding: 16px 25px;
+    display: inline-block;
+    border-radius: 100px;
+    background: #2196F3;
+    color: #ffffff;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 0.25px;
+    line-height: 16px;
+}
+.admin-bar #save_policies_setting_form input.wps_rma_save_settings {
+    margin-left: 10px;
+}
+.admin-bar #save_policies_setting_form .wps_rma_policy_condition{
+    min-width: 180px;
+}
+.admin-bar #save_policies_setting_form input.rma_policy_delete{
+    background-color: transparent;
+    border: 1px solid;
+    border-color: rgba(0,0,0,.38);
+    border-radius: 3px;
+}
+#save_policies_setting_form .select2-selection--multiple input[type=search]{
+    padding: 0;
+}
+#save_policies_setting_form .select2-container .select2-selection--multiple{
+    min-height: 50px;
+}
+#save_policies_setting_form input.wps_rma_max_number_days, 
+#save_policies_setting_form .wps_rma_tax_handling,
+#save_policies_setting_form .select2.select2-container.select2-container--default {
+    max-width: 180px;
+    min-width: 180px;
+}
+/*Refund tab form css*/
+.wps-wrael-gen-section-form .wps-form-group .wps-form-group__control .wps-form-select .mdl-textfield__label,
+.wps-wrael-gen-section-form .mdc-text-field+.mdc-text-field-helper-line{
+    padding-left: 0;
+    padding-top: 5px;
+}
+/*dashboard-sidebar*/
+#adminmenuwrap .dashicons-before img{
+    width: 26px;
+    height: auto;
+}
+#adminmenuwrap #adminmenu .submenu-font-size-fix{
+    font-size: 11px;
+}
+/*overview*/
+.wps-overview__wrapper .wps-overview__content .wps-overview__keywords .wps-overview__keywords-item .wps-overview__keywords-card {
+    text-align: center;
+}
+.wps-section .wps-overview__wrapper .wps-overview__content .wps-overview__keywords .wps-overview__keywords-item .wps-overview__keywords-card .wps-overview__keywords-text .wps-overview__keywords-heading{
+    font-size: 22px;
+    line-height: 32px;
+}
+.wps-form-group__breaker{
+    font-size: 25px;
+}
+
+.wps_admin_order_msg_history_title .wps_order_heading .reload-icon {
+    width: 30px; 
+}
+
+.thumb img {
+    width:50px;
+}
+
+@media only screen and (max-width: 1140px){
+    .add_more_rma_policies select,
+    .add_more_rma_policies label, 
+    .add_more_rma_policies input{
+        margin-top: 8px;
+    }
+    span.select2.select2-container.select2-container--default {
+        margin-top: 8px;
+    }	
+}
+@media only screen and (max-width: 520px) {
+    .wps-section .wps-overview__wrapper .wps-overview__content .wps-overview__keywords{
+        flex-direction: column;
+    }
+    .wps-section .wps-overview__wrapper .wps-overview__content .wps-overview__keywords .wps-overview__keywords-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+.toplevel_page_wps-plugins div img{
+    width: 20px ! important;
+}

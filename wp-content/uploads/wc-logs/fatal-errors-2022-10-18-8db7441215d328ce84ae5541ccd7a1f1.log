@@ -1,0 +1,6 @@
+2022-10-18T02:17:15+00:00 CRITICAL Uncaught Error: Class 'Aws\Sns\Message' not found in /home/alshia5/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php:18
+Stack trace:
+#0 /home/alshia5/public_html/wp-content/plugins/w3-total-cache/pub/sns.php(58): W3TC\Enterprise_SnsServer->process_message(Array)
+#1 {main}
+  thrown في /home/alshia5/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php في السطر 18
+

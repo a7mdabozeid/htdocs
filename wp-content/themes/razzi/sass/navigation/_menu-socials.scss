@@ -1,0 +1,26 @@
+// Social Menu
+.socials-menu {
+	.menu {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li {
+		display: inline-block;
+		padding: 0 12px;
+		line-height: 1;
+
+		&:first-child {
+			padding-left: 0;
+		}
+
+		&:last-child {
+			padding-right: 0;
+		}
+	}
+
+	span:not(.razzi-svg-icon){
+		display: none;
+	}
+}

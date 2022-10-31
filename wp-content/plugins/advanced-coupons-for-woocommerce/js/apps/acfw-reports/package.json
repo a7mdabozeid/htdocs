@@ -1,0 +1,29 @@
+{
+  "name": "acfw_reports",
+  "version": "1.0.0",
+  "description": "ACFW reports script",
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "lint": "eslint dist"
+  },
+  "author": "Rymera Web",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "css-loader": "^0.28.1",
+    "eslint": "^7.8.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.2",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.5",
+    "uglifyjs-webpack-plugin": "^0.4.3",
+    "webpack": "^2.5.1",
+    "webpack-spritesmith": "^1.0.0"
+  },
+  "dependencies": {
+    "npm": "^6.4.0"
+  }
+}

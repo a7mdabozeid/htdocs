@@ -1,0 +1,15 @@
+.cbxonlineuser-icon {
+  position: relative;
+}
+
+.cbxonlineuser-icon:before {
+  content: ' ';
+  background-image: url('../images/widget_icons/useronline-icon.svg');
+  background-size: contain;
+  width: 26px;
+  height: 26px;
+  display: block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
